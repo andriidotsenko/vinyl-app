@@ -1,0 +1,35 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:import/recommended",
+    "plugin:react/recommended",
+    "plugin:react/jsx-runtime",
+    "plugin:react-hooks/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:vitest/recommended",
+    "plugin:testing-library/react",
+    "plugin:storybook/recommended",
+    "plugin:prettier/recommended" // Make sure this is always the last element in the array.
+  ],
+  "env": {
+    "browser": true,
+    "es2020": true
+  },
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "plugins": ["react-refresh", "eslint-comments"],
+  "rules": {
+    "no-console": ["warn", { "allow": ["warn", "error"] }],
+    "no-debugger": "error",
+    "react-refresh/only-export-components": "warn",
+    "eslint-comments/no-use": ["error", { "allow": ["eslint-disable"] }],
+    "jsx-a11y/click-events-have-key-events": "off"
+  }
+}
