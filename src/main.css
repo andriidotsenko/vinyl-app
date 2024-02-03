@@ -14,12 +14,13 @@
 }
 
 [class*=_icon-]:before {
+  display: block;
   font-family: "icons";
   font-style: normal;
   font-variant: normal;
   font-weight: normal;
   line-height: 1;
-  display: block;
+
   text-transform: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -63,8 +64,9 @@ html{
 }
 
 body {
-  background: #fff;
   height: 100%;
+  background: #fff;
+
   min-width: 320px;
   color: #6C7072;
   line-height: 1;
@@ -395,10 +397,10 @@ h6 {
 }
 
 .button {
-  background: #083644;
   padding: 0.6875rem;
-  color: #fff;
+  background: #083644;
   border-radius: 0.25rem;
+  color: #fff;
   font-size: 1rem;
   width: 21.875rem;
 }
@@ -691,9 +693,7 @@ h6 {
     min-height: 9.4375rem;
   }
 
-  .card__img {
-    min-width: 9.4375rem;
-  }
+
 }
 
 @media (min-width: 0em) and (max-width: 90em) {
