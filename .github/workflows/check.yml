@@ -1,7 +1,6 @@
 name: Check on PR
 
 on:
-  # Runs on pushes targeting the default branch
   pull_request:
     branches: ["main"]
 
@@ -25,6 +24,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "20"
+          check-latest: true
           cache: "npm"
 
       - name: Install dependencies
@@ -48,6 +48,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "20"
+          check-latest: true
           cache: "npm"
 
       - name: Install dependencies
