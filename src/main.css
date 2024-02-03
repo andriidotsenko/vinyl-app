@@ -19,9 +19,8 @@
   font-variant: normal;
   font-weight: normal;
   line-height: 1;
-  text-transform: none;
   display: block;
-
+  text-transform: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -58,11 +57,13 @@
 }
 
 html{
-  height: 100%;
   min-width: 320px;
+
+  height: 100%;
 }
 
 body {
+  background: #fff;
   height: 100%;
   min-width: 320px;
   color: #6C7072;
@@ -112,9 +113,7 @@ h6 {
   font-size: inherit;
 }
 
-body {
-  background: #fff;
-}
+
 
 .lock body {
   overflow: hidden;
@@ -397,8 +396,8 @@ body {
 
 .button {
   background: #083644;
-  color: #fff;
   padding: 0.6875rem;
+  color: #fff;
   border-radius: 0.25rem;
   font-size: 1rem;
   width: 21.875rem;
@@ -593,9 +592,9 @@ body {
   }
       -ms-grid-column: 1;
   .form__artist {
-
-    -ms-grid-row: 1;
     -ms-grid-column-span: 1;
+    -ms-grid-row: 1;
+
   }
   .form__genre {
     -ms-grid-column: 2;
@@ -609,16 +608,17 @@ body {
   }
   .form__country {
     -ms-grid-column: 4;
+    -ms-grid-column-span: 1;
     -ms-grid-row: 1;
 
-    -ms-grid-column-span: 1;
+
   }
       -ms-grid-column: 1;
   .form__action {
-
+    -ms-grid-column-span: 4;
     -ms-grid-row: 2;
 
-    -ms-grid-column-span: 4;
+
   }
 }
 
@@ -647,9 +647,10 @@ body {
   }
   .form__artist {
         -ms-grid-column: 1;
-    -ms-grid-row: 1;
+        -ms-grid-column-span: 1;
+        -ms-grid-row: 1;
 
-    -ms-grid-column-span: 1;
+
   }
   .form__genre {
         -ms-grid-column: 1;
@@ -663,15 +664,17 @@ body {
   }
   .form__country {
         -ms-grid-column: 1;
-    -ms-grid-row: 4;
+        -ms-grid-column-span: 1;
+        -ms-grid-row: 4;
 
-    -ms-grid-column-span: 1;
+
   }
   .form__action {
         -ms-grid-column: 1;
-    -ms-grid-row: 5;
+        -ms-grid-column-span: 1;
+        -ms-grid-row: 5;
 
-    -ms-grid-column-span: 1;
+
   }
 }
 
