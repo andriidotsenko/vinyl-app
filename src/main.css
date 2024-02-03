@@ -70,7 +70,7 @@ body {
   min-width: 320px;
   color: #6C7072;
   line-height: 1;
-  font-family: "Plus Jakarta Sans", Helvetica;
+  font-family: "Plus Jakarta Sans", Helvetica, sans-serif;
   font-size: 0.875rem;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
@@ -82,7 +82,7 @@ body {
 input,
 button,
 textarea {
-  font-family: "Plus Jakarta Sans", Helvetica;
+  font-family: "Plus Jakarta Sans", Helvetica, sans-serif;
   font-size: inherit;
 }
 
@@ -326,7 +326,7 @@ h6 {
 }
 
 .input {
-  font-family: "Plus Jakarta Sans", Helvetica;
+  font-family: "Plus Jakarta Sans", Helvetica, sans-serif;
   display: block;
   padding: 0.5625rem;
   border: 1px solid #EDEEF0;
@@ -378,7 +378,7 @@ h6 {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  font-family: "Plus Jakarta Sans", Helvetica;
+  font-family: "Plus Jakarta Sans", Helvetica, sans-serif;
   display: block;
   padding: 0.6875rem;
   border: 1px solid #EDEEF0;
