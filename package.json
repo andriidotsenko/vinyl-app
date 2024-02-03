@@ -9,8 +9,8 @@
     "format": "prettier --write --ignore-unknown .",
     "lint:scripts": "eslint --report-unused-disable-directives --max-warnings 0 \"**/*.{js,jsx}\"",
     "fix:scripts": "eslint --fix --report-unused-disable-directives --max-warnings 0 \"**/*.{js,jsx}\"",
-    // "lint:styles": "stylelint '**/*.scss'",
-    // "fix:styles": "stylelint --fix '**/*.scss'",
+    "lint:styles": "stylelint '**/*.css'",
+    "fix:styles": "stylelint --fix '**/*.css'",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -33,7 +33,7 @@
     "eslint-plugin-vitest": "^0.2.2",
     "prettier": "^2.8.8",
     "sass": "^1.70.0",
-    "stylelint": "^15.6.2",
+    "stylelint": "^15.11.0",
     "stylelint-config-idiomatic-order": "^9.0.0",
     "stylelint-config-recommended": "^12.0.0",
     "vite": "^4.3.2"
