@@ -15,7 +15,7 @@
 
 [class*=_icon-]:before {
   display: block;
-  font-family: "icons";
+  font-family: "icons", sans-serif;
   font-style: normal;
   font-variant: normal;
   font-weight: normal;
@@ -448,7 +448,7 @@ h6 {
           flex-direction: column;
   padding: 0 0.3125rem;
   word-wrap: break-word;
-  font-family: "Plus Jakarta Sans";
+  font-family: "Plus Jakarta Sans", sans-serif;
   position: relative;
 }
 
@@ -617,8 +617,9 @@ h6 {
 
 
   }
-      -ms-grid-column: 1;
+
   .form__action {
+    -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     -ms-grid-row: 2;
 
