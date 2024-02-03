@@ -5,20 +5,21 @@
 @charset "UTF-8";
 
 @font-face {
-  font-family: icons;
   font-display: swap;
-  src: url("/icons.woff2") format("woff2"), url("/icons.woff") format("woff");
-  font-weight: 400;
+  font-family: icons;
   font-style: normal;
+  font-weight: 400;
+  src: url("/icons.woff2") format("woff2"), url("/icons.woff") format("woff");
 }
 
 [class*=_icon-]:before {
   font-family: "icons";
   font-style: normal;
-  font-weight: normal;
   font-variant: normal;
-  text-transform: none;
+  font-weight: normal;
   line-height: 1;
+  text-transform: none;
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -201,17 +202,20 @@ body {
 
 .header__back-button {
   color: #fff;
-  line-height: 1;
-  font-size: 1.5rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  font-size: 1.5rem;
+  line-height: 1;
+
+
   -webkit-box-align: center;
+  align-items: center;
       -ms-flex-align: center;
-          align-items: center;
+      justify-content: flex-start;
+
   -webkit-box-pack: start;
       -ms-flex-pack: start;
-          justify-content: flex-start;
   padding-left: 1.875rem;
   position: relative;
 }
