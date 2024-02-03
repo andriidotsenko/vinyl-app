@@ -20,15 +20,13 @@
   font-weight: normal;
   line-height: 1;
   text-transform: none;
+  display: block;
 
-  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-[class*=_icon-]:before {
-  display: block;
-}
+
 
 ._icon-arrow:before {
   content: "\e900";
@@ -59,13 +57,14 @@
           box-sizing: border-box;
 }
 
-html,
-body {
+html{
   height: 100%;
   min-width: 320px;
 }
 
 body {
+  height: 100%;
+  min-width: 320px;
   color: #6C7072;
   line-height: 1;
   font-family: "Plus Jakarta Sans", Helvetica;
@@ -399,7 +398,6 @@ body {
 .button {
   background: #083644;
   color: #fff;
-  width: 100%;
   padding: 0.6875rem;
   border-radius: 0.25rem;
   font-size: 1rem;
@@ -585,34 +583,41 @@ body {
     -ms-grid-columns: 1fr 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     -ms-grid-rows: 1fr 1fr;
+    grid-template-areas: "A B C D" "E E E E";
     grid-template-rows: 1fr 1fr;
-        grid-template-areas: "A B C D" "E E E E";
+
   }
 
   .button {
     width: 21.875rem;
   }
+      -ms-grid-column: 1;
   .form__artist {
+
     -ms-grid-row: 1;
-    -ms-grid-column: 1;
     -ms-grid-column-span: 1;
   }
   .form__genre {
-    -ms-grid-row: 1;
     -ms-grid-column: 2;
+    -ms-grid-row: 1;
+
   }
   .form__decade {
-    -ms-grid-row: 1;
     -ms-grid-column: 3;
+
+    -ms-grid-row: 1;
   }
   .form__country {
-    -ms-grid-row: 1;
     -ms-grid-column: 4;
+    -ms-grid-row: 1;
+
     -ms-grid-column-span: 1;
   }
+      -ms-grid-column: 1;
   .form__action {
+
     -ms-grid-row: 2;
-    -ms-grid-column: 1;
+
     -ms-grid-column-span: 4;
   }
 }
@@ -630,9 +635,6 @@ body {
     min-height: 16.25rem;
   }
 
-  .card__img {
-    min-width: 16.25rem;
-  }
 }
 
 @media (max-width: 340px) {
@@ -644,26 +646,31 @@ body {
         grid-template-areas: "A" "B" "C" "D" "E";
   }
   .form__artist {
+        -ms-grid-column: 1;
     -ms-grid-row: 1;
-    -ms-grid-column: 1;
+
     -ms-grid-column-span: 1;
   }
   .form__genre {
+        -ms-grid-column: 1;
     -ms-grid-row: 2;
-    -ms-grid-column: 1;
+
   }
   .form__decade {
+        -ms-grid-column: 1;
     -ms-grid-row: 3;
-    -ms-grid-column: 1;
+
   }
   .form__country {
+        -ms-grid-column: 1;
     -ms-grid-row: 4;
-    -ms-grid-column: 1;
+
     -ms-grid-column-span: 1;
   }
   .form__action {
+        -ms-grid-column: 1;
     -ms-grid-row: 5;
-    -ms-grid-column: 1;
+
     -ms-grid-column-span: 1;
   }
 }
