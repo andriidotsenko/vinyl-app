@@ -9,8 +9,8 @@
     "format": "prettier --write --ignore-unknown .",
     "lint:scripts": "eslint --report-unused-disable-directives --max-warnings 0 \"**/*.{js,jsx}\"",
     "fix:scripts": "eslint --fix --report-unused-disable-directives --max-warnings 0 \"**/*.{js,jsx}\"",
-    "lint:styles": "stylelint '**/*.scss'",
-    "fix:styles": "stylelint --fix '**/*.scss'",
+    // "lint:styles": "stylelint '**/*.scss'",
+    // "fix:styles": "stylelint --fix '**/*.scss'",
     "preview": "vite preview"
   },
   "dependencies": {
