@@ -4,7 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:400,500&display=swap);
 
 
-
+/*
 @font-face {
   font-display: swap;
   font-family: icons;
@@ -24,24 +24,56 @@
   line-height: 1;
 
   text-transform: none;
-}
+} */
 
 
 
 ._icon-arrow:before {
-  content: "\e900";
+  width: 0.575rem;
+  height: 1rem;
+  background-image: url('../src/assets/arrow.svg');
+  background-size: cover;
+  content: "";
+}
+._icon-heart-header:before {
+  width: 1.12rem;
+  height: 1rem;
+  background-image: url('../src/assets/heart-header.svg');
+  background-size: cover;
+  content: "";
+}
+
+._icon-back:before {
+  width: 0.575rem;
+  height: 1rem;
+  background-image: url('../src/assets/back.svg');
+  background-size: cover;
+  content: "";
+
 }
 
 ._icon-folder:before {
-  content: "\e901";
+  width: 1.12rem;
+  height: 1rem;
+  background-image: url('../src/assets/folder.svg');
+  background-size: cover;
+  content: "";
 }
 
-._icon-heart:before {
-  content: "\e902";
+._icon-heart::before {
+  width: 1.12rem;
+  height: 1rem;
+  background-image: url('../src/assets/heart.svg');
+  background-size: cover;
+  content: "";
 }
 
 ._icon-plus:before {
-  content: "\e903";
+  width: 1.11rem;
+  height: 1rem;
+  background-image: url('../src/assets/plus.svg');
+  background-size: cover;
+  content: "";
 }
 
 * {
@@ -235,13 +267,12 @@ h6 {
 
 .header__back-button::before {
   position: absolute;
-  top: 0;
-  left: 1.6875rem;
-  font-size: 1.125rem;
-  line-height: 1.4;
-  -webkit-transform: translateX(-14px);
-      -ms-transform: translateX(-14px);
-          transform: translateX(-14px);
+  top: 50%;
+  left: 0.75rem;
+
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0 ,-50%);
 }
 
 .header__actions {
@@ -254,6 +285,7 @@ h6 {
 }
 
 .actions-header__action {
+  position: relative;
   padding: 0 3px;
 }
 
@@ -268,7 +300,15 @@ h6 {
   color: #dfc2eb;
 }
 
+.actions-header__action:before{
+  position: absolute;
+  top: 0;
+  left: 0;
 
+  /* -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0 ,0%); */
+}
 
 .main__container {
   margin-top: 5.5rem;
@@ -594,12 +634,13 @@ h6 {
   .button {
     width: 21.875rem;
   }
-      -ms-grid-column: 1;
+
   .form__artist {
+    -ms-grid-column: 1;
     -ms-grid-column-span: 1;
     -ms-grid-row: 1;
 
-    
+
   }
   .form__genre {
     -ms-grid-column: 2;
