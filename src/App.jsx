@@ -4,7 +4,7 @@ export const App = () => {
       <div className="wrapper">
         <header className="header">
           <div className="header__container">
-            <a className="header__back-button _icon-back" href="https://my.prjctr.com/">
+            <a className="header__back-button _icon-back" href="my.prjctr.com">
               Back
             </a>
             <div className="header__actions actions-header">
