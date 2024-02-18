@@ -284,13 +284,13 @@ export function App() {
 
   function handleClickInCollection(event, card) {
     card.inCollection
-      ? console.error("Not implemented: In collection: id: " + card.id + " " + card.artist + " - " + card.title)
-      : console.error("Not implemented: Add: id: " + card.id + ", " + card.artist + " - " + card.title);
+      ? console.error("Not implemented: In collection: id: " + card.id)
+      : console.error("Not implemented: Add: id: " + card.id);
   }
   function handleClickInFavorites(event, card) {
     card.inFavorites
-      ? console.error("Not implemented: In favorites: id: " + card.id + ", " + card.artist + " - " + card.title)
-      : console.error("Not implemented: Add to favorites: id: " + card.id + ", " + card.artist + " - " + card.title);
+      ? console.error("Not implemented: In favorites: id: " + card.id)
+      : console.error("Not implemented: Add to favorites: id: " + card.id);
   }
 
   function handleChangeArtist(event) {
