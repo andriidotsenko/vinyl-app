@@ -47,6 +47,17 @@ export function App() {
     },
   ];
 
+  const decadeList = [
+    { id: 1, value: "50-60", label: "1950-60 pp." },
+    { id: 2, value: "60-70", label: "1960-70 pp." },
+    { id: 3, value: "70-80", label: "1970-80 pp." },
+    { id: 4, value: "80-90", label: "1980-90 pp." },
+    { id: 5, value: "90-00", label: "1990-00 pp." },
+    { id: 6, value: "00-10", label: "2000-10 pp." },
+    { id: 7, value: "10-20", label: "2010-20 pp." },
+    { id: 8, value: "20-30", label: "2020-30 pp." },
+  ];
+
   const collectionList = [1, 2, 3, 4, 5, 6, 15];
   const favoriteList = [1, 3, 6, 12, 18];
 
@@ -273,13 +284,13 @@ export function App() {
 
   function handleClickInCollection(event, card) {
     card.inCollection
-      ? console.error("Not implemented: In collection: " + card.id)
-      : console.error("Not implemented: Add: " + card.title);
+      ? console.error("Not implemented: In collection: id: " + card.id + " " + card.artist + " - " + card.title)
+      : console.error("Not implemented: Add: id: " + card.id + ", " + card.artist + " - " + card.title);
   }
   function handleClickInFavorites(event, card) {
     card.inFavorites
-      ? console.error("Not implemented: In favorites: " + card.id)
-      : console.error("Not implemented: Add to favorites: " + card.id);
+      ? console.error("Not implemented: In favorites: id: " + card.id + ", " + card.artist + " - " + card.title)
+      : console.error("Not implemented: Add to favorites: id: " + card.id + ", " + card.artist + " - " + card.title);
   }
 
   function handleChangeArtist(event) {
@@ -308,6 +319,14 @@ export function App() {
     console.error(filterValues);
   }
 
+  const renderOptionDecade = (option) => {
+    return (
+      <option key={option.id} value={option.value}>
+        {option.label}
+      </option>
+    );
+  };
+
   const renderOption = (option) => {
     return (
       <option key={option.id} value={option.id}>
@@ -315,7 +334,6 @@ export function App() {
       </option>
     );
   };
-
   const renderCard = (card) => {
     const genreData = genreList.find((genre) => genre.id === card.genreId);
     card.inCollection = collectionList.includes(card.id);
@@ -487,14 +505,7 @@ export function App() {
                   <option value="0" disabled>
                     Decade
                   </option>
-                  <option value="50-60">1950-60 pp.</option>
-                  <option value="60-70">1960-70 pp.</option>
-                  <option value="70-80">1970-80 pp.</option>
-                  <option value="80-90">1980-90 pp.</option>
-                  <option value="90-00">1990-00 pp.</option>
-                  <option value="00-10">2000-10 pp.</option>
-                  <option value="10-20">2010-20 pp.</option>
-                  <option value="20-30">2020-30 pp.</option>
+                  {decadeList.map((element) => renderOptionDecade(element))};
                 </select>
               </label>
               <label className={clsx("filter__block", "filter__block_country")}>
