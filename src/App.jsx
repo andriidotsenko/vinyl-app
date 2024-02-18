@@ -411,7 +411,8 @@ export function App() {
   };
 
   const filteredList = cardList.filter((item) => {
-    return item.title.startsWith("");
+    return item.title.toLowerCase().indexOf("t") !== -1;
+
   });
 
   return (
