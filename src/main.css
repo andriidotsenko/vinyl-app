@@ -12,20 +12,20 @@
 }
 
 * {
+  box-sizing: border-box;
   padding: 0;
+  border: none;
   margin: 0;
   box-shadow: none;
   outline: none;
-  border: none;
-  box-sizing: border-box;
   text-decoration: none;
 }
 
 .container {
-  max-width: 1366px;
   width: 100%;
-  margin: 0 auto;
+  max-width: 1366px;
   padding: 0 20px;
+  margin: 0 auto;
 }
 
 .header {
@@ -45,13 +45,13 @@
 }
 
 .header__icon {
+  display: flex;
   width: 24px;
   height: 24px;
-  display: flex;
-  justify-content: center;
   align-items: center;
-  background-repeat: no-repeat;
+  justify-content: center;
   background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .header__back .header__icon {
@@ -74,12 +74,12 @@
 }
 
 .header__back {
+  display: flex;
+  align-items: center;
+  color: var(--white);
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-size: 18px;
   line-height: 27px;
-  color: var(--white);
-  display: flex;
-  align-items: center;
 }
 
 .main {
@@ -92,9 +92,9 @@
 
 .filter__form {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 12px;
-  flex-wrap: wrap;
 }
 
 .filter__form > * {
@@ -108,15 +108,15 @@
 .filter__block select,
 .filter__block input,
 .filter__block .choices__inner {
+  width: 100%;
+  padding: 10px 13px !important;
+  border: 1px solid var(--grey-border);
+  border-radius: 4px;
+  background-color: transparent;
+  color: var(--grey);
   font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 20px;
-  color: var(--grey);
-  border-radius: 4px;
-  border: 1px solid var(--grey-border);
-  padding: 10px 13px !important;
-  background-color: transparent;
-  width: 100%;
 }
 
 .filter__block input:focus {
@@ -132,14 +132,14 @@
 
 .filter__block .error-block {
   position: absolute;
-  left: 0;
   bottom: 0;
-  transform: translateY(100%);
+  left: 0;
+  display: none;
+  color: var(--error);
   font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
   font-size: 12px;
   line-height: 14px;
-  color: var(--error);
-  display: none;
+  transform: translateY(100%);
 }
 
 .filter__block.error .error-block {
@@ -147,31 +147,31 @@
 }
 
 .list-items {
-  margin-bottom: 20px;
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 20px;
   gap: 24px;
 }
 
 .pagination {
-  text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 2px;
+  text-align: center;
 }
 
 .pagination__item {
-  font-family: Poppins, Arial, Helvetica, sans-serif;
-  font-weight: 500;
-  font-size: 14px;
-  color: var(--grey-light);
+  display: inline-block;
   width: 40px;
   height: 40px;
+  border-radius: 4px;
+  color: var(--grey-light);
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
   line-height: 40px;
   text-align: center;
-  display: inline-block;
-  border-radius: 4px;
 }
 
 .pagination__item.active {
@@ -190,9 +190,9 @@
 
 .item-block__image {
   position: relative;
-  margin-bottom: 8px;
   overflow: hidden;
   border-radius: 8px;
+  margin-bottom: 8px;
 }
 
 .item-block__image picture,
@@ -204,13 +204,13 @@
   position: absolute;
   top: 10px;
   left: 10px;
+  display: flex;
   width: 24px;
   height: 24px;
-  background-color: var(--white);
-  border-radius: 4px;
-  display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 4px;
+  background-color: var(--white);
   cursor: pointer;
 }
 
@@ -225,21 +225,21 @@
 }
 
 .item-block__name {
-  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 18px;
-  color: var(--dark-blue);
   margin-bottom: 3px;
+  color: var(--dark-blue);
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18px;
 }
 
 .item-block__group {
-  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 18px;
-  color: var(--dark-blue);
   margin-bottom: 7px;
+  color: var(--dark-blue);
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
 }
 
 .item-block__info {
@@ -247,10 +247,10 @@
 }
 
 .item-block__info p {
+  color: var(--grey-light);
   font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
-  color: var(--grey-light);
 }
 
 .item-block__info p:not(:last-child) {
@@ -276,14 +276,14 @@
 }
 
 .btn {
-  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
-  font-weight: 500;
-  font-size: 16px;
   height: 44px;
-  line-height: 44px;
   border-radius: 4px;
   color: var(--white);
   cursor: pointer;
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 44px;
   transition: opacity 0.3s;
 }
 
@@ -301,15 +301,15 @@
 
 .btn-add span::before,
 .btn-collection span::before {
-  content: "";
-  display: block;
-  height: 20px;
-  width: 20px;
   position: absolute;
-  right: 0;
   top: 0;
-  background-repeat: no-repeat;
+  right: 0;
+  display: block;
+  width: 20px;
+  height: 20px;
   background-position: center center;
+  background-repeat: no-repeat;
+  content: "";
 }
 
 .btn-add span::before {
@@ -340,20 +340,20 @@
 }
 
 .choices__list--dropdown .choices__item {
+  color: var(--grey);
   font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 20px;
-  color: var(--grey);
   white-space: nowrap;
 }
 
 .choices[data-type*="select-one"]::after {
-  border: none !important;
   width: 24px !important;
   height: 24px !important;
-  background-repeat: no-repeat;
-  background-position: center 10px;
+  border: none !important;
   background-image: url("./../images/icons/ic-arrow-down.svg");
+  background-position: center 10px;
+  background-repeat: no-repeat;
   transform: translateY(-50%);
 }
 
