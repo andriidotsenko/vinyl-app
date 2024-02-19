@@ -8,13 +8,13 @@ import {
 } from "./data.jsx";
 
 export function App() {
-  const genreList = genreListData;
-  const countriesList = countriesListData;
-  const decadeList = decadeListData;
-  const cardList = cardListData;
+  const genreList = [...genreListData];
+  const countriesList = [...countriesListData];
+  const decadeList = [...decadeListData];
+  const cardList = [...cardListData];
 
-  const collectionList = [1, 2, 3, 4, 5, 6, 15];
-  const favoriteList = [1, 3, 6, 12, 18];
+  const collectionList = [1, 2, 3];
+  const favoriteList = [1, 2, 3];
 
   const filterValues = {};
 
