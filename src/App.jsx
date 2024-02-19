@@ -158,24 +158,19 @@ export function App() {
 
   const renderPaginationLinks = () => (
     <>
-      {
-      Array.from({ length: totalPages }).map((_, i) => (
+      {Array.from({ length: totalPages }).map((_, i) => (
         <a
-            key={i+1}
-            href={`./index.html?page=${i+1}`}
-            className={clsx("pagination__item", {
-              active: i+1 === currentPage,
-            })}
-          >
-            {i+1}
-          </a>
-      ))
-      }
+          key={i + 1}
+          href={`./index.html?page=${i + 1}`}
+          className={clsx("pagination__item", {
+            active: i + 1 === currentPage,
+          })}
+        >
+          {i + 1}
+        </a>
+      ))}
     </>
-  )
-
-
-
+  );
 
   return (
     <>
