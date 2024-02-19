@@ -283,12 +283,12 @@ export function App() {
   const filterValues = {};
 
   function handleClickInCollection(event, card) {
-    card.inCollection
+    collectionList.includes(card.id)
       ? console.error("Not implemented: In collection: id: " + card.id)
       : console.error("Not implemented: Add: id: " + card.id);
   }
   function handleClickInFavorites(event, card) {
-    card.inFavorites
+    favoriteList.includes(card.id)
       ? console.error("Not implemented: In favorites: id: " + card.id)
       : console.error("Not implemented: Add to favorites: id: " + card.id);
   }
@@ -336,8 +336,8 @@ export function App() {
   };
   const renderCard = (card) => {
     const genreData = genreList.find((genre) => genre.id === card.genreId);
-    card.inCollection = collectionList.includes(card.id);
-    card.inFavorites = favoriteList.includes(card.id);
+    const inCollection = collectionList.includes(card.id);
+    const inFavorites = favoriteList.includes(card.id);
     return (
       <div key={card.id} className="item-block">
         <div className="item-block__image">
@@ -353,7 +353,7 @@ export function App() {
             onClick={(event) => handleClickInFavorites(event, card)}
             aria-hidden="true"
           >
-            {card.inFavorites ? (
+            {inFavorites ? (
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -400,18 +400,18 @@ export function App() {
         <button
           className={clsx(
             "btn",
-            `${card.inCollection ? "btn-collection" : "btn-add"}`
+            inCollection ? "btn-collection" : "btn-add"
           )}
           onClick={(event) => handleClickInCollection(event, card)}
         >
-          <span>{card.inCollection ? "In collection" : "Add"}</span>
+          <span>{inCollection ? "In collection" : "Add"}</span>
         </button>
       </div>
     );
   };
 
   const filteredList = cardList.filter((item) => {
-    return item.title.toLowerCase().indexOf("t") !== -1;
+    return item.title.toLowerCase().indexOf("") !== -1;
   });
 
   return (
