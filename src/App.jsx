@@ -4,8 +4,6 @@ import {
   genreListData,
   countriesListData,
   decadeListData,
-  collectionListData,
-  favoriteListData,
   cardListData,
 } from "./data.jsx";
 
@@ -13,9 +11,11 @@ export function App() {
   const genreList = genreListData;
   const countriesList = countriesListData;
   const decadeList = decadeListData;
-  const collectionList = collectionListData;
-  const favoriteList = favoriteListData;
   const cardList = cardListData;
+
+  const collectionList = [1, 2, 3, 4, 5, 6, 15];
+  const favoriteList = [1, 3, 6, 12, 18];
+
   const filterValues = {};
 
   function handleClickInCollection(event, card) {
@@ -148,42 +148,34 @@ export function App() {
   });
 
   let currentPage = 1;
-  let pageSize = 4;
-
-  const calculatePageSize = () => {
-    const screenWidth = window.innerWidth;
-    if (screenWidth < 400) {
-      pageSize = 8;
-    } else {
-      pageSize = 4;
-    }
-  };
-
-  window.addEventListener("resize", calculatePageSize);
-  calculatePageSize();
+  const screenWidth = window.innerWidth;
+  const pageSize = screenWidth < 800 ? 6 : 20;
 
   const totalPages = Math.ceil(filteredList.length / pageSize);
   const startIndex = (currentPage - 1) * pageSize;
   const endIndex = Math.min(startIndex + pageSize - 1, filteredList.length - 1);
   const currentPageItems = filteredList.slice(startIndex, endIndex + 1);
 
-  const renderPaginationLinks = () => {
-    const pages = [];
-    for (let i = 1; i <= totalPages; i++) {
-      pages.push(
+  const renderPaginationLinks = () => (
+    <>
+      {
+      Array.from({ length: totalPages }).map((_, i) => (
         <a
-          key={i}
-          href={`./index.html?page=${i}`}
-          className={clsx("pagination__item", {
-            active: i === currentPage,
-          })}
-        >
-          {i}
-        </a>
-      );
-    }
-    return pages;
-  };
+            key={i+1}
+            href={`./index.html?page=${i+1}`}
+            className={clsx("pagination__item", {
+              active: i+1 === currentPage,
+            })}
+          >
+            {i+1}
+          </a>
+      ))
+      }
+    </>
+  )
+
+
+
 
   return (
     <>

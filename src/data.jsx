@@ -55,10 +55,6 @@ export const decadeListData = [
   { id: 8, value: "20-30", label: "2020-30 pp." },
 ];
 
-export const collectionListData = [1, 2, 3, 4, 5, 6, 15];
-
-export const favoriteListData = [1, 3, 6, 12, 18];
-
 export const cardListData = [
   {
     id: 1,
