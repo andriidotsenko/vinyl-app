@@ -398,10 +398,7 @@ export function App() {
           </p>
         </div>
         <button
-          className={clsx(
-            "btn",
-            inCollection ? "btn-collection" : "btn-add"
-          )}
+          className={clsx("btn", inCollection ? "btn-collection" : "btn-add")}
           onClick={(event) => handleClickInCollection(event, card)}
         >
           <span>{inCollection ? "In collection" : "Add"}</span>
