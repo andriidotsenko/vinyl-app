@@ -70,6 +70,7 @@ export function App() {
       </option>
     );
   };
+  
   const renderCard = (card) => {
     const genreData = genreList.find((genre) => genre.id === card.genreId);
     const inCollection = collectionList.includes(card.id);
