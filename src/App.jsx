@@ -143,6 +143,34 @@ export function App() {
     );
   };
 
+  const renderGenre = (genre) => {
+    return (
+      <div
+        key={genre.id}
+        value={genre.id}
+        className="item-genre"
+        style={{ backgroundColor: genre.backgroundColor }}
+      >
+        <div className="genre-title">{genre.name}</div>
+        <img
+          src={genre.image1}
+          alt={genre.name + "Image1"}
+          className="genre-image-1"
+        />
+        <img
+          src={genre.image2}
+          alt={genre.name + "Image2"}
+          className="genre-image-2"
+        />
+        <img
+          src={genre.image3}
+          alt={genre.name + "Image3"}
+          className="genre-image-3"
+        />
+      </div>
+    );
+  };
+
   const filteredList = cardList.filter((item) => {
     return item.title.toLowerCase().indexOf("") !== -1;
   });
@@ -284,6 +312,16 @@ export function App() {
               </button>
             </form>
           </div>
+
+          <div className="genre-list" id="genreItems">
+            {genreList.length === 0 ? (
+              <p className="item-block__name">Not found</p>
+            ) : (
+              genreList.map(renderGenre)
+            )}
+          </div>
+          <br />
+
           <div className="list-items" id="listItems">
             {filteredList.length === 0 ? (
               <p className="item-block__name">Not found</p>
@@ -291,6 +329,7 @@ export function App() {
               currentPageItems.map(renderCard)
             )}
           </div>
+
           <div className="pagination" id="pagination">
             {renderPaginationLinks()}
           </div>

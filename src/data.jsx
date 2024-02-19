@@ -1,23 +1,65 @@
+// Function to generate a random hex color
+const randomHexColor = () => {
+  return "#" + Math.floor(Math.random() * 16777215).toString(16);
+};
+
+// Original genre list data with images
 export const genreListData = [
   {
     id: 1,
     name: "Rock",
+    backgroundColor: "#505050",
+    image1: "/genrebg/rock1.jpg",
+    image2: "/genrebg/rock2.jpg",
+    image3: "/genrebg/rock3.jpg",
   },
   {
     id: 2,
     name: "Pop",
+    backgroundColor: randomHexColor(),
+    image1: "/genrebg/pop1.jpg",
+    image2: "/genrebg/pop2.jpg",
+    image3: "/genrebg/pop3.jpg",
   },
   {
     id: 3,
     name: "Electronic",
+    backgroundColor: randomHexColor(),
+    image1: "/genrebg/electronic1.jpg",
+    image2: "/genrebg/electronic2.jpg",
+    image3: "/genrebg/electronic3.jpg",
   },
   {
     id: 4,
     name: "Country",
+    backgroundColor: randomHexColor(),
+    image1: "/genrebg/country1.jpg",
+    image2: "/genrebg/country2.jpg",
+    image3: "/genrebg/country3.jpg",
   },
   {
     id: 5,
     name: "Jazz",
+    backgroundColor: randomHexColor(),
+    image1: "/genrebg/jazz1.jpg",
+    image2: "/genrebg/jazz2.jpg",
+    image3: "/genrebg/jazz3.jpg",
+  },
+  {
+    id: 6,
+    name: "Classical",
+    backgroundColor: randomHexColor(),
+    image1: "/genrebg/classical1.jpg",
+    image2: "/genrebg/classical2.jpg",
+    image3: "/genrebg/classical3.jpg",
+  },
+  {
+    id: 7,
+    name: "Hip-Hop",
+    backgroundColor: randomHexColor(),
+    image1: "/genrebg/hiphop1.jpg",
+    image2: "/genrebg/hiphop2.jpg",
+    image3: "/genrebg/hiphop3.jpg",
   },
 ];
 
@@ -59,8 +101,8 @@ export const cardListData = [
   {
     id: 1,
     image: {
-      normal: "./content/rhcp-californication.jpg",
-      double: "./content/rhcp-californication.jpg",
+      normal: "/content/rhcp-californication.jpg",
+      double: "/content/rhcp-californication.jpg",
     },
     title: "Californication",
     artist: "Red Hot Chili Peppers",
@@ -71,8 +113,8 @@ export const cardListData = [
   {
     id: 2,
     image: {
-      normal: "./content/rhcp-stadium-arcadium.jpg",
-      double: "./content/rhcp-stadium-arcadium.jpg",
+      normal: "/content/rhcp-stadium-arcadium.jpg",
+      double: "/content/rhcp-stadium-arcadium.jpg",
     },
     title: "Stadium Arcadium",
     artist: "Red Hot Chili Peppers",
@@ -83,8 +125,8 @@ export const cardListData = [
   {
     id: 3,
     image: {
-      normal: "./content/mgmt-oracular-spectacular.jpg",
-      double: "./content/mgmt-oracular-spectacular.jpg",
+      normal: "/content/mgmt-oracular-spectacular.jpg",
+      double: "/content/mgmt-oracular-spectacular.jpg",
     },
     title: "Oracular Spectacular",
     artist: "MGMT",
@@ -95,8 +137,8 @@ export const cardListData = [
   {
     id: 4,
     image: {
-      normal: "./content/ffdp-the-wrong-side-of-heaven.jpg",
-      double: "./content/ffdp-the-wrong-side-of-heaven.jpg",
+      normal: "/content/ffdp-the-wrong-side-of-heaven.jpg",
+      double: "/content/ffdp-the-wrong-side-of-heaven.jpg",
     },
     title: "The Wrong Side of Heaven",
     artist: "Five Finger Death Punch",
@@ -107,8 +149,8 @@ export const cardListData = [
   {
     id: 5,
     image: {
-      normal: "./content/gorillaz-demon-days.jpg",
-      double: "./content/gorillaz-demon-days.jpg",
+      normal: "/content/gorillaz-demon-days.jpg",
+      double: "/content/gorillaz-demon-days.jpg",
     },
     title: "Demon Days",
     artist: "Gorillaz",
@@ -119,8 +161,8 @@ export const cardListData = [
   {
     id: 6,
     image: {
-      normal: "./content/muse-origin-of-symmetry.jpg",
-      double: "./content/muse-origin-of-symmetry.jpg",
+      normal: "/content/muse-origin-of-symmetry.jpg",
+      double: "/content/muse-origin-of-symmetry.jpg",
     },
     title: "Origin of Symmetry",
     artist: "Muse",
@@ -131,8 +173,8 @@ export const cardListData = [
   {
     id: 7,
     image: {
-      normal: "./content/ffdp-and-justice-for-none.png",
-      double: "./content/ffdp-and-justice-for-none.png",
+      normal: "/content/ffdp-and-justice-for-none.png",
+      double: "/content/ffdp-and-justice-for-none.png",
     },
     title: "And Justice for None",
     artist: "Five Finger Death Punch",
@@ -143,8 +185,8 @@ export const cardListData = [
   {
     id: 8,
     image: {
-      normal: "./content/portugal-the-man-woodstock.jpg",
-      double: "./content/portugal-the-man-woodstock.jpg",
+      normal: "/content/portugal-the-man-woodstock.jpg",
+      double: "/content/portugal-the-man-woodstock.jpg",
     },
     title: "Woodstock",
     artist: "Portugal. The Man",
@@ -155,8 +197,8 @@ export const cardListData = [
   {
     id: 9,
     image: {
-      normal: "./content/muse-the-resistance.jpg",
-      double: "./content/muse-the-resistance.jpg",
+      normal: "/content/muse-the-resistance.jpg",
+      double: "/content/muse-the-resistance.jpg",
     },
     title: "The Resistance",
     artist: "Muse",
@@ -167,8 +209,8 @@ export const cardListData = [
   {
     id: 10,
     image: {
-      normal: "./content/mgmt-little-dark-age.jpg",
-      double: "./content/mgmt-little-dark-age.jpg",
+      normal: "/content/mgmt-little-dark-age.jpg",
+      double: "/content/mgmt-little-dark-age.jpg",
     },
     title: "Little Dark Age",
     artist: "MGMT",
@@ -179,8 +221,8 @@ export const cardListData = [
   {
     id: 11,
     image: {
-      normal: "./content/ghost-prequelle.jpg",
-      double: "./content/ghost-prequelle.jpg",
+      normal: "/content/ghost-prequelle.jpg",
+      double: "/content/ghost-prequelle.jpg",
     },
     title: "Prequelle",
     artist: "Ghost",
@@ -191,8 +233,8 @@ export const cardListData = [
   {
     id: 12,
     image: {
-      normal: "./content/metronomy-the-english-riviera.jpg",
-      double: "./content/metronomy-the-english-riviera.jpg",
+      normal: "/content/metronomy-the-english-riviera.jpg",
+      double: "/content/metronomy-the-english-riviera.jpg",
     },
     title: "The English Riviera",
     artist: "Metronomy",
@@ -203,8 +245,8 @@ export const cardListData = [
   {
     id: 13,
     image: {
-      normal: "./content/placebo-without-you-im-nothing.jpg",
-      double: "./content/placebo-without-you-im-nothing.jpg",
+      normal: "/content/placebo-without-you-im-nothing.jpg",
+      double: "/content/placebo-without-you-im-nothing.jpg",
     },
     title: "Without You I'm Nothing",
     artist: "Placebo",
@@ -215,8 +257,8 @@ export const cardListData = [
   {
     id: 14,
     image: {
-      normal: "./content/radiohead-ok-computer.jpg",
-      double: "./content/radiohead-ok-computer.jpg",
+      normal: "/content/radiohead-ok-computer.jpg",
+      double: "/content/radiohead-ok-computer.jpg",
     },
     title: "OK Computer",
     artist: "Radiohead",
@@ -227,8 +269,8 @@ export const cardListData = [
   {
     id: 15,
     image: {
-      normal: "./content/alt-j-an-awesome-wave.jpg",
-      double: "./content/alt-j-an-awesome-wave.jpg",
+      normal: "/content/alt-j-an-awesome-wave.jpg",
+      double: "/content/alt-j-an-awesome-wave.jpg",
     },
     title: "An Awesome Wave",
     artist: "alt-J",
@@ -239,8 +281,8 @@ export const cardListData = [
   {
     id: 16,
     image: {
-      normal: "./content/electric-guest-plural.jpg",
-      double: "./content/electric-guest-plural.jpg",
+      normal: "/content/electric-guest-plural.jpg",
+      double: "/content/electric-guest-plural.jpg",
     },
     title: "Plural",
     artist: "Electric Guest",
@@ -251,8 +293,8 @@ export const cardListData = [
   {
     id: 17,
     image: {
-      normal: "./content/blink-182-enema-of-the-state.jpg",
-      double: "./content/blink-182-enema-of-the-state.jpg",
+      normal: "/content/blink-182-enema-of-the-state.jpg",
+      double: "/content/blink-182-enema-of-the-state.jpg",
     },
     title: "Enema of the State",
     artist: "blink-182",
@@ -263,8 +305,8 @@ export const cardListData = [
   {
     id: 18,
     image: {
-      normal: "./content/interpol-turn-on-the-bright-lights.jpg",
-      double: "./content/interpol-turn-on-the-bright-lights.jpg",
+      normal: "/content/interpol-turn-on-the-bright-lights.jpg",
+      double: "/content/interpol-turn-on-the-bright-lights.jpg",
     },
     title: "Turn On the Bright Lights",
     artist: "Interpol",
