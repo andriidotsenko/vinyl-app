@@ -1,4 +1,5 @@
 import { clsx } from "clsx";
+
 import {
   genreListData,
   countriesListData,
@@ -146,6 +147,44 @@ export function App() {
     return item.title.toLowerCase().indexOf("") !== -1;
   });
 
+  let currentPage = 1;
+  let pageSize = 4;
+
+  const calculatePageSize = () => {
+    const screenWidth = window.innerWidth;
+    if (screenWidth < 400) {
+      pageSize = 8;
+    } else {
+      pageSize = 4;
+    }
+  };
+
+  window.addEventListener("resize", calculatePageSize);
+  calculatePageSize();
+
+  const totalPages = Math.ceil(filteredList.length / pageSize);
+  const startIndex = (currentPage - 1) * pageSize;
+  const endIndex = Math.min(startIndex + pageSize - 1, filteredList.length - 1);
+  const currentPageItems = filteredList.slice(startIndex, endIndex + 1);
+
+  const renderPaginationLinks = () => {
+    const pages = [];
+    for (let i = 1; i <= totalPages; i++) {
+      pages.push(
+        <a
+          key={i}
+          href={`./index.html?page=${i}`}
+          className={clsx("pagination__item", {
+            active: i === currentPage,
+          })}
+        >
+          {i}
+        </a>
+      );
+    }
+    return pages;
+  };
+
   return (
     <>
       <header className="header">
@@ -262,31 +301,11 @@ export function App() {
             {filteredList.length === 0 ? (
               <p className="item-block__name">Not found</p>
             ) : (
-              filteredList.map(renderCard)
+              currentPageItems.map(renderCard)
             )}
           </div>
           <div className="pagination" id="pagination">
-            <a
-              href="./index.html?page=1"
-              className={clsx("pagination__item", "active")}
-            >
-              1
-            </a>
-            <a href="./index.html?page=2" className="pagination__item">
-              2
-            </a>
-            <a href="./index.html?page=3" className="pagination__item">
-              3
-            </a>
-            <a href="./index.html?page=4" className="pagination__item">
-              4
-            </a>{" "}
-            <a href="./index.html?page=5" className="pagination__item">
-              5
-            </a>{" "}
-            <a href="./index.html?page=6" className="pagination__item">
-              6
-            </a>
+            {renderPaginationLinks()}
           </div>
         </div>
       </main>
