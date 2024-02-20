@@ -397,3 +397,75 @@
     width: calc(50% - 6px);
   }
 }
+
+.genre-list {
+  display: flex;
+  overflow: hidden;
+  max-width: 100%;
+  gap: 12px;
+  -ms-overflow-style: none;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.genre-list::-webkit-scrollbar {
+  display: none;
+}
+.item-block__title {
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.item-genre {
+  position: relative;
+  display: block;
+  overflow: hidden;
+
+  width: 124px;
+  min-width: 124px;
+  height: 124px;
+  min-height: 124px;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.genre-title {
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.genre-image-1 {
+  position: absolute;
+
+  top: 54px;
+  left: 37px;
+  width: 70px;
+  height: 70px;
+  transform: rotate(15deg);
+}
+
+.genre-image-2 {
+  position: absolute;
+
+  top: 77px;
+  left: 23px;
+  width: 70px;
+  height: 70px;
+  transform: rotate(15deg);
+}
+
+.genre-image-3 {
+  position: absolute;
+
+  top: 63px;
+  left: 58px;
+  width: 70px;
+  height: 70px;
+  transform: rotate(15deg);
+}

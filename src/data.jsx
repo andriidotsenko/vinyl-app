@@ -1,9 +1,11 @@
-// Function to generate a random hex color
 const randomHexColor = () => {
-  return "#" + Math.floor(Math.random() * 16777215).toString(16);
+  const r = Math.floor(Math.random() * 128) + 128;
+  const g = Math.floor(Math.random() * 128) + 128;
+  const b = Math.floor(Math.random() * 128) + 128;
+  const hex = ((r << 16) | (g << 8) | b).toString(16);
+  return "#" + "0".repeat(6 - hex.length) + hex;
 };
 
-// Original genre list data with images
 export const genreListData = [
   {
     id: 1,

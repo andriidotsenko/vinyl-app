@@ -70,7 +70,7 @@ export function App() {
       </option>
     );
   };
-  
+
   const renderCard = (card) => {
     const genreData = genreList.find((genre) => genre.id === card.genreId);
     const inCollection = collectionList.includes(card.id);
@@ -144,31 +144,92 @@ export function App() {
     );
   };
 
+  const getRandomOffset = (min, max) =>
+    Math.floor(Math.random() * (max - min + 1)) + min;
+  const getRandomRotation = (min, max) =>
+    Math.floor(Math.random() * (max - min + 1)) + min;
+
   const renderGenre = (genre) => {
+    const minOffset = 40;
+    const maxOffset = 100;
+    const minRotation = -30;
+    const maxRotation = 45;
+
+    // Function to determine brightness
+    const getBrightness = (color) => {
+      // Convert color to RGB
+      const r = parseInt(color.substring(1, 3), 16);
+      const g = parseInt(color.substring(3, 5), 16);
+      const b = parseInt(color.substring(5, 7), 16);
+      // Calculate brightness (average of RGB values)
+      return (r * 299 + g * 587 + b * 114) / 1000;
+    };
+
+    const textColor =
+      getBrightness(genre.backgroundColor) > 128
+        ? "var(--dark-green)"
+        : "var(--white)";
+
     return (
-      <div
+      <a
         key={genre.id}
         value={genre.id}
         className="item-genre"
-        style={{ backgroundColor: genre.backgroundColor }}
+        style={{
+          backgroundColor: genre.backgroundColor,
+          color: textColor, // Set text color dynamically based on background brightness
+        }}
       >
         <div className="genre-title">{genre.name}</div>
         <img
           src={genre.image1}
-          alt={genre.name + "Image1"}
+          alt={genre.name + "_Image1"}
           className="genre-image-1"
+          style={{
+            position: "absolute",
+            width: "70px",
+            height: "70px",
+            top: `${getRandomOffset(minOffset, maxOffset)}px`,
+            left: `${getRandomOffset(minOffset, maxOffset)}px`,
+            transform: `rotate(${getRandomRotation(
+              minRotation,
+              maxRotation
+            )}deg)`,
+          }}
         />
         <img
           src={genre.image2}
-          alt={genre.name + "Image2"}
+          alt={genre.name + "_Image2"}
           className="genre-image-2"
+          style={{
+            position: "absolute",
+            width: "70px",
+            height: "70px",
+            top: `${getRandomOffset(minOffset, maxOffset)}px`,
+            left: `${getRandomOffset(minOffset, maxOffset)}px`,
+            transform: `rotate(${getRandomRotation(
+              minRotation,
+              maxRotation
+            )}deg)`,
+          }}
         />
         <img
           src={genre.image3}
-          alt={genre.name + "Image3"}
+          alt={genre.name + "_Image3"}
           className="genre-image-3"
+          style={{
+            position: "absolute",
+            width: "70px",
+            height: "70px",
+            top: `${getRandomOffset(minOffset, maxOffset)}px`,
+            left: `${getRandomOffset(minOffset, maxOffset)}px`,
+            transform: `rotate(${getRandomRotation(
+              minRotation,
+              maxRotation
+            )}deg)`,
+          }}
         />
-      </div>
+      </a>
     );
   };
 
@@ -316,7 +377,7 @@ export function App() {
 
           <div className="genre-list" id="genreItems">
             {genreList.length === 0 ? (
-              <p className="item-block__name">Not found</p>
+              <p className="item-block__title">Not found</p>
             ) : (
               genreList.map(renderGenre)
             )}
