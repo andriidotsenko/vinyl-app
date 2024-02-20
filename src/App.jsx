@@ -171,7 +171,7 @@ export function App() {
         : "var(--white)";
 
     return (
-      <a
+      <div
         key={genre.id}
         value={genre.id}
         className="item-genre"
@@ -229,7 +229,7 @@ export function App() {
             )}deg)`,
           }}
         />
-      </a>
+      </div>
     );
   };
 
