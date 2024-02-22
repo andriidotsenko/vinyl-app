@@ -1,0 +1,46 @@
+.root {
+  all: unset;
+  position: relative;
+  display: inline-flex;
+  width: auto;
+  min-width: 42px;
+  height: 42px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  padding-right: 8px;
+  padding-left: 8px;
+  border-radius: 4px;
+  appearance: none;
+  background-color: transparent;
+  color: #fff;
+  cursor: pointer;
+
+  -webkit-tap-highlight-color: transparent;
+  text-align: center;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.root:active {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.root.isWhite {
+  background-color: #fff;
+  color: #000;
+}
+
+.root.isDark {
+  color: #000;
+}
+
+.root.isDark:hover {
+  background-color: #f3f3f3;
+}
+
+.root.isSmall {
+  min-width: 28px;
+  height: 28px;
+  padding: 0;
+}

@@ -1,0 +1,48 @@
+.root {
+  all: unset;
+  position: relative;
+  display: inline-flex;
+  width: auto;
+  min-width: 140px;
+  height: 40px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  padding-right: 14px;
+  padding-left: 14px;
+  border-radius: 8px;
+  appearance: none;
+  background-color: #0a2530;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  transition: transform 0.1s ease-out;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.root:hover {
+  background-color: #05141a;
+}
+
+.root:active {
+  background-color: #05141a;
+  transform: scale(0.98);
+  transform-origin: 50% 50%;
+}
+
+.root.isActive {
+  background-color: #efeef0;
+  color: #05141a;
+}
+
+.root.isFullWidth {
+  width: 100%;
+}
+
+.label {
+  flex: 0 0 auto;
+}
