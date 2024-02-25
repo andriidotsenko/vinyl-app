@@ -18,46 +18,49 @@ function Vinyl({ vinyl }) {
   const [inWishlist, setInWishlist] = useState(false);
   const [inCollection, setInCollection] = useState(false);
   const [requestCount, setRequestCount] = useState(0);
+  const [loading, setLoading] = useState(false);
 
   async function handleWishlistButtonClick() {
-    setInWishlist(!inWishlist);
-    setRequestCount(requestCount + 1);
-    if (inWishlist) {
-      try {
-        await fetchRemoveVinylFromWishlist(vinyl.id);
-        setRequestCount(requestCount - 1);
-        if (requestCount === 0) {
-          setInWishlist(!inWishlist);
-        }
-      } catch (error) {
-        setRequestCount(requestCount - 1);
-        if (requestCount === 0) {
-          setInWishlist(inWishlist);
-        }
+    const updatedInWishlist = !inWishlist;
+    setInWishlist(updatedInWishlist);
+    const currentRequestCount = requestCount + 1;
+    setRequestCount(currentRequestCount);
+
+    try {
+      await Promise.all([
+        updatedInWishlist
+          ? fetchRemoveVinylFromWishlist(vinyl.id)
+          : fetchAddVinylToWishlist(vinyl.id),
+        new Promise(resolve => setTimeout(resolve, 1000)),
+      ]);
+
+      if (currentRequestCount === requestCount) {
+        setRequestCount(0);
       }
-    } else {
-      try {
-        await fetchAddVinylToWishlist(vinyl.id);
-        setRequestCount(requestCount - 1);
-        if (requestCount === 0) {
-          setInWishlist(!inWishlist);
-        }
-      } catch (error) {
-        setRequestCount(requestCount - 1);
-        if (requestCount === 0) {
-          setInWishlist(inWishlist);
-        }
+    } catch (error) {
+      console.error("Error toggling wishlist status:", error);
+      setInWishlist(!updatedInWishlist);
+      if (currentRequestCount === requestCount) {
+        setRequestCount(0);
       }
     }
   }
 
   async function handleAddToCollection() {
-    if (inCollection) {
-      await fetchRemoveVinylFromCollection(vinyl.id);
-    } else {
-      await fetchAddVinylToCollection(vinyl.id);
+    try {
+      setLoading(true);
+      if (!inCollection) {
+        await fetchAddVinylToCollection(vinyl.id);
+        setInCollection(true);
+      } else {
+        await fetchRemoveVinylFromCollection(vinyl.id);
+        setInCollection(false);
+      }
+    } catch (error) {
+      console.error("Error toggling collection status:", error);
+    } finally {
+      setLoading(false);
     }
-    setInCollection((inCollection) => !inCollection);
   }
 
   return (
