@@ -1,14 +1,7 @@
 import Button from "./Button.jsx";
-
 import styles from "./VinylCard.module.css";
 
-function VinylCard({ vinyl }) {
-  const inCollection = false;
-
-  function handleCollectionButtonClick() {
-    // TODO: add to/remove from collection
-  }
-
+function VinylCard({ vinyl, inCollection, onAddToCollection }) {
   return (
     <article className={styles.root}>
       <div className={styles.cover}>
@@ -29,7 +22,7 @@ function VinylCard({ vinyl }) {
         <Button
           fullWidth
           active={inCollection}
-          onClick={handleCollectionButtonClick}
+          onClick={onAddToCollection}
           label={inCollection ? "In collection" : "Add to collection"}
         />
       </div>
