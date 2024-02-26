@@ -38,11 +38,10 @@ function VinylList({ list }) {
 
       <div className={styles.filter}>
         <SearchInput
-          searchValue={searchValue}
-          setSearchValue={setSearchValue}
           maxLength={100}
           placeholder="Filter by artist or title"
-          value=""
+          value={searchValue}
+          setSearchValue={setSearchValue}
           onChange={handleSearchInputChange}
         />
       </div>

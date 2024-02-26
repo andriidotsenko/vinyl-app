@@ -1,4 +1,3 @@
-// import { useState } from "react";
 
 import styles from "./SearchInput.module.css";
 
@@ -6,12 +5,10 @@ function SearchInput({
   placeholder,
   onChange,
   maxLength = 20,
-  searchValue,
-  setSearchValue,
+  value,
 }) {
   const handleChange = (event) => {
     const newValue = event.target.value;
-    setSearchValue(newValue);
     onChange(newValue);
   };
 
@@ -39,7 +36,7 @@ function SearchInput({
         className={styles.root}
         type="text"
         placeholder={placeholder}
-        value={searchValue}
+        value={value}
         onChange={handleChange}
       />
       <div
@@ -48,11 +45,10 @@ function SearchInput({
           marginLeft: 20,
           fontSize: 18,
           fontWeight: "bold",
-          color: blendColors(searchValue.length, maxLength),
+          color: blendColors(value.length, maxLength),
         }}
       >
-        {searchValue.length}/{maxLength} символів введено
-        {/* {maxLength-searchValue.length} символів залишилось */}
+        {value.length}/{maxLength} символів введено
       </div>
     </>
   );
