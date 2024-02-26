@@ -18,7 +18,6 @@ function Vinyl({ vinyl }) {
   const [inWishlist, setInWishlist] = useState(false);
   const [inCollection, setInCollection] = useState(false);
   const [requestCount, setRequestCount] = useState(0);
-  const [loading, setLoading] = useState(false);
 
   async function handleWishlistButtonClick() {
     const updatedInWishlist = !inWishlist;
@@ -31,7 +30,7 @@ function Vinyl({ vinyl }) {
         updatedInWishlist
           ? fetchRemoveVinylFromWishlist(vinyl.id)
           : fetchAddVinylToWishlist(vinyl.id),
-        new Promise(resolve => setTimeout(resolve, 1000)),
+        new Promise((resolve) => setTimeout(resolve, 2000)),
       ]);
 
       if (currentRequestCount === requestCount) {
@@ -48,7 +47,6 @@ function Vinyl({ vinyl }) {
 
   async function handleAddToCollection() {
     try {
-      setLoading(true);
       if (!inCollection) {
         await fetchAddVinylToCollection(vinyl.id);
         setInCollection(true);
@@ -58,8 +56,6 @@ function Vinyl({ vinyl }) {
       }
     } catch (error) {
       console.error("Error toggling collection status:", error);
-    } finally {
-      setLoading(false);
     }
   }
 

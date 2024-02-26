@@ -10,16 +10,15 @@ function VinylList({ list }) {
   const [searchValue, setSearchValue] = useState("");
 
   function handleCollectionToggle(vinylId) {
-    const index = collection.findIndex((item) => item.id === vinylId);
-    if (index === -1) {
-      const vinylToAdd = list.find((vinyl) => vinyl.id === vinylId);
-      setCollection([...collection, vinylToAdd]);
-    } else {
-      const updatedCollection = [...collection];
-      updatedCollection.splice(index, 1);
-      setCollection(updatedCollection);
-    }
+    setCollection((prevCollection) => {
+      if (prevCollection.includes(vinylId)) {
+        return prevCollection.filter((id) => id !== vinylId);
+      } else {
+        return [...prevCollection, vinylId];
+      }
+    });
   }
+
   function handleSearchInputChange(value) {
     setSearchValue(value);
   }
@@ -39,7 +38,9 @@ function VinylList({ list }) {
 
       <div className={styles.filter}>
         <SearchInput
-          maxLength="100"
+          searchValue={searchValue}
+          setSearchValue={setSearchValue}
+          maxLength={100}
           placeholder="Filter by artist or title"
           value=""
           onChange={handleSearchInputChange}
@@ -51,8 +52,8 @@ function VinylList({ list }) {
           <VinylCard
             key={vinyl.id}
             vinyl={vinyl}
-            inCollection={collection.some((item) => item.id === vinyl.id)}
-            onAddToCollection={() => handleCollectionToggle(vinyl.id)}
+            inCollection={collection.includes(vinyl.id)}
+            onCollectionToggle={() => handleCollectionToggle(vinyl.id)}
           />
         ))}
       </div>

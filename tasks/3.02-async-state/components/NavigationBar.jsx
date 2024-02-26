@@ -29,7 +29,9 @@ function NavigationBar() {
   async function handleSearchInputChange(event) {
     const value = event.target.value;
     setSearchValue(value);
+    setTimeout(() => {}, 5000);
     const results = await fetchSearchVinyl(value, searchTab);
+
     setFilteredSearchResults(results);
   }
 
