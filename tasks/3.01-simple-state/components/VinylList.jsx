@@ -41,7 +41,6 @@ function VinylList({ list }) {
           maxLength={100}
           placeholder="Filter by artist or title"
           value={searchValue}
-          setSearchValue={setSearchValue}
           onChange={handleSearchInputChange}
         />
       </div>
