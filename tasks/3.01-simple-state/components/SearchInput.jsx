@@ -1,12 +1,6 @@
-
 import styles from "./SearchInput.module.css";
 
-function SearchInput({
-  placeholder,
-  onChange,
-  maxLength = 20,
-  value,
-}) {
+function SearchInput({ placeholder, onChange, maxLength = 20, value }) {
   const handleChange = (event) => {
     const newValue = event.target.value;
     onChange(newValue);
