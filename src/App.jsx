@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { clsx } from "clsx";
 
 import {
@@ -12,22 +13,54 @@ export function App() {
   const countriesList = [...countriesListData];
   const decadeList = [...decadeListData];
   const cardList = [...cardListData];
-
-  const collectionList = [1, 2, 3];
-  const favoriteList = [1, 2, 3];
-
   const filterValues = {};
 
+  const [collectionList, setCollectionList] = useState([]);
+  const [favoriteList, setFavoriteList] = useState([]);
+  const [currentPage, setCurrentPage] = useState(1);
+
   function handleClickInCollection(event, card) {
-    collectionList.includes(card.id)
-      ? console.error("Not implemented: In collection: id: " + card.id)
-      : console.error("Not implemented: Add: id: " + card.id);
+    if (collectionList.includes(card.id)) {
+      setCollectionList((prevCollectionList) =>
+        prevCollectionList.filter((item) => item !== card.id)
+      );
+    } else {
+      setCollectionList((prevCollectionList) => [
+        ...prevCollectionList,
+        card.id,
+      ]);
+    }
   }
+
   function handleClickInFavorites(event, card) {
-    favoriteList.includes(card.id)
-      ? console.error("Not implemented: In favorites: id: " + card.id)
-      : console.error("Not implemented: Add to favorites: id: " + card.id);
+    if (favoriteList.includes(card.id)) {
+      setFavoriteList((prevFavoriteList) =>
+        prevFavoriteList.filter((item) => item !== card.id)
+      );
+    } else {
+      setFavoriteList((prevFavoriteList) => [...prevFavoriteList, card.id]);
+    }
   }
+
+  function handlePageChange(pageNumber) {
+    setCurrentPage(pageNumber);
+  }
+
+  const renderPaginationLinks = () => (
+    <>
+      {Array.from({ length: totalPages }).map((_, i) => (
+        <button
+          key={i + 1}
+          className={clsx("pagination__item", {
+            active: i + 1 === currentPage,
+          })}
+          onClick={() => handlePageChange(i + 1)}
+        >
+          {i + 1}
+        </button>
+      ))}
+    </>
+  );
 
   function handleChangeArtist(event) {
     const value = event.target.value;
@@ -207,30 +240,13 @@ export function App() {
     return item.title.toLowerCase().indexOf("") !== -1;
   });
 
-  let currentPage = 1;
   const screenWidth = window.innerWidth;
-  const pageSize = screenWidth < 800 ? 6 : 20;
+  const pageSize = screenWidth < 800 ? 3 : 8;
 
   const totalPages = Math.ceil(filteredList.length / pageSize);
   const startIndex = (currentPage - 1) * pageSize;
   const endIndex = Math.min(startIndex + pageSize - 1, filteredList.length - 1);
   const currentPageItems = filteredList.slice(startIndex, endIndex + 1);
-
-  const renderPaginationLinks = () => (
-    <>
-      {Array.from({ length: totalPages }).map((_, i) => (
-        <a
-          key={i + 1}
-          href={`./index.html?page=${i + 1}`}
-          className={clsx("pagination__item", {
-            active: i + 1 === currentPage,
-          })}
-        >
-          {i + 1}
-        </a>
-      ))}
-    </>
-  );
 
   return (
     <>
@@ -259,6 +275,7 @@ export function App() {
                     strokeLinejoin="round"
                   />
                 </svg>
+                {<span className="icon-counter">{favoriteList.length}</span>}
               </a>
               <a
                 href="/"
@@ -279,6 +296,7 @@ export function App() {
                     strokeLinejoin="round"
                   />
                 </svg>
+                {<span className="icon-counter">{collectionList.length}</span>}
               </a>
             </div>
           </div>
