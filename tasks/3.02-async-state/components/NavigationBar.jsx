@@ -31,10 +31,6 @@ function NavigationBar() {
     setDebounceTimeout(newDebounceTimeout);
   }
 
-  function handleTabChange(tab) {
-    setSearchTab(tab);
-  }
-
   function handleSearchInputBlur() {
     setIsOpen(false);
     setSearchValue("");
@@ -57,7 +53,7 @@ function NavigationBar() {
           onInputChange={handleSearchInputChange}
           onInputBlur={handleSearchInputBlur}
           tabs={[
-<SearchInput.Tab
+            <SearchInput.Tab
               key="all"
               label="All"
               active={isAll}
