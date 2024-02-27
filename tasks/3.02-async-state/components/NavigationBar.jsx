@@ -1,7 +1,5 @@
 import { useState } from "react";
-
 import SearchInput from "./SearchInput.jsx";
-
 import styles from "./NavigationBar.module.css";
 import SearchIcon from "./SearchIcon.jsx";
 import { fetchSearchVinyl } from "../api/searchVinyl.js";
@@ -11,13 +9,30 @@ function NavigationBar() {
   const [searchValue, setSearchValue] = useState("");
   const [searchTab, setSearchTab] = useState("all");
   const [filteredSearchResults, setFilteredSearchResults] = useState([]);
+  const [debounceTimeout, setDebounceTimeout] = useState(null);
 
   const isAll = searchTab === "all";
   const isByArtist = searchTab === "artist";
   const isByAlbum = searchTab === "album";
 
-  function handleSearchInputFocus() {
+  function handleSearchInputChange(event) {
+    const { value } = event.target;
+    setSearchValue(value);
     setIsOpen(true);
+
+    if (debounceTimeout) {
+      clearTimeout(debounceTimeout);
+    }
+
+    const newDebounceTimeout = setTimeout(() => {
+      setDebouncedSearchValue(value);
+    }, 500);
+
+    setDebounceTimeout(newDebounceTimeout);
+  }
+
+  function handleTabChange(tab) {
+    setSearchTab(tab);
   }
 
   function handleSearchInputBlur() {
@@ -26,13 +41,10 @@ function NavigationBar() {
     setFilteredSearchResults([]);
   }
 
-  async function handleSearchInputChange(event) {
-    const value = event.target.value;
-    setSearchValue(value);
-    setTimeout(() => {}, 5000);
-    const results = await fetchSearchVinyl(value, searchTab);
-
-    setFilteredSearchResults(results);
+  function setDebouncedSearchValue(value) {
+    fetchSearchVinyl(value, searchTab)
+      .then((results) => setFilteredSearchResults(results))
+      .catch((error) => console.error("Error fetching search results:", error));
   }
 
   return (
@@ -43,44 +55,25 @@ function NavigationBar() {
           isDropdownOpened={isOpen}
           isEmpty={filteredSearchResults.length === 0}
           onInputChange={handleSearchInputChange}
-          onInputFocus={handleSearchInputFocus}
           onInputBlur={handleSearchInputBlur}
           tabs={[
             <SearchInput.Tab
               key="all"
               label="All"
               active={isAll}
-              onMouseDown={(event) => {
-                event.preventDefault();
-              }}
-              onClick={(event) => {
-                event.preventDefault();
-                setSearchTab("all");
-              }}
+              onClick={() => handleTabChange("all")}
             />,
             <SearchInput.Tab
               key="by_artist"
               label="By Artist"
               active={isByArtist}
-              onMouseDown={(event) => {
-                event.preventDefault();
-              }}
-              onClick={(event) => {
-                event.preventDefault();
-                setSearchTab("artist");
-              }}
+              onClick={() => handleTabChange("artist")}
             />,
             <SearchInput.Tab
               key="by_album"
               label="By Album"
               active={isByAlbum}
-              onMouseDown={(event) => {
-                event.preventDefault();
-              }}
-              onClick={(event) => {
-                event.preventDefault();
-                setSearchTab("album");
-              }}
+              onClick={() => handleTabChange("album")}
             />,
           ]}
           footer={[
@@ -89,20 +82,11 @@ function NavigationBar() {
               href="#search_new"
               label="Advanced search"
               icon={<SearchIcon />}
-              onMouseDown={(event) => {
-                event.preventDefault();
-              }}
             />,
           ]}
         >
           {filteredSearchResults.map((item) => (
-            <SearchInput.VinylOption
-              key={item.id}
-              vinyl={item}
-              onMouseDown={(event) => {
-                event.preventDefault();
-              }}
-            />
+            <SearchInput.VinylOption key={item.id} vinyl={item} />
           ))}
         </SearchInput>
       </div>
