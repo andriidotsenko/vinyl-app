@@ -57,23 +57,41 @@ function NavigationBar() {
           onInputChange={handleSearchInputChange}
           onInputBlur={handleSearchInputBlur}
           tabs={[
-            <SearchInput.Tab
+<SearchInput.Tab
               key="all"
               label="All"
               active={isAll}
-              onClick={() => handleTabChange("all")}
+              onMouseDown={(event) => {
+                event.preventDefault();
+              }}
+              onClick={(event) => {
+                event.preventDefault();
+                setSearchTab("all");
+              }}
             />,
             <SearchInput.Tab
               key="by_artist"
               label="By Artist"
               active={isByArtist}
-              onClick={() => handleTabChange("artist")}
+              onMouseDown={(event) => {
+                event.preventDefault();
+              }}
+              onClick={(event) => {
+                event.preventDefault();
+                setSearchTab("artist");
+              }}
             />,
             <SearchInput.Tab
               key="by_album"
               label="By Album"
               active={isByAlbum}
-              onClick={() => handleTabChange("album")}
+              onMouseDown={(event) => {
+                event.preventDefault();
+              }}
+              onClick={(event) => {
+                event.preventDefault();
+                setSearchTab("album");
+              }}
             />,
           ]}
           footer={[
@@ -82,6 +100,9 @@ function NavigationBar() {
               href="#search_new"
               label="Advanced search"
               icon={<SearchIcon />}
+              onMouseDown={(event) => {
+                event.preventDefault();
+              }}
             />,
           ]}
         >
