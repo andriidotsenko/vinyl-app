@@ -1,0 +1,24 @@
+.root {
+  all: unset;
+  width: 100%;
+  height: 40px;
+  box-sizing: border-box;
+  padding: 7px 12px;
+  border: 1px solid #edeef0;
+  border-radius: 8px;
+  background-color: #ffffff;
+  color: #0a2530;
+  line-height: 24px;
+}
+
+.root:focus {
+  border-color: #0a2530;
+}
+
+.counter {
+  display: flex;
+  justify-content: flex-end;
+  padding: 2px;
+  color: #6b778c;
+  font-size: 12px;
+}

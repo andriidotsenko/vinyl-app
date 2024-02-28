@@ -1,0 +1,13 @@
+.root {
+  display: flex;
+  align-items: center;
+  padding: 10px 16px;
+  background-color: #083644;
+  gap: 8px;
+}
+
+.search {
+  max-width: 480px;
+  flex: 1 1 auto;
+  margin: 0 auto;
+}

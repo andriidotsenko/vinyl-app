@@ -1,0 +1,195 @@
+.search-input {
+  position: relative;
+  display: inline-flex;
+  width: 100%;
+  height: 42px;
+  box-sizing: border-box;
+  align-items: center;
+  padding: 12px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  gap: 8px;
+}
+
+.search-input__icon {
+  width: 18px;
+  height: 18px;
+  line-height: 1;
+}
+
+.search-input__input {
+  height: 18px;
+  flex: 1 1 auto;
+  padding: 0;
+  border: none;
+  margin: 0;
+  background-color: transparent;
+  color: #000;
+  font-size: 16px;
+  line-height: 18px;
+  outline: none;
+}
+
+.search-input-dropdown {
+  position: absolute;
+  z-index: 100;
+  top: 100%;
+  right: 0;
+  left: 0;
+  border: 1px solid #e7ebec;
+  border-radius: 4px;
+  margin-top: 8px;
+  background-color: #fff;
+}
+
+.search-input-dropdown--closed {
+  display: none;
+}
+
+.search-input-dropdown__header {
+  padding: 8px 0;
+  border-bottom: 1px solid #e7ebec;
+}
+
+.search-input-dropdown__options {
+  max-height: 320px;
+  padding: 8px 0;
+  overflow-y: auto;
+}
+
+.search-input-dropdown__empty-message {
+  padding: 8px 16px;
+  color: #738286;
+}
+
+.search-input-dropdown__footer {
+  padding: 8px 0;
+  border-top: 1px solid #e7ebec;
+}
+
+.search-input-tabs {
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  gap: 8px;
+}
+
+.search-input-tabs__tab {
+  all: unset;
+  position: relative;
+  padding: 8px;
+  border-radius: 4px;
+  color: #738286;
+  /* min-width: 40px; */
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  transition: background-color 0.1s ease-out;
+}
+
+.search-input-tabs__tab:hover {
+  background-color: #f3f3f3;
+}
+
+.search-input-tabs__tab.search-input-tabs__tab--active {
+  color: #000;
+  font-weight: 700;
+}
+
+.search-input-vinyl-option {
+  position: relative;
+  display: flex;
+  padding: 8px 16px;
+}
+
+.search-input-vinyl-option:hover {
+  background-color: #f5f5f5;
+}
+
+.search-input-vinyl-option--active {
+  background-color: #f5f5f5;
+}
+
+.search-input-vinyl-option__cover-image {
+  width: 48px;
+  height: 48px;
+  border-radius: 4px;
+  margin-right: 8px;
+  vertical-align: top;
+}
+
+.search-input-vinyl-option__content {
+  flex: 1 1 auto;
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.search-input-vinyl-option__content:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+.search-input-vinyl-option__content::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+  content: "";
+}
+
+.search-input-vinyl-option__title {
+  margin: 0;
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+.search-input-vinyl-option__artist {
+  margin: 0;
+  color: #738286;
+  line-height: inherit;
+}
+
+.search-input-advanced-button {
+  all: unset;
+  position: relative;
+  display: flex;
+  width: auto;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px 16px;
+  appearance: none;
+  background-color: transparent;
+  color: #000;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.search-input-advanced-button:hover {
+  background-color: #f3f3f3;
+  color: #000;
+  text-decoration: none;
+}
+
+.search-input-advanced-button__icon {
+  flex: 0 0 auto;
+  margin-right: 8px;
+  fill: currentColor;
+  line-height: 1;
+}
+
+.search-input-advanced-button__label {
+  flex: 1 1 auto;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}

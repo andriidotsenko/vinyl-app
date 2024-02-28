@@ -1,0 +1,19 @@
+.root {
+  min-width: 300px;
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.collection {
+  margin-bottom: 24px;
+}
+
+.filter {
+  margin-bottom: 16px;
+}
+
+.results {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(2, 1fr);
+}
