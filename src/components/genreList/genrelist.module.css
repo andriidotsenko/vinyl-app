@@ -1,0 +1,43 @@
+.item {
+  position: relative;
+  display: block;
+  overflow: hidden;
+
+  width: 124px;
+  min-width: 124px;
+  height: 124px;
+  min-height: 124px;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.title {
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.list {
+  display: flex;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 16px;
+  gap: 12px;
+  -ms-overflow-style: none;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.list::-webkit-scrollbar {
+  display: none;
+}
+
+.not_found {
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 20px;
+  white-space: nowrap;
+}

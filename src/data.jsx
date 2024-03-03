@@ -10,7 +10,7 @@ export const genreListData = [
   {
     id: 1,
     name: "Rock",
-    backgroundColor: "#505050",
+    backgroundColor: randomHexColor(),
     images: ["/genrebg/rock1.jpg", "/genrebg/rock2.jpg", "/genrebg/rock3.jpg"],
   },
   {

@@ -1,0 +1,77 @@
+.header {
+  padding: 19px 0;
+  margin-bottom: 15px;
+  background-color: var(--dark-green);
+}
+
+.wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  align-items: center;
+  justify-content: center;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.back .icon {
+  margin-right: 6px;
+}
+
+.actions .icon:not(:last-child) {
+  margin-right: 18px;
+}
+
+@media (hover: hover) {
+  .icon_fav:hover path,
+  .icon_folder:hover path {
+    fill: var(--white);
+  }
+}
+
+.icon_fav,
+.icon_folder {
+  position: relative;
+}
+
+.icon_back {
+  background-image: url("./assets/ic-arrow-left.svg");
+}
+
+.back {
+  display: flex;
+  align-items: center;
+  color: var(--white);
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.counter {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 21px;
+  height: 21px;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(153, 0, 64);
+  color: rgb(255, 255, 255);
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  white-space: nowrap;
+}

@@ -1,19 +1,16 @@
 import { useState } from "react";
 import { clsx } from "clsx";
 
-import {
-  genreListData,
-  countriesListData,
-  decadeListData,
-  cardListData,
-} from "./data.jsx";
+import Header from "./components/header/Header";
+import GenreList from "./components/genreList/GenreList";
+
+import { genreListData, cardListData } from "./data.jsx";
+
+import Filter from "./components/filter/Filter.jsx";
 
 export function App() {
   const genreList = [...genreListData];
-  const countriesList = [...countriesListData];
-  const decadeList = [...decadeListData];
   const cardList = [...cardListData];
-  const filterValues = {};
 
   const [collectionList, setCollectionList] = useState([]);
   const [favoriteList, setFavoriteList] = useState([]);
@@ -61,48 +58,6 @@ export function App() {
       ))}
     </>
   );
-
-  function handleChangeArtist(event) {
-    const value = event.target.value;
-    const name = event.target.getAttribute("name");
-    filterValues[name] = value;
-  }
-  function handleChangeGenre(event) {
-    const value = event.target.value;
-    const name = event.target.getAttribute("name");
-    filterValues[name] = value;
-  }
-  function handleChangeDecade(event) {
-    const value = event.target.value;
-    const name = event.target.getAttribute("name");
-    filterValues[name] = value;
-  }
-  function handleChangeCountry(event) {
-    const value = event.target.value;
-    const name = event.target.getAttribute("name");
-    filterValues[name] = value;
-  }
-
-  function applyFilters(event) {
-    event.preventDefault();
-    console.error(filterValues);
-  }
-
-  const renderOptionDecade = (option) => {
-    return (
-      <option key={option.id} value={option.value}>
-        {option.label}
-      </option>
-    );
-  };
-
-  const renderOption = (option) => {
-    return (
-      <option key={option.id} value={option.id}>
-        {option.name}
-      </option>
-    );
-  };
 
   const renderCard = (card) => {
     const genreData = genreList.find((genre) => genre.id === card.genreId);
@@ -177,65 +132,6 @@ export function App() {
     );
   };
 
-  const getRandomOffset = (min, max) =>
-    Math.floor(Math.random() * (max - min + 1)) + min;
-  const getRandomRotation = (min, max) =>
-    Math.floor(Math.random() * (max - min + 1)) + min;
-
-  const renderGenre = (genre) => {
-    const minOffset = 40;
-    const maxOffset = 100;
-    const minRotation = -30;
-    const maxRotation = 45;
-
-    const getBrightness = (color) => {
-      // Convert color to RGB
-      const r = parseInt(color.substring(1, 3), 16);
-      const g = parseInt(color.substring(3, 5), 16);
-      const b = parseInt(color.substring(5, 7), 16);
-      // Calculate brightness (average of RGB values)
-      return (r * 299 + g * 587 + b * 114) / 1000;
-    };
-
-    const textColor =
-      getBrightness(genre.backgroundColor) > 128
-        ? "var(--dark-green)"
-        : "var(--white)";
-
-    return (
-      <div
-        key={genre.id}
-        value={genre.id}
-        className="item-genre"
-        style={{
-          backgroundColor: genre.backgroundColor,
-          color: textColor,
-        }}
-      >
-        <div className="genre-title">{genre.name}</div>
-        {genre.images.map((image, index) => (
-          <img
-            key={index}
-            src={image}
-            alt={`${genre.name}_Image${index + 1}`}
-            className={`genre-image-${index + 1}`}
-            style={{
-              position: "absolute",
-              width: "70px",
-              height: "70px",
-              top: `${getRandomOffset(minOffset, maxOffset)}px`,
-              left: `${getRandomOffset(minOffset, maxOffset)}px`,
-              transform: `rotate(${getRandomRotation(
-                minRotation,
-                maxRotation
-              )}deg)`,
-            }}
-          />
-        ))}
-      </div>
-    );
-  };
-
   const filteredList = cardList.filter((item) => {
     return item.title.toLowerCase().indexOf("") !== -1;
   });
@@ -250,127 +146,14 @@ export function App() {
 
   return (
     <>
-      <header className="header">
-        <div className="container">
-          <div className="header__wrap">
-            <a href="/" className="header__back" id="headerBack">
-              <span
-                className={clsx("header__icon", "header__icon_back")}
-              ></span>
-              Back
-            </a>
-            <div className="header__actions">
-              <a href="/" className={clsx("header__icon", "header__icon_fav")}>
-                <svg
-                  width="20"
-                  height="18"
-                  viewBox="0 0 20 18"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M19 6.32647C19 11.4974 10 17 10 17C10 17 1 11.4974 1 6.32647C1 -0.694364 10 -0.599555 10 5.57947C10 -0.599555 19 -0.507124 19 6.32647Z"
-                    stroke="white"
-                    strokeWidth="2"
-                    strokeLinejoin="round"
-                  />
-                </svg>
-                {<span className="icon-counter">{favoriteList.length}</span>}
-              </a>
-              <a
-                href="/"
-                className={clsx("header__icon", "header__icon_folder")}
-              >
-                <svg
-                  width="20"
-                  height="18"
-                  viewBox="0 0 20 18"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M19 15.2222V6.33333C19 5.86184 18.8104 5.40965 18.4728 5.07625C18.1352 4.74286 17.6774 4.55556 17.2 4.55556H11.1124C10.7781 4.55554 10.4503 4.46356 10.1659 4.28992C9.88155 4.11628 9.65175 3.86783 9.5023 3.57244L8.6977 1.98311C8.54818 1.68759 8.31824 1.43906 8.03368 1.2654C7.74912 1.09175 7.4212 0.999846 7.0867 1H2.8C2.32261 1 1.86477 1.1873 1.52721 1.5207C1.18964 1.8541 1 2.30628 1 2.77778V15.2222C1 15.6937 1.18964 16.1459 1.52721 16.4793C1.86477 16.8127 2.32261 17 2.8 17H17.2C17.6774 17 18.1352 16.8127 18.4728 16.4793C18.8104 16.1459 19 15.6937 19 15.2222Z"
-                    stroke="white"
-                    strokeWidth="2"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  />
-                </svg>
-                {<span className="icon-counter">{collectionList.length}</span>}
-              </a>
-            </div>
-          </div>
-        </div>
-      </header>
+      <Header
+        favoriteCount={favoriteList.length}
+        collectionCount={collectionList.length}
+      />
       <main className="main">
         <div className="container">
-          <div className="filter">
-            <form className="filter__form" onSubmit={applyFilters}>
-              <label className={clsx("filter__block", "filter__block_artist")}>
-                <input
-                  type="text"
-                  name="artist"
-                  placeholder="Artist"
-                  id="filterArtist"
-                  onChange={handleChangeArtist}
-                />
-                <p className="error-block">
-                  Value must be less than 20 characters
-                </p>
-              </label>
-              <label className={clsx("filter__block", "filter__block_genre")}>
-                <select
-                  name="genre"
-                  id="filterGenre"
-                  defaultValue={"0"}
-                  onChange={handleChangeGenre}
-                >
-                  <option value="0" disabled>
-                    Genre
-                  </option>
-                  {genreList.map((element) => renderOption(element))};
-                </select>
-              </label>
-              <label className={clsx("filter__block", "filter__block_decade")}>
-                <select
-                  name="decade"
-                  id="filterDecade"
-                  defaultValue={"0"}
-                  onChange={handleChangeDecade}
-                >
-                  <option value="0" disabled>
-                    Decade
-                  </option>
-                  {decadeList.map((element) => renderOptionDecade(element))};
-                </select>
-              </label>
-              <label className={clsx("filter__block", "filter__block_country")}>
-                <select
-                  name="country"
-                  id="filterCountry"
-                  defaultValue={"0"}
-                  onChange={handleChangeCountry}
-                >
-                  <option value="0" disabled>
-                    Country
-                  </option>
-                  {countriesList.map((element) => renderOption(element))};
-                </select>
-              </label>
-              <button className={clsx("btn", "btn-green")} id="searchButton">
-                Search
-              </button>
-            </form>
-          </div>
-
-          <div className="genre-list" id="genreItems">
-            {genreList.length === 0 ? (
-              <p className="item-block__title">Not found</p>
-            ) : (
-              genreList.map(renderGenre)
-            )}
-          </div>
-          <br />
+          <Filter genres={genreList} />
+          <GenreList genres={genreList} />
 
           <div className="list-items" id="listItems">
             {filteredList.length === 0 ? (
