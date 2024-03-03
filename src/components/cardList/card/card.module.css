@@ -1,0 +1,86 @@
+
+
+.item-block {
+  width: calc(25% - 18px);
+}
+
+.item-block__image {
+  position: relative;
+  margin-bottom: 8px;
+}
+
+.item-block__image picture,
+.item-block__image img {
+  overflow: hidden;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.item-block__fav {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  background-color: var(--white);
+  cursor: pointer;
+}
+
+.item-block__fav.active path {
+  fill: #fd5d01;
+}
+
+.item-block__name {
+  margin-bottom: 3px;
+  color: var(--dark-blue);
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18px;
+}
+
+.item-block__group {
+  margin-bottom: 7px;
+  color: var(--dark-blue);
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+}
+
+.item-block__info p {
+  color: var(--grey-light);
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+
+.btn-add span,
+.btn-collection span {
+  position: relative;
+  padding-right: 26px;
+}
+
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.btn-add span::before,
+.btn-collection span::before {
+
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: block;
+  width: 20px;
+  height: 20px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  content: "";
+}

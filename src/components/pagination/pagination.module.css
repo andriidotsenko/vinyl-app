@@ -1,0 +1,30 @@
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  text-align: center;
+}
+
+.item {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 4px;
+  color: var(--grey-light);
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 40px;
+  text-align: center;
+}
+
+.item.active {
+  background-color: var(--dark-blue);
+  color: var(--white);
+  transition: opacity 0.3s;
+}
+
+.pagination__item.active:hover {
+  opacity: 0.8;
+}

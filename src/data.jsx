@@ -110,7 +110,7 @@ export const cardListData = [
     },
     title: "Californication",
     artist: "Red Hot Chili Peppers",
-    year: "1999",
+    year: 1999,
     genreId: 1, // Rock
     country: "USA",
   },
@@ -122,7 +122,7 @@ export const cardListData = [
     },
     title: "Stadium Arcadium",
     artist: "Red Hot Chili Peppers",
-    year: "2006",
+    year: 2006,
     genreId: 1, // Rock
     country: "USA",
   },
@@ -134,7 +134,7 @@ export const cardListData = [
     },
     title: "Oracular Spectacular",
     artist: "MGMT",
-    year: "2007",
+    year: 2007,
     genreId: 2, // Pop
     country: "USA",
   },
@@ -146,7 +146,7 @@ export const cardListData = [
     },
     title: "The Wrong Side of Heaven",
     artist: "Five Finger Death Punch",
-    year: "2013",
+    year: 2013,
     genreId: 1, // Rock
     country: "USA",
   },
@@ -158,7 +158,7 @@ export const cardListData = [
     },
     title: "Demon Days",
     artist: "Gorillaz",
-    year: "2005",
+    year: 2005,
     genreId: 2, // Pop
     country: "United Kingdom",
   },
@@ -170,7 +170,7 @@ export const cardListData = [
     },
     title: "Origin of Symmetry",
     artist: "Muse",
-    year: "2001",
+    year: 2001,
     genreId: 1, // Rock
     country: "United Kingdom",
   },
@@ -182,7 +182,7 @@ export const cardListData = [
     },
     title: "And Justice for None",
     artist: "Five Finger Death Punch",
-    year: "2018",
+    year: 2018,
     genreId: 1, // Rock
     country: "USA",
   },
@@ -194,7 +194,7 @@ export const cardListData = [
     },
     title: "Woodstock",
     artist: "Portugal. The Man",
-    year: "2017",
+    year: 2017,
     genreId: 1, // Rock
     country: "USA",
   },
@@ -206,7 +206,7 @@ export const cardListData = [
     },
     title: "The Resistance",
     artist: "Muse",
-    year: "2009",
+    year: 2009,
     genreId: 1, // Rock
     country: "United Kingdom",
   },
@@ -218,7 +218,7 @@ export const cardListData = [
     },
     title: "Little Dark Age",
     artist: "MGMT",
-    year: "2018",
+    year: 2018,
     genreId: 3, // Electronic
     country: "USA",
   },
@@ -230,7 +230,7 @@ export const cardListData = [
     },
     title: "Prequelle",
     artist: "Ghost",
-    year: "2018",
+    year: 2018,
     genreId: 1, // Rock
     country: "Sweden",
   },
@@ -242,7 +242,7 @@ export const cardListData = [
     },
     title: "The English Riviera",
     artist: "Metronomy",
-    year: "2011",
+    year: 2011,
     genreId: 2, // Pop
     country: "United Kingdom",
   },
@@ -254,7 +254,7 @@ export const cardListData = [
     },
     title: "Without You I'm Nothing",
     artist: "Placebo",
-    year: "1998",
+    year: 1998,
     genreId: 1, // Rock
     country: "United Kingdom",
   },
@@ -266,7 +266,7 @@ export const cardListData = [
     },
     title: "OK Computer",
     artist: "Radiohead",
-    year: "1997",
+    year: 1997,
     genreId: 1, // Rock
     country: "United Kingdom",
   },
@@ -278,7 +278,7 @@ export const cardListData = [
     },
     title: "An Awesome Wave",
     artist: "alt-J",
-    year: "2012",
+    year: 2012,
     genreId: 3, // Electronic
     country: "United Kingdom",
   },
@@ -290,7 +290,7 @@ export const cardListData = [
     },
     title: "Plural",
     artist: "Electric Guest",
-    year: "2017",
+    year: 2017,
     genreId: 2, // Pop
     country: "USA",
   },
@@ -302,7 +302,7 @@ export const cardListData = [
     },
     title: "Enema of the State",
     artist: "blink-182",
-    year: "1999",
+    year: 1999,
     genreId: 1, // Rock
     country: "USA",
   },
@@ -314,7 +314,7 @@ export const cardListData = [
     },
     title: "Turn On the Bright Lights",
     artist: "Interpol",
-    year: "2002",
+    year: 2002,
     genreId: 1, // Rock
     country: "USA",
   },

@@ -52,65 +52,63 @@ function onApplyFilters(event) {
 
 function Filter({ genres }) {
   return (
-    <div className="container">
-      <div className="filter">
-        <form className={styles.form} onSubmit={onApplyFilters}>
-          <label className={clsx(styles.block, styles.block_artist)}>
-            <input
-              type="text"
-              name="artist"
-              placeholder="Artist"
-              id="filterArtist"
-              onChange={onChangeArtist}
-            />
-          </label>
-          <label className={clsx(styles.block, styles.block_genre)}>
-            <select
-              name="genre"
-              id="filterGenre"
-              defaultValue={"0"}
-              onChange={onChangeGenre}
-            >
-              <option value="0" disabled>
-                Genre
-              </option>
-              {genres.map((element) => renderOption(element))};
-            </select>
-          </label>
-          <label className={clsx(styles.block, styles.block_decade)}>
-            <select
-              name="decade"
-              id="filterDecade"
-              defaultValue={"0"}
-              onChange={onChangeDecade}
-            >
-              <option value="0" disabled>
-                Decade
-              </option>
-              {decadeList.map((element) => renderOptionDecade(element))};
-            </select>
-          </label>
-          <label className={clsx(styles.block, styles.block_country)}>
-            <select
-              name="country"
-              id="filterCountry"
-              defaultValue={"0"}
-              onChange={onChangeCountry}
-            >
-              <option value="0" disabled>
-                Country
-              </option>
-              {countriesList.map((element) => renderOption(element))};
-            </select>
-          </label>
-          <button
-            className={clsx("btn", styles.btn, "btn-green")}
-            id="searchButton"
+    <div className="filter">
+      <form className={styles.form} onSubmit={onApplyFilters}>
+        <label className={clsx(styles.block, styles.block_artist)}>
+          <input
+            type="text"
+            name="artist"
+            placeholder="Artist"
+            id="filterArtist"
+            onChange={onChangeArtist}
+          />
+        </label>
+        <label className={clsx(styles.block, styles.block_genre)}>
+          <select
+            name="genre"
+            id="filterGenre"
+            defaultValue={"0"}
+            onChange={onChangeGenre}
           >
-            Search
-          </button>
-        </form>
-      </div>
+            <option value="0" disabled>
+              Genre
+            </option>
+            {genres.map((element) => renderOption(element))};
+          </select>
+        </label>
+        <label className={clsx(styles.block, styles.block_decade)}>
+          <select
+            name="decade"
+            id="filterDecade"
+            defaultValue={"0"}
+            onChange={onChangeDecade}
+          >
+            <option value="0" disabled>
+              Decade
+            </option>
+            {decadeList.map((element) => renderOptionDecade(element))};
+          </select>
+        </label>
+        <label className={clsx(styles.block, styles.block_country)}>
+          <select
+            name="country"
+            id="filterCountry"
+            defaultValue={"0"}
+            onChange={onChangeCountry}
+          >
+            <option value="0" disabled>
+              Country
+            </option>
+            {countriesList.map((element) => renderOption(element))};
+          </select>
+        </label>
+        <button
+          className={clsx("btn", styles.btn, "btn-green")}
+          id="searchButton"
+        >
+          Search
+        </button>
+      </form>
     </div>
   );
 }
