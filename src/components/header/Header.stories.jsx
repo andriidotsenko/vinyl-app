@@ -17,6 +17,6 @@ export const Default = () => <Header favoriteCount={5} collectionCount={2} />;
 
 export const Default2 = (args) => <Header {...args} />;
 Default2.args = {
-  favoriteCount: 54,
+  favoriteCount: 44,
   collectionCount: 45,
 };
