@@ -103,7 +103,7 @@ function Filter({ genres }) {
           </select>
         </label>
         <button
-          className={clsx("btn", styles.btn, "btn-green")}
+          className={clsx("btn", styles.btn, styles["btn-green"])}
           id="searchButton"
         >
           Search

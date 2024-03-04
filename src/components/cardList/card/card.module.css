@@ -1,20 +1,21 @@
 .item-block {
   width: calc(25% - 18px);
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
 }
 
-.item-block__image {
+.image {
   position: relative;
   margin-bottom: 8px;
 }
 
-.item-block__image picture,
-.item-block__image img {
+.image picture,
+.image img {
   overflow: hidden;
   width: 100%;
   border-radius: 8px;
 }
 
-.item-block__fav {
+.fav {
   position: absolute;
   top: 10px;
   left: 10px;
@@ -28,54 +29,50 @@
   cursor: pointer;
 }
 
-.item-block__fav.active path {
-  fill: #fd5d01;
+.fav.active path {
+  fill: #fd0162;
 }
 
-.item-block__name {
+.name {
   margin-bottom: 3px;
   color: var(--dark-blue);
-  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+
   font-size: 14px;
   font-weight: 700;
   line-height: 18px;
 }
 
-.item-block__group {
+.group {
   margin-bottom: 7px;
   color: var(--dark-blue);
-  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 18px;
 }
 
-.item-block__info p {
+.info p {
   color: var(--grey-light);
-  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
 }
 
-.btn-add span,
-.btn-collection span {
+.btn-add {
   position: relative;
-  padding-right: 26px;
+  width: 100%;
+  margin-top: 8px;
+  background-color: var(--dark-blue);
 }
 
-.btn:hover {
-  opacity: 0.8;
+.btn-collection {
+  background-color: var(--blue);
 }
 
-.btn-add span::before,
-.btn-collection span::before {
-  position: absolute;
-  top: 0;
-  right: 0;
-  display: block;
+.btn-add span::after {
   width: 20px;
   height: 20px;
+  margin-left: 16px;
   background-position: center center;
   background-repeat: no-repeat;
-  content: "";
+  content: "+";
+  font-size: 16px;
 }

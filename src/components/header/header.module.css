@@ -15,38 +15,19 @@
   align-items: center;
 }
 
-.icon {
-  display: flex;
-  width: 24px;
-  height: 24px;
-  align-items: center;
-  justify-content: center;
-  background-position: center center;
-  background-repeat: no-repeat;
-}
-
-.back .icon {
-  margin-right: 6px;
+.back::before {
+  margin-right: 16px;
+  content: "<";
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
 }
 
 .actions .icon:not(:last-child) {
   margin-right: 18px;
 }
 
-@media (hover: hover) {
-  .icon_fav:hover path,
-  .icon_folder:hover path {
-    fill: var(--white);
-  }
-}
-
 .icon_fav,
 .icon_folder {
   position: relative;
-}
-
-.icon_back {
-  background-image: url("./assets/ic-arrow-left.svg");
 }
 
 .back {

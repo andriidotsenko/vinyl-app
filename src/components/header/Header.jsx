@@ -8,7 +8,6 @@ function Header({ favoriteCount, collectionCount }) {
       <div className="container">
         <div className={styles.wrap}>
           <a href="/" className={styles.back} id="headerBack">
-            <span className={clsx(styles.icon, styles.icon_back)}></span>
             Back
           </a>
           <div className={styles.actions}>

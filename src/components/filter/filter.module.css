@@ -71,3 +71,6 @@
     width: calc(50% - 6px);
   }
 }
+.btn-green {
+  background-color: var(--dark-green);
+}

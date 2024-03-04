@@ -21,13 +21,13 @@ function Card({
 
   return (
     <div key={id} className={styles["item-block"]}>
-      <div className={styles["item-block__image"]}>
+      <div className={styles.image}>
         <picture>
           <source srcSet={image.normal + " 1x, " + image.double + " 2x"} />
           <img src={image.normal} title={title} alt={title} />
         </picture>
         <div
-          className={clsx(styles["item-block__fav"], {
+          className={clsx(styles.fav, {
             [styles.active]: inFavorites,
           })}
           onClick={handleFavoritesClick}
@@ -64,9 +64,9 @@ function Card({
           )}
         </div>
       </div>
-      <h2 className={styles["item-block__name"]}>{title}</h2>
-      <p className={styles["item-block__group"]}>{artist}</p>
-      <div className={styles["item-block__info"]}>
+      <h2 className={styles.name}>{title}</h2>
+      <p className={styles.group}>{artist}</p>
+      <div className={styles.info}>
         <p>
           Year: <span>{year}</span>
         </p>
@@ -78,7 +78,10 @@ function Card({
         </p>
       </div>
       <button
-        className={clsx("btn", inCollection ? "btn-collection" : "btn-add")}
+        className={clsx(
+          "btn",
+          inCollection ? styles["btn-collection"] : styles["btn-add"]
+        )}
         onClick={handleCollectionClick}
       >
         <span>{inCollection ? "In collection" : "Add"}</span>

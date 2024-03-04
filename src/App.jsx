@@ -49,7 +49,7 @@ export function App() {
   });
 
   const screenWidth = window.innerWidth;
-  const pageSize = screenWidth < 800 ? 3 : 8;
+  const pageSize = screenWidth < 800 ? 6 : 8;
 
   const totalPages = Math.ceil(filteredList.length / pageSize);
   const startIndex = (currentPage - 1) * pageSize;
