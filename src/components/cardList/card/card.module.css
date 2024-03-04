@@ -1,5 +1,3 @@
-
-
 .item-block {
   width: calc(25% - 18px);
 }
@@ -59,13 +57,11 @@
   line-height: 18px;
 }
 
-
 .btn-add span,
 .btn-collection span {
   position: relative;
   padding-right: 26px;
 }
-
 
 .btn:hover {
   opacity: 0.8;
@@ -73,7 +69,6 @@
 
 .btn-add span::before,
 .btn-collection span::before {
-
   position: absolute;
   top: 0;
   right: 0;
