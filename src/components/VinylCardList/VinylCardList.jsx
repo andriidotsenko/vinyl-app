@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import VinylCard from "../VinylCard/VinylCard";
+import VinylCard from "../VinylCard/VinylCard.jsx";
 import styles from "./VinylCardList.module.css";
 
 function VinylCardList({
