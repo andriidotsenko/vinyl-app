@@ -1,13 +1,10 @@
 import { useState } from "react";
+import { genreListData, cardListData } from "./data.jsx";
 
 import Header from "./components/header/Header";
 import GenreList from "./components/genreList/GenreList";
-
-import { genreListData, cardListData } from "./data.jsx";
-
-import Filter from "./components/filter/Filter.jsx";
 import Pagination from "./components/pagination/Pagination.jsx";
-import CardList from "./components/cardList/CardList.jsx";
+import VinylCardList from "./components/CardList/VinylCardList.jsx";
 
 export function App() {
   const genreList = [...genreListData];
@@ -64,10 +61,9 @@ export function App() {
       />
       <main className="main">
         <div className="container">
-          <Filter genres={genreList} />
           <GenreList genres={genreList} />
 
-          <CardList
+          <VinylCardList
             cardList={currentPageItems}
             collectionList={collectionList}
             favoriteList={favoriteList}

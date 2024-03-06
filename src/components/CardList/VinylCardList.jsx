@@ -1,8 +1,8 @@
 import PropTypes from "prop-types";
-import Card from "./card/Card";
-import styles from "./cardList.module.css";
+import VinylCard from "./VinylCard";
+import styles from "./VinylCardList.module.css";
 
-function CardList({
+function VinylCardList({
   cardList,
   collectionList,
   favoriteList,
@@ -12,7 +12,7 @@ function CardList({
   return (
     <div className={styles.cardList}>
       {cardList.map((card) => (
-        <Card
+        <VinylCard
           key={card.id}
           card={card}
           inCollection={collectionList.includes(card.id)}
@@ -25,7 +25,7 @@ function CardList({
   );
 }
 
-CardList.propTypes = {
+VinylCardList.propTypes = {
   cardList: PropTypes.arrayOf(PropTypes.object).isRequired,
   collectionList: PropTypes.arrayOf(PropTypes.number).isRequired,
   favoriteList: PropTypes.arrayOf(PropTypes.number).isRequired,
@@ -33,4 +33,4 @@ CardList.propTypes = {
   handleClickInFavorites: PropTypes.func.isRequired,
 };
 
-export default CardList;
+export default VinylCardList;

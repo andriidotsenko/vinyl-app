@@ -1,8 +1,8 @@
 import PropTypes from "prop-types";
 import clsx from "clsx";
-import styles from "./card.module.css";
+import styles from "./VinylCard.module.css";
 
-function Card({
+function VinylCard({
   card,
   inCollection,
   inFavorites,
@@ -90,7 +90,7 @@ function Card({
   );
 }
 
-Card.propTypes = {
+VinylCard.propTypes = {
   card: PropTypes.shape({
     id: PropTypes.number.isRequired,
     title: PropTypes.string.isRequired,
@@ -109,4 +109,4 @@ Card.propTypes = {
   handleClickInFavorites: PropTypes.func.isRequired,
 };
 
-export default Card;
+export default VinylCard;
