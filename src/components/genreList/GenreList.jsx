@@ -8,7 +8,7 @@ const getRandomRotation = (min, max) =>
   Math.floor(Math.random() * (max - min + 1)) + min;
 
 const renderGenre = (genre) => {
-  const minOffset = 40;
+  const minOffset = 41;
   const maxOffset = 100;
   const minRotation = -30;
   const maxRotation = 45;

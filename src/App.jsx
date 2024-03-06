@@ -1,4 +1,5 @@
 import { useState } from "react";
+
 import { genreListData, cardListData } from "./data.jsx";
 
 import Header from "./components/Header/Header";
