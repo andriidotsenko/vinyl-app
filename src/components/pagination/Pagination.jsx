@@ -1,6 +1,6 @@
 import { clsx } from "clsx";
 import PropTypes from "prop-types";
-import styles from "./pagination.module.css";
+import styles from "./Pagination.module.css";
 
 function Pagination({ totalPages, currentPage, onPageChange }) {
   const renderPaginationLinks = () => (

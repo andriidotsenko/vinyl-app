@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import styles from "./genrelist.module.css";
+import styles from "./GenreList.module.css";
 
 const getRandomOffset = (min, max) =>
   Math.floor(Math.random() * (max - min + 1)) + min;

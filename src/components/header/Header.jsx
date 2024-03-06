@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import styles from "./header.module.css";
+import styles from "./Header.module.css";
 import clsx from "clsx";
 
 function Header({ favoriteCount, collectionCount }) {

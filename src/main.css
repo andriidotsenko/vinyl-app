@@ -9,6 +9,7 @@
   --grey: #6c7072;
   --error: #f00;
   --blue: #106081;
+  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
 }
 
 * {
@@ -34,7 +35,6 @@
   border-radius: 4px;
   color: var(--white);
   cursor: pointer;
-  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 44px;
