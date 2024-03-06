@@ -2,10 +2,10 @@ import { useState } from "react";
 
 import { genreListData, cardListData } from "./data.jsx";
 
-import Header from "./components/Header/Header";
-import Pagination from "./components/Pagination/Pagination";
-import VinylCardList from "./components/VinylCardList/VinylCardList";
-import GenreList from "./components/GenreList/GenreList";
+import Header from "./components/Header/Header.jsx";
+import Pagination from "./components/Pagination/Pagination.jsx";
+import VinylCardList from "./components/VinylCardList/VinylCardList.jsx";
+import GenreList from "./components/GenreList/GenreList.jsx";
 
 export function App() {
   const genreList = [...genreListData];
