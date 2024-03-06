@@ -1,0 +1,19 @@
+.btnAdd {
+  position: relative;
+  width: 100%;
+  background-color: var(--dark-blue);
+}
+
+.btnCollection {
+  background-color: var(--error);
+}
+
+.btnAdd span::after {
+  width: 20px;
+  height: 20px;
+  margin-left: 16px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  content: "+";
+  font-size: 16px;
+}

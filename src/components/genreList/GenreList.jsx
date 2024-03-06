@@ -6,7 +6,7 @@ const GenreList = ({ genres }) => {
   return (
     <div className={styles.list} id="genreItems">
       {genres.length === 0 ? (
-        <p className={styles.not_found}>Not found</p>
+        <p className={styles.not_found}>Dont find Genres</p>
       ) : (
         genres.map((genre) => <GenreItem key={genre.id} genre={genre} />)
       )}

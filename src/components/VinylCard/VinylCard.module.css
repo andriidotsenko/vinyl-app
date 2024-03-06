@@ -1,4 +1,4 @@
-.item-block {
+.block {
   width: calc(25% - 18px);
 }
 
@@ -29,7 +29,7 @@
 }
 
 .fav.active path {
-  fill: #fd0162;
+  fill: var(--error);
 }
 
 .name {
@@ -54,24 +54,4 @@
   color: var(--grey-light);
   font-size: 14px;
   line-height: 18px;
-}
-
-.btn-add {
-  position: relative;
-  width: 100%;
-  background-color: var(--dark-blue);
-}
-
-.btn-collection {
-  background-color: var(--blue);
-}
-
-.btn-add span::after {
-  width: 20px;
-  height: 20px;
-  margin-left: 16px;
-  background-position: center center;
-  background-repeat: no-repeat;
-  content: "+";
-  font-size: 16px;
 }

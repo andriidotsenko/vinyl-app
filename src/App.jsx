@@ -15,26 +15,26 @@ export function App() {
   const [favoriteList, setFavoriteList] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
 
-  function handleClickInCollection(card) {
-    if (collectionList.includes(card.id)) {
+  function handleClickInCollection(cardId) {
+    if (collectionList.includes(cardId)) {
       setCollectionList((prevCollectionList) =>
-        prevCollectionList.filter((item) => item !== card.id)
+        prevCollectionList.filter((id) => id !== cardId)
       );
     } else {
       setCollectionList((prevCollectionList) => [
         ...prevCollectionList,
-        card.id,
+        cardId,
       ]);
     }
   }
 
-  function handleClickInFavorites(card) {
-    if (favoriteList.includes(card.id)) {
+  function handleClickInFavorites(cardId) {
+    if (favoriteList.includes(cardId)) {
       setFavoriteList((prevFavoriteList) =>
-        prevFavoriteList.filter((item) => item !== card.id)
+        prevFavoriteList.filter((id) => id !== cardId)
       );
     } else {
-      setFavoriteList((prevFavoriteList) => [...prevFavoriteList, card.id]);
+      setFavoriteList((prevFavoriteList) => [...prevFavoriteList, cardId]);
     }
   }
 

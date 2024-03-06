@@ -17,8 +17,8 @@ function VinylCardList({
           card={card}
           inCollection={collectionList.includes(card.id)}
           inFavorites={favoriteList.includes(card.id)}
-          handleClickInCollection={() => handleClickInCollection(card)}
-          handleClickInFavorites={() => handleClickInFavorites(card)}
+          handleCollectionToggle={handleClickInCollection}
+          handleFavoritesToggle={handleClickInFavorites}
         />
       ))}
     </div>

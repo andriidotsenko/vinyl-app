@@ -1,5 +1,5 @@
 .header {
-  padding: 19px 0;
+  padding: 16px 0;
   margin-bottom: 15px;
   background-color: var(--dark-green);
 }
@@ -13,46 +13,6 @@
 .actions {
   display: flex;
   align-items: center;
-}
-
-.back::before {
-  margin-right: 16px;
-  content: "<";
-  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
-}
-
-.actions .icon:not(:last-child) {
-  margin-right: 18px;
-}
-
-.icon_fav,
-.icon_folder {
-  position: relative;
-}
-
-.back {
-  display: flex;
-  align-items: center;
-  color: var(--white);
-  font-family: Poppins, Arial, Helvetica, sans-serif;
-  font-size: 18px;
-  line-height: 27px;
-}
-
-.counter {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 21px;
-  height: 21px;
-  border: 1px solid rgb(255, 255, 255);
-  border-radius: 50%;
-  background-color: rgb(153, 0, 64);
-  color: rgb(255, 255, 255);
-  font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
-  font-size: 12px;
-  font-weight: 500;
-  line-height: 20px;
-  text-align: center;
-  white-space: nowrap;
+  padding: 4px 12px;
+  gap: 6px;
 }

@@ -1,26 +1,27 @@
 import PropTypes from "prop-types";
 import clsx from "clsx";
 import styles from "./VinylCard.module.css";
+import CollectionButton from "../CollectionButton/CollectionButton.jsx";
 
 function VinylCard({
   card,
   inCollection,
   inFavorites,
-  handleClickInCollection,
-  handleClickInFavorites,
+  handleCollectionToggle,
+  handleFavoritesToggle,
 }) {
   const { id, title, artist, year, country, genreId, image } = card;
 
-  const handleCollectionClick = () => {
-    handleClickInCollection(card);
+  const onCollectionToggle = () => {
+    handleCollectionToggle(card.id);
   };
 
-  const handleFavoritesClick = () => {
-    handleClickInFavorites(card);
+  const onFavoritesToggle = () => {
+    handleFavoritesToggle(card.id);
   };
 
   return (
-    <div key={id} className={styles["item-block"]}>
+    <div key={id} className={styles.block}>
       <div className={styles.image}>
         <picture>
           <source srcSet={image.normal + " 1x, " + image.double + " 2x"} />
@@ -30,7 +31,7 @@ function VinylCard({
           className={clsx(styles.fav, {
             [styles.active]: inFavorites,
           })}
-          onClick={handleFavoritesClick}
+          onClick={onFavoritesToggle}
           aria-hidden="true"
         >
           {inFavorites ? (
@@ -77,15 +78,10 @@ function VinylCard({
           Country: <span>{country}</span>
         </p>
       </div>
-      <button
-        className={clsx(
-          "btn",
-          inCollection ? styles["btn-collection"] : styles["btn-add"]
-        )}
-        onClick={handleCollectionClick}
-      >
-        <span>{inCollection ? "In collection" : "Add"}</span>
-      </button>
+      <CollectionButton
+        inCollection={inCollection}
+        onClick={onCollectionToggle}
+      />
     </div>
   );
 }
@@ -105,8 +101,8 @@ VinylCard.propTypes = {
   }).isRequired,
   inCollection: PropTypes.bool.isRequired,
   inFavorites: PropTypes.bool.isRequired,
-  handleClickInCollection: PropTypes.func.isRequired,
-  handleClickInFavorites: PropTypes.func.isRequired,
+  handleCollectionToggle: PropTypes.func.isRequired,
+  handleFavoritesToggle: PropTypes.func.isRequired,
 };
 
 export default VinylCard;

@@ -1,0 +1,22 @@
+.icon {
+  position: relative;
+  padding: 0px 5px;
+}
+
+.counter {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 21px;
+  height: 21px;
+  border: 1px solid var(--white);
+  border-radius: 50%;
+  background-color: var(--error);
+  color: var(--white);
+
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  white-space: nowrap;
+}
