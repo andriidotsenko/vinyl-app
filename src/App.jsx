@@ -66,8 +66,8 @@ export function App() {
             cardList={currentPageItems}
             collectionList={collectionList}
             favoriteList={favoriteList}
-            handleClickInCollection={handleClickInCollection}
-            handleClickInFavorites={handleClickInFavorites}
+            onClickInCollection={handleClickInCollection}
+            onClickInFavorites={handleClickInFavorites}
           />
 
           <Pagination

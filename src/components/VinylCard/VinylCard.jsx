@@ -7,17 +7,17 @@ function VinylCard({
   card,
   inCollection,
   inFavorites,
-  handleCollectionToggle,
-  handleFavoritesToggle,
+  onClickInCollection,
+  onClickInFavorites,
 }) {
   const { id, title, artist, year, country, genreId, image } = card;
 
   const onCollectionToggle = () => {
-    handleCollectionToggle(card.id);
+    onClickInCollection(card.id);
   };
 
   const onFavoritesToggle = () => {
-    handleFavoritesToggle(card.id);
+    onClickInFavorites(card.id);
   };
 
   return (
@@ -101,8 +101,8 @@ VinylCard.propTypes = {
   }).isRequired,
   inCollection: PropTypes.bool.isRequired,
   inFavorites: PropTypes.bool.isRequired,
-  handleCollectionToggle: PropTypes.func.isRequired,
-  handleFavoritesToggle: PropTypes.func.isRequired,
+  onClickInCollection: PropTypes.func.isRequired,
+  onClickInFavorites: PropTypes.func.isRequired,
 };
 
 export default VinylCard;

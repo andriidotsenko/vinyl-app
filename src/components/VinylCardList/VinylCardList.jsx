@@ -6,8 +6,8 @@ function VinylCardList({
   cardList,
   collectionList,
   favoriteList,
-  handleClickInCollection,
-  handleClickInFavorites,
+  onClickInCollection,
+  onClickInFavorites,
 }) {
   return (
     <div className={styles.cardList}>
@@ -17,8 +17,8 @@ function VinylCardList({
           card={card}
           inCollection={collectionList.includes(card.id)}
           inFavorites={favoriteList.includes(card.id)}
-          handleCollectionToggle={handleClickInCollection}
-          handleFavoritesToggle={handleClickInFavorites}
+          onCollectionToggle={onClickInCollection}
+          onFavoritesToggle={onClickInFavorites}
         />
       ))}
     </div>
@@ -29,8 +29,8 @@ VinylCardList.propTypes = {
   cardList: PropTypes.arrayOf(PropTypes.object).isRequired,
   collectionList: PropTypes.arrayOf(PropTypes.number).isRequired,
   favoriteList: PropTypes.arrayOf(PropTypes.number).isRequired,
-  handleClickInCollection: PropTypes.func.isRequired,
-  handleClickInFavorites: PropTypes.func.isRequired,
+  onClickInCollection: PropTypes.func.isRequired,
+  onClickInFavorites: PropTypes.func.isRequired,
 };
 
 export default VinylCardList;
