@@ -5,7 +5,7 @@ import { useGenreList } from "./hooks/useGenreList.js";
 import { useCardList } from "./hooks/useCardList.js";
 
 import Header from "./components/Header/Header";
-import Pagination from "./components/Pagination/Pagination";
+import Pagination from "./components/Pagination/Pagination.jsx";
 
 import VinylCardList from "./components/VinylCardList/VinylCardList";
 import GenreList from "./components/GenreList/GenreList.jsx";

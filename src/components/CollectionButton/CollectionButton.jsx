@@ -5,10 +5,10 @@ import styles from "./CollectionButton.module.css";
 import CollectionIcon from "../icons/CollectionIcon/CollectionIcon";
 import AddIcon from "../icons/AddIcon/AddIcon";
 
-function CollectionButton({ inCollection, onClick, className }) {
+function CollectionButton({ inCollection, onClick }) {
   return (
     <Button
-      className={className}
+      className={styles.root}
       unpressedValue={
         <>
           <span className={styles.span}>Add</span>
@@ -30,7 +30,6 @@ function CollectionButton({ inCollection, onClick, className }) {
 CollectionButton.propTypes = {
   inCollection: PropTypes.bool.isRequired,
   onClick: PropTypes.func.isRequired,
-  className: PropTypes.string,
 };
 
 export default CollectionButton;
