@@ -1,4 +1,3 @@
-import React from "react";
 import GenreItem from "./GenreItem";
 
 export default {
