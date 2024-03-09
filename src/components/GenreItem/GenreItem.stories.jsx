@@ -17,7 +17,7 @@ Default.args = {
   genre: {
     id: 1,
     name: "Rock",
-    backgroundColor: "#ff5722",
+    backgroundColor: "#ff5",
     images: [
       "/genrebg/classical1.jpg",
       "/genrebg/classical2.jpg",
