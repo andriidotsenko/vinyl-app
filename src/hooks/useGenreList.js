@@ -78,5 +78,10 @@ export const useGenreList = () => {
     },
   ]);
 
-  return genreList;
+  const getGenreNameById = (id) => {
+    const genre = genreList.find((genre) => genre.id === id);
+    return genre ? genre.name : "Unknown";
+  };
+
+  return { genreList, getGenreNameById };
 };

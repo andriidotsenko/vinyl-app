@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 import clsx from "clsx";
 import styles from "./CollectionButton.module.css";
 import DeleteIcon from "../DeleteIcon/DeleteIcon";
-import AddIcon from "../AddIcon/AddIcon";
+import AddIcon from ".././icons/AddIcon/AddIcon";
 
 function CollectionButton({ inCollection, onClick }) {
   return (
@@ -13,7 +13,14 @@ function CollectionButton({ inCollection, onClick }) {
       )}
       onClick={onClick}
     >
-      {inCollection ? <DeleteIcon /> : <AddIcon />}{" "}
+      {inCollection ? (
+        <DeleteIcon />
+      ) : (
+        <>
+          Add to
+          <AddIcon />
+        </>
+      )}{" "}
     </button>
   );
 }

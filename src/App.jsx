@@ -4,6 +4,7 @@ import { useGenreList } from "./hooks/useGenreList.js";
 import { useCardList } from "./hooks/useCardList.js";
 
 import Header from "./components/Header/Header.jsx";
+import Button from "./Button.jsx";
 import Pagination from "./components/Pagination/Pagination.jsx";
 import VinylCardList from "./components/VinylCardList/VinylCardList";
 import GenreList from "./components/GenreList/GenreList.jsx";
@@ -13,7 +14,7 @@ export function App() {
   const [favoriteList, setFavoriteList] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
 
-  function handleClickInCollection(cardId) {
+  function handleCollectionToggle(cardId) {
     if (collectionList.includes(cardId)) {
       setCollectionList((prevCollectionList) =>
         prevCollectionList.filter((id) => id !== cardId)
@@ -26,7 +27,7 @@ export function App() {
     }
   }
 
-  function handleClickInFavorites(cardId) {
+  function handleClickInCollection(cardId) {
     if (favoriteList.includes(cardId)) {
       setFavoriteList((prevFavoriteList) =>
         prevFavoriteList.filter((id) => id !== cardId)
@@ -66,8 +67,8 @@ export function App() {
             cardList={currentPageItems}
             collectionList={collectionList}
             favoriteList={favoriteList}
-            onClickInCollection={handleClickInCollection}
-            onClickInFavorites={handleClickInFavorites}
+            onClickInCollection={handleCollectionToggle}
+            onClickInFavorites={handleClickInCollection}
           />
 
           <Pagination
@@ -76,6 +77,7 @@ export function App() {
             onPageChange={handlePageChange}
           />
         </div>
+        <Button />
       </main>
     </>
   );

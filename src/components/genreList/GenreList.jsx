@@ -1,28 +1,19 @@
-import PropTypes from "prop-types";
-import GenreItem from "../GenreItem/GenreItem";
+import GenreItem from "../GenreItem/GenreItem.jsx";
 import styles from "./GenreList.module.css";
+import { useGenreList } from "../../hooks/useGenreList.js";
 
-const GenreList = ({ genres }) => {
+const GenreList = () => {
+  const { genreList } = useGenreList();
+
   return (
     <div className={styles.list} id="genreItems">
-      {genres.length === 0 ? (
+      {genreList.length === 0 ? (
         <p className={styles.not_found}>Dont find Genres</p>
       ) : (
-        genres.map((genre) => <GenreItem key={genre.id} genre={genre} />)
+        genreList.map((genre) => <GenreItem key={genre.id} genre={genre} />)
       )}
     </div>
   );
-};
-
-GenreList.propTypes = {
-  genres: PropTypes.arrayOf(
-    PropTypes.shape({
-      id: PropTypes.number.isRequired,
-      name: PropTypes.string.isRequired,
-      backgroundColor: PropTypes.string.isRequired,
-      images: PropTypes.arrayOf(PropTypes.string).isRequired,
-    })
-  ).isRequired,
 };
 
 export default GenreList;

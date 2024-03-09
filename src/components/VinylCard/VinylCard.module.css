@@ -14,24 +14,6 @@
   border-radius: 8px;
 }
 
-.fav {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  display: flex;
-  width: 24px;
-  height: 24px;
-  align-items: center;
-  justify-content: center;
-  border-radius: 4px;
-  background-color: var(--white);
-  cursor: pointer;
-}
-
-.fav.active path {
-  fill: var(--error);
-}
-
 .name {
   margin-bottom: 3px;
   color: var(--dark-blue);
