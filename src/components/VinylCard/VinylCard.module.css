@@ -1,5 +1,6 @@
 .block {
-  width: calc(25% - 18px);
+  /* width: calc(25% - 18px); */
+  text-wrap: nowrap;
 }
 
 .image {
@@ -15,25 +16,38 @@
 }
 
 .name {
+  overflow: hidden;
   margin-bottom: 3px;
   color: var(--dark-blue);
 
   font-size: 14px;
   font-weight: 700;
   line-height: 18px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .group {
-  margin-bottom: 7px;
+  overflow: hidden;
+  margin-bottom: 8px;
   color: var(--dark-blue);
   font-size: 14px;
   font-weight: 500;
   line-height: 18px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .info p {
+  overflow: hidden;
   margin-bottom: 8px;
   color: var(--grey-light);
   font-size: 14px;
   line-height: 18px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.root {
+  fill: var(--white);
 }

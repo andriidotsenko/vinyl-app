@@ -1,33 +1,36 @@
 import PropTypes from "prop-types";
-import clsx from "clsx";
+import Button from "../Button/Button";
 import styles from "./CollectionButton.module.css";
-import DeleteIcon from "../DeleteIcon/DeleteIcon";
-import AddIcon from ".././icons/AddIcon/AddIcon";
 
-function CollectionButton({ inCollection, onClick }) {
+import CollectionIcon from "../icons/CollectionIcon/CollectionIcon";
+import AddIcon from "../icons/AddIcon/AddIcon";
+
+function CollectionButton({ inCollection, onClick, className }) {
   return (
-    <button
-      className={clsx(
-        "btn",
-        inCollection ? styles.btnCollection : styles.btnAdd
-      )}
-      onClick={onClick}
-    >
-      {inCollection ? (
-        <DeleteIcon />
-      ) : (
+    <Button
+      className={className}
+      unpressedValue={
         <>
-          Add to
+          <span className={styles.span}>Add</span>
           <AddIcon />
         </>
-      )}{" "}
-    </button>
+      }
+      pressedValue={
+        <>
+          <span className={styles.span}>In collection </span>
+          <CollectionIcon />
+        </>
+      }
+      isPressed={inCollection}
+      onClick={onClick}
+    />
   );
 }
 
 CollectionButton.propTypes = {
   inCollection: PropTypes.bool.isRequired,
   onClick: PropTypes.func.isRequired,
+  className: PropTypes.string,
 };
 
 export default CollectionButton;

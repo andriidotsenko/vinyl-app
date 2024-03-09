@@ -1,3 +1,6 @@
+/* eslint-disable no-unused-vars */
+import { useState } from "react";
+
 export const useCountriesList = () => {
   const [countriesList, setCountriesList] = useState([
     {

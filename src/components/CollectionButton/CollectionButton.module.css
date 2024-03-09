@@ -1,11 +1,3 @@
-.btnAdd {
-  position: relative;
-  width: 100%;
-  background-color: var(--dark-blue);
-  fill: var(--white);
-}
-
-.btnCollection {
-  color: var();
-  background-color: var(--error);
+span:not(:last-child) {
+  margin-right: 8px;
 }

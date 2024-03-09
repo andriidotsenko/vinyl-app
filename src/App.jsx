@@ -1,11 +1,12 @@
+/* eslint-disable import/no-unresolved */
 import { useState } from "react";
 
 import { useGenreList } from "./hooks/useGenreList.js";
 import { useCardList } from "./hooks/useCardList.js";
 
-import Header from "./components/Header/Header.jsx";
-import Button from "./Button.jsx";
-import Pagination from "./components/Pagination/Pagination.jsx";
+import Header from "./components/Header/Header";
+import Pagination from "./components/Pagination/Pagination";
+
 import VinylCardList from "./components/VinylCardList/VinylCardList";
 import GenreList from "./components/GenreList/GenreList.jsx";
 
@@ -46,7 +47,7 @@ export function App() {
   });
 
   const screenWidth = window.innerWidth;
-  const pageSize = screenWidth < 800 ? 6 : 8;
+  const pageSize = screenWidth < 800 ? 6 : 10;
 
   const totalPages = Math.ceil(filteredList.length / pageSize);
   const startIndex = (currentPage - 1) * pageSize;
@@ -77,7 +78,6 @@ export function App() {
             onPageChange={handlePageChange}
           />
         </div>
-        <Button />
       </main>
     </>
   );

@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import styles from "./FavoriteButton.module.css";
-import ActiveFavoriteIcon from "../icons/ActiveFavoriteIcon.jsx";
-import InactiveFavoriteIcon from "../icons/InactiveFavoriteIcon.jsx";
+import ActiveFavoriteIcon from "../icons/ActiveFavoriteIcon/ActiveFavoriteIcon.jsx";
+import InactiveFavoriteIcon from "../icons/InactiveFavoriteIcon/InactiveFavoriteIcon.jsx";
 
 function FavoriteButton({ isFill, onFavoritesToggle }) {
   return (

@@ -17,14 +17,6 @@ function VinylCard({
   const { getGenreNameById } = useGenreList();
   const genreName = getGenreNameById(genreId);
 
-  const onCollectionToggle = () => {
-    onClickInCollection(card.id);
-  };
-
-  const onFavoritesToggle = () => {
-    onClickInFavorites(card.id);
-  };
-
   return (
     <div key={id} className={styles.block}>
       <div className={styles.image}>
@@ -35,7 +27,9 @@ function VinylCard({
         <FavoriteButton
           inFavorites={inFavorites}
           isFill={inFavorites}
-          onFavoritesToggle={onFavoritesToggle}
+          onFavoritesToggle={() => {
+            onClickInFavorites(card.id);
+          }}
         />
       </div>
       <h2 className={styles.name}>{title}</h2>
@@ -52,8 +46,11 @@ function VinylCard({
         </p>
       </div>
       <CollectionButton
+        className={styles.root}
         inCollection={inCollection}
-        onClick={onCollectionToggle}
+        onClick={() => {
+          onClickInCollection(card.id);
+        }}
       />
     </div>
   );
