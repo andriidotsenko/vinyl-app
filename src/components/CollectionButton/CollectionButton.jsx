@@ -1,34 +1,23 @@
+import { Button } from "../Button/Button";
 import PropTypes from "prop-types";
-import Button from "../Button/Button";
-import styles from "./CollectionButton.module.css";
-
 import CollectionIcon from "../Icon/CollectionIcon";
 import AddIcon from "../Icon/AddIcon";
 
-function CollectionButton({ inCollection, onClick }) {
+export const CollectionButton = ({ isActive, onClick }) => {
   return (
     <Button
-      className={styles.root}
-      unpressedValue={
-        <>
-          <span className={styles.span}>Add</span>
-          <AddIcon />
-        </>
-      }
-      pressedValue={
-        <>
-          <span className={styles.span}>In collection </span>
-          <CollectionIcon />
-        </>
-      }
-      isPressed={inCollection}
+      variant={isActive ? "secondary" : "primary"}
+      isFullWidth
       onClick={onClick}
-    />
+      icon={isActive ? <CollectionIcon /> : <AddIcon />}
+    >
+      {isActive ? "In collection" : "Add"}
+    </Button>
   );
-}
+};
 
 CollectionButton.propTypes = {
-  inCollection: PropTypes.bool.isRequired,
+  isActive: PropTypes.bool,
   onClick: PropTypes.func.isRequired,
 };
 

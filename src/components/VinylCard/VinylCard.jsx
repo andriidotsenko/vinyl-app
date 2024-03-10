@@ -11,7 +11,7 @@ function VinylCard({
   onClickInCollection,
   onClickInFavorites,
 }) {
-  const { id, title, artist, year, country, genreId, image } = card;
+  const { id, title, artist, year, country, genre, image } = card;
 
   return (
     <div key={id} className={styles.block}>
@@ -36,7 +36,7 @@ function VinylCard({
           Year: <span>{year}</span>
         </p>
         <p>
-          Genre: <span>{genreId}</span>
+          Genre: <span>{genre}</span>
         </p>
         <p>
           Country: <span>{country}</span>
@@ -44,7 +44,7 @@ function VinylCard({
       </div>
       <CollectionButton
         className={styles.root}
-        inCollection={inCollection}
+        isActive={inCollection}
         onClick={() => {
           onClickInCollection(card.id);
         }}
@@ -60,7 +60,7 @@ VinylCard.propTypes = {
     artist: PropTypes.string.isRequired,
     year: PropTypes.number.isRequired,
     country: PropTypes.string.isRequired,
-    genreId: PropTypes.number.isRequired,
+    genre: PropTypes.string.isRequired,
     image: PropTypes.shape({
       normal: PropTypes.string.isRequired,
       double: PropTypes.string.isRequired,

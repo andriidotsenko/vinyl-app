@@ -1,34 +1,35 @@
+import clsx from "clsx";
 import PropTypes from "prop-types";
 import styles from "./Button.module.css";
 
 export const Button = ({
-  isPressed,
-  onClick,
+  variant = "primary",
+  isFullWidth = false,
+  children,
+  icon,
   className,
-  pressedValue,
-  unpressedValue,
-  ...rest
+  ...props
 }) => {
-  const buttonText = isPressed ? pressedValue : unpressedValue;
-
   return (
     <button
-      className={`${styles.button} ${
-        isPressed ? styles.pressed : styles.unpressed
-      } ${className}`}
-      onClick={onClick}
-      {...rest}
+      className={clsx(styles.root, className, {
+        [styles.isFullWidth]: isFullWidth,
+        [styles.primary]: variant === "primary",
+        [styles.secondary]: variant === "secondary",
+      })}
+      {...props}
     >
-      {buttonText}
+      <span className={styles.label}>{children}</span>
+      <span className={styles.icon}>{icon}</span>
     </button>
   );
 };
 
 Button.propTypes = {
-  isPressed: PropTypes.bool,
-  onClick: PropTypes.func,
-  pressedValue: PropTypes.node,
-  unpressedValue: PropTypes.node,
+  variant: PropTypes.oneOf(["primary", "secondary"]),
+  isFullWidth: PropTypes.bool,
+  children: PropTypes.node,
+  icon: PropTypes.node,
   className: PropTypes.string,
 };
 
