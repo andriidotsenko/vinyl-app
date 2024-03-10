@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import styles from "./GenreItem.module.css";
 
-const GenreItem = ({ id, name, backgroundColor, images }) => {
+const GenreItem = ({ name, backgroundColor, images }) => {
   const getRandomOffset = (min, max) =>
     Math.floor(Math.random() * (max - min + 1)) + min;
 
