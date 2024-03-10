@@ -9,7 +9,7 @@ export const useGenreList = () => {
     return "#" + "0".repeat(6 - hex.length) + hex;
   };
 
-  const [genreList] = useState(() => [
+  const [genreList] = useState([
     {
       id: 1,
       name: "Rock",
@@ -78,10 +78,5 @@ export const useGenreList = () => {
     },
   ]);
 
-  const getGenreNameById = (id) => {
-    const genre = genreList.find((genre) => genre.id === id);
-    return genre ? genre.name : "Unknown";
-  };
-
-  return { genreList, getGenreNameById };
+  return genreList;
 };

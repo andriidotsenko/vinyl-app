@@ -1,11 +1,8 @@
 import { useState } from "react";
-
-import { useGenreList } from "./hooks/useGenreList.js";
 import { useVinylCardList } from "./hooks/useVinylCardList.js";
 
 import Header from "./components/Header/Header.jsx";
 import Pagination from "./components/Pagination/Pagination.jsx";
-
 import VinylCardList from "./components/VinylCardList/VinylCardList.jsx";
 import GenreList from "./components/GenreList/GenreList.jsx";
 
@@ -14,8 +11,7 @@ export function App() {
   const [favoriteList, setFavoriteList] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
 
-  const GenreListData = () => useGenreList();
-  const VinylCardListData = () => useVinylCardList();
+  const vinylCardListData = useVinylCardList();
 
   function handleCollectionToggle(cardId) {
     if (collectionList.includes(cardId)) {
@@ -44,12 +40,11 @@ export function App() {
     setCurrentPage(pageNumber);
   }
 
-  const filteredList = VinylCardListData().filter((item) => {
+  const filteredList = vinylCardListData.filter((item) => {
     return item.title.toLowerCase().indexOf("") !== -1;
   });
 
   const screenWidth = window.innerWidth;
-
   const pageSize =
     screenWidth < 500
       ? 6
@@ -60,7 +55,6 @@ export function App() {
       : screenWidth < 1440
       ? 12
       : 10;
-
   const totalPages = Math.ceil(filteredList.length / pageSize);
   const startIndex = (currentPage - 1) * pageSize;
   const endIndex = Math.min(startIndex + pageSize - 1, filteredList.length - 1);
@@ -74,8 +68,7 @@ export function App() {
       />
       <main className="main">
         <div className="container">
-          <GenreList genres={GenreListData()} />
-
+          <GenreList />
           <VinylCardList
             cardList={currentPageItems}
             collectionList={collectionList}
@@ -83,7 +76,6 @@ export function App() {
             onClickInCollection={handleCollectionToggle}
             onClickInFavorites={handleClickInCollection}
           />
-
           <Pagination
             totalPages={totalPages}
             currentPage={currentPage}

@@ -3,7 +3,7 @@ import styles from "./GenreList.module.css";
 import { useGenreList } from "../../hooks/useGenreList.js";
 
 const GenreList = () => {
-  const { genreList } = useGenreList();
+  const genreList = useGenreList();
 
   return (
     <div className={styles.list} id="genreItems">
