@@ -3,24 +3,21 @@ import GenreItem from "./GenreItem";
 export default {
   title: "GenreItem",
   component: GenreItem,
-  argTypes: {
-    genre: { control: { disable: true } }, // Для блокировки изменений genre
-    backgroundColor: { control: "color" }, // Контроль для цвета backgroundColor
-  },
+  genre: { control: { disable: true } },
+  backgroundColor: { control: "color" },
+  images: { control: "text" },
 };
 
 const Template = (args) => <GenreItem {...args} />;
 
 export const Default = Template.bind({});
 Default.args = {
-  genre: {
-    id: 1,
-    name: "Rock",
-    backgroundColor: "#ff5",
-    images: [
-      "/genrebg/classical1.jpg",
-      "/genrebg/classical2.jpg",
-      "/genrebg/classical3.jpg",
-    ],
-  },
+  id: 1,
+  name: "Rock",
+  backgroundColor: "red",
+  images: [
+    "/genrebg/classical1.jpg",
+    "/genrebg/classical2.jpg",
+    "/genrebg/classical3.jpg",
+  ],
 };

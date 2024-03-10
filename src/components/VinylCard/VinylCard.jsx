@@ -21,7 +21,13 @@ function VinylCard({
     <div key={id} className={styles.block}>
       <div className={styles.image}>
         <picture>
-          <source srcSet={image.normal + " 1x, " + image.double + " 2x"} />
+          {/* Source for normal resolution */}
+          <source srcSet={image.normal} media="(max-width: 768px)" />
+
+          {/* Source for high resolution */}
+          <source srcSet={image.double} media="(min-width: 769px)" />
+
+          {/* Fallback image */}
           <img src={image.normal} title={title} alt={title} />
         </picture>
         <FavoriteButton

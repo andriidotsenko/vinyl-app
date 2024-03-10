@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import styles from "./GenreItem.module.css";
 
-const GenreItem = ({ genre }) => {
+const GenreItem = ({ id, name, backgroundColor, images }) => {
   const getRandomOffset = (min, max) =>
     Math.floor(Math.random() * (max - min + 1)) + min;
 
@@ -21,26 +21,22 @@ const GenreItem = ({ genre }) => {
   };
 
   const textColor =
-    getBrightness(genre.backgroundColor) > 128
-      ? "var(--dark-green)"
-      : "var(--white)";
+    getBrightness(backgroundColor) > 128 ? "var(--dark-green)" : "var(--white)";
 
   return (
     <div
-      key={genre.id}
-      value={genre.id}
       className={styles.item}
       style={{
-        backgroundColor: genre.backgroundColor,
+        backgroundColor: backgroundColor,
         color: textColor,
       }}
     >
-      <div className={styles.title}>{genre.name}</div>
-      {genre.images.map((image, index) => (
+      <div className={styles.title}>{name}</div>
+      {images.map((image, index) => (
         <img
           key={index}
           src={image}
-          alt={`${genre.name}_Image${index + 1}`}
+          alt={`${name}_Image${index + 1}`}
           style={{
             position: "absolute",
             width: "70px",
@@ -59,12 +55,10 @@ const GenreItem = ({ genre }) => {
 };
 
 GenreItem.propTypes = {
-  genre: PropTypes.shape({
-    id: PropTypes.number.isRequired,
-    name: PropTypes.string.isRequired,
-    backgroundColor: PropTypes.string.isRequired,
-    images: PropTypes.arrayOf(PropTypes.string).isRequired,
-  }).isRequired,
+  id: PropTypes.number.isRequired,
+  name: PropTypes.string.isRequired,
+  backgroundColor: PropTypes.string.isRequired,
+  images: PropTypes.arrayOf(PropTypes.string).isRequired,
 };
 
 export default GenreItem;

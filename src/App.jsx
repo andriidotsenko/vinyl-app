@@ -47,7 +47,17 @@ export function App() {
   });
 
   const screenWidth = window.innerWidth;
-  const pageSize = screenWidth < 800 ? 6 : 10;
+
+  const pageSize =
+    screenWidth < 500
+      ? 6
+      : screenWidth < 768
+      ? 8
+      : screenWidth < 1024
+      ? 9
+      : screenWidth < 1440
+      ? 12
+      : 10;
 
   const totalPages = Math.ceil(filteredList.length / pageSize);
   const startIndex = (currentPage - 1) * pageSize;

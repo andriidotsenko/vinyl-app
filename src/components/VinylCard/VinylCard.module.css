@@ -1,11 +1,25 @@
 .block {
-  /* width: calc(25% - 18px); */
+  display: flex;
+  max-width: 500px;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 8px;
+  border: 1px solid var(--grey-btn);
+  border-radius: 8px;
+  background-color: var(--white);
   text-wrap: nowrap;
+  transition: all 0.1s;
+}
+
+.block:hover {
+  border-color: var(--grey-light);
 }
 
 .image {
   position: relative;
+  flex: 1 1 auto;
   margin-bottom: 8px;
+  aspect-ratio: 1;
 }
 
 .image picture,

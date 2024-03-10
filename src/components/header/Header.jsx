@@ -10,7 +10,7 @@ function Header({ favoriteCount, collectionCount }) {
     <header className={styles.header}>
       <div className="container">
         <div className={styles.wrap}>
-          <BackButton />
+          <BackButton buttonText={"Back"} />
           <div className={styles.actions}>
             <HeaderCountingButton
               count={favoriteCount}

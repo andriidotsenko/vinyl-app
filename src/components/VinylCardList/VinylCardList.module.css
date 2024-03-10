@@ -1,7 +1,7 @@
 .cardList {
   display: grid;
   margin-bottom: 20px;
-  grid-gap: 24px;
+  grid-gap: 20px;
 
   grid-template-columns: repeat(1, 1fr);
 }

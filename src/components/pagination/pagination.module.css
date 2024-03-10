@@ -2,20 +2,23 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 2px;
+  margin-bottom: 16px;
+  gap: 8px;
   text-align: center;
 }
 
 .item {
-  display: inline-block;
+  display: flex;
   width: 40px;
   height: 40px;
+  align-items: center;
+  justify-content: center;
   border-radius: 4px;
   color: var(--grey-light);
-  font-size: 14px;
-  font-weight: 500;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 400;
   line-height: 40px;
-  text-align: center;
 }
 
 .item.active {
@@ -24,6 +27,11 @@
   transition: opacity 0.3s;
 }
 
-.pagination__item.active:hover {
-  opacity: 0.8;
+.item:hover {
+  background-color: var(--blue);
+  color: var(--white);
+}
+
+.item:active {
+  opacity: 0.7;
 }

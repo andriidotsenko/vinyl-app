@@ -10,7 +10,7 @@ const GenreList = () => {
       {genreList.length === 0 ? (
         <p className={styles.not_found}>Dont find Genres</p>
       ) : (
-        genreList.map((genre) => <GenreItem key={genre.id} genre={genre} />)
+        genreList.map((genre) => <GenreItem key={genre.id} {...genre} />)
       )}
     </div>
   );

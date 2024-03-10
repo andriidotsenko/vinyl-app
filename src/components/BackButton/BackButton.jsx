@@ -1,13 +1,22 @@
+import PropTypes from "prop-types";
 import BackIcon from "../icons/BackIcon/BackIcon";
 import styles from "./BackButton.module.css";
 
-function BackButton() {
+function BackButton({ buttonText }) {
   return (
     <a href="/" className={styles.back} id="headerBack">
       <BackIcon />
-      Go back
+      {buttonText}
     </a>
   );
 }
+
+BackButton.propTypes = {
+  buttonText: PropTypes.string,
+};
+
+BackButton.defaultProps = {
+  buttonText: "Back",
+};
 
 export default BackButton;
