@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import { useState } from "react";
 
 export const useGenreList = () => {
@@ -10,7 +9,7 @@ export const useGenreList = () => {
     return "#" + "0".repeat(6 - hex.length) + hex;
   };
 
-  const [genreList, setGenreList] = useState([
+  const [genreList] = useState(() => [
     {
       id: 1,
       name: "Rock",

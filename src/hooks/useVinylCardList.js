@@ -1,8 +1,11 @@
-/* eslint-disable no-unused-vars */
 import { useState } from "react";
+import { useCountriesList } from "./useCountriesList";
+import { useGenreList } from "./useGenreList";
 
-export const useCardList = () => {
-  const [cardList, setCardList] = useState([
+export const useVinylCardList = () => {
+  const countries = useCountriesList();
+  const { genreList } = useGenreList(); // Destructure genreList from the returned object
+  const [vinylCardList] = useState([
     {
       id: 1,
       image: {
@@ -220,5 +223,18 @@ export const useCardList = () => {
       country: "USA",
     },
   ]);
-  return cardList;
+
+  return vinylCardList.map((vinyl) => {
+    const countryName =
+      countries.find((country) => country.id === vinyl.country)?.name ??
+      "Unknown";
+    const genre =
+      genreList.find((genre) => genre.id === vinyl.genreId)?.name ?? "Unknown";
+
+    return {
+      ...vinyl,
+      countryName,
+      genre,
+    };
+  });
 };

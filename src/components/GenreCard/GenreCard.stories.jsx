@@ -1,14 +1,14 @@
-import GenreItem from "./GenreItem";
+import GenreCard from "./GenreCard.jsx";
 
 export default {
-  title: "GenreItem",
-  component: GenreItem,
+  title: "GenreCard",
+  component: GenreCard,
   genre: { control: { disable: true } },
   backgroundColor: { control: "color" },
   images: { control: "text" },
 };
 
-const Template = (args) => <GenreItem {...args} />;
+const Template = (args) => <GenreCard {...args} />;
 
 export const Default = Template.bind({});
 Default.args = {

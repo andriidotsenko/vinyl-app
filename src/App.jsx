@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import { useGenreList } from "./hooks/useGenreList.js";
-import { useCardList } from "./hooks/useCardList.js";
+import { useVinylCardList } from "./hooks/useVinylCardList.js";
 
 import Header from "./components/Header/Header";
 import Pagination from "./components/Pagination/Pagination.jsx";
@@ -13,6 +13,9 @@ export function App() {
   const [collectionList, setCollectionList] = useState([]);
   const [favoriteList, setFavoriteList] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
+
+  const GenreListData = () => useGenreList();
+  const VinylCardListData = () => useVinylCardList();
 
   function handleCollectionToggle(cardId) {
     if (collectionList.includes(cardId)) {
@@ -41,7 +44,7 @@ export function App() {
     setCurrentPage(pageNumber);
   }
 
-  const filteredList = useCardList().filter((item) => {
+  const filteredList = VinylCardListData().filter((item) => {
     return item.title.toLowerCase().indexOf("") !== -1;
   });
 
@@ -71,7 +74,7 @@ export function App() {
       />
       <main className="main">
         <div className="container">
-          <GenreList genres={useGenreList()} />
+          <GenreList genres={GenreListData()} />
 
           <VinylCardList
             cardList={currentPageItems}

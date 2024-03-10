@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
-import styles from "./GenreItem.module.css";
+import styles from "./GenreCard.module.css";
 
-const GenreItem = ({ name, backgroundColor, images }) => {
+const GenreCard = ({ name, backgroundColor, images }) => {
   const getRandomOffset = (min, max) =>
     Math.floor(Math.random() * (max - min + 1)) + min;
 
@@ -54,11 +54,11 @@ const GenreItem = ({ name, backgroundColor, images }) => {
   );
 };
 
-GenreItem.propTypes = {
+GenreCard.propTypes = {
   id: PropTypes.number.isRequired,
   name: PropTypes.string.isRequired,
   backgroundColor: PropTypes.string.isRequired,
   images: PropTypes.arrayOf(PropTypes.string).isRequired,
 };
 
-export default GenreItem;
+export default GenreCard;

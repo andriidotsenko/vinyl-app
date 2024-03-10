@@ -2,8 +2,8 @@ import PropTypes from "prop-types";
 import styles from "./Header.module.css";
 import HeaderCountingButton from "../HeaderCountingButton/HeaderCountingButton";
 import BackButton from "../BackButton/BackButton";
-import InactiveFavoriteIcon from "../icons/InactiveFavoriteIcon/InactiveFavoriteIcon";
-import CollectionIcon from "../icons/CollectionIcon/CollectionIcon";
+import InactiveFavoriteIcon from "../Icon/InactiveFavoriteIcon";
+import CollectionIcon from "../Icon/CollectionIcon";
 
 function Header({ favoriteCount, collectionCount }) {
   return (

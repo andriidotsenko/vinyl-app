@@ -2,8 +2,8 @@ import PropTypes from "prop-types";
 import Button from "../Button/Button";
 import styles from "./CollectionButton.module.css";
 
-import CollectionIcon from "../icons/CollectionIcon/CollectionIcon";
-import AddIcon from "../icons/AddIcon/AddIcon";
+import CollectionIcon from "../Icon/CollectionIcon";
+import AddIcon from "../Icon/AddIcon";
 
 function CollectionButton({ inCollection, onClick }) {
   return (

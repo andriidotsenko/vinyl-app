@@ -1,11 +1,11 @@
 import PropTypes from "prop-types";
 import styles from "./FavoriteButton.module.css";
-import ActiveFavoriteIcon from "../icons/ActiveFavoriteIcon/ActiveFavoriteIcon.jsx";
-import InactiveFavoriteIcon from "../icons/InactiveFavoriteIcon/InactiveFavoriteIcon.jsx";
+import ActiveFavoriteIcon from "../Icon/ActiveFavoriteIcon.jsx";
+import InactiveFavoriteIcon from "../Icon/InactiveFavoriteIcon.jsx";
 
-function FavoriteButton({ isFill, onFavoritesToggle }) {
+function FavoriteButton({ isFill, onClick }) {
   return (
-    <button className={styles.fav} onClick={onFavoritesToggle}>
+    <button className={styles.fav} onClick={onClick}>
       {isFill ? <ActiveFavoriteIcon /> : <InactiveFavoriteIcon />}
     </button>
   );
@@ -13,7 +13,7 @@ function FavoriteButton({ isFill, onFavoritesToggle }) {
 
 FavoriteButton.propTypes = {
   isFill: PropTypes.bool.isRequired,
-  onFavoritesToggle: PropTypes.func.isRequired,
+  onClick: PropTypes.func.isRequired,
 };
 
 export default FavoriteButton;

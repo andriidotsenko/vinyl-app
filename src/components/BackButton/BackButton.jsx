@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import BackIcon from "../icons/BackIcon/BackIcon";
+import BackIcon from "../Icon/BackIcon";
 import styles from "./BackButton.module.css";
 
 function BackButton({ buttonText }) {

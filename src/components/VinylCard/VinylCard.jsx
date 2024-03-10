@@ -2,7 +2,6 @@ import PropTypes from "prop-types";
 import styles from "./VinylCard.module.css";
 import CollectionButton from "../CollectionButton/CollectionButton.jsx";
 
-import { useGenreList } from "../../hooks/useGenreList.js";
 import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 
 function VinylCard({
@@ -14,26 +13,18 @@ function VinylCard({
 }) {
   const { id, title, artist, year, country, genreId, image } = card;
 
-  const { getGenreNameById } = useGenreList();
-  const genreName = getGenreNameById(genreId);
-
   return (
     <div key={id} className={styles.block}>
       <div className={styles.image}>
         <picture>
-          {/* Source for normal resolution */}
-          <source srcSet={image.normal} media="(max-width: 768px)" />
-
-          {/* Source for high resolution */}
-          <source srcSet={image.double} media="(min-width: 769px)" />
-
-          {/* Fallback image */}
+          <source srcSet={image.normal} media="(max-width: 768.98px)" />
+          <source srcSet={image.double} media="(min-width: 768.99px)" />
           <img src={image.normal} title={title} alt={title} />
         </picture>
         <FavoriteButton
           inFavorites={inFavorites}
           isFill={inFavorites}
-          onFavoritesToggle={() => {
+          onClick={() => {
             onClickInFavorites(card.id);
           }}
         />
@@ -45,7 +36,7 @@ function VinylCard({
           Year: <span>{year}</span>
         </p>
         <p>
-          Genre: <span>{genreName}</span>
+          Genre: <span>{genreId}</span>
         </p>
         <p>
           Country: <span>{country}</span>

@@ -1,16 +1,15 @@
-/* eslint-disable no-unused-vars */
 import { useState } from "react";
 
 export const useDecadeList = () => {
-  const [decadeList, setDecadeList] = useState([
-    { id: 1, value: "50-60", label: "1950-60 pp." },
-    { id: 2, value: "60-70", label: "1960-70 pp." },
-    { id: 3, value: "70-80", label: "1970-80 pp." },
-    { id: 4, value: "80-90", label: "1980-90 pp." },
-    { id: 5, value: "90-00", label: "1990-00 pp." },
-    { id: 6, value: "00-10", label: "2000-10 pp." },
-    { id: 7, value: "10-20", label: "2010-20 pp." },
-    { id: 8, value: "20-30", label: "2020-30 pp." },
+  const [decadeList] = useState([
+    { id: 1, yearFrom: 1950, yearTo: 1959, label: "1950-1959" },
+    { id: 2, yearFrom: 1960, yearTo: 1969, label: "1960-1969" },
+    { id: 3, yearFrom: 1970, yearTo: 1979, label: "1970-1979" },
+    { id: 4, yearFrom: 1980, yearTo: 1989, label: "1980-1989" },
+    { id: 5, yearFrom: 1990, yearTo: 1999, label: "1990-1999" },
+    { id: 6, yearFrom: 2000, yearTo: 2009, label: "2000-2009" },
+    { id: 7, yearFrom: 2010, yearTo: 2019, label: "2010-2019" },
+    { id: 8, yearFrom: 2020, yearTo: 2029, label: "2020-2029" },
   ]);
 
   return decadeList;

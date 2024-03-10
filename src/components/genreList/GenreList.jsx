@@ -1,4 +1,4 @@
-import GenreItem from "../GenreItem/GenreItem.jsx";
+import GenreCard from "../GenreCard/GenreCard.jsx";
 import styles from "./GenreList.module.css";
 import { useGenreList } from "../../hooks/useGenreList.js";
 
@@ -10,7 +10,7 @@ const GenreList = () => {
       {genreList.length === 0 ? (
         <p className={styles.not_found}>Dont find Genres</p>
       ) : (
-        genreList.map((genre) => <GenreItem key={genre.id} {...genre} />)
+        genreList.map((genre) => <GenreCard key={genre.id} {...genre} />)
       )}
     </div>
   );
