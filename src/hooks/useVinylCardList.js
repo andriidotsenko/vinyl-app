@@ -4,7 +4,7 @@ import { useGenreList } from "./useGenreList";
 
 export const useVinylCardList = () => {
   const countries = useCountriesList();
-  const genreList = useGenreList(); // Destructure genreList from the returned object
+  const genreList = useGenreList();
   const [vinylCardList] = useState([
     {
       id: 1,
