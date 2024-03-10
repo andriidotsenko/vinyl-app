@@ -1,9 +1,9 @@
 import PropTypes from "prop-types";
 import styles from "./Header.module.css";
-import HeaderCountingButton from "../HeaderCountingButton/HeaderCountingButton";
-import BackButton from "../BackButton/BackButton";
-import InactiveFavoriteIcon from "../Icon/InactiveFavoriteIcon";
-import CollectionIcon from "../Icon/CollectionIcon";
+import HeaderCountingButton from "../HeaderCountingButton/HeaderCountingButton.jsx";
+import BackButton from "../BackButton/BackButton.jsx";
+import InactiveFavoriteIcon from "../Icon/InactiveFavoriteIcon.jsx";
+import CollectionIcon from "../Icon/CollectionIcon.jsx";
 
 function Header({ favoriteCount, collectionCount }) {
   return (

@@ -1,7 +1,7 @@
 import { Button } from "../Button/Button";
 import PropTypes from "prop-types";
-import CollectionIcon from "../Icon/CollectionIcon";
-import AddIcon from "../Icon/AddIcon";
+import CollectionIcon from "../Icon/CollectionIcon.jsx";
+import AddIcon from "../Icon/AddIcon.jsx";
 
 export const CollectionButton = ({ isActive, onClick }) => {
   return (
