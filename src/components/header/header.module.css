@@ -1,0 +1,18 @@
+.header {
+  padding: 16px 0;
+  margin-bottom: 15px;
+  background-color: var(--dark-green);
+  fill: var(--white);
+}
+
+.wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
