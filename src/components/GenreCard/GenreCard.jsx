@@ -41,6 +41,7 @@ const GenreCard = ({ name, backgroundColor, images }) => {
             position: "absolute",
             width: "70px",
             height: "70px",
+            borderRadius: 4,
             top: `${getRandomOffset(minOffset, maxOffset)}px`,
             left: `${getRandomOffset(minOffset, maxOffset)}px`,
             transform: `rotate(${getRandomRotation(

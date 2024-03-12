@@ -1,41 +1,22 @@
 import { useState } from "react";
 import { useVinylCardList } from "../../hooks/useVinylCardList.js";
 
-import Header from "../../components/Header/Header.jsx";
-
 import Pagination from "../../components/Pagination/Pagination.jsx";
 import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
 import GenreList from "../../components/GenreList/GenreList.jsx";
 
+import { useOutletContext } from "react-router-dom";
+
 export function HomePage() {
-  const [collectionList, setCollectionList] = useState([]);
-  const [favoriteList, setFavoriteList] = useState([]);
-  const [currentPage, setCurrentPage] = useState(1);
+  const {
+    collectionList,
+    favoritesList,
+    handleCollectionToggle,
+    handleFavoritesToggle,
+  } = useOutletContext();
 
   const vinylCardListData = useVinylCardList();
-
-  function handleCollectionToggle(cardId) {
-    if (collectionList.includes(cardId)) {
-      setCollectionList((prevCollectionList) =>
-        prevCollectionList.filter((id) => id !== cardId)
-      );
-    } else {
-      setCollectionList((prevCollectionList) => [
-        ...prevCollectionList,
-        cardId,
-      ]);
-    }
-  }
-
-  function handleClickInCollection(cardId) {
-    if (favoriteList.includes(cardId)) {
-      setFavoriteList((prevFavoriteList) =>
-        prevFavoriteList.filter((id) => id !== cardId)
-      );
-    } else {
-      setFavoriteList((prevFavoriteList) => [...prevFavoriteList, cardId]);
-    }
-  }
+  const [currentPage, setCurrentPage] = useState(1);
 
   function handlePageChange(pageNumber) {
     setCurrentPage(pageNumber);
@@ -63,19 +44,15 @@ export function HomePage() {
 
   return (
     <>
-      <Header
-        favoriteCount={favoriteList.length}
-        collectionCount={collectionList.length}
-      />
       <main className="main">
         <div className="container">
           <GenreList />
           <VinylCardList
             cardList={currentPageItems}
             collectionList={collectionList}
-            favoriteList={favoriteList}
+            favoritesList={favoritesList}
             onClickInCollection={handleCollectionToggle}
-            onClickInFavorites={handleClickInCollection}
+            onClickInFavorites={handleFavoritesToggle}
           />
           <Pagination
             totalPages={totalPages}
