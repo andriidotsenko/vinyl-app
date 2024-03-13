@@ -18,15 +18,17 @@
   border-radius: 8px;
   margin-bottom: 8px;
   aspect-ratio: 1;
+  cursor: pointer;
 }
-
+.image img {
+  width: 100%;
+}
 .image img:hover {
   transform: scale(1.03) rotate(-0.5deg);
   transition: all 0.2s ease;
 }
 
-.image picture,
-.image img {
+.image picture {
   width: 100%;
 }
 
@@ -53,7 +55,7 @@
 
 .info p {
   overflow: hidden;
-  margin-bottom: 8px;
+  margin-bottom: 11px;
   color: var(--grey-light);
   font-size: 14px;
   line-height: 18px;

@@ -3,6 +3,7 @@ import { StrictMode } from "react";
 import { App } from "./App";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import { HomePage } from "./pages/HomePage/HomePage";
+import { SearchPage } from "./pages/SearchPage/SearchPage";
 
 const appElement = document.getElementById("app");
 const root = createRoot(appElement);
@@ -15,6 +16,10 @@ const router = createBrowserRouter([
       {
         index: true,
         element: <HomePage />,
+      },
+      {
+        path: "search",
+        element: <SearchPage />,
       },
     ],
   },

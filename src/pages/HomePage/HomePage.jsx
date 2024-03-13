@@ -16,8 +16,8 @@ export function HomePage() {
   } = useOutletContext();
 
   const vinylCardListData = useVinylCardList();
-  const [currentPage, setCurrentPage] = useState(1);
 
+  const [currentPage, setCurrentPage] = useState(1);
   function handlePageChange(pageNumber) {
     setCurrentPage(pageNumber);
   }
@@ -37,6 +37,7 @@ export function HomePage() {
       : screenWidth < 1440
       ? 12
       : 10;
+
   const totalPages = Math.ceil(filteredList.length / pageSize);
   const startIndex = (currentPage - 1) * pageSize;
   const endIndex = Math.min(startIndex + pageSize - 1, filteredList.length - 1);

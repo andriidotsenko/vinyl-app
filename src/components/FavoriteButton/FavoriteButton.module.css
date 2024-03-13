@@ -18,10 +18,9 @@
 }
 
 .fav:active {
-
   background-color: transparent;
-  fill: var(--white);
-  opacity: 0.6;
-  transform: rotate(1deg) scale(4);
+  fill: var(--error);
+
+  transform: rotate(1deg) scale(1.46);
   transition: all 0.2s ease;
 }
