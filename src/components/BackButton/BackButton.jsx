@@ -6,7 +6,7 @@ function BackButton({ buttonText }) {
   return (
     <a href="/" className={styles.back} id="headerBack">
       <BackIcon />
-      {buttonText}
+      <span className={styles.text}>{buttonText}</span>
     </a>
   );
 }
