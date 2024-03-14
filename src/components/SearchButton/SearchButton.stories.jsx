@@ -1,16 +1,16 @@
 import { action } from "@storybook/addon-actions";
-import CollectionButton from "./SearchButton";
+import SearchButton from "./SearchButton";
 
 export default {
-  title: "CollectionButton",
-  component: CollectionButton,
+  title: "SearchButton",
+  component: SearchButton,
   argTypes: {
     inCollection: { control: "boolean" },
     className: { control: "text" },
   },
 };
 
-const Template = (args) => <CollectionButton {...args} />;
+const Template = (args) => <SearchButton {...args} />;
 
 export const Default = Template.bind({});
 Default.args = {
