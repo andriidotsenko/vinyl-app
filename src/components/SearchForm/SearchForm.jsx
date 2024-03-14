@@ -3,6 +3,11 @@ import { useDecadeList } from "../../hooks/useDecadeList";
 import { useCountriesList } from "../../hooks/useCountriesList";
 
 import styles from "./SearchForm.module.css";
+import SearchButton from "../SearchButton/SearchButton";
+
+const test = () => {
+  console.log("test");
+};
 
 export const SearchForm = () => {
   const genreList = useGenreList();
@@ -51,10 +56,11 @@ export const SearchForm = () => {
       </option>
     );
   };
+
   return (
     <div className={styles.filter}>
       <form className={styles.form} onSubmit={applyFilters}>
-        <label className={styles.block}>
+        <label className={`${styles.block} ${styles.artist}`}>
           <input
             type="text"
             name="artist"
@@ -62,11 +68,8 @@ export const SearchForm = () => {
             id="filterArtist"
             onChange={handleChangeArtist}
           />
-          {/* <p className={styles.errorBlock}>
-            Value must be less than 20 characters
-          </p> */}
         </label>
-        <label className={styles.block}>
+        <label className={`${styles.block} ${styles.genre}`}>
           <select
             name="genre"
             id="filterGenre"
@@ -79,7 +82,7 @@ export const SearchForm = () => {
             {genreList.map((element) => renderOption(element))};
           </select>
         </label>
-        <label className={styles.block}>
+        <label className={`${styles.block} ${styles.decade}`}>
           <select
             name="decade"
             id="filterDecade"
@@ -92,7 +95,7 @@ export const SearchForm = () => {
             {decadeList.map((element) => renderOptionDecade(element))};
           </select>
         </label>
-        <label className={styles.block}>
+        <label className={`${styles.block} ${styles.country}`}>
           <select
             name="country"
             id="filterCountry"
@@ -105,6 +108,9 @@ export const SearchForm = () => {
             {countriesList.map((element) => renderOption(element))};
           </select>
         </label>
+        <div className={styles.search}>
+          <SearchButton onClick={test} />
+        </div>
       </form>
     </div>
   );

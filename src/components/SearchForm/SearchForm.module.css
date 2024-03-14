@@ -1,11 +1,13 @@
-.filter {
-}
-
 .form {
   display: grid;
   grid-gap: 12px;
+  grid-template-areas:
+    "a a"
+    "g d"
+    "c c"
+    "s s";
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-rows: repeat(4, 1fr);
 }
 
 .block {
@@ -13,8 +15,60 @@
   min-height: 42px;
   align-items: center;
   justify-content: space-between;
-  border: 1px solid red;
+  padding: 13px 14px;
+  border: 1px solid var(--grey-light);
+  border-radius: 4px;
+  color: var(--grey);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+}
+.block select,
+.block input {
+  width: 100%;
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
-.errorBlock {
+.block select::placeholder {
+  color: var(--grey);
+}
+.block select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  color: var(--grey);
+}
+.block option {
+  color: var(--grey);
+}
+.block option:disabled {
+  color: var(--black);
+}
+.block select::-ms-expand {
+  display: none;
+}
+.block option:hover {
+  background-color: var(--error);
+}
+.artist {
+  grid-area: a;
+}
+.genre {
+  grid-area: g;
+}
+
+.decade {
+  grid-area: d;
+}
+
+.country {
+  grid-area: c;
+}
+
+.search {
+  grid-area: s;
 }
