@@ -1,14 +1,11 @@
 .root {
   display: grid;
+  margin-bottom: 28px;
   grid-gap: 12px;
-  grid-template-columns: 1fr;
+  grid-template-areas: "a a" "g d" "c c" "s s";
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(4, 1fr);
 }
-
-/* .twoColumns {
-  display: grid;
-  grid-gap: 12px;
-  grid-template-columns: 1fr 1fr;
-} */
 
 .input {
   all: unset;
@@ -25,4 +22,20 @@
 
 .input:focus {
   border-color: #0a2530;
+}
+
+.artist {
+  grid-area: a;
+}
+.genre {
+  grid-area: g;
+}
+.decade {
+  grid-area: d;
+}
+.country {
+  grid-area: c;
+}
+.search {
+  grid-area: s;
 }

@@ -51,47 +51,56 @@ export const SearchForm = ({ onSubmit }) => {
 
   return (
     <form className={styles.root} onSubmit={handleSubmit}>
-      <input
-        className={clsx(styles.input)}
-        type="text"
-        name="artist"
-        placeholder="Artist"
-        value={filters.artist}
-        onChange={(event) => handleFilterChange("artist", event.target.value)}
-      />
+      <div className={clsx(styles.artist)}>
+        <input
+          className={clsx(styles.input)}
+          type="text"
+          name="artist"
+          placeholder="Artist"
+          value={filters.artist}
+          onChange={(event) => handleFilterChange("artist", event.target.value)}
+        />
+      </div>
 
-      <MultiSelect
-        onChange={(v) => handleFilterChange("genres", v)}
-        options={genreList.map((genre) => ({
-          label: genre.name,
-          value: genre.id,
-        }))}
-        value={filters.genres}
-        placeholder={"Genre"}
-      />
-      <MultiSelect
-        onChange={(v) => handleFilterChange("decades", v)}
-        options={decadeList.map((decade) => ({
-          label: decade.name,
-          value: decade.id,
-        }))}
-        value={filters.decades}
-        placeholder={"Decade"}
-      />
-
-      <Select
-        onChange={(v) => handleFilterChange("countries", v)}
-        options={countriesList.map((countries) => ({
-          label: countries.name,
-          value: countries.id,
-        }))}
-        value={filters.countries}
-        placeholder={"Country"}
-      />
-
-      <Button type="submit" isFullWidth disabled={isFiltersEmpty}>
-        Search
-      </Button>
+      <div className={clsx(styles.genre)}>
+        <MultiSelect
+          onChange={(v) => handleFilterChange("genres", v)}
+          options={genreList.map((genre) => ({
+            label: genre.name,
+            value: genre.id,
+          }))}
+          value={filters.genres}
+          placeholder={"Genre"}
+        />
+      </div>
+      <div className={clsx(styles.decade)}>
+        <MultiSelect
+          onChange={(v) => handleFilterChange("decades", v)}
+          options={decadeList.map((decade) => ({
+            label: decade.name,
+            value: decade.id,
+          }))}
+          value={filters.decades}
+          placeholder={"Decade"}
+        />
+      </div>
+      <div className={clsx(styles.country)}>
+        {" "}
+        <Select
+          onChange={(v) => handleFilterChange("countries", v)}
+          options={countriesList.map((countries) => ({
+            label: countries.name,
+            value: countries.id,
+          }))}
+          value={filters.countries}
+          placeholder={"Country"}
+        />
+      </div>
+      <div className={clsx(styles.search)}>
+        <Button type="submit" isFullWidth disabled={isFiltersEmpty}>
+          Search
+        </Button>
+      </div>
     </form>
   );
 };
