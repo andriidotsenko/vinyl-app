@@ -1,23 +1,16 @@
-.root {
+.form {
   display: grid;
-  margin-bottom: 28px;
   grid-gap: 12px;
   grid-template-areas: "a a" "g d" "c c" "s s";
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(4, 1fr);
 }
 
-.input {
-  all: unset;
-  width: 100%;
-  height: 40px;
-  box-sizing: border-box;
-  padding: 7px 12px;
-  border: 1px solid #edeef0;
-  border-radius: 8px;
-  background-color: #ffffff;
-  color: #0a2530;
-  line-height: 24px;
+.block {
+  display: flex;
+  min-height: 42px;
+  align-items: center;
+  justify-content: center;
 }
 
 .input:focus {
@@ -36,6 +29,25 @@
 .country {
   grid-area: c;
 }
-.search {
+.searchbutton {
+  width: 280px;
+  align-self: center;
   grid-area: s;
+  justify-self: center;
+}
+
+input {
+  width: 100%;
+  height: 100%;
+  padding: 11px;
+  border: 1px solid var(--grey);
+  border-radius: 4px;
+}
+
+select {
+  width: 100%;
+  height: 100%;
+  padding: 11px;
+  border: 1px solid var(--grey);
+  border-radius: 4px;
 }

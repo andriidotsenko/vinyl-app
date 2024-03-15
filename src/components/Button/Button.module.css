@@ -2,7 +2,7 @@
   all: unset;
   position: relative;
   display: inline-flex;
-  width: auto;
+  width: 100%;
   min-width: 140px;
   height: 40px;
   box-sizing: border-box;

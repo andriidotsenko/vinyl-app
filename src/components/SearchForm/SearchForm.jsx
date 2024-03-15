@@ -6,8 +6,6 @@ import { useCountriesList } from "../../hooks/useCountriesList.js";
 import { useDecadeList } from "../../hooks/useDecadeList.js";
 import { useGenreList } from "../../hooks/useGenreList.js";
 
-import { Select } from "../Select/Select.jsx";
-import { MultiSelect } from "../Select/MultiSelect.jsx";
 import { Button } from "../Button/Button.jsx";
 
 import { useSearchParams } from "react-router-dom";
@@ -24,19 +22,17 @@ export const SearchForm = ({ onSubmit }) => {
 
   const [params, setParams] = useSearchParams({
     artist: "",
-    genres: [],
-    decades: [],
-    countries: "",
+    genres: "",
+    decade: "",
+    country: "",
   });
 
   const filters = getFiltersFromParams(params);
-
   function handleFilterChange(name, value) {
     const nextParams = getSearchParamsFromFilters({
       ...filters,
       [name]: value,
     });
-
     setParams(nextParams);
   }
 
@@ -45,63 +41,76 @@ export const SearchForm = ({ onSubmit }) => {
     onSubmit(filters);
   }
 
-  const isFiltersEmpty = Object.values(filters).every((value) =>
-    Array.isArray(value) ? !value?.length : !value
-  );
-
   return (
-    <form className={styles.root} onSubmit={handleSubmit}>
-      <div className={clsx(styles.artist)}>
-        <input
-          className={clsx(styles.input)}
-          type="text"
-          name="artist"
-          placeholder="Artist"
-          value={filters.artist}
-          onChange={(event) => handleFilterChange("artist", event.target.value)}
-        />
-      </div>
-
-      <div className={clsx(styles.genre)}>
-        <MultiSelect
-          onChange={(v) => handleFilterChange("genres", v)}
-          options={genreList.map((genre) => ({
-            label: genre.name,
-            value: genre.id,
-          }))}
-          value={filters.genres}
-          placeholder={"Genre"}
-        />
-      </div>
-      <div className={clsx(styles.decade)}>
-        <MultiSelect
-          onChange={(v) => handleFilterChange("decades", v)}
-          options={decadeList.map((decade) => ({
-            label: decade.name,
-            value: decade.id,
-          }))}
-          value={filters.decades}
-          placeholder={"Decade"}
-        />
-      </div>
-      <div className={clsx(styles.country)}>
-        {" "}
-        <Select
-          onChange={(v) => handleFilterChange("countries", v)}
-          options={countriesList.map((countries) => ({
-            label: countries.name,
-            value: countries.id,
-          }))}
-          value={filters.countries}
-          placeholder={"Country"}
-        />
-      </div>
-      <div className={clsx(styles.search)}>
-        <Button type="submit" isFullWidth disabled={isFiltersEmpty}>
-          Search
-        </Button>
-      </div>
-    </form>
+    <div className={styles.filter}>
+      <form className={styles.form} onSubmit={handleSubmit}>
+        <label className={clsx(styles.block, styles.artist)}>
+          <input
+            type="text"
+            name="artist"
+            placeholder="Artist"
+            id="filterArtist"
+            onChange={(event) =>
+              handleFilterChange("artist", event.target.value)
+            }
+          />
+        </label>
+        <label className={clsx(styles.block, styles.genre)}>
+          <select
+            name="genre"
+            id="filterGenre"
+            defaultValue={"0"}
+            onChange={(v) => handleFilterChange("genre", v.target.value)}
+          >
+            <option value="0" disabled>
+              Genre
+            </option>
+            {genreList.map((element) => (
+              <option key={element.id} value={element.id}>
+                {element.name}
+              </option>
+            ))}
+          </select>
+        </label>
+        <label className={clsx(styles.block, styles.decade)}>
+          <select
+            name="decade"
+            id="filterDecade"
+            defaultValue={"0"}
+            onChange={(v) => handleFilterChange("decade", v.target.value)}
+          >
+            <option value="0" disabled>
+              Decade
+            </option>
+            {decadeList.map((element) => (
+              <option key={element.id} value={element.id}>
+                {element.name}
+              </option>
+            ))}
+          </select>
+        </label>
+        <label className={clsx(styles.block, styles.country)}>
+          <select
+            name="country"
+            id="filterCountry"
+            defaultValue={"0"}
+            onChange={(v) => handleFilterChange("country", v.target.value)}
+          >
+            <option value="0" disabled>
+              Country
+            </option>
+            {countriesList.map((element) => (
+              <option key={element.id} value={element.id}>
+                {element.name}
+              </option>
+            ))}
+          </select>
+        </label>
+        <div className={clsx(styles.block, styles.searchbutton)}>
+          <Button type="submit">Search</Button>
+        </div>
+      </form>
+    </div>
   );
 };
 
