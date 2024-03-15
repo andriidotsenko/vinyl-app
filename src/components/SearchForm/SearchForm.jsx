@@ -22,7 +22,7 @@ export const SearchForm = ({ onSubmit }) => {
 
   const [params, setParams] = useSearchParams({
     artist: "",
-    genres: "",
+    genre: "",
     decade: "",
     country: "",
   });

@@ -24,14 +24,13 @@ export const SearchResultsPage = () => {
   } = useOutletContext();
   const filters = getFiltersFromParams(params);
 
-  // const vinylCardListData = useVinylCardList();
-
   const [currentPage, setCurrentPage] = useState(1);
   function handlePageChange(pageNumber) {
     setCurrentPage(pageNumber);
   }
 
   const filteredList = useFilteredVinylCardList(filters);
+  // console.log(filteredList);
 
   const screenWidth = window.innerWidth;
   const pageSize =

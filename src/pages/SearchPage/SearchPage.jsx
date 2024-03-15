@@ -1,10 +1,10 @@
 import { useVinylCardList } from "../../hooks/useVinylCardList.js";
-
 import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
 import GenreList from "../../components/GenreList/GenreList.jsx";
 import { useNavigate, useOutletContext } from "react-router-dom";
 import { SearchForm } from "../../components/SearchForm/SearchForm.jsx";
 import { getSearchParamsFromFilters } from "../../utils/filters";
+import { useShuffledList } from "../../hooks/useShuffledList";
 
 export function SearchPage() {
   const {
@@ -15,6 +15,22 @@ export function SearchPage() {
   } = useOutletContext();
 
   const navigate = useNavigate();
+  const vinylCardListData = useVinylCardList();
+  const shuffledList = useShuffledList(vinylCardListData);
+
+  const screenWidth = window.innerWidth;
+  const pageSize =
+    screenWidth < 500
+      ? 1
+      : screenWidth < 768
+      ? 2
+      : screenWidth < 1024
+      ? 3
+      : screenWidth < 1440
+      ? 4
+      : 5;
+
+  const filteredList = shuffledList.slice(0, pageSize);
 
   const handleFormSubmit = (filters) => {
     const params = getSearchParamsFromFilters(filters);
@@ -24,11 +40,6 @@ export function SearchPage() {
       search: params.toString(),
     });
   };
-  const vinylCardListData = useVinylCardList();
-
-  const filteredList = vinylCardListData.filter((item) => {
-    return item.title.toLowerCase().indexOf("er") !== -1;
-  });
 
   return (
     <>

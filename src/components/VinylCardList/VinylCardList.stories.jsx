@@ -41,8 +41,7 @@ Default.args = {
       genreId: 1, // Rock
       country: "USA",
     },
-    // Add more sample card objects as needed
   ],
-  collectionList: [1], // Example collection list with one item
-  favoriteList: [], // Example empty favorite list
+  collectionList: [1],
+  favoriteList: [],
 };
