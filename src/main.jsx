@@ -5,6 +5,7 @@ import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import { HomePage } from "./pages/HomePage/HomePage";
 import { SearchPage } from "./pages/SearchPage/SearchPage";
 import NotFoundPage from "./pages/NotFoundPage/NotFoundPage";
+import { SearchResultsPage } from "./pages/SearchResultPage/SearchResultPage";
 const appElement = document.getElementById("app");
 const root = createRoot(appElement);
 
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
       {
         path: "*",
         element: <NotFoundPage />,
+      },
+      {
+        path: "results",
+        element: <SearchResultsPage />,
       },
     ],
   },
