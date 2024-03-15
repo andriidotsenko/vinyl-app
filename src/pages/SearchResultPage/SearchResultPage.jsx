@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useVinylCardList } from "../../hooks/useVinylCardList.js";
+// import { useVinylCardList } from "../../hooks/useVinylCardList.js";
 
 import Pagination from "../../components/Pagination/Pagination.jsx";
 import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
@@ -9,7 +9,7 @@ import { useOutletContext, useSearchParams } from "react-router-dom";
 import {
   emptyFilters,
   getFiltersFromParams,
-  getSearchParamsFromFilters,
+  // getSearchParamsFromFilters,
 } from "../../utils/filters.js";
 import { useFilteredVinylCardList } from "../../hooks/useFilteredVinylCardList.js";
 
@@ -23,17 +23,13 @@ export const SearchResultsPage = () => {
     handleFavoritesToggle,
   } = useOutletContext();
   const filters = getFiltersFromParams(params);
-  console.log(filters);
-  const vinylCardListData = useVinylCardList();
+
+  // const vinylCardListData = useVinylCardList();
 
   const [currentPage, setCurrentPage] = useState(1);
   function handlePageChange(pageNumber) {
     setCurrentPage(pageNumber);
   }
-
-  // const filteredList = vinylCardListData.filter((item) => {
-  //   return item.title.toLowerCase().indexOf("is") !== -1;
-  // });
 
   const filteredList = useFilteredVinylCardList(filters);
 
@@ -70,6 +66,7 @@ export const SearchResultsPage = () => {
             onClickInCollection={handleCollectionToggle}
             onClickInFavorites={handleFavoritesToggle}
           />
+
           <Pagination
             totalPages={totalPages}
             currentPage={currentPage}
