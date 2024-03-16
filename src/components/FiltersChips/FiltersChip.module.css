@@ -1,0 +1,19 @@
+.chip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px 12px;
+  border-radius: 4px;
+  background: var(--grey-border);
+  color: var(--white);
+  color: var(--Black, #000);
+  cursor: pointer;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+}
+
+.span {
+  margin-right: 8px;
+}

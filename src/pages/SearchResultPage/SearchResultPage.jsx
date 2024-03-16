@@ -1,17 +1,18 @@
 import { useState } from "react";
-// import { useVinylCardList } from "../../hooks/useVinylCardList.js";
-
+import styles from "./SearchResultPage.module.css";
 import Pagination from "../../components/Pagination/Pagination.jsx";
 import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
+import FiltersChips from "../../components/FiltersChips/FiltersChips.jsx";
 
-import { useOutletContext, useSearchParams } from "react-router-dom";
+import { Navigate, useOutletContext, useSearchParams } from "react-router-dom";
 
 import {
   emptyFilters,
   getFiltersFromParams,
-  // getSearchParamsFromFilters,
+  getSearchParamsFromFilters,
 } from "../../utils/filters.js";
 import { useFilteredVinylCardList } from "../../hooks/useFilteredVinylCardList.js";
+import NonResultsPageIcon from "../../components/Icon/NonResultsPageIcon.jsx";
 
 export const SearchResultsPage = () => {
   const [params, setParams] = useSearchParams(emptyFilters);
@@ -30,7 +31,9 @@ export const SearchResultsPage = () => {
   }
 
   const filteredList = useFilteredVinylCardList(filters);
-  // console.log(filteredList);
+
+  const setFilters = (filters) =>
+    setParams(getSearchParamsFromFilters(filters));
 
   const screenWidth = window.innerWidth;
   const pageSize =
@@ -49,28 +52,51 @@ export const SearchResultsPage = () => {
   const endIndex = Math.min(startIndex + pageSize - 1, filteredList.length - 1);
   const currentPageItems = filteredList.slice(startIndex, endIndex + 1);
 
+  const isFiltersEmpty = Object.values(filters).every((value) =>
+    Array.isArray(value) ? !value?.length : !value
+  );
+
+  if (isFiltersEmpty) {
+    return <Navigate to={"/search"} />;
+  }
+
   return (
     <>
       <main className="main">
         <div className="container">
-          <div className="chips">
-            chips chips chips chips chips chips chips chips chips chips chips
-            chips chips chips chips chips chips chips chips chips chips chips
-            chips chips chips chips chips chips chips chips chips chips chips
+          <div className={styles.header}>
+            <div className={styles.title}>Filters applied:</div>
+            <div
+              className={styles.resetButton}
+              onClick={() => setFilters(emptyFilters)}
+              role="button"
+              tabIndex={0}
+            >
+              Reset changes
+            </div>
           </div>
-          <VinylCardList
-            cardList={currentPageItems}
-            collectionList={collectionList}
-            favoritesList={favoritesList}
-            onClickInCollection={handleCollectionToggle}
-            onClickInFavorites={handleFavoritesToggle}
-          />
-
-          <Pagination
-            totalPages={totalPages}
-            currentPage={currentPage}
-            onPageChange={handlePageChange}
-          />
+          <FiltersChips filters={filters} onFiltersChange={setParams} />
+          {filteredList.length > 0 ? (
+            <>
+              <VinylCardList
+                isHasTitle={false}
+                cardList={currentPageItems}
+                collectionList={collectionList}
+                favoritesList={favoritesList}
+                onClickInCollection={handleCollectionToggle}
+                onClickInFavorites={handleFavoritesToggle}
+              />
+              <Pagination
+                totalPages={totalPages}
+                currentPage={currentPage}
+                onPageChange={handlePageChange}
+              />
+            </>
+          ) : (
+            <div className={styles.errorMessage}>
+              <span>No results found.</span> <NonResultsPageIcon />
+            </div>
+          )}
         </div>
       </main>
     </>

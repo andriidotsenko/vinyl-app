@@ -29,7 +29,7 @@
 .country {
   grid-area: c;
 }
-.searchbutton {
+.searchButton {
   width: 280px;
   align-self: center;
   grid-area: s;

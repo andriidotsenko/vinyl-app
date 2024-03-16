@@ -16,7 +16,9 @@ export const useFilteredVinylCardList = (filters) => {
       vinyl.country ===
         countries.find((c) => c.id === filters.country)?.name) &&
     (!filters.genre || +filters.genre === vinyl.genreId) &&
-    (!+filters.decade || (vinyl.year > yearFrom && vinyl.year <= yearTo));
+    (!+filters.decade || (vinyl.year >= yearFrom && vinyl.year <= yearTo)) &&
+    (!filters.artist ||
+      vinyl.artist.toLowerCase().includes(filters.artist.toLowerCase()));
 
   const filteredVinylList = vinylList.filter(filterVinyl);
   const sortedVinylList = filteredVinylList.sort((a, b) => a.year - b.year);

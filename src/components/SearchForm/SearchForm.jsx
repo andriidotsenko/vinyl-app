@@ -28,6 +28,7 @@ export const SearchForm = ({ onSubmit }) => {
   });
 
   const filters = getFiltersFromParams(params);
+
   function handleFilterChange(name, value) {
     const nextParams = getSearchParamsFromFilters({
       ...filters,
@@ -40,6 +41,10 @@ export const SearchForm = ({ onSubmit }) => {
     event.preventDefault();
     onSubmit(filters);
   }
+
+  const isFiltersEmpty = Object.values(filters).every((value) =>
+    Array.isArray(value) ? !value?.length : !value
+  );
 
   return (
     <div className={styles.filter}>
@@ -106,8 +111,10 @@ export const SearchForm = ({ onSubmit }) => {
             ))}
           </select>
         </label>
-        <div className={clsx(styles.block, styles.searchbutton)}>
-          <Button type="submit">Search</Button>
+        <div className={clsx(styles.block, styles.searchButton)}>
+          <Button type="submit" disabled={isFiltersEmpty}>
+            Search
+          </Button>
         </div>
       </form>
     </div>

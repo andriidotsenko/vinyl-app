@@ -8,13 +8,16 @@ function VinylCardList({
   favoritesList,
   onClickInCollection,
   onClickInFavorites,
+  isHasTitle, // New prop to determine if the title should be displayed
 }) {
   return (
     <>
-      <div className={styles.wrapper}>
-        <h2 className={styles.title}>New in stock</h2>
-        <h3 className={styles.more}>See more</h3>
-      </div>
+      {isHasTitle && ( // Conditionally render the title section based on the prop
+        <div className={styles.wrapper}>
+          <h2 className={styles.title}>New in stock</h2>
+          <h3 className={styles.more}>See more</h3>
+        </div>
+      )}
       <div className={styles.cardList}>
         {cardList.map((card) => (
           <VinylCard
@@ -37,6 +40,11 @@ VinylCardList.propTypes = {
   favoritesList: PropTypes.arrayOf(PropTypes.number).isRequired,
   onClickInCollection: PropTypes.func.isRequired,
   onClickInFavorites: PropTypes.func.isRequired,
+  isHasTitle: PropTypes.bool.isRequired,
+};
+
+VinylCardList.defaultProps = {
+  isHasTitle: true,
 };
 
 export default VinylCardList;
