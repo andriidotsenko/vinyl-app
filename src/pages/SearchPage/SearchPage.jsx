@@ -5,6 +5,7 @@ import { useNavigate, useOutletContext } from "react-router-dom";
 import { SearchForm } from "../../components/SearchForm/SearchForm.jsx";
 import { getSearchParamsFromFilters } from "../../utils/filters";
 import { useShuffledList } from "../../hooks/useShuffledList";
+import { Helmet } from "react-helmet-async";
 
 export function SearchPage() {
   const {
@@ -43,6 +44,9 @@ export function SearchPage() {
 
   return (
     <>
+      <Helmet>
+        <title>{"Search"}</title>
+      </Helmet>
       <main className="main">
         <div className="container">
           <SearchForm onSubmit={handleFormSubmit} />

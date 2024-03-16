@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import { useState } from "react";
 import styles from "./SearchForm.module.css";
 import clsx from "clsx";
 
@@ -8,43 +9,29 @@ import { useGenreList } from "../../hooks/useGenreList.js";
 
 import { Button } from "../Button/Button.jsx";
 
-import { useSearchParams } from "react-router-dom";
-
-import {
-  getFiltersFromParams,
-  getSearchParamsFromFilters,
-} from "../../utils/filters.js";
-
 export const SearchForm = ({ onSubmit }) => {
   const genreList = useGenreList();
   const decadeList = useDecadeList();
   const countriesList = useCountriesList();
 
-  const [params, setParams] = useSearchParams({
-    artist: "",
-    genre: "",
-    decade: "",
-    country: "",
-  });
+  const [artist, setArtist] = useState("");
+  const [genre, setGenre] = useState("");
+  const [decade, setDecade] = useState("");
+  const [country, setCountry] = useState("");
 
-  const filters = getFiltersFromParams(params);
-
-  function handleFilterChange(name, value) {
-    const nextParams = getSearchParamsFromFilters({
-      ...filters,
-      [name]: value,
-    });
-    setParams(nextParams);
-  }
+  const filters = {
+    artist,
+    genre,
+    decade,
+    country,
+  };
 
   function handleSubmit(event) {
     event.preventDefault();
     onSubmit(filters);
   }
 
-  const isFiltersEmpty = Object.values(filters).every((value) =>
-    Array.isArray(value) ? !value?.length : !value
-  );
+  const isFiltersEmpty = !(artist || genre || decade || country);
 
   return (
     <div className={styles.filter}>
@@ -55,21 +42,18 @@ export const SearchForm = ({ onSubmit }) => {
             name="artist"
             placeholder="Artist"
             id="filterArtist"
-            onChange={(event) =>
-              handleFilterChange("artist", event.target.value)
-            }
+            value={artist}
+            onChange={(event) => setArtist(event.target.value)}
           />
         </label>
         <label className={clsx(styles.block, styles.genre)}>
           <select
             name="genre"
             id="filterGenre"
-            defaultValue={"0"}
-            onChange={(v) => handleFilterChange("genre", v.target.value)}
+            value={genre}
+            onChange={(event) => setGenre(event.target.value)}
           >
-            <option value="0" disabled>
-              Genre
-            </option>
+            <option value="">Genre</option>
             {genreList.map((element) => (
               <option key={element.id} value={element.id}>
                 {element.name}
@@ -81,12 +65,10 @@ export const SearchForm = ({ onSubmit }) => {
           <select
             name="decade"
             id="filterDecade"
-            defaultValue={"0"}
-            onChange={(v) => handleFilterChange("decade", v.target.value)}
+            value={decade}
+            onChange={(event) => setDecade(event.target.value)}
           >
-            <option value="0" disabled>
-              Decade
-            </option>
+            <option value="">Decade</option>
             {decadeList.map((element) => (
               <option key={element.id} value={element.id}>
                 {element.name}
@@ -98,12 +80,10 @@ export const SearchForm = ({ onSubmit }) => {
           <select
             name="country"
             id="filterCountry"
-            defaultValue={"0"}
-            onChange={(v) => handleFilterChange("country", v.target.value)}
+            value={country}
+            onChange={(event) => setCountry(event.target.value)}
           >
-            <option value="0" disabled>
-              Country
-            </option>
+            <option value="">Country</option>
             {countriesList.map((element) => (
               <option key={element.id} value={element.id}>
                 {element.name}

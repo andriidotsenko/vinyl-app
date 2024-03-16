@@ -3,9 +3,7 @@ import styles from "./SearchResultPage.module.css";
 import Pagination from "../../components/Pagination/Pagination.jsx";
 import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
 import FiltersChips from "../../components/FiltersChips/FiltersChips.jsx";
-
 import { Navigate, useOutletContext, useSearchParams } from "react-router-dom";
-
 import {
   emptyFilters,
   getFiltersFromParams,
@@ -13,10 +11,13 @@ import {
 } from "../../utils/filters.js";
 import { useFilteredVinylCardList } from "../../hooks/useFilteredVinylCardList.js";
 import NonResultsPageIcon from "../../components/Icon/NonResultsPageIcon.jsx";
+import { Helmet } from "react-helmet-async";
+import { useGenreList } from "../../hooks/useGenreList.js";
+import { useCountriesList } from "../../hooks/useCountriesList.js";
+import { useDecadeList } from "../../hooks/useDecadeList.js";
 
 export const SearchResultsPage = () => {
   const [params, setParams] = useSearchParams(emptyFilters);
-
   const {
     collectionList,
     favoritesList,
@@ -25,10 +26,25 @@ export const SearchResultsPage = () => {
   } = useOutletContext();
   const filters = getFiltersFromParams(params);
 
-  const [currentPage, setCurrentPage] = useState(1);
+  const [currentPage, setCurrentPage] = useState(() => {
+    const queryParams = new URLSearchParams(window.location.search);
+    return +queryParams.get("page") || 1;
+  });
+
   function handlePageChange(pageNumber) {
     setCurrentPage(pageNumber);
+    const queryParams = new URLSearchParams(params);
+    queryParams.set("page", pageNumber);
+    setParams(queryParams.toString());
   }
+
+  const genres = useGenreList();
+  const countries = useCountriesList();
+  const decades = useDecadeList();
+
+  const genreName = genres.find((genre) => genre.id === +filters.genre)?.name;
+  const countryName = countries.find((c) => c.id === filters.country)?.name;
+  const decadeName = decades.find((d) => d.id === +filters.decade)?.name;
 
   const filteredList = useFilteredVinylCardList(filters);
 
@@ -60,8 +76,24 @@ export const SearchResultsPage = () => {
     return <Navigate to={"/search"} />;
   }
 
+  const generateTitle = () => {
+    const titlePrefix = "Results for: ";
+    const artistPart = filters.artist ? ` artist - "${filters.artist}",` : "";
+    const genrePart =
+      filters.genre && genreName ? ` genre - ${genreName},` : "";
+    const decadePart =
+      filters.decade && decadeName ? `, decade - ${decadeName},` : "";
+    const countryPart =
+      filters.country && countryName ? `, country - ${countryName},` : "";
+
+    return `${titlePrefix}${artistPart}${genrePart}${decadePart}${countryPart}`;
+  };
+
   return (
     <>
+      <Helmet>
+        <title>{generateTitle()}</title>
+      </Helmet>
       <main className="main">
         <div className="container">
           <div className={styles.header}>

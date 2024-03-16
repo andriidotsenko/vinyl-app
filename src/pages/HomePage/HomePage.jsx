@@ -6,6 +6,7 @@ import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
 import GenreList from "../../components/GenreList/GenreList.jsx";
 
 import { useOutletContext } from "react-router-dom";
+import { Helmet } from "react-helmet-async";
 
 export function HomePage() {
   const {
@@ -47,6 +48,9 @@ export function HomePage() {
     <>
       <main className="main">
         <div className="container">
+          <Helmet>
+            <title>{"Home"}</title>
+          </Helmet>
           <GenreList />
           <VinylCardList
             cardList={currentPageItems}

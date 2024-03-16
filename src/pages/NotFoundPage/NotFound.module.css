@@ -18,3 +18,10 @@
   color: var(--error);
   font-size: 1.2rem;
 }
+
+.link {
+  color: blue;
+  font-size: 18px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}

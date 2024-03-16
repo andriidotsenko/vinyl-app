@@ -23,13 +23,14 @@ const router = createBrowserRouter([
         path: "search",
         element: <SearchPage />,
       },
-      {
-        path: "*",
-        element: <NotFoundPage />,
-      },
+
       {
         path: "results",
         element: <SearchResultsPage />,
+      },
+      {
+        path: "*",
+        element: <NotFoundPage />,
       },
     ],
   },
