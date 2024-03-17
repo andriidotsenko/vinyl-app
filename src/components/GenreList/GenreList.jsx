@@ -14,7 +14,7 @@ const GenreList = () => {
       </div>
       <div className={styles.list} id="genreItems">
         {genreList.length === 0 ? (
-          <p className={styles.not_found}>Don't find Genres</p>
+          <p className={styles.not_found}>Dont find Genres</p>
         ) : (
           genreList.map((genre) => (
             <div key={genre.id}>

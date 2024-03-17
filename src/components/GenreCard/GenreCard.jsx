@@ -1,6 +1,5 @@
 import PropTypes from "prop-types";
 import styles from "./GenreCard.module.css";
-import { Link } from "react-router-dom";
 
 const GenreCard = ({ name, backgroundColor, images }) => {
   const getRandomOffset = (min, max) =>

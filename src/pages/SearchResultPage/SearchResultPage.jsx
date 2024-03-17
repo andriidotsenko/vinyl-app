@@ -1,4 +1,3 @@
-import { useState } from "react";
 import styles from "./SearchResultPage.module.css";
 import Pagination from "../../components/Pagination/Pagination.jsx";
 import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
