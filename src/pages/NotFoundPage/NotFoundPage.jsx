@@ -6,7 +6,7 @@ const NotFound = () => {
   return (
     <>
       <Helmet>
-        <title>{"404 - Not Found"}</title>
+        <title>404 - Not Found</title>
       </Helmet>
       <div className={styles.container}>
         <h1 className={styles.title}>404 - Not Found</h1>

@@ -1,6 +1,7 @@
 .back {
   display: flex;
   align-items: center;
+  background-color: transparent;
   padding: 2px 10px;
   color: var(--white);
   fill: var(--white);

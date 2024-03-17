@@ -45,7 +45,7 @@ export function SearchPage() {
   return (
     <>
       <Helmet>
-        <title>{"Search"}</title>
+        <title>Search</title>
       </Helmet>
       <main className="main">
         <div className="container">

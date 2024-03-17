@@ -15,6 +15,7 @@ import { Helmet } from "react-helmet-async";
 import { useGenreList } from "../../hooks/useGenreList.js";
 import { useCountriesList } from "../../hooks/useCountriesList.js";
 import { useDecadeList } from "../../hooks/useDecadeList.js";
+import useGenerateTitleSearchResult from "../../hooks/useGenerateTitleSearchResult.js";
 
 export const SearchResultsPage = () => {
   const [params, setParams] = useSearchParams(emptyFilters);
@@ -26,13 +27,9 @@ export const SearchResultsPage = () => {
   } = useOutletContext();
   const filters = getFiltersFromParams(params);
 
-  const [currentPage, setCurrentPage] = useState(() => {
-    const queryParams = new URLSearchParams(window.location.search);
-    return +queryParams.get("page") || 1;
-  });
+  const currentPage = +params.get("page") || 1;
 
   function handlePageChange(pageNumber) {
-    setCurrentPage(pageNumber);
     const queryParams = new URLSearchParams(params);
     queryParams.set("page", pageNumber);
     setParams(queryParams.toString());
@@ -50,6 +47,13 @@ export const SearchResultsPage = () => {
 
   const setFilters = (filters) =>
     setParams(getSearchParamsFromFilters(filters));
+
+  const generateTitleSearchResult = useGenerateTitleSearchResult(
+    filters,
+    genreName,
+    decadeName,
+    countryName
+  );
 
   const screenWidth = window.innerWidth;
   const pageSize =
@@ -76,23 +80,10 @@ export const SearchResultsPage = () => {
     return <Navigate to={"/search"} />;
   }
 
-  const generateTitle = () => {
-    const titlePrefix = "Results for: ";
-    const artistPart = filters.artist ? ` artist - "${filters.artist}",` : "";
-    const genrePart =
-      filters.genre && genreName ? ` genre - ${genreName},` : "";
-    const decadePart =
-      filters.decade && decadeName ? `, decade - ${decadeName},` : "";
-    const countryPart =
-      filters.country && countryName ? `, country - ${countryName},` : "";
-
-    return `${titlePrefix}${artistPart}${genrePart}${decadePart}${countryPart}`;
-  };
-
   return (
     <>
       <Helmet>
-        <title>{generateTitle()}</title>
+        <title>{generateTitleSearchResult}</title>
       </Helmet>
       <main className="main">
         <div className="container">

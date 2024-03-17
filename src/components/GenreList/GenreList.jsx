@@ -1,6 +1,7 @@
 import GenreCard from "../GenreCard/GenreCard.jsx";
 import styles from "./GenreList.module.css";
 import { useGenreList } from "../../hooks/useGenreList.js";
+import { Link } from "react-router-dom";
 
 const GenreList = () => {
   const genreList = useGenreList();
@@ -13,9 +14,15 @@ const GenreList = () => {
       </div>
       <div className={styles.list} id="genreItems">
         {genreList.length === 0 ? (
-          <p className={styles.not_found}>Dont find Genres</p>
+          <p className={styles.not_found}>Don't find Genres</p>
         ) : (
-          genreList.map((genre) => <GenreCard key={genre.id} {...genre} />)
+          genreList.map((genre) => (
+            <div key={genre.id}>
+              <Link key={genre.id} to={"/results?genre=" + genre.id}>
+                <GenreCard {...genre} />
+              </Link>
+            </div>
+          ))
         )}
       </div>
     </>
