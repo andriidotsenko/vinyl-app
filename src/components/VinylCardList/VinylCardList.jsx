@@ -8,11 +8,11 @@ function VinylCardList({
   favoritesList,
   onClickInCollection,
   onClickInFavorites,
-  isHasTitle, // New prop to determine if the title should be displayed
+  isHasTitle,
 }) {
   return (
     <>
-      {isHasTitle && ( // Conditionally render the title section based on the prop
+      {isHasTitle && (
         <div className={styles.wrapper}>
           <h2 className={styles.title}>New in stock</h2>
           <h3 className={styles.more}>See more</h3>

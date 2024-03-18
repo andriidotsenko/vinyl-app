@@ -6,6 +6,7 @@ import { HomePage } from "./pages/HomePage/HomePage";
 import { SearchPage } from "./pages/SearchPage/SearchPage";
 import NotFoundPage from "./pages/NotFoundPage/NotFoundPage";
 import { SearchResultsPage } from "./pages/SearchResultPage/SearchResultPage";
+import { VinylPage } from "./pages/VinylPage/VinylPage";
 import { HelmetProvider } from "react-helmet-async";
 const appElement = document.getElementById("app");
 const root = createRoot(appElement);
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
       {
         path: "results",
         element: <SearchResultsPage />,
+      },
+      {
+        path: "vinyls/:vinylId",
+        element: <VinylPage />,
       },
       {
         path: "*",
