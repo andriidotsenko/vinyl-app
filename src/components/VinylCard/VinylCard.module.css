@@ -13,10 +13,14 @@
 
 .image {
   position: relative;
+
   overflow: hidden;
+
   flex: 1 1 auto;
+
   border-radius: 8px;
   margin-bottom: 8px;
+
   aspect-ratio: 1;
   cursor: pointer;
 }
