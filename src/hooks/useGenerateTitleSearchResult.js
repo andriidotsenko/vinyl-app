@@ -1,29 +1,33 @@
-import { useState } from "react";
+import { useGenreList } from "./useGenreList";
+import { useCountriesList } from "./useCountriesList";
+import { useDecadeList } from "./useDecadeList";
 
-const useGenerateTitleSearchResult = (
-  filters,
-  genreName,
-  decadeName,
-  countryName
-) => {
-  const [title, setTitle] = useState("");
+const useGenerateTitleSearchResult = (filters) => {
+  const genres = useGenreList();
+  const countries = useCountriesList();
+  const decades = useDecadeList();
 
-  const generateTitle = () => {
-    const titlePrefix = "Results for: ";
-    const artistPart = filters.artist ? ` artist - "${filters.artist}",` : "";
-    const genrePart =
-      filters.genre && genreName ? ` genre - ${genreName},` : "";
-    const decadePart =
-      filters.decade && decadeName ? `, decade - ${decadeName},` : "";
-    const countryPart =
-      filters.country && countryName ? `, country - ${countryName},` : "";
+  const genreName = genres.find((genre) => genre.id === +filters.genre)?.name;
+  const countryName = countries.find((c) => c.id === filters.country)?.name;
+  const decadeName = decades.find((d) => d.id === +filters.decade)?.name;
 
-    return `${titlePrefix}${artistPart}${genrePart}${decadePart}${countryPart}`;
-  };
+  const titleParts = [];
 
-  useState(() => {
-    setTitle(generateTitle());
-  }, [filters, genreName, decadeName, countryName]);
+  if (filters.artist) {
+    titleParts.push(`artist="${filters.artist}"`);
+  }
+  if (filters.genre && genreName) {
+    titleParts.push(`genre="${genreName}"`);
+  }
+  if (filters.decade && decadeName) {
+    titleParts.push(`decade="${decadeName}"`);
+  }
+  if (filters.country && countryName) {
+    titleParts.push(`country="${countryName}"`);
+  }
+
+  const titlePrefix = "Results for:";
+  const title = `${titlePrefix} ${titleParts.join(", ")}`;
 
   return title;
 };

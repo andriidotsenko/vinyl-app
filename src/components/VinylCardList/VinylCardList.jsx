@@ -1,7 +1,6 @@
 import PropTypes from "prop-types";
 import VinylCard from "../VinylCard/VinylCard.jsx";
 import styles from "./VinylCardList.module.css";
-import { Link } from "react-router-dom";
 
 function VinylCardList({
   cardList,
@@ -21,16 +20,14 @@ function VinylCardList({
       )}
       <div className={styles.cardList}>
         {cardList.map((card) => (
-          <Link key={card.id} to={`/vinyls/${card.id}`}>
-            <VinylCard
-              key={card.id}
-              card={card}
-              inCollection={collectionList.includes(card.id)}
-              inFavorites={favoritesList.includes(card.id)}
-              onClickInCollection={onClickInCollection}
-              onClickInFavorites={onClickInFavorites}
-            />
-          </Link>
+          <VinylCard
+            key={card.id}
+            card={card}
+            inCollection={collectionList.includes(card.id)}
+            inFavorites={favoritesList.includes(card.id)}
+            onClickInCollection={onClickInCollection}
+            onClickInFavorites={onClickInFavorites}
+          />
         ))}
       </div>
     </>
