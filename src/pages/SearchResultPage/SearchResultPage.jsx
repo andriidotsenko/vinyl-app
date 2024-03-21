@@ -11,9 +11,6 @@ import {
 import { useFilteredVinylCardList } from "../../hooks/useFilteredVinylCardList.js";
 import NonResultsPageIcon from "../../components/Icon/NonResultsPageIcon.jsx";
 import { Helmet } from "react-helmet-async";
-import { useGenreList } from "../../hooks/useGenreList.js";
-import { useCountriesList } from "../../hooks/useCountriesList.js";
-import { useDecadeList } from "../../hooks/useDecadeList.js";
 import useGenerateTitleSearchResult from "../../hooks/useGenerateTitleSearchResult.js";
 
 export const SearchResultsPage = () => {
@@ -25,7 +22,6 @@ export const SearchResultsPage = () => {
     handleFavoritesToggle,
   } = useOutletContext();
   const filters = getFiltersFromParams(params);
-
   const currentPage = +params.get("page") || 1;
 
   function handlePageChange(pageNumber) {
@@ -34,26 +30,10 @@ export const SearchResultsPage = () => {
     setParams(queryParams.toString());
   }
 
-  const genres = useGenreList();
-  const countries = useCountriesList();
-  const decades = useDecadeList();
-
-  const genreName = genres.find((genre) => genre.id === +filters.genre)?.name;
-  const countryName = countries.find((c) => c.id === filters.country)?.name;
-  const decadeName = decades.find((d) => d.id === +filters.decade)?.name;
-
   const filteredList = useFilteredVinylCardList(filters);
-
   const setFilters = (filters) =>
     setParams(getSearchParamsFromFilters(filters));
-
-  const generateTitleSearchResult = useGenerateTitleSearchResult(
-    filters,
-    genreName,
-    decadeName,
-    countryName
-  );
-
+  const generateTitleSearchResult = useGenerateTitleSearchResult(filters);
   const screenWidth = window.innerWidth;
   const pageSize =
     screenWidth < 500
