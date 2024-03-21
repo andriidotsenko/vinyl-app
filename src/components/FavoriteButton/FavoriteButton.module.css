@@ -11,3 +11,16 @@
   background-color: var(--white);
   cursor: pointer;
 }
+.fav:hover {
+  fill: var(--error);
+  transform: scale(1.03);
+  transition: all 0.2s ease;
+}
+
+.fav:active {
+  background-color: transparent;
+  fill: var(--error);
+
+  transform: rotate(1deg) scale(1.46);
+  transition: all 0.2s ease;
+}

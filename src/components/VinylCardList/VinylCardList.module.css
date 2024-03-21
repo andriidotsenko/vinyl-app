@@ -1,7 +1,7 @@
 .cardList {
   display: grid;
   margin-bottom: 20px;
-  grid-gap: 20px;
+  grid-gap: 8px;
 
   grid-template-columns: repeat(1, 1fr);
 }
@@ -27,4 +27,24 @@
   .cardList {
     grid-template-columns: repeat(5, 1fr);
   }
+}
+
+.title {
+  color: var(--black);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.wrapper {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.more {
+  color: rgba(10, 37, 48, 0.7);
+  font-size: 14px;
+  font-weight: 600;
 }

@@ -4,7 +4,7 @@ import { useGenreList } from "./useGenreList";
 
 export const useVinylCardList = () => {
   const countries = useCountriesList();
-  const { genreList } = useGenreList(); // Destructure genreList from the returned object
+  const genreList = useGenreList();
   const [vinylCardList] = useState([
     {
       id: 1,
@@ -221,6 +221,150 @@ export const useVinylCardList = () => {
       year: 2002,
       genreId: 1, // Rock
       country: "USA",
+    },
+    {
+      id: 19,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "Unknown Pleasures",
+      artist: "Joy Division",
+      year: 1979,
+      genreId: 4, // Post-Punk
+      country: "United Kingdom",
+    },
+    {
+      id: 20,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "Currents",
+      artist: "Tame Impala",
+      year: 2015,
+      genreId: 3, // Electronic
+      country: "Australia",
+    },
+    {
+      id: 21,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "Random Access Memories",
+      artist: "Daft Punk",
+      year: 2013,
+      genreId: 3, // Electronic
+      country: "France",
+    },
+    {
+      id: 22,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "The Suburbs",
+      artist: "Arcade Fire",
+      year: 2010,
+      genreId: 1, // Rock
+      country: "Canada",
+    },
+    {
+      id: 23,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "AM",
+      artist: "Arctic Monkeys",
+      year: 2013,
+      genreId: 1, // Rock
+      country: "United Kingdom",
+    },
+    {
+      id: 24,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "Is This It",
+      artist: "The Strokes",
+      year: 2001,
+      genreId: 1, // Rock
+      country: "USA",
+    },
+    {
+      id: 25,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "Flying Microtonal Banana",
+      artist: "King Gizzard & The Lizard Wizard",
+      year: 2017,
+      genreId: 1, // Rock
+      country: "Australia",
+    },
+    {
+      id: 26,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "Melophobia",
+      artist: "Cage The Elephant",
+      year: 2013,
+      genreId: 1, // Rock
+      country: "USA",
+    },
+    {
+      id: 27,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "Melodrama",
+      artist: "Lorde",
+      year: 2017,
+      genreId: 2, // Pop
+      country: "New Zealand",
+    },
+    {
+      id: 28,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "Ghost Stories",
+      artist: "Coldplay",
+      year: 2014,
+      genreId: 2, // Pop
+      country: "United Kingdom",
+    },
+    {
+      id: 29,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "American Idiot",
+      artist: "Green Day",
+      year: 2004,
+      genreId: 1, // Rock
+      country: "USA",
+    },
+    {
+      id: 30,
+      image: {
+        normal: "/content/image_bg.jpg",
+        double: "/content/image_bg.jpg",
+      },
+      title: "Funeral",
+      artist: "Arcade Fire",
+      year: 2004,
+      genreId: 1, // Rock
+      country: "Canada",
     },
   ]);
 

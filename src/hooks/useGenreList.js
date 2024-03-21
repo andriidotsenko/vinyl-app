@@ -9,31 +9,35 @@ export const useGenreList = () => {
     return "#" + "0".repeat(6 - hex.length) + hex;
   };
 
-  const [genreList] = useState(() => [
+  const [genreList] = useState([
     {
       id: 1,
       name: "Rock",
       backgroundColor: randomHexColor(),
       images: [
-        "/genrebg/rock1.jpg",
-        "/genrebg/rock2.jpg",
-        "/genrebg/rock3.jpg",
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
       ],
     },
     {
       id: 2,
       name: "Pop",
       backgroundColor: randomHexColor(),
-      images: ["/genrebg/pop1.jpg", "/genrebg/pop2.jpg", "/genrebg/pop3.jpg"],
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
     },
     {
       id: 3,
       name: "Electronic",
       backgroundColor: randomHexColor(),
       images: [
-        "/genrebg/electronic1.jpg",
-        "/genrebg/electronic2.jpg",
-        "/genrebg/electronic3.jpg",
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
       ],
     },
     {
@@ -41,9 +45,9 @@ export const useGenreList = () => {
       name: "Country",
       backgroundColor: randomHexColor(),
       images: [
-        "/genrebg/country1.jpg",
-        "/genrebg/country2.jpg",
-        "/genrebg/country3.jpg",
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
       ],
     },
     {
@@ -51,9 +55,9 @@ export const useGenreList = () => {
       name: "Jazz",
       backgroundColor: randomHexColor(),
       images: [
-        "/genrebg/jazz1.jpg",
-        "/genrebg/jazz2.jpg",
-        "/genrebg/jazz3.jpg",
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
       ],
     },
     {
@@ -61,9 +65,9 @@ export const useGenreList = () => {
       name: "Classical",
       backgroundColor: randomHexColor(),
       images: [
-        "/genrebg/classical1.jpg",
-        "/genrebg/classical2.jpg",
-        "/genrebg/classical3.jpg",
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
       ],
     },
     {
@@ -71,17 +75,142 @@ export const useGenreList = () => {
       name: "Hip-Hop",
       backgroundColor: randomHexColor(),
       images: [
-        "/genrebg/hiphop1.jpg",
-        "/genrebg/hiphop2.jpg",
-        "/genrebg/hiphop3.jpg",
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 8,
+      name: "Reggae",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 9,
+      name: "Blues",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 10,
+      name: "Funk",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 11,
+      name: "Metal",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 12,
+      name: "Reggaeton",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 13,
+      name: "Soul",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 14,
+      name: "R&B",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 15,
+      name: "Reggae Fusion",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 16,
+      name: "Indie",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 17,
+      name: "Alternative",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 18,
+      name: "Punk",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 19,
+      name: "Ska",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
+      ],
+    },
+    {
+      id: 20,
+      name: "Gospel",
+      backgroundColor: randomHexColor(),
+      images: [
+        "/genrebg/image1.jpg",
+        "/genrebg/image2.jpg",
+        "/genrebg/image3.jpg",
       ],
     },
   ]);
 
-  const getGenreNameById = (id) => {
-    const genre = genreList.find((genre) => genre.id === id);
-    return genre ? genre.name : "Unknown";
-  };
-
-  return { genreList, getGenreNameById };
+  return genreList;
 };

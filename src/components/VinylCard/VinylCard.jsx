@@ -3,6 +3,7 @@ import styles from "./VinylCard.module.css";
 import CollectionButton from "../CollectionButton/CollectionButton.jsx";
 
 import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
+import { Link } from "react-router-dom";
 
 function VinylCard({
   card,
@@ -29,7 +30,9 @@ function VinylCard({
           }}
         />
       </div>
-      <h2 className={styles.name}>{title}</h2>
+      <Link key={id} to={`/vinyls/${id}`}>
+        <h2 className={styles.name}>{title}</h2>
+      </Link>
       <p className={styles.group}>{artist}</p>
       <div className={styles.info}>
         <p>

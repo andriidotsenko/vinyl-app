@@ -1,0 +1,53 @@
+.form {
+  display: grid;
+  grid-gap: 12px;
+  grid-template-areas: "a a" "g d" "c c" "s s";
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+}
+
+.block {
+  display: flex;
+  min-height: 42px;
+  align-items: center;
+  justify-content: center;
+}
+
+.input:focus {
+  border-color: #0a2530;
+}
+
+.artist {
+  grid-area: a;
+}
+.genre {
+  grid-area: g;
+}
+.decade {
+  grid-area: d;
+}
+.country {
+  grid-area: c;
+}
+.searchButton {
+  width: 280px;
+  align-self: center;
+  grid-area: s;
+  justify-self: center;
+}
+
+input {
+  width: 100%;
+  height: 100%;
+  padding: 11px;
+  border: 1px solid var(--grey);
+  border-radius: 4px;
+}
+
+select {
+  width: 100%;
+  height: 100%;
+  padding: 11px;
+  border: 1px solid var(--grey);
+  border-radius: 4px;
+}
