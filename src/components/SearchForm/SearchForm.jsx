@@ -6,6 +6,7 @@ import clsx from "clsx";
 import { useCountriesList } from "../../hooks/useCountriesList.js";
 import { useDecadeList } from "../../hooks/useDecadeList.js";
 import { useGenreList } from "../../hooks/useGenreList.js";
+import MultiSelect from "../MultiSelect/MultiSelect.jsx";
 
 import { Button } from "../Button/Button.jsx";
 
@@ -61,6 +62,7 @@ export const SearchForm = ({ onSubmit }) => {
             ))}
           </select>
         </label>
+
         <label className={clsx(styles.block, styles.decade)}>
           <select
             name="decade"
@@ -91,6 +93,7 @@ export const SearchForm = ({ onSubmit }) => {
             ))}
           </select>
         </label>
+
         <div className={clsx(styles.block, styles.searchButton)}>
           <Button type="submit" disabled={isFiltersEmpty}>
             Search
