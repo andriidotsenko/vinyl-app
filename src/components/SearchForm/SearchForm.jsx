@@ -15,17 +15,13 @@ import clsx from "clsx";
 import { useVinylCardList } from "../../hooks/useVinylCardList.js";
 
 const formSchema = Yup.object({
-  artist: Yup.string().optional().min(2).max(10),
-  country: Yup.string(),
-  genres: Yup.array().of(Yup.string()),
-  decades: Yup.array().of(Yup.number()),
+  artist: Yup.string().optional().min(2).max(15),
+  country: Yup.string().min(1),
+  genres: Yup.array().min(3),
+  decades: Yup.array().of(Yup.number()).min(1),
 });
 
-export const SearchForm = ({
-  onSubmit,
-  onError,
-  defaultValues = emptyFilters,
-}) => {
+export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
   const genreList = useGenreList();
   const decadeList = useDecadeList();
   const countryList = useCountriesList();
@@ -34,6 +30,7 @@ export const SearchForm = ({
   const {
     handleSubmit,
     control,
+
     getValues,
     watch,
     formState: { errors },
@@ -69,7 +66,6 @@ export const SearchForm = ({
             )}
           />
         </div>
-        {/*
         <div className={clsx(styles.block, styles.genres)}>
           <Controller
             control={control}
@@ -111,7 +107,7 @@ export const SearchForm = ({
               />
             )}
           />
-        </div> */}
+        </div>
         <div className={clsx(styles.block, styles.searchButton)}>
           <Button type="submit" disabled={isFiltersEmpty}>
             Search
@@ -124,6 +120,5 @@ export const SearchForm = ({
 
 SearchForm.propTypes = {
   onSubmit: PropTypes.func.isRequired,
-  onError: PropTypes.func.isRequired,
   defaultValues: PropTypes.object,
 };

@@ -43,3 +43,7 @@
   background-color: var(--grey-border);
   color: var(--blue);
 }
+
+.error {
+  border: 0.001rem solid red;
+}

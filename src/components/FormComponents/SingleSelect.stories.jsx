@@ -9,7 +9,7 @@ export default {
 export const Default = () => (
   <SingleSelect
     options={useCountriesList()}
-    onChange={console.log("Countries")}
+    // onChange={console.log("Countries")}
     placeholder={"Countries"}
     value={null}
   />

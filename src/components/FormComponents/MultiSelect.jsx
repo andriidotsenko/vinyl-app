@@ -28,7 +28,7 @@ CustomCheckbox.propTypes = {
   onChange: PropTypes.func.isRequired,
 };
 
-const MultiSelect = ({ options, value, onChange, placeholder }) => {
+const MultiSelect = ({ options, value, onChange, placeholder, error }) => {
   const [selectedOptions, setSelectedOptions] = useState(value || []);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
@@ -60,45 +60,50 @@ const MultiSelect = ({ options, value, onChange, placeholder }) => {
   };
 
   return (
-    <div className={clsx(styles.root)}>
-      <button
-        type="button"
-        onClick={handleDropdownToggle}
-        className={clsx(styles.field, {
-          [styles.closed]: !isDropdownOpen,
-        })}
-      >
-        <span>{getOptionNames().join(", ") || placeholder}</span>
-        {isDropdownOpen ? <ArrowDownIcon /> : <ArrowUpIcon />}
-      </button>
-      <input type="hidden" name="selectedOptions" value={value} />
-      {isDropdownOpen && (
-        <div className={styles.dropdown}>
-          <button
-            type="button"
-            onClick={handleClearAll}
-            className={styles.clearButton}
-          >
-            {selectedOptions.length >= options.length ? (
-              <CheckIcon />
-            ) : (
-              <UncheckIcon />
-            )}
-            <span>All</span>
-          </button>
-          {options.map((option) => (
-            <label key={option.id} className={styles.checkbox}>
-              <CustomCheckbox
-                value={option.id.toString()}
-                checked={selectedOptions.includes(option.id)}
-                onChange={() => toggleOption(option.id)}
-              />
-              <span>{option.name}</span>
-            </label>
-          ))}
-        </div>
-      )}
-    </div>
+    <>
+      {error && <div style={{ color: "red", fontSize: "14px" }}>{error}</div>}
+      <div className={clsx(styles.root, { [styles.error]: error })}>
+        <button
+          type="button"
+          onClick={handleDropdownToggle}
+          className={clsx(styles.field, {
+            [styles.closed]: !isDropdownOpen,
+          })}
+        >
+          <span>{getOptionNames().join(", ") || placeholder}</span>
+          {isDropdownOpen ? <ArrowDownIcon /> : <ArrowUpIcon />}
+        </button>
+
+        <input type="hidden" name="selectedOptions" value={value} />
+
+        {isDropdownOpen && (
+          <div className={clsx(styles.dropdown, { [styles.error]: error })}>
+            <button
+              type="button"
+              onClick={handleClearAll}
+              className={styles.clearButton}
+            >
+              {selectedOptions.length >= options.length ? (
+                <CheckIcon />
+              ) : (
+                <UncheckIcon />
+              )}
+              <span>All</span>
+            </button>
+            {options.map((option) => (
+              <label key={option.id} className={styles.checkbox}>
+                <CustomCheckbox
+                  value={option.id.toString()}
+                  checked={selectedOptions.includes(option.id)}
+                  onChange={() => toggleOption(option.id)}
+                />
+                <span>{option.name}</span>
+              </label>
+            ))}
+          </div>
+        )}
+      </div>
+    </>
   );
 };
 
@@ -112,6 +117,7 @@ MultiSelect.propTypes = {
   value: PropTypes.arrayOf(PropTypes.number),
   onChange: PropTypes.func.isRequired,
   placeholder: PropTypes.string.isRequired,
+  error: PropTypes.object,
 };
 
 export default MultiSelect;

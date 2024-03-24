@@ -10,8 +10,6 @@ export const FiltersChips = ({ filters, onFiltersChange }) => {
   const decadeList = useDecadeList();
   const countryList = useCountriesList();
 
-  const country = countryList.find((item) => item.id === filters.country);
-
   function handleRemove(name) {
     onFiltersChange({ ...filters, [name]: "" });
   }
@@ -43,18 +41,17 @@ export const FiltersChips = ({ filters, onFiltersChange }) => {
             return (
               <FilterChip
                 key={genre.id}
-                label={genre.title}
+                label={genre.name}
                 onRemove={() => handleArrayRemove("genres", genreId)}
               />
             );
           })}
         </>
       )}
-
       {Boolean(filters.decades?.length) && (
         <>
-          {filters.decades.map((from) => {
-            const decade = decadeList.find((item) => item.from === from);
+          {filters.decades.map((id) => {
+            const decade = decadeList.find((item) => item.id === id);
 
             if (!decade) {
               return null;
@@ -62,18 +59,18 @@ export const FiltersChips = ({ filters, onFiltersChange }) => {
 
             return (
               <FilterChip
-                key={decade.from}
-                label={decade.title}
-                onRemove={() => handleArrayRemove("decades", from)}
+                key={decade.id}
+                label={decade.name}
+                onRemove={() => handleArrayRemove("decades", id)}
               />
             );
           })}
         </>
       )}
 
-      {country && (
+      {filters.country && (
         <FilterChip
-          label={country.title}
+          label={countryList.find((item) => item.id === +filters.country).name}
           onRemove={() => handleRemove("country")}
         />
       )}

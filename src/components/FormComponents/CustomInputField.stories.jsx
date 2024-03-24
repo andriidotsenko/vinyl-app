@@ -10,7 +10,7 @@ export default {
 export const Default = () => (
   <CustomInputField
     options={useVinylCardList()}
-    onChange={console.log("Artist")}
+    // onChange={console.log("Artist")}
     placeholder={"Artist"}
     value={null}
   />

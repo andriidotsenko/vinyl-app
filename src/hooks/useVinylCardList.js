@@ -76,7 +76,7 @@ export const useVinylCardList = () => {
       artist: "Muse",
       year: 2001,
       genreId: 1, // Rock
-      country: "United Kingdom",
+      country: 2,
     },
     {
       id: 7,

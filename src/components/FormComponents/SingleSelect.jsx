@@ -6,6 +6,7 @@ import CheckIcon from "../Icon/CheckIcon.jsx";
 import UncheckIcon from "../Icon/UncheckIcon.jsx";
 import ArrowDownIcon from "../Icon/ArrowDownIcon.jsx";
 import ArrowUpIcon from "../Icon/ArrowUpIcon.jsx";
+
 const CustomCheckbox = ({ value, checked, onChange }) => (
   <>
     <input
@@ -27,6 +28,7 @@ CustomCheckbox.propTypes = {
 
 const SingleSelect = ({
   options,
+  error,
   value,
   onChange,
   placeholder = "Placeholder",
@@ -35,12 +37,9 @@ const SingleSelect = ({
   const [isOpen, setIsOpen] = useState(false);
 
   const handleOptionChange = (optionId) => {
-    if (selectedOption === optionId) {
-      setSelectedOption(null);
-    } else {
-      setSelectedOption(optionId);
-    }
+    setSelectedOption(optionId);
     setIsOpen(false);
+    onChange(optionId);
   };
 
   const toggleDropdown = () => {
@@ -48,33 +47,40 @@ const SingleSelect = ({
   };
 
   return (
-    <div className={clsx(styles.root)}>
-      <button
-        type="button"
-        onClick={toggleDropdown}
-        className={clsx(styles.field)}
-      >
-        {selectedOption
-          ? options.find((option) => option.id === selectedOption)?.name || ""
-          : placeholder}
-        {isOpen ? <ArrowUpIcon /> : <ArrowDownIcon />}
-      </button>
-      <input type="hidden" name="selectedOption" value={selectedOption || ""} />
-      {isOpen && (
-        <div className={styles.dropdown}>
-          {options.map((option) => (
-            <label key={option.id} className={styles.checkbox}>
-              <CustomCheckbox
-                value={option.id.toString()}
-                checked={selectedOption === option.id}
-                onChange={() => handleOptionChange(option.id)}
-              />
-              {option.name}
-            </label>
-          ))}
-        </div>
-      )}
-    </div>
+    <>
+      {error && <div style={{ color: "red", fontSize: "14px" }}>{error}</div>}
+      <div className={clsx(styles.root)}>
+        <button
+          type="button"
+          onClick={toggleDropdown}
+          className={clsx(styles.field, { [styles.error]: error })}
+        >
+          {selectedOption
+            ? options.find((option) => option.id === selectedOption)?.name || ""
+            : placeholder}
+          {isOpen ? <ArrowDownIcon /> : <ArrowUpIcon />}
+        </button>
+        <input
+          type="hidden"
+          name="selectedOption"
+          value={selectedOption || ""}
+        />
+        {isOpen && (
+          <div className={styles.dropdown}>
+            {options.map((option) => (
+              <label key={option.id} className={styles.checkbox}>
+                <CustomCheckbox
+                  value={option.id.toString()}
+                  checked={selectedOption === option.id}
+                  onChange={() => handleOptionChange(option.id)}
+                />
+                {option.name}
+              </label>
+            ))}
+          </div>
+        )}
+      </div>
+    </>
   );
 };
 
@@ -85,9 +91,10 @@ SingleSelect.propTypes = {
       name: PropTypes.string.isRequired,
     })
   ).isRequired,
-  value: PropTypes.number,
+  value: PropTypes.string,
   onChange: PropTypes.func.isRequired,
   placeholder: PropTypes.string,
+  error: PropTypes.object,
 };
 
 export default SingleSelect;

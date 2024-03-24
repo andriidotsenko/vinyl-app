@@ -10,7 +10,7 @@ export default {
 export const Default = () => (
   <MultiSelect
     options={useGenreList()}
-    onChange={console.log("genres")}
+    // onChange={() => console.log("genres")}
     placeholder={"Genre"}
     value={[]}
   />
@@ -20,7 +20,7 @@ Default.args = {};
 export const Decades = () => (
   <MultiSelect
     options={useDecadeList()}
-    onChange={console.log("decades")}
+    // onChange={console.log("decades")}
     placeholder={"Decades"}
     value={[]}
   />
