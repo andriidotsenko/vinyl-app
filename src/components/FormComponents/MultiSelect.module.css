@@ -10,11 +10,14 @@
 .field {
   position: relative;
   display: flex;
+  overflow: auto;
   width: 100%;
+  max-height: 42px;
   justify-content: space-between;
-  padding: 10px 14px;
+  padding: 11px 14px;
   background-color: var(--white);
   font-size: 16px;
+  line-height: 1.2;
 }
 
 .field:hover {

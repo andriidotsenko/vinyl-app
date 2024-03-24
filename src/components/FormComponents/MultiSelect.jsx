@@ -71,11 +71,7 @@ const MultiSelect = ({ options, value, onChange, placeholder }) => {
         <span>{getOptionNames().join(", ") || placeholder}</span>
         {isDropdownOpen ? <ArrowDownIcon /> : <ArrowUpIcon />}
       </button>
-      <input
-        type="hidden"
-        name="selectedOptions"
-        value={selectedOptions.join(",")}
-      />
+      <input type="hidden" name="selectedOptions" value={value} />
       {isDropdownOpen && (
         <div className={styles.dropdown}>
           <button

@@ -1,99 +1,116 @@
+import * as Yup from "yup";
 import PropTypes from "prop-types";
-import { useState } from "react";
-import styles from "./SearchForm.module.css";
-import clsx from "clsx";
-
+import { useForm, Controller } from "react-hook-form";
+import { yupResolver } from "@hookform/resolvers/yup";
 import { useCountriesList } from "../../hooks/useCountriesList.js";
 import { useDecadeList } from "../../hooks/useDecadeList.js";
 import { useGenreList } from "../../hooks/useGenreList.js";
-// import MultiSelect from "../MultiSelect/MultiSelect.jsx";
+import { emptyFilters } from "../../utils/filters.js";
+import { Button } from "../Button/Button";
+import MultiSelect from "../FormComponents/MultiSelect";
+import SingleSelect from "../FormComponents/SingleSelect.jsx";
+import CustomInputField from "../FormComponents/CustomInputField";
+import styles from "./SearchForm.module.css";
+import clsx from "clsx";
+import { useVinylCardList } from "../../hooks/useVinylCardList.js";
 
-import { Button } from "../Button/Button.jsx";
+const formSchema = Yup.object({
+  artist: Yup.string().optional().min(2).max(10),
+  country: Yup.string(),
+  genres: Yup.array().of(Yup.string()),
+  decades: Yup.array().of(Yup.number()),
+});
 
-export const SearchForm = ({ onSubmit }) => {
+export const SearchForm = ({
+  onSubmit,
+  onError,
+  defaultValues = emptyFilters,
+}) => {
   const genreList = useGenreList();
   const decadeList = useDecadeList();
-  const countriesList = useCountriesList();
+  const countryList = useCountriesList();
+  const vinyls = useVinylCardList();
 
-  const [artist, setArtist] = useState("");
-  const [genre, setGenre] = useState("");
-  const [decade, setDecade] = useState("");
-  const [country, setCountry] = useState("");
+  const {
+    handleSubmit,
+    control,
+    getValues,
+    watch,
+    formState: { errors },
+  } = useForm({
+    defaultValues,
+    resolver: yupResolver(formSchema),
+  });
 
-  const filters = {
-    artist,
-    genre,
-    decade,
-    country,
+  watch();
+
+  const isFiltersEmpty = Object.values(getValues()).every((value) =>
+    Array.isArray(value) ? !value?.length : !value
+  );
+
+  const handleFormSubmit = (data) => {
+    onSubmit(data);
   };
-
-  function handleSubmit(event) {
-    event.preventDefault();
-    onSubmit(filters);
-  }
-
-  const isFiltersEmpty = !(artist || genre || decade || country);
 
   return (
     <div className={styles.filter}>
-      <form className={styles.form} onSubmit={handleSubmit}>
-        <label className={clsx(styles.block, styles.artist)}>
-          <input
-            type="text"
+      <form className={styles.form} onSubmit={handleSubmit(handleFormSubmit)}>
+        <div className={clsx(styles.block, styles.artist)}>
+          <Controller
+            control={control}
             name="artist"
-            placeholder="Artist"
-            id="filterArtist"
-            value={artist}
-            onChange={(event) => setArtist(event.target.value)}
+            render={({ field }) => (
+              <CustomInputField
+                {...field}
+                options={vinyls}
+                placeholder={"Artist"}
+                error={errors.artist?.message}
+              />
+            )}
           />
-        </label>
-        <label className={clsx(styles.block, styles.genre)}>
-          <select
-            name="genre"
-            id="filterGenre"
-            value={genre}
-            onChange={(event) => setGenre(event.target.value)}
-          >
-            <option value="">Genre</option>
-            {genreList.map((element) => (
-              <option key={element.id} value={element.id}>
-                {element.name}
-              </option>
-            ))}
-          </select>
-        </label>
-
-        <label className={clsx(styles.block, styles.decade)}>
-          <select
-            name="decade"
-            id="filterDecade"
-            value={decade}
-            onChange={(event) => setDecade(event.target.value)}
-          >
-            <option value="">Decade</option>
-            {decadeList.map((element) => (
-              <option key={element.id} value={element.id}>
-                {element.name}
-              </option>
-            ))}
-          </select>
-        </label>
-        <label className={clsx(styles.block, styles.country)}>
-          <select
+        </div>
+        <div className={clsx(styles.block, styles.genres)}>
+          <Controller
+            control={control}
+            name="genres"
+            render={({ field }) => (
+              <MultiSelect
+                {...field}
+                options={genreList}
+                placeholder={"Genre"}
+                error={errors.genres?.message}
+              />
+            )}
+          />
+        </div>
+        <div className={clsx(styles.block, styles.decades)}>
+          <Controller
+            control={control}
+            name="decades"
+            render={({ field }) => (
+              <MultiSelect
+                {...field}
+                options={decadeList}
+                placeholder={"Decades"}
+                error={errors.decades?.message}
+              />
+            )}
+          />
+        </div>
+        <div className={clsx(styles.block, styles.country)}>
+          <Controller
+            control={control}
             name="country"
-            id="filterCountry"
-            value={country}
-            onChange={(event) => setCountry(event.target.value)}
-          >
-            <option value="">Country</option>
-            {countriesList.map((element) => (
-              <option key={element.id} value={element.id}>
-                {element.name}
-              </option>
-            ))}
-          </select>
-        </label>
-
+            render={({ field }) => (
+              <SingleSelect
+                {...field}
+                options={countryList}
+                placeholder={"Country"}
+                error={errors.country?.message}
+              />
+            )}
+          />
+        </div>
         <div className={clsx(styles.block, styles.searchButton)}>
           <Button type="submit" disabled={isFiltersEmpty}>
             Search
@@ -106,4 +123,6 @@ export const SearchForm = ({ onSubmit }) => {
 
 SearchForm.propTypes = {
   onSubmit: PropTypes.func.isRequired,
+  onError: PropTypes.func.isRequired,
+  defaultValues: PropTypes.object,
 };

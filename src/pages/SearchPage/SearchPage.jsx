@@ -37,7 +37,7 @@ export function SearchPage() {
     const params = getSearchParamsFromFilters(filters);
 
     navigate({
-      pathname: "/results",
+      pathname: "/search/results",
       search: params.toString(),
     });
   };

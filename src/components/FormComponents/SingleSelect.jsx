@@ -6,11 +6,10 @@ import CheckIcon from "../Icon/CheckIcon.jsx";
 import UncheckIcon from "../Icon/UncheckIcon.jsx";
 import ArrowDownIcon from "../Icon/ArrowDownIcon.jsx";
 import ArrowUpIcon from "../Icon/ArrowUpIcon.jsx";
-
 const CustomCheckbox = ({ value, checked, onChange }) => (
   <>
     <input
-      type="radio"
+      type="checkbox"
       value={value}
       checked={checked}
       onChange={onChange}
@@ -37,7 +36,7 @@ const SingleSelect = ({
 
   const handleOptionChange = (optionId) => {
     if (selectedOption === optionId) {
-      setSelectedOption(null);
+      setSelectedOption(null); // Toggle the checked state of the option
     } else {
       setSelectedOption(optionId);
     }
@@ -50,7 +49,11 @@ const SingleSelect = ({
 
   return (
     <div className={clsx(styles.root)}>
-      <button onClick={toggleDropdown} className={clsx(styles.field)}>
+      <button
+        type="button"
+        onClick={toggleDropdown}
+        className={clsx(styles.field)}
+      >
         {selectedOption
           ? options.find((option) => option.id === selectedOption)?.name || ""
           : placeholder}
