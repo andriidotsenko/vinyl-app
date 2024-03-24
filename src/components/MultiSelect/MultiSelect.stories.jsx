@@ -12,7 +12,7 @@ export const Default = () => (
     options={useGenreList()}
     onChange={console.log("genres")}
     placeholder={"Genre"}
-    value={[1, 3, 7]}
+    value={[]}
   />
 );
 Default.args = {};
@@ -22,6 +22,6 @@ export const Decades = () => (
     options={useDecadeList()}
     onChange={console.log("decades")}
     placeholder={"Decades"}
-    value={[1, 2, 7]}
+    value={[]}
   />
 );

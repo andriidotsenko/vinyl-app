@@ -4,6 +4,8 @@ import clsx from "clsx";
 import styles from "./MultiSelect.module.css";
 import CheckIcon from "../Icon/CheckIcon.jsx";
 import UncheckIcon from "../Icon/UncheckIcon.jsx";
+import ArrowUpIcon from "../Icon/ArrowUpIcon.jsx";
+import ArrowDownIcon from "../Icon/ArrowDownIcon.jsx";
 
 const CustomCheckbox = ({ value, checked, onChange }) => {
   return (
@@ -48,6 +50,15 @@ const MultiSelect = ({ options, value, onChange, placeholder }) => {
     setIsDropdownOpen(!isDropdownOpen);
   };
 
+  const handleClearAll = () => {
+    const newSelectedOptions =
+      selectedOptions.length === options.length
+        ? []
+        : options.map((option) => option.id);
+    setSelectedOptions(newSelectedOptions);
+    onChange(newSelectedOptions);
+  };
+
   return (
     <div className={clsx(styles.root)}>
       <button
@@ -57,7 +68,8 @@ const MultiSelect = ({ options, value, onChange, placeholder }) => {
           [styles.closed]: !isDropdownOpen,
         })}
       >
-        {getOptionNames().join(", ") || placeholder}
+        <span>{getOptionNames().join(", ") || placeholder}</span>
+        {isDropdownOpen ? <ArrowDownIcon /> : <ArrowUpIcon />}
       </button>
       <input
         type="hidden"
@@ -66,6 +78,18 @@ const MultiSelect = ({ options, value, onChange, placeholder }) => {
       />
       {isDropdownOpen && (
         <div className={styles.dropdown}>
+          <button
+            type="button"
+            onClick={handleClearAll}
+            className={styles.clearButton}
+          >
+            {selectedOptions.length >= options.length ? (
+              <CheckIcon />
+            ) : (
+              <UncheckIcon />
+            )}
+            <span>All</span>
+          </button>
           {options.map((option) => (
             <label key={option.id} className={styles.checkbox}>
               <CustomCheckbox

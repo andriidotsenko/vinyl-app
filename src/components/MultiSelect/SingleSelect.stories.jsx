@@ -1,4 +1,4 @@
-import SingleSelect from "./Singleselect";
+import SingleSelect from "./SingleSelect";
 import { useCountriesList } from "../../hooks/useCountriesList";
 
 export default {
@@ -10,8 +10,8 @@ export const Default = () => (
   <SingleSelect
     options={useCountriesList()}
     onChange={console.log("Countries")}
-    // placeholder={"Countries"}
-    value={"uk"}
+    placeholder={"Countries"}
+    value={null}
   />
 );
 Default.args = {};

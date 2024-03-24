@@ -1,4 +1,4 @@
-const UncheckIcon = ({ className, ...restProps }) => (
+const UncheckIcon = ({ ...restProps }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     height="20"

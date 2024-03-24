@@ -1,4 +1,4 @@
-const CheckIcon = ({ className, ...restProps }) => (
+const CheckIcon = ({ ...restProps }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     height="20"

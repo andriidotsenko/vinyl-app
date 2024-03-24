@@ -6,7 +6,7 @@ import clsx from "clsx";
 import { useCountriesList } from "../../hooks/useCountriesList.js";
 import { useDecadeList } from "../../hooks/useDecadeList.js";
 import { useGenreList } from "../../hooks/useGenreList.js";
-import MultiSelect from "../MultiSelect/MultiSelect.jsx";
+// import MultiSelect from "../MultiSelect/MultiSelect.jsx";
 
 import { Button } from "../Button/Button.jsx";
 
