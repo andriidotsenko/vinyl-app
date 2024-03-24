@@ -36,7 +36,7 @@ const SingleSelect = ({
 
   const handleOptionChange = (optionId) => {
     if (selectedOption === optionId) {
-      setSelectedOption(null); // Toggle the checked state of the option
+      setSelectedOption(null);
     } else {
       setSelectedOption(optionId);
     }

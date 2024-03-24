@@ -2,8 +2,8 @@ import { useState } from "react";
 import PropTypes from "prop-types";
 import styles from "./CustomInputField.module.css";
 
-const CustomInputField = ({ options, onChange, placeholder }) => {
-  const [inputValue, setInputValue] = useState("");
+const CustomInputField = ({ options, value, onChange, placeholder }) => {
+  const [inputValue, setInputValue] = useState(value || "");
   const [filteredOptions, setFilteredOptions] = useState([]);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
@@ -21,9 +21,9 @@ const CustomInputField = ({ options, onChange, placeholder }) => {
     setFilteredOptions(uniqueArtists);
   };
 
-  const handleOptionSelect = (value) => {
-    setInputValue(value.artist);
-    onChange(value);
+  const handleOptionSelect = (option) => {
+    setInputValue(option.artist);
+    onChange(option);
     setFilteredOptions([]);
     setIsDropdownOpen(false);
   };
@@ -37,6 +37,10 @@ const CustomInputField = ({ options, onChange, placeholder }) => {
       setIsDropdownOpen(false);
     }, 200);
   };
+
+  useState(() => {
+    setInputValue(value || "");
+  }, [value]);
 
   return (
     <div className={styles.inputContainer}>
@@ -75,6 +79,7 @@ CustomInputField.propTypes = {
       artist: PropTypes.string.isRequired,
     })
   ).isRequired,
+  value: PropTypes.string,
   onChange: PropTypes.func.isRequired,
   placeholder: PropTypes.string.isRequired,
 };

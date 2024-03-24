@@ -69,6 +69,7 @@ export const SearchForm = ({
             )}
           />
         </div>
+        {/*
         <div className={clsx(styles.block, styles.genres)}>
           <Controller
             control={control}
@@ -110,7 +111,7 @@ export const SearchForm = ({
               />
             )}
           />
-        </div>
+        </div> */}
         <div className={clsx(styles.block, styles.searchButton)}>
           <Button type="submit" disabled={isFiltersEmpty}>
             Search
