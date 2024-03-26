@@ -1,6 +1,20 @@
 .chips {
   display: flex;
-  padding: 4px;
-  margin-bottom: 16px;
-  gap: 10px;
+  /* overflow: hidden; */
+  max-width: 100vh;
+  margin-bottom: 20px;
+  gap: 8px;
+  /* -ms-overflow-style: none; */
+  /* overflow-x: auto; */
+  /* scrollbar-width: none; */
+}
+
+.root {
+  display: flex;
+  max-width: 100%;
+  margin-bottom: 20px;
+  gap: 12px;
+  /* -ms-overflow-style: none; */
+  overflow-x: auto;
+  scrollbar-width: none;
 }

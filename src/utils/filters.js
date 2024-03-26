@@ -1,19 +1,20 @@
 export const getFiltersFromParams = (params) => ({
   artist: params.get("artist") || "",
-  genre: params.get("genre") || "",
-  decade: params.get("decade") || "",
   country: params.get("country") || "",
+  genres: params.getAll("genres").map(Number),
+  decades: params.getAll("decades").map(Number),
 });
 
 export const getSearchParamsFromFilters = (filters) => {
   const params = new URLSearchParams();
 
   Object.entries(filters).forEach(([key, value]) => {
-    if (value) {
-      const existingValue = params.get(key);
-      if (existingValue) {
-        params.set(key, `${existingValue},${value}`);
-      } else {
+    if (Array.isArray(value)) {
+      if (value.length) {
+        value.forEach((item) => params.append(key, item));
+      }
+    } else {
+      if (value) {
         params.set(key, value);
       }
     }
@@ -24,7 +25,7 @@ export const getSearchParamsFromFilters = (filters) => {
 
 export const emptyFilters = {
   artist: "",
-  genre: "",
-  decade: "",
+  genres: [],
+  decades: [],
   country: "",
 };

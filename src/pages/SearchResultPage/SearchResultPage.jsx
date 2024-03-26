@@ -1,7 +1,7 @@
 import styles from "./SearchResultPage.module.css";
 import Pagination from "../../components/Pagination/Pagination.jsx";
 import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
-import FiltersChips from "../../components/FiltersChips/FiltersChips.jsx";
+import { FiltersChips } from "../../components/FiltersChips/FiltersChips.jsx";
 import { Navigate, useOutletContext, useSearchParams } from "react-router-dom";
 import {
   emptyFilters,
