@@ -1,16 +1,17 @@
 import { useState } from "react";
 import PropTypes from "prop-types";
 import clsx from "clsx";
-import styles from "./MultiSelect.module.css";
+import styles from "./Selects.module.css";
 import CheckIcon from "../Icon/CheckIcon.jsx";
 import UncheckIcon from "../Icon/UncheckIcon.jsx";
 import ArrowUpIcon from "../Icon/ArrowUpIcon.jsx";
 import ArrowDownIcon from "../Icon/ArrowDownIcon.jsx";
 
-const CustomCheckbox = ({ value, checked, onChange }) => {
+const Checkbox = ({ value, checked, onChange, name }) => {
   return (
     <>
       <input
+        name={name}
         type="checkbox"
         value={value}
         checked={checked}
@@ -22,13 +23,21 @@ const CustomCheckbox = ({ value, checked, onChange }) => {
   );
 };
 
-CustomCheckbox.propTypes = {
+Checkbox.propTypes = {
   value: PropTypes.string.isRequired,
   checked: PropTypes.bool.isRequired,
   onChange: PropTypes.func.isRequired,
+  name: PropTypes.string.isRequired,
 };
 
-const MultiSelect = ({ options, value, onChange, placeholder, error }) => {
+const MultiSelect = ({
+  options,
+  value,
+  onChange,
+  placeholder,
+  error,
+  name,
+}) => {
   const [selectedOptions, setSelectedOptions] = useState(value || []);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
@@ -61,6 +70,7 @@ const MultiSelect = ({ options, value, onChange, placeholder, error }) => {
 
   return (
     <>
+      <input type="hidden" name={`${name}-all`} value={value.join(",")} />
       {error && <div style={{ color: "red", fontSize: "14px" }}>{error}</div>}
       <div className={clsx(styles.root, { [styles.error]: error })}>
         <button
@@ -73,8 +83,6 @@ const MultiSelect = ({ options, value, onChange, placeholder, error }) => {
           <span>{getOptionNames().join(", ") || placeholder}</span>
           {isDropdownOpen ? <ArrowDownIcon /> : <ArrowUpIcon />}
         </button>
-
-        <input type="hidden" name="selectedOptions" value={value} />
 
         {isDropdownOpen && (
           <div className={clsx(styles.dropdown, { [styles.error]: error })}>
@@ -92,7 +100,8 @@ const MultiSelect = ({ options, value, onChange, placeholder, error }) => {
             </button>
             {options.map((option) => (
               <label key={option.id} className={styles.checkbox}>
-                <CustomCheckbox
+                <Checkbox
+                  name={`${name}-all`}
                   value={option.id.toString()}
                   checked={selectedOptions.includes(option.id)}
                   onChange={() => toggleOption(option.id)}
@@ -117,7 +126,8 @@ MultiSelect.propTypes = {
   value: PropTypes.arrayOf(PropTypes.number),
   onChange: PropTypes.func.isRequired,
   placeholder: PropTypes.string.isRequired,
-  error: PropTypes.object,
+  error: PropTypes.string,
+  name: PropTypes.string.isRequired,
 };
 
 export default MultiSelect;

@@ -8,16 +8,17 @@ import { useGenreList } from "../../hooks/useGenreList.js";
 import { emptyFilters } from "../../utils/filters.js";
 import { Button } from "../Button/Button";
 import MultiSelect from "../FormComponents/MultiSelect";
-import SingleSelect from "../FormComponents/SingleSelect.jsx";
-import CustomInputField from "../FormComponents/CustomInputField";
+import SingleSelect from "../FormComponents/Select.jsx";
+import AutosuggestInput from "../FormComponents/AutosuggestInput.jsx";
 import styles from "./SearchForm.module.css";
 import clsx from "clsx";
 import { useVinylCardList } from "../../hooks/useVinylCardList.js";
+import { filterOptions } from "../../utils/filterOptions.js";
 
 const formSchema = Yup.object({
-  artist: Yup.string().optional().min(2).max(15),
+  artist: Yup.string().optional().min(2).max(8),
   country: Yup.string().min(1),
-  genres: Yup.array().min(3),
+  genres: Yup.array().min(2),
   decades: Yup.array().of(Yup.number()).min(1),
 });
 
@@ -57,11 +58,14 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
             control={control}
             name="artist"
             render={({ field }) => (
-              <CustomInputField
+              <AutosuggestInput
                 {...field}
                 options={vinyls}
                 placeholder={"Artist"}
                 error={errors.artist?.message}
+                filterFunction={(options, searchText) =>
+                  filterOptions(options, searchText)
+                }
               />
             )}
           />

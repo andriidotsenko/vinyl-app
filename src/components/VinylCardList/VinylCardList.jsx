@@ -19,16 +19,20 @@ function VinylCardList({
         </div>
       )}
       <div className={styles.cardList}>
-        {cardList.map((card) => (
-          <VinylCard
-            key={card.id}
-            card={card}
-            inCollection={collectionList.includes(card.id)}
-            inFavorites={favoritesList.includes(card.id)}
-            onClickInCollection={onClickInCollection}
-            onClickInFavorites={onClickInFavorites}
-          />
-        ))}
+        {cardList.map((card) => {
+          const country = String(card.country);
+
+          return (
+            <VinylCard
+              key={card.id}
+              card={{ ...card, country }}
+              inCollection={collectionList.includes(card.id)}
+              inFavorites={favoritesList.includes(card.id)}
+              onClickInCollection={onClickInCollection}
+              onClickInFavorites={onClickInFavorites}
+            />
+          );
+        })}
       </div>
     </>
   );

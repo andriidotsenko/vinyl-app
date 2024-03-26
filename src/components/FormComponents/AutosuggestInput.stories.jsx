@@ -1,4 +1,4 @@
-import CustomInputField from "./CustomInputField";
+import CustomInputField from "./AutosuggestInput";
 
 import { useVinylCardList } from "../../hooks/useVinylCardList";
 

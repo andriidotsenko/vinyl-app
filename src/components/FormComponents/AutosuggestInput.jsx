@@ -1,28 +1,20 @@
 import { useState } from "react";
 import PropTypes from "prop-types";
-import styles from "./CustomInputField.module.css";
+import styles from "./AutosuggestInput.module.css";
 import clsx from "clsx";
 
-const CustomInputField = ({ options, value, onChange, placeholder, error }) => {
-  const [inputValue, setInputValue] = useState(value || "");
-  const [filteredOptions, setFilteredOptions] = useState([]);
+const AutosuggestInput = ({
+  options,
+  value,
+  onChange,
+  placeholder,
+  error,
+  filterFunction,
+}) => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
-  const handleInputChange = (value) => {
-    setInputValue(value);
-    onChange(value);
-    const searchText = value.toLowerCase().trim();
-    const filteredArtists = options.filter((option) =>
-      option.artist.toLowerCase().includes(searchText)
-    );
-    setFilteredOptions(filteredArtists);
-  };
-
-  const handleOptionSelect = (option) => {
-    setInputValue(option.artist);
-    onChange(option.artist);
-    setFilteredOptions([]);
-    setIsDropdownOpen(false);
+  const handleInputChange = (newValue) => {
+    onChange(newValue);
   };
 
   const handleInputFocus = () => {
@@ -35,17 +27,19 @@ const CustomInputField = ({ options, value, onChange, placeholder, error }) => {
     }, 200);
   };
 
-  useState(() => {
-    setInputValue(value || "");
-  }, [value]);
+  const handleOptionSelect = (option) => {
+    onChange(option.artist);
+    setIsDropdownOpen(false);
+  };
+
+  const filteredOptions = filterFunction(options, value);
 
   return (
     <>
-      {error && <div style={{ color: "red", fontSize: "11px" }}>{error}</div>}
       <div className={styles.inputContainer}>
         <input
           type="text"
-          value={inputValue}
+          value={value}
           onChange={(e) => handleInputChange(e.target.value)}
           onFocus={handleInputFocus}
           onBlur={handleInputBlur}
@@ -60,7 +54,6 @@ const CustomInputField = ({ options, value, onChange, placeholder, error }) => {
                 key={option.id}
                 className={styles.dropdownOption}
                 onClick={() => handleOptionSelect(option)}
-                onChange={() => handleOptionSelect(value)}
               >
                 {option.artist}
               </button>
@@ -68,11 +61,12 @@ const CustomInputField = ({ options, value, onChange, placeholder, error }) => {
           </div>
         )}
       </div>
+      {error && <div style={{ color: "red", fontSize: "11px" }}>{error}</div>}
     </>
   );
 };
 
-CustomInputField.propTypes = {
+AutosuggestInput.propTypes = {
   options: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,
@@ -83,7 +77,8 @@ CustomInputField.propTypes = {
   value: PropTypes.string,
   onChange: PropTypes.func.isRequired,
   placeholder: PropTypes.string.isRequired,
-  error: PropTypes.object,
+  error: PropTypes.string,
+  filterFunction: PropTypes.func.isRequired,
 };
 
-export default CustomInputField;
+export default AutosuggestInput;
