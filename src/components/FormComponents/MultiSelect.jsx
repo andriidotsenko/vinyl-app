@@ -71,7 +71,6 @@ const MultiSelect = ({
   return (
     <>
       <input type="hidden" name={`${name}-all`} value={value.join(",")} />
-      {error && <div style={{ color: "red", fontSize: "14px" }}>{error}</div>}
       <div className={clsx(styles.root, { [styles.error]: error })}>
         <button
           type="button"
@@ -112,6 +111,7 @@ const MultiSelect = ({
           </div>
         )}
       </div>
+      {error && <div style={{ color: "red", fontSize: "11px" }}>{error}</div>}
     </>
   );
 };
