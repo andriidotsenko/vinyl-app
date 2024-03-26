@@ -70,7 +70,11 @@ const MultiSelect = ({
 
   return (
     <>
-      <input type="hidden" name={`${name}-all`} value={value.join(",")} />
+      <input
+        type="hidden"
+        name={`${name}-all`}
+        value={selectedOptions.join(",")}
+      />
       <div className={clsx(styles.root, { [styles.error]: error })}>
         <button
           type="button"

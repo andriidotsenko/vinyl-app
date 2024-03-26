@@ -20,12 +20,10 @@ function VinylCardList({
       )}
       <div className={styles.cardList}>
         {cardList.map((card) => {
-          const country = String(card.country);
-
           return (
             <VinylCard
               key={card.id}
-              card={{ ...card, country }}
+              card={{ ...card }}
               inCollection={collectionList.includes(card.id)}
               inFavorites={favoritesList.includes(card.id)}
               onClickInCollection={onClickInCollection}

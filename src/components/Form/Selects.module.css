@@ -55,6 +55,7 @@
   justify-content: flex-start;
   padding: 5px 0;
   cursor: pointer;
+  background-color: var(--white);
 }
 
 .clearButton {

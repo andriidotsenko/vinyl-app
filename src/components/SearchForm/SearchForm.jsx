@@ -7,13 +7,13 @@ import { useDecadeList } from "../../hooks/useDecadeList.js";
 import { useGenreList } from "../../hooks/useGenreList.js";
 import { emptyFilters } from "../../utils/filters.js";
 import { Button } from "../Button/Button";
-import MultiSelect from "../FormComponents/MultiSelect";
-import SingleSelect from "../FormComponents/Select.jsx";
-import AutosuggestInput from "../FormComponents/AutosuggestInput.jsx";
+import MultiSelect from "../Form/MultiSelect.jsx";
+import Select from "../Form/Select.jsx";
+import AutosuggestInput from "../Form/AutosuggestInput.jsx";
 import styles from "./SearchForm.module.css";
 import clsx from "clsx";
 import { useVinylCardList } from "../../hooks/useVinylCardList.js";
-import { filterOptions } from "../../utils/filterOptions.js";
+import { filterOptions } from "./utils.js";
 
 const formSchema = Yup.object({
   artist: Yup.string().optional().min(2).max(8),
@@ -31,7 +31,7 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
   const {
     handleSubmit,
     control,
-
+    reset,
     getValues,
     watch,
     formState: { errors },
@@ -103,7 +103,7 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
             control={control}
             name="country"
             render={({ field }) => (
-              <SingleSelect
+              <Select
                 {...field}
                 options={countryList}
                 placeholder={"Country"}
@@ -112,10 +112,21 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
             )}
           />
         </div>
-        <div className={clsx(styles.block, styles.searchButton)}>
-          <Button type="submit" disabled={isFiltersEmpty}>
-            Search
-          </Button>
+        <div className={styles.searchButton}>
+          <div className={styles.block}>
+            <Button type="submit" disabled={isFiltersEmpty}>
+              Search
+            </Button>
+          </div>
+          <div className={styles.block}>
+            <Button
+              type="button"
+              disabled={isFiltersEmpty}
+              onClick={() => reset({})}
+            >
+              Reset filters
+            </Button>
+          </div>
         </div>
       </form>
     </div>
