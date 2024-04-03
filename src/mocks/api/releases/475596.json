@@ -1,0 +1,78 @@
+{
+  "id": 475596,
+  "artist_id": 81013,
+  "artist": "Queen",
+  "title": "A Day At The Races",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Pop Rock",
+    "Art Rock",
+    "Glam",
+    "Arena Rock",
+    "Prog Rock"
+  ],
+  "release_date": "1976-12-10",
+  "year": 1976,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/bKZLWlkrNGQprMOBXUNB96p8NLX4GhbiCKViHOSa7AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU5/Ni0xNDU0NzA3NDM5/LTYzMzcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/s3ytjPYoaqTuNBQWofjilywNFCFGCbLJWyj7SbFDzTU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU5/Ni0xNDU0NzA3NDM5/LTYzMzcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Tie Your Mother Down",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "You Take My Breath Away",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Long Away",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "The Millionaire Waltz",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "You And I",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Somebody To Love",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "White Man",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Good Old-Fashioned Lover Boy",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Drowse",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Teo Torriatte (Let Us Cling Together)",
+      "duration": ""
+    }
+  ]
+}

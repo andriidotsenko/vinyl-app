@@ -1,0 +1,75 @@
+{
+  "id": 1491291,
+  "artist_id": 113655,
+  "artist": "ZZ Top",
+  "title": "Afterburner",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1985-10-28",
+  "year": 1985,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/FmKTp245sxZ0U29m5TWftnxiks7MxCzcXAxkn8pM5pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEy/OTEtMTU4ODY2MTAy/My0yMDUxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/rMkzwKi9uqCjGjwaccReAQULHhGX3k-yg_4eDGGA020/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEy/OTEtMTU4ODY2MTAy/My0yMDUxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Sleeping Bag",
+      "duration": "4:02"
+    },
+    {
+      "position": "A2",
+      "title": "Stages",
+      "duration": "3:32"
+    },
+    {
+      "position": "A3",
+      "title": "Woke Up With Wood",
+      "duration": "3:45"
+    },
+    {
+      "position": "A4",
+      "title": "Rough Boy",
+      "duration": "4:50"
+    },
+    {
+      "position": "A5",
+      "title": "Can't Stop Rockin'",
+      "duration": "3:01"
+    },
+    {
+      "position": "B1",
+      "title": "Planet Of Women",
+      "duration": "4:04"
+    },
+    {
+      "position": "B2",
+      "title": "I Got The Message",
+      "duration": "3:27"
+    },
+    {
+      "position": "B3",
+      "title": "Velcro Fly",
+      "duration": "3:29"
+    },
+    {
+      "position": "B4",
+      "title": "Dipping Low (In The Lap Of Luxury)",
+      "duration": "3:11"
+    },
+    {
+      "position": "B5",
+      "title": "Delirious",
+      "duration": "3:41"
+    }
+  ]
+}

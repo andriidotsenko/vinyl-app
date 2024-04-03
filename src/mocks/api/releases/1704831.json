@@ -1,0 +1,144 @@
+{
+  "id": 1704831,
+  "artist_id": 175395,
+  "artist": "Pearl Jam",
+  "title": "Ten",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Grunge"
+  ],
+  "release_date": "2009",
+  "year": 2009,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/nrK93p21Uhj9maEBgIX1n7gLQAcDY-pSbQn2pj0o0h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ4/MzEtMTM5NjYwMjkx/OC01ODU2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/K8xh5anlMjmnfp0N1Bh2TYuv_W0xvwH9MYUOoCNBFSA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ4/MzEtMTM5NjYwMjkx/OC01ODU2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Ten",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Once",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Even Flow",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Alive",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Why Go",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Black",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Jeremy",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Oceans",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Porch",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Garden",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Deep",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Release",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Ten Redux",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Once",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Even Flow",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Alive",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Why Go",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "title": "Black",
+      "duration": ""
+    },
+    {
+      "position": "C6",
+      "title": "Jeremy",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Oceans",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Porch",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Garden",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Deep",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "Release",
+      "duration": ""
+    }
+  ]
+}

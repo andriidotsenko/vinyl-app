@@ -1,0 +1,80 @@
+{
+  "id": 5801778,
+  "artist_id": 2445772,
+  "artist": "Lana Del Rey",
+  "title": "Ultraviolence",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Dream Pop",
+    "Indie Pop"
+  ],
+  "release_date": "2014-06-17",
+  "year": 2014,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/POgcVB14sLAR7EYfSBEFey0n7Rt6n9PGFJVevskkRvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE3/NzgtMTY4NDM0MzEw/OS05OTIxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/HiCgHFtYtoYQST2DTfJoWzyNfEUv-4z2VOcfsdg44AA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE3/NzgtMTY4NDM0MzEw/OS05OTIxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Cruel World",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Ultraviolence",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Shades Of Cool",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Brooklyn Baby",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "West Coast",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Sad Girl",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Pretty When You Cry",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Money Power Glory",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "****** My Way Up To The Top",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Old Money",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "The Other Woman",
+      "duration": ""
+    }
+  ]
+}

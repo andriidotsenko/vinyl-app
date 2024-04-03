@@ -1,0 +1,73 @@
+{
+  "id": 793593,
+  "artist_id": 7987,
+  "artist": "The Police",
+  "title": "Outlandos D'Amour",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "New Wave"
+  ],
+  "release_date": "1978",
+  "year": 1978,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/_LRrOrmz-8MUmKUvzS4REEmklqUvo44Rksm1pGbnWFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzU5/My0xMjAxMTI4NDMw/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/48tIE-vs3yKs-YGIgeF1CKIYDrGwCEgGTGfMEIL32d4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzU5/My0xMjAxMTI4NDMw/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Next To You",
+      "duration": "2:51"
+    },
+    {
+      "position": "A2",
+      "title": "So Lonely",
+      "duration": "4:48"
+    },
+    {
+      "position": "A3",
+      "title": "Roxanne",
+      "duration": "3:13"
+    },
+    {
+      "position": "A4",
+      "title": "Hole In My Life",
+      "duration": "4:48"
+    },
+    {
+      "position": "A5",
+      "title": "Peanuts",
+      "duration": "3:54"
+    },
+    {
+      "position": "B1",
+      "title": "Can't Stand Losing You",
+      "duration": "3:02"
+    },
+    {
+      "position": "B2",
+      "title": "Truth Hits Everybody",
+      "duration": "2:53"
+    },
+    {
+      "position": "B3",
+      "title": "Born In The 50's",
+      "duration": "3:42"
+    },
+    {
+      "position": "",
+      "title": "Be My Girl / Sally",
+      "duration": "3:24"
+    },
+    {
+      "position": "B5",
+      "title": "Masoko Tanga",
+      "duration": "5:41"
+    }
+  ]
+}

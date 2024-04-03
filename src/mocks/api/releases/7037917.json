@@ -1,0 +1,83 @@
+{
+  "id": 7037917,
+  "artist_id": 219986,
+  "artist": "Bruce Springsteen",
+  "title": "Born In The U.S.A.",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1984-06-04",
+  "year": 1984,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/dGrPFIWleiOfEoHvD-Jz602MwXJSRbBUwC91ZOwepDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzc5/MTctMTQ0MDk4NjY2/MS0zNzI3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/g6v4eTpcT8aDFTI9aNNYMnCYr5XfnMIE9iH7sb1bGc8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzc5/MTctMTQ0MDk4NjY2/MS0zNzI3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Born In The U.S.A.",
+      "duration": "4:39"
+    },
+    {
+      "position": "A2",
+      "title": "Cover Me",
+      "duration": "3:26"
+    },
+    {
+      "position": "A3",
+      "title": "Darlington County",
+      "duration": "4:48"
+    },
+    {
+      "position": "A4",
+      "title": "Working On The Highway",
+      "duration": "3:11"
+    },
+    {
+      "position": "A5",
+      "title": "Downbound Train",
+      "duration": "3:35"
+    },
+    {
+      "position": "A6",
+      "title": "I'm On Fire",
+      "duration": "2:36"
+    },
+    {
+      "position": "B1",
+      "title": "No Surrender",
+      "duration": "4:00"
+    },
+    {
+      "position": "B2",
+      "title": "Bobby Jean",
+      "duration": "3:46"
+    },
+    {
+      "position": "B3",
+      "title": "I'm Goin' Down",
+      "duration": "3:29"
+    },
+    {
+      "position": "B4",
+      "title": "Glory Days",
+      "duration": "4:15"
+    },
+    {
+      "position": "B5",
+      "title": "Dancing In The Dark",
+      "duration": "4:01"
+    },
+    {
+      "position": "B6",
+      "title": "My Hometown",
+      "duration": "4:33"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": 236605,
+  "artist_id": 1289,
+  "artist": "Daft Punk",
+  "title": "Homework",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "House",
+    "Techno",
+    "Disco",
+    "Electro",
+    "French House"
+  ],
+  "release_date": "2001",
+  "year": 2001,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/CvsIXopUZLVUTuWb1DKDzgDSOOwFoROPcnlaulKrmXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYw/NS0xNDkyODUzODYy/LTI1MjguanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/TDewIv-a8M9cx0W8odZiKHXM6x4o9CCBE2rVuBUIpog/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYw/NS0xNDkyODUzODYy/LTI1MjguanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Daftendirekt",
+      "duration": "2:44"
+    },
+    {
+      "position": "A2",
+      "title": "WDPK 83.7 FM",
+      "duration": "0:28"
+    },
+    {
+      "position": "A3",
+      "title": "Revolution 909",
+      "duration": "5:26"
+    },
+    {
+      "position": "A4",
+      "title": "Da Funk",
+      "duration": "5:28"
+    },
+    {
+      "position": "A5",
+      "title": "Phœnix",
+      "duration": "4:55"
+    },
+    {
+      "position": "B6",
+      "title": "Fresh",
+      "duration": "4:03"
+    },
+    {
+      "position": "B7",
+      "title": "Around The World",
+      "duration": "7:07"
+    },
+    {
+      "position": "B8",
+      "title": "Rollin' & Scratchin'",
+      "duration": "7:26"
+    },
+    {
+      "position": "C9",
+      "title": "Teachers",
+      "duration": "2:52"
+    },
+    {
+      "position": "C10",
+      "title": "High Fidelity",
+      "duration": "6:00"
+    },
+    {
+      "position": "C11",
+      "title": "Rock'n Roll",
+      "duration": "7:32"
+    },
+    {
+      "position": "C12",
+      "title": "Oh Yeah",
+      "duration": "2:00"
+    },
+    {
+      "position": "D13",
+      "title": "Burnin'",
+      "duration": "6:53"
+    },
+    {
+      "position": "D14",
+      "title": "Indo Silver Club",
+      "duration": "4:32"
+    },
+    {
+      "position": "D15",
+      "title": "Alive",
+      "duration": "5:15"
+    },
+    {
+      "position": "D16",
+      "title": "Funk Ad",
+      "duration": "0:50"
+    }
+  ]
+}

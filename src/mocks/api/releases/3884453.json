@@ -1,0 +1,71 @@
+{
+  "id": 3884453,
+  "artist_id": 15885,
+  "artist": "Michael Jackson",
+  "title": "Thriller",
+  "all_genres": [
+    2,
+    3
+  ],
+  "genre": 2,
+  "styles": [
+    "Funk",
+    "Disco",
+    "Soul"
+  ],
+  "release_date": "1982",
+  "year": 1982,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/ffBVEcM6YA0I-vWByHlmHygdOgKiJXc3DhIUNDvr4QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODQ0/NTMtMTU3OTQ3MTY0/My04NDkxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/CRhTvY0ZPf14Z0CCv32aVcH-OUKQ_gd7a4Q4oV3Lt0s/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODQ0/NTMtMTU3OTQ3MTY0/My04NDkxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Wanna Be Startin' Somethin'",
+      "duration": "6:02"
+    },
+    {
+      "position": "A2",
+      "title": "Baby Be Mine",
+      "duration": "4:20"
+    },
+    {
+      "position": "A3",
+      "title": "The Girl Is Mine",
+      "duration": "3:42"
+    },
+    {
+      "position": "A4",
+      "title": "Thriller",
+      "duration": "5:57"
+    },
+    {
+      "position": "B1",
+      "title": "Beat It",
+      "duration": "4:17"
+    },
+    {
+      "position": "B2",
+      "title": "Billie Jean",
+      "duration": "4:57"
+    },
+    {
+      "position": "B3",
+      "title": "Human Nature",
+      "duration": "4:05"
+    },
+    {
+      "position": "B4",
+      "title": "P.Y.T. (Pretty Young Thing)",
+      "duration": "3:58"
+    },
+    {
+      "position": "B5",
+      "title": "The Lady In My Life",
+      "duration": "4:57"
+    }
+  ]
+}

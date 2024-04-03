@@ -1,0 +1,76 @@
+{
+  "id": 499511,
+  "artist_id": 101028,
+  "artist": "Phil Collins",
+  "title": "...But Seriously",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Soft Rock",
+    "Pop Rock",
+    "Ballad"
+  ],
+  "release_date": "1989",
+  "year": 1989,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/xcpNlyfr5MYvkPTh5Kuy8NCIMlayLgHDKgLVQwh_kLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTUx/MS0xNTE2NjA4NTky/LTMyODIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/V6mPSvrgqKqE_3jjbiBHuM_792voq6F7t8ZWSwzoOGQ/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTUx/MS0xNTE2NjA4NTky/LTMyODIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hang In Long Enough",
+      "duration": "4:44"
+    },
+    {
+      "position": "A2",
+      "title": "Thats Just The Way It Is",
+      "duration": "5:20"
+    },
+    {
+      "position": "A3",
+      "title": "Find A Way To My Heart",
+      "duration": "6:11"
+    },
+    {
+      "position": "A4",
+      "title": "Colours",
+      "duration": "8:51"
+    },
+    {
+      "position": "A5",
+      "title": "Father To Son",
+      "duration": "3:28"
+    },
+    {
+      "position": "B1",
+      "title": "Another Day In Paradise",
+      "duration": "5:22"
+    },
+    {
+      "position": "B2",
+      "title": "All Of My Life",
+      "duration": "5:36"
+    },
+    {
+      "position": "B3",
+      "title": "Something Happened On The Way To Heaven",
+      "duration": "4:51"
+    },
+    {
+      "position": "B4",
+      "title": "Do You Remember?",
+      "duration": "4:35"
+    },
+    {
+      "position": "B5",
+      "title": "I Wish It Would Rain Down",
+      "duration": "5:27"
+    }
+  ]
+}

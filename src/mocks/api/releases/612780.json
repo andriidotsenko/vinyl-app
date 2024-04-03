@@ -1,0 +1,89 @@
+{
+  "id": 612780,
+  "artist_id": 81013,
+  "artist": "Queen",
+  "title": "A Night At The Opera",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Classic Rock",
+    "Pop Rock",
+    "Arena Rock",
+    "Art Rock",
+    "Glam",
+    "Prog Rock"
+  ],
+  "release_date": "1975-11-21",
+  "year": 1975,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/iYlsg4ZaRjpN4q9Ayon-gX-_9rnSYBj12qTxSGaa4FE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjc4/MC0xNTQxMzY3MTQ1/LTIxMjcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/2GXnNYolz0ciUnj8-ycSwQ8Uuy0Qu7LCfiZivZ0p_bo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjc4/MC0xNTQxMzY3MTQ1/LTIxMjcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Death On Two Legs (Dedicated To ...)",
+      "duration": "3:37"
+    },
+    {
+      "position": "A2",
+      "title": "Lazing On A Sunday Afternoon",
+      "duration": "1:06"
+    },
+    {
+      "position": "A3",
+      "title": "I'm In Love With My Car",
+      "duration": "3:00"
+    },
+    {
+      "position": "A4",
+      "title": "You're My Best Friend",
+      "duration": "2:47"
+    },
+    {
+      "position": "A5",
+      "title": "'39",
+      "duration": "3:13"
+    },
+    {
+      "position": "A6",
+      "title": "Sweet Lady",
+      "duration": "4:09"
+    },
+    {
+      "position": "A7",
+      "title": "Seaside Rendezvous",
+      "duration": "2:12"
+    },
+    {
+      "position": "B1",
+      "title": "The Prophet's Song",
+      "duration": "7:31"
+    },
+    {
+      "position": "B2",
+      "title": "Love Of My Life",
+      "duration": "4:06"
+    },
+    {
+      "position": "B3",
+      "title": "Good Company",
+      "duration": "3:22"
+    },
+    {
+      "position": "B4",
+      "title": "Bohemian Rhapsody",
+      "duration": "5:48"
+    },
+    {
+      "position": "B5",
+      "title": "God Save The Queen",
+      "duration": "1:07"
+    }
+  ]
+}

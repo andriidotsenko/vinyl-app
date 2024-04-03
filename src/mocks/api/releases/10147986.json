@@ -1,0 +1,74 @@
+{
+  "id": 10147986,
+  "artist_id": 2774,
+  "artist": "Portishead",
+  "title": "Dummy",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "Trip Hop",
+    "Downtempo"
+  ],
+  "release_date": "2017",
+  "year": 2017,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/KFvjSMdPpZ4lofSIz7TdYrXNzyDoCwZEF-GB0kJuc8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ3/OTg2LTE0OTQ1MTg3/MDgtNTA1NC5wbmc.jpeg",
+  "cover_image": "https://i.discogs.com/JfgWQCmKFC6yYHkvh9ulnl5c1o_2RJot-Vv2f7UceK0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTQ3/OTg2LTE0OTQ1MTg3/MDgtNTA1NC5wbmc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Mysterons",
+      "duration": "4:56"
+    },
+    {
+      "position": "A2",
+      "title": "Sour Times",
+      "duration": "4:05"
+    },
+    {
+      "position": "A3",
+      "title": "Strangers",
+      "duration": "3:49"
+    },
+    {
+      "position": "A4",
+      "title": "It Could Be Sweet",
+      "duration": "4:10"
+    },
+    {
+      "position": "A5",
+      "title": "Wandering Star",
+      "duration": "4:46"
+    },
+    {
+      "position": "B1",
+      "title": "Numb",
+      "duration": "3:43"
+    },
+    {
+      "position": "B2",
+      "title": "Roads",
+      "duration": "4:56"
+    },
+    {
+      "position": "B3",
+      "title": "Pedestal",
+      "duration": "3:30"
+    },
+    {
+      "position": "B4",
+      "title": "Biscuit",
+      "duration": "4:34"
+    },
+    {
+      "position": "B5",
+      "title": "Glory Box",
+      "duration": "4:49"
+    }
+  ]
+}

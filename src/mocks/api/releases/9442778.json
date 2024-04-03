@@ -1,0 +1,69 @@
+{
+  "id": 9442778,
+  "artist_id": 4480,
+  "artist": "Massive Attack",
+  "title": "Blue Lines",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "Trip Hop",
+    "Downtempo"
+  ],
+  "release_date": "2016-12-02",
+  "year": 2016,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/ATJkPUE7hHJAlZolwubH7mPaLGIXSOBIGweq4rhghsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTQ5MjEyNjA4/OS02Nzk2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/k6oEgFu6Iq-Cx_I2QLeZbKlj23KHI8752sZOIp_fjsM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTQ5MjEyNjA4/OS02Nzk2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Safe From Harm",
+      "duration": "5:16"
+    },
+    {
+      "position": "A2",
+      "title": "One Love",
+      "duration": "4:48"
+    },
+    {
+      "position": "A3",
+      "title": "Blue Lines",
+      "duration": "4:21"
+    },
+    {
+      "position": "A4",
+      "title": "Be Thankful For What You've Got",
+      "duration": "4:09"
+    },
+    {
+      "position": "A5",
+      "title": "Five Man Army",
+      "duration": "6:04"
+    },
+    {
+      "position": "B1",
+      "title": "Unfinished Sympathy",
+      "duration": "5:08"
+    },
+    {
+      "position": "B2",
+      "title": "Daydreaming",
+      "duration": "4:14"
+    },
+    {
+      "position": "B3",
+      "title": "Lately",
+      "duration": "4:26"
+    },
+    {
+      "position": "B4",
+      "title": "Hymn Of The Big Wheel",
+      "duration": "6:36"
+    }
+  ]
+}

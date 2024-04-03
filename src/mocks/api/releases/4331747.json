@@ -1,0 +1,113 @@
+{
+  "id": 4331747,
+  "artist_id": 6516,
+  "artist": "My Bloody Valentine",
+  "title": "m b v",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Shoegaze"
+  ],
+  "release_date": "2013-02-22",
+  "year": 2013,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/dlBeaOGKjR-1QlU-OdzAE8FPAQDeALEtvJX_8xEB2qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzE3/NDctMTM2ODM4MjMz/NC02OTIyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/687MSIBPtyF9jXMbjvCizVVgqcj0Q3daMh-yDENBzWw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzE3/NDctMTM2ODM4MjMz/NC02OTIyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "She Found Now",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Only Tomorrow",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Who Sees You",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Is This And Yes",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "If I Am",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "New You",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "In Another Way",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Nothing Is",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Wonder 2",
+      "duration": ""
+    },
+    {
+      "position": "CD-1",
+      "title": "She Found Now",
+      "duration": "5:06"
+    },
+    {
+      "position": "CD-2",
+      "title": "Only Tomorrow",
+      "duration": "6:22"
+    },
+    {
+      "position": "CD-3",
+      "title": "Who Sees You",
+      "duration": "6:12"
+    },
+    {
+      "position": "CD-4",
+      "title": "Is This And Yes",
+      "duration": "5:07"
+    },
+    {
+      "position": "CD-5",
+      "title": "If I Am",
+      "duration": "3:54"
+    },
+    {
+      "position": "CD-6",
+      "title": "New You",
+      "duration": "4:59"
+    },
+    {
+      "position": "CD-7",
+      "title": "In Another Way",
+      "duration": "5:31"
+    },
+    {
+      "position": "CD-8",
+      "title": "Nothing Is",
+      "duration": "3:34"
+    },
+    {
+      "position": "CD-9",
+      "title": "Wonder 2",
+      "duration": "5:52"
+    }
+  ]
+}

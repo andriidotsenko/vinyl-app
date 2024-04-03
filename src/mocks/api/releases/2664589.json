@@ -1,0 +1,83 @@
+{
+  "id": 2664589,
+  "artist_id": 819015,
+  "artist": "Adele",
+  "title": "21",
+  "all_genres": [
+    8,
+    2,
+    9,
+    3
+  ],
+  "genre": 8,
+  "styles": [
+    "Acoustic",
+    "Piano Blues",
+    "Neo Soul"
+  ],
+  "release_date": "2011-01-21",
+  "year": 2011,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/Z_lzVdTzuJbktOx0mwqtKvSD6huBGEIi7cMdV6Z59kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjQ1/ODktMTQ1MjI2OTk5/NS03Mjk4LnBuZw.jpeg",
+  "cover_image": "https://i.discogs.com/pbgKc7liXRhTdGM1zNhToDidUDYjK7_CQsxNaXxQTtE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjQ1/ODktMTQ1MjI2OTk5/NS03Mjk4LnBuZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Rolling In The Deep",
+      "duration": "3:46"
+    },
+    {
+      "position": "A2",
+      "title": "Rumour Has It",
+      "duration": "3:39"
+    },
+    {
+      "position": "A3",
+      "title": "Turning Tables",
+      "duration": "4:06"
+    },
+    {
+      "position": "A4",
+      "title": "Don't You Remember",
+      "duration": "4:00"
+    },
+    {
+      "position": "A5",
+      "title": "Set Fire To The Rain",
+      "duration": "3:58"
+    },
+    {
+      "position": "A6",
+      "title": "He Won't Go",
+      "duration": "4:30"
+    },
+    {
+      "position": "B1",
+      "title": "Take It All",
+      "duration": "3:44"
+    },
+    {
+      "position": "B2",
+      "title": "I'll Be Waiting",
+      "duration": "3:56"
+    },
+    {
+      "position": "B3",
+      "title": "One And Only",
+      "duration": "5:45"
+    },
+    {
+      "position": "B4",
+      "title": "Lovesong",
+      "duration": "5:12"
+    },
+    {
+      "position": "B5",
+      "title": "Someone Like You",
+      "duration": "4:40"
+    }
+  ]
+}

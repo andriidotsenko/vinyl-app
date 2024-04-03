@@ -1,0 +1,49 @@
+{
+  "id": 9981969,
+  "artist_id": 45467,
+  "artist": "Pink Floyd",
+  "title": "Wish You Were Here",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Art Rock",
+    "Prog Rock"
+  ],
+  "release_date": "2016-10-14",
+  "year": 2016,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/nEdsCSRYu0uhdFEoQjQfPYBNZ7-Htgx6Jyxmdg-8-YE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODE5/NjktMTY3NTk4MTY1/NS04Mjk4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/TXZAFd98K9PFO6VIGsblBO8UouBkXMaA7Rh7A2RGrMY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODE5/NjktMTY3NTk4MTY1/NS04Mjk4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Shine On You Crazy Diamond (1 - 5)",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Welcome To The Machine",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Have A Cigar",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Wish You Were Here",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Shine On You Crazy Diamond (6 - 9)",
+      "duration": ""
+    }
+  ]
+}

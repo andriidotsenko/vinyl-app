@@ -1,0 +1,68 @@
+{
+  "id": 492498,
+  "artist_id": 237890,
+  "artist": "John Cougar Mellencamp",
+  "title": "American Fool",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Southern Rock"
+  ],
+  "release_date": "1982",
+  "year": 1982,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/DYRuZukPXidJbOAFPJmTTqkuTzR8nGqcX6BE7OWhXYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjQ5/OC0xMzYwNzIyNDY5/LTkxNTAuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/yI7tx9wHVpV_96UcXW23jtNfELqn6WbopGkHlK01gkQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjQ5/OC0xMzYwNzIyNDY5/LTkxNTAuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hurts So Good",
+      "duration": "3:35"
+    },
+    {
+      "position": "A2",
+      "title": "Jack & Diane",
+      "duration": "4:16"
+    },
+    {
+      "position": "A3",
+      "title": "Hand To Hold On To",
+      "duration": "3:24"
+    },
+    {
+      "position": "A4",
+      "title": "Danger List",
+      "duration": "4:30"
+    },
+    {
+      "position": "A5",
+      "title": "Can You Take It",
+      "duration": "3:30"
+    },
+    {
+      "position": "B1",
+      "title": "Thundering Hearts",
+      "duration": "3:40"
+    },
+    {
+      "position": "B2",
+      "title": "China Girl",
+      "duration": "3:32"
+    },
+    {
+      "position": "B3",
+      "title": "Close Enough",
+      "duration": "3:37"
+    },
+    {
+      "position": "B4",
+      "title": "Weakest Moments",
+      "duration": "4:07"
+    }
+  ]
+}

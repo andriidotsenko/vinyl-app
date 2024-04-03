@@ -1,0 +1,129 @@
+{
+  "id": 2111843,
+  "artist_id": 592308,
+  "artist": "Beach House",
+  "title": "Teen Dream",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock",
+    "Dream Pop"
+  ],
+  "release_date": "2010-01-26",
+  "year": 2010,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/lfA441c0YJPbtQiEW4-cc60flcs4LZdmfw_iKOyLcPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NDMtMTQzMDM5NjE3/NS00MzU5LnBuZw.jpeg",
+  "cover_image": "https://i.discogs.com/TD0NVHEXlCqrasK0DF7ci5B2pmYAe58QKEAt5TuVpBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NDMtMTQzMDM5NjE3/NS00MzU5LnBuZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Zebra",
+      "duration": "4:48"
+    },
+    {
+      "position": "A2",
+      "title": "Silver Soul",
+      "duration": "4:58"
+    },
+    {
+      "position": "A3",
+      "title": "Norway",
+      "duration": "3:54"
+    },
+    {
+      "position": "B1",
+      "title": "Walk In The Park",
+      "duration": "5:22"
+    },
+    {
+      "position": "B2",
+      "title": "Used To Be",
+      "duration": "3:58"
+    },
+    {
+      "position": "C1",
+      "title": "Lover Of Mine",
+      "duration": "5:06"
+    },
+    {
+      "position": "C2",
+      "title": "Better Times",
+      "duration": "4:23"
+    },
+    {
+      "position": "D1",
+      "title": "10 Mile Stereo",
+      "duration": "5:03"
+    },
+    {
+      "position": "D2",
+      "title": "Real Love",
+      "duration": "5:20"
+    },
+    {
+      "position": "D3",
+      "title": "Take Care",
+      "duration": "5:48"
+    },
+    {
+      "position": "DVD-1",
+      "title": "Used To Be",
+      "duration": "4:00"
+    },
+    {
+      "position": "DVD-2",
+      "title": "Better Times",
+      "duration": "4:20"
+    },
+    {
+      "position": "DVD-3",
+      "title": "Walk In The Park",
+      "duration": "5:22"
+    },
+    {
+      "position": "DVD-4",
+      "title": "Zebra",
+      "duration": "4:47"
+    },
+    {
+      "position": "DVD-5",
+      "title": "10 Mile Stereo",
+      "duration": "5:05"
+    },
+    {
+      "position": "DVD-6",
+      "title": "Silver Soul",
+      "duration": "5:24"
+    },
+    {
+      "position": "DVD-7",
+      "title": "Lover Of Mine",
+      "duration": "5:17"
+    },
+    {
+      "position": "DVD-8",
+      "title": "Norway (Snorway)",
+      "duration": "5:15"
+    },
+    {
+      "position": "DVD-9",
+      "title": "Real Love",
+      "duration": "5:20"
+    },
+    {
+      "position": "DVD-10",
+      "title": "Take Care",
+      "duration": "4:43"
+    },
+    {
+      "position": "DVD-11",
+      "title": "Snorway",
+      "duration": "5:15"
+    }
+  ]
+}

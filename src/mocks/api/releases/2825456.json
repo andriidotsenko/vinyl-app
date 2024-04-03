@@ -1,0 +1,49 @@
+{
+  "id": 2825456,
+  "artist_id": 23755,
+  "artist": "Miles Davis",
+  "title": "Kind Of Blue",
+  "all_genres": [
+    8
+  ],
+  "genre": 8,
+  "styles": [
+    "Modal",
+    "Cool Jazz"
+  ],
+  "release_date": "2010",
+  "year": 2010,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/s-YATK9uK15skpOsnkP391Gxe2zBsNG_feNBrxjN3Ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU0/NTYtMTQzMDc3MDE0/My0xMDU3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/uctih8PnXxwdSrPfzXP-ZwRTxxhVs_8G2DgDhqQBJaY/rs:fit/g:sm/q:90/h:608/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU0/NTYtMTQzMDc3MDE0/My0xMDU3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "So What",
+      "duration": "8:56"
+    },
+    {
+      "position": "A2",
+      "title": "Freddie Freeloader",
+      "duration": "9:32"
+    },
+    {
+      "position": "A3",
+      "title": "Blue In Green",
+      "duration": "5:27"
+    },
+    {
+      "position": "B1",
+      "title": "All Blues",
+      "duration": "11:34"
+    },
+    {
+      "position": "B2",
+      "title": "Flamenco Sketches",
+      "duration": "9:32"
+    }
+  ]
+}

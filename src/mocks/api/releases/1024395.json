@@ -1,0 +1,70 @@
+{
+  "id": 1024395,
+  "artist_id": 269534,
+  "artist": "Tom Petty And The Heartbreakers",
+  "title": "Damn The Torpedoes",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Pop Rock",
+    "Classic Rock"
+  ],
+  "release_date": "1979-10-19",
+  "year": 1979,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/SwVq0PGqPPWjo2lr-B3-jmhxJ89QZ6QrxchnLUMpJPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/OTUtMTMxOTc4MDYy/Ni5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/oBZWorG1dGxz4fxGoRTJJhtFqDvq9rG51YpPi9oTits/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/OTUtMTMxOTc4MDYy/Ni5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Refugee",
+      "duration": "3:21"
+    },
+    {
+      "position": "A2",
+      "title": "Here Comes My Girl",
+      "duration": "4:33"
+    },
+    {
+      "position": "A3",
+      "title": "Even The Losers",
+      "duration": "3:35"
+    },
+    {
+      "position": "A4",
+      "title": "Shadow Of A Doubt (A Complex Kid)",
+      "duration": "4:53"
+    },
+    {
+      "position": "A5",
+      "title": "Century City",
+      "duration": "3:40"
+    },
+    {
+      "position": "B1",
+      "title": "Don't Do Me Like That",
+      "duration": "2:40"
+    },
+    {
+      "position": "B2",
+      "title": "You Tell Me",
+      "duration": "4:32"
+    },
+    {
+      "position": "B3",
+      "title": "What Are You Doin' In My Life?",
+      "duration": "3:25"
+    },
+    {
+      "position": "B4",
+      "title": "Louisiana Rain",
+      "duration": "4:46"
+    }
+  ]
+}

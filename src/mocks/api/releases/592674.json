@@ -1,0 +1,89 @@
+{
+  "id": 592674,
+  "artist_id": 132084,
+  "artist": "Snoop Dogg",
+  "title": "Doggystyle",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Gangsta",
+    "G-Funk"
+  ],
+  "release_date": "2001-05-00",
+  "year": 2001,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/jsp69ByLqQcwIM3ve10ZnaZmpbW2xpEZk_hSx5e4ncc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjY3/NC0xNDMyNTUzMjQx/LTI1OTcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/i7q0EA2ldSQbZS5zJmMWqpI65rHVQTXeJ1UyWRTNGhU/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjY3/NC0xNDMyNTUzMjQx/LTI1OTcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Bathtub",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "G Funk Intro",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Gin And Juice",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Tha Shiznit",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Lodi Dodi",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Murder Was The Case (Death After Visualizing Eternity)",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Serial Killa",
+      "duration": ""
+    },
+    {
+      "position": "C8",
+      "title": "Who Am I (What's My Name)?",
+      "duration": ""
+    },
+    {
+      "position": "C9",
+      "title": "For All My Niggaz & Bitches",
+      "duration": ""
+    },
+    {
+      "position": "C10",
+      "title": "Aint No Fun (If The Homies Cant Have None)",
+      "duration": ""
+    },
+    {
+      "position": "D11",
+      "title": "Doggy Dogg World",
+      "duration": ""
+    },
+    {
+      "position": "D12",
+      "title": "Gz And Hustlas",
+      "duration": ""
+    },
+    {
+      "position": "D13",
+      "title": "Pump Pump",
+      "duration": ""
+    }
+  ]
+}

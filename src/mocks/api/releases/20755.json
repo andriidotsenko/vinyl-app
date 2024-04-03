@@ -1,0 +1,34 @@
+{
+  "id": 20755,
+  "artist_id": 3909,
+  "artist": "New Order",
+  "title": "Blue Monday",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "Electro",
+    "Synth-pop"
+  ],
+  "release_date": "1983-03-07",
+  "year": 1983,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/T8KW1HEw23pS-aaB2p4-xlszAgiyanwRnDldli4f4f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU1/LTEyNDY5NzA1NDUu/anBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/0429pntOW1z75bMEX88E3HtLWs2cpOIgmwTukghmdjg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU1/LTEyNDY5NzA1NDUu/anBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A",
+      "title": "Blue Monday",
+      "duration": "7:29"
+    },
+    {
+      "position": "B",
+      "title": "The Beach",
+      "duration": "7:19"
+    }
+  ]
+}

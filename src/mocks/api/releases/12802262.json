@@ -1,0 +1,110 @@
+{
+  "id": 12802262,
+  "artist_id": 2742944,
+  "artist": "Travis Scott",
+  "title": "Astroworld",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Trap",
+    "Pop Rap",
+    "Psychedelic"
+  ],
+  "release_date": "2018-11-16",
+  "year": 2018,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/OWDYzmrv5Pq3TKnpCZrg3mZ7gidwkdYzpVxO1qF3vR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MjYyLTE1NDIzMTg0/MzQtMzc5Ni5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/7eMCTyy9ja2EWxYJsazkWJH4s3xz3eQQjSFRRb0dTAI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MjYyLTE1NDIzMTg0/MzQtMzc5Ni5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Stargazing",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Carousel",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Sicko Mode",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "R.I.P Screw",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Stop Trying To Be God",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "No Bystanders",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Skeletons",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Wake Up",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "5% Tint",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "NC-17",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Astrothunder",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "title": "Yosemite",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Can't Say",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Who? What!",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Butterfly Effect",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Houstonfornication",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "Coffee Bean",
+      "duration": ""
+    }
+  ]
+}

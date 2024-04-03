@@ -1,0 +1,89 @@
+{
+  "id": 10781508,
+  "artist_id": 52835,
+  "artist": "Beyoncé",
+  "title": "Lemonade",
+  "all_genres": [
+    1,
+    5,
+    2,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Soul",
+    "Neo Soul",
+    "Electro",
+    "Contemporary R&B"
+  ],
+  "release_date": "2017-09-15",
+  "year": 2017,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/QdFEkQuQzM76b081TC4jke5UHhZ_kBTAhXEG87wB5og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgx/NTA4LTE1MDgyNzk1/MTItOTY4MS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/G19GqAxwygvnQ02B8T67RTqiiP8GysQITU5TABz0LY4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgx/NTA4LTE1MDgyNzk1/MTItOTY4MS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Pray You Catch Me",
+      "duration": "3:16"
+    },
+    {
+      "position": "A2",
+      "title": "Hold Up",
+      "duration": "3:41"
+    },
+    {
+      "position": "A3",
+      "title": "Don't Hurt Yourself",
+      "duration": "3:54"
+    },
+    {
+      "position": "B1",
+      "title": "Sorry",
+      "duration": "3:53"
+    },
+    {
+      "position": "B2",
+      "title": "6 Inch",
+      "duration": "4:20"
+    },
+    {
+      "position": "B3",
+      "title": "Daddy Lessons",
+      "duration": "4:48"
+    },
+    {
+      "position": "C1",
+      "title": "Love Drought",
+      "duration": "3:57"
+    },
+    {
+      "position": "C2",
+      "title": "Sandcastles",
+      "duration": "3:03"
+    },
+    {
+      "position": "C3",
+      "title": "Forward",
+      "duration": "1:19"
+    },
+    {
+      "position": "C4",
+      "title": "Freedom",
+      "duration": "4:50"
+    },
+    {
+      "position": "D1",
+      "title": "All Night",
+      "duration": "5:22"
+    },
+    {
+      "position": "D2",
+      "title": "Formation",
+      "duration": "3:26"
+    }
+  ]
+}

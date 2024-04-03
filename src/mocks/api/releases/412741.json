@@ -1,0 +1,74 @@
+{
+  "id": 412741,
+  "artist_id": 136201,
+  "artist": "Heart",
+  "title": "Little Queen",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Rock & Roll"
+  ],
+  "release_date": "1977-05-15",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/vWrq6saS9CDtC_c9rh3nM1vW-SGpQwrsFSOTpGHEFpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjc0/MS0xMzY4OTA5NzQ3/LTkzNTkuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/yPUYpTRwA1gSo4DRUJUQgQKzIwqs7fRRTuqbc-sY2VI/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjc0/MS0xMzY4OTA5NzQ3/LTkzNTkuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Barracuda",
+      "duration": "4:20"
+    },
+    {
+      "position": "A2",
+      "title": "Love Alive",
+      "duration": "4:21"
+    },
+    {
+      "position": "A3",
+      "title": "Sylvan Song",
+      "duration": "2:12"
+    },
+    {
+      "position": "A4",
+      "title": "Dream Of The Archer",
+      "duration": "4:30"
+    },
+    {
+      "position": "A5",
+      "title": "Kick It Out",
+      "duration": "2:44"
+    },
+    {
+      "position": "B1",
+      "title": "Little Queen",
+      "duration": "5:10"
+    },
+    {
+      "position": "B2",
+      "title": "Treat Me Well",
+      "duration": "3:24"
+    },
+    {
+      "position": "B3",
+      "title": "Say Hello",
+      "duration": "3:36"
+    },
+    {
+      "position": "B4",
+      "title": "Cry To Me",
+      "duration": "2:51"
+    },
+    {
+      "position": "B5",
+      "title": "Go On Cry",
+      "duration": "5:52"
+    }
+  ]
+}

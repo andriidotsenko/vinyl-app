@@ -1,0 +1,105 @@
+{
+  "id": 653078,
+  "artist_id": 284099,
+  "artist": "Rodgers & Hammerstein",
+  "title": "The Sound Of Music (An Original Soundtrack Recording)",
+  "all_genres": [
+    3,
+    6
+  ],
+  "genre": 3,
+  "styles": [
+    "Soundtrack",
+    "Vocal"
+  ],
+  "release_date": "1965",
+  "year": 1965,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/KM77c3OwA4yudxlWSqM8ChsEpTVQzj_HiqsjXqeZF7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA3/OC0xNDM1NDYxMTA0/LTI5MTguanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/2cojl7UXApcVvfAI-LX0aSSePWQga-LmybtKP12P4YM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA3/OC0xNDM1NDYxMTA0/LTI5MTguanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Prelude And The Sound Of Music",
+      "duration": "2:33"
+    },
+    {
+      "position": "A2",
+      "title": "Overture And Preludium (Dixit Dominus)",
+      "duration": "3:12"
+    },
+    {
+      "position": "A3",
+      "title": "Morning Hymn And Alleluia",
+      "duration": "2:00"
+    },
+    {
+      "position": "A4",
+      "title": "Maria",
+      "duration": "3:15"
+    },
+    {
+      "position": "A5",
+      "title": "I Have Confidence",
+      "duration": "3:21"
+    },
+    {
+      "position": "A6",
+      "title": "Sixteen Going On Seventeen",
+      "duration": "3:13"
+    },
+    {
+      "position": "A7",
+      "title": "My Favorite Things",
+      "duration": "2:16"
+    },
+    {
+      "position": "A8",
+      "title": "Climb Ev'ry Mountain",
+      "duration": "2:13"
+    },
+    {
+      "position": "B1",
+      "title": "The Lonely Goatherd",
+      "duration": "3:08"
+    },
+    {
+      "position": "B2",
+      "title": "The Sound Of Music",
+      "duration": "2:09"
+    },
+    {
+      "position": "B3",
+      "title": "Do-Re-Mi",
+      "duration": "5:30"
+    },
+    {
+      "position": "B4",
+      "title": "Something Good",
+      "duration": "3:15"
+    },
+    {
+      "position": "B5",
+      "title": "Processional And Maria",
+      "duration": "2:25"
+    },
+    {
+      "position": "B6",
+      "title": "Edelweiss",
+      "duration": "1:48"
+    },
+    {
+      "position": "B7",
+      "title": "So Long, Farewell",
+      "duration": "2:52"
+    },
+    {
+      "position": "B8",
+      "title": "Climb Ev'ry Mountain (Reprise)",
+      "duration": "1:18"
+    }
+  ]
+}

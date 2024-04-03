@@ -1,0 +1,75 @@
+{
+  "id": 1187003,
+  "artist_id": 3840,
+  "artist": "Radiohead",
+  "title": "In Rainbows",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Indie Rock",
+    "Experimental"
+  ],
+  "release_date": "2008-01-01",
+  "year": 2008,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/2xYfLAYtGVwblW4yz2jDhkq3WGgBSNXeUQaTGFfYkZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MDMtMTQ5NTY3NzIz/OS0yODE2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/jM14pUWfI0_pFVhtuaPSPoaq4az9jMSDrWZW-CIxQkg/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODcw/MDMtMTQ5NTY3NzIz/OS0yODE2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "15 Step",
+      "duration": "3:57"
+    },
+    {
+      "position": "A2",
+      "title": "Bodysnatchers",
+      "duration": "4:02"
+    },
+    {
+      "position": "A3",
+      "title": "Nude",
+      "duration": "4:15"
+    },
+    {
+      "position": "A4",
+      "title": "Weird Fishes/Arpeggi",
+      "duration": "5:18"
+    },
+    {
+      "position": "A5",
+      "title": "All I Need",
+      "duration": "3:49"
+    },
+    {
+      "position": "B1",
+      "title": "Faust Arp",
+      "duration": "2:10"
+    },
+    {
+      "position": "B2",
+      "title": "Reckoner",
+      "duration": "4:50"
+    },
+    {
+      "position": "B3",
+      "title": "House Of Cards",
+      "duration": "5:28"
+    },
+    {
+      "position": "B4",
+      "title": "Jigsaw Falling Into Place",
+      "duration": "4:09"
+    },
+    {
+      "position": "B5",
+      "title": "Videotape",
+      "duration": "4:40"
+    }
+  ]
+}

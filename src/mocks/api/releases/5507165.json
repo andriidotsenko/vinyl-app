@@ -1,0 +1,73 @@
+{
+  "id": 5507165,
+  "artist_id": 1337908,
+  "artist": "The War On Drugs",
+  "title": "Lost In The Dream",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock"
+  ],
+  "release_date": "2014-03-00",
+  "year": 2014,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/m4n55bj8uDS5r_tk1u58friwmrrNLOX6pQRyKzZPl4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0yMjI3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/RNKqcAdyvM8VC9u40VR5ssxpUxqgLu0R8sl1CHK_z18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0yMjI3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Under The Pressure",
+      "duration": "8:51"
+    },
+    {
+      "position": "A2",
+      "title": "Red Eyes",
+      "duration": "4:59"
+    },
+    {
+      "position": "A3",
+      "title": "Suffering",
+      "duration": "6:01"
+    },
+    {
+      "position": "B1",
+      "title": "An Ocean In Between The Waves",
+      "duration": "7:11"
+    },
+    {
+      "position": "B2",
+      "title": "Disappearing",
+      "duration": "6:51"
+    },
+    {
+      "position": "C1",
+      "title": "Eyes To The Wind",
+      "duration": "5:54"
+    },
+    {
+      "position": "C2",
+      "title": "The Haunting Idle",
+      "duration": "2:55"
+    },
+    {
+      "position": "C3",
+      "title": "Burning",
+      "duration": "5:48"
+    },
+    {
+      "position": "D1",
+      "title": "Lost In The Dream",
+      "duration": "4:09"
+    },
+    {
+      "position": "D2",
+      "title": "In Reverse",
+      "duration": "7:41"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 5581078,
+  "artist_id": 7298,
+  "artist": "The Stone Roses",
+  "title": "The Stone Roses",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock"
+  ],
+  "release_date": "2014-04-00",
+  "year": 2014,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/RjN32nMixkR5APTZDmDY7o1vZfNhx63KUJZgFJan2II/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODEw/NzgtMTQyMTE2ODY3/NS04NzkxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/WVsSWYX8zoNLrF_Tbk9kNzJk0WjtBh6WPB5KcdM2zNQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODEw/NzgtMTQyMTE2ODY3/NS04NzkxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "I Wanna Be Adored",
+      "duration": "4:49"
+    },
+    {
+      "position": "A2",
+      "title": "She Bangs The Drums",
+      "duration": "3:52"
+    },
+    {
+      "position": "A3",
+      "title": "Waterfall",
+      "duration": "4:39"
+    },
+    {
+      "position": "A4",
+      "title": "Don't Stop",
+      "duration": "5:19"
+    },
+    {
+      "position": "A5",
+      "title": "Bye Bye Bad Man",
+      "duration": "4:01"
+    },
+    {
+      "position": "B1",
+      "title": "Elizabeth My Dear",
+      "duration": "0:55"
+    },
+    {
+      "position": "B2",
+      "title": "(Song For My) Sugar Spun Sister",
+      "duration": "3:26"
+    },
+    {
+      "position": "B3",
+      "title": "Made Of Stone",
+      "duration": "4:14"
+    },
+    {
+      "position": "B4",
+      "title": "Shoot You Down",
+      "duration": "4:13"
+    },
+    {
+      "position": "B5",
+      "title": "This Is The One",
+      "duration": "4:57"
+    },
+    {
+      "position": "B6",
+      "title": "I Am The Resurrection",
+      "duration": "8:10"
+    }
+  ]
+}

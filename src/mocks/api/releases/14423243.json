@@ -1,0 +1,94 @@
+{
+  "id": 14423243,
+  "artist_id": 56168,
+  "artist": "Queens Of The Stone Age",
+  "title": "Songs For The Deaf",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Stoner Rock",
+    "Hard Rock"
+  ],
+  "release_date": "2019-11-22",
+  "year": 2019,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/1XaX9KD2xY6rzlvnzspuefgixjVlK_yPNzu4TX-rueA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIz/MjQzLTE2NDA2MjMw/NjktOTEzOC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/WN8k8GL4EmiF0hrwfSoPEHQhdJFBI_9kYArsjgOT5UA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIz/MjQzLTE2NDA2MjMw/NjktOTEzOC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "No One Knows",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "First It Giveth",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Song For The Dead",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "The Sky Is Fallin'",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Six Shooter",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Hanging Tree",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Go With The Flow",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Gonna Leave You",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Do It Again",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "God Is In The Radio",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Another Love Song",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Song For The Deaf",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Mosquito Song",
+      "duration": ""
+    }
+  ]
+}

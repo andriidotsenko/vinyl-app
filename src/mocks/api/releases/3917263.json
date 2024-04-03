@@ -1,0 +1,46 @@
+{
+  "id": 3917263,
+  "artist_id": 280442,
+  "artist": "Godspeed You Black Emperor!",
+  "title": "'Allelujah! Don't Bend Ascend",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Post Rock",
+    "Drone"
+  ],
+  "release_date": "2012-10-16",
+  "year": 2012,
+  "all_countries": [
+    "usa",
+    "canada"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/EtZnS6S_HpmY5zpV9d9mrNSF5_H1rhaN-W53nwhVQNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTcy/NjMtMTM0OTI3NDIy/My0yNDgwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/uB-CjJjXcUN6Jq0spUvHLbnKCfdVc-ehY0Aidqv6Wyo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTcy/NjMtMTM0OTI3NDIy/My0yNDgwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A",
+      "title": "Mladic",
+      "duration": "19:54"
+    },
+    {
+      "position": "B",
+      "title": "We Drift Like Worried Fire",
+      "duration": "19:58"
+    },
+    {
+      "position": "C",
+      "title": "Their Helicopters' Sing",
+      "duration": "6:30"
+    },
+    {
+      "position": "D",
+      "title": "Strung Like Lights At Thee Printemps Erable",
+      "duration": "6:31"
+    }
+  ]
+}

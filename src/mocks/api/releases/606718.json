@@ -1,0 +1,66 @@
+{
+  "id": 606718,
+  "artist_id": 17641,
+  "artist": "Wham!",
+  "title": "Make It Big",
+  "all_genres": [
+    1,
+    2,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Synth-pop",
+    "Soul"
+  ],
+  "release_date": "1984",
+  "year": 1984,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Jf8fvm9Lso6YIqWPsaj6Kb52um6_bnkNKVamtpA5oK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcx/OC0xMzg1MjMwMTky/LTMwMjEuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/hRNw8lDHzlYOYdcIz48nb799L5Q5juBJ9IAA-V6VuHs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcx/OC0xMzg1MjMwMTky/LTMwMjEuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Wake Me Up Before You Go-Go",
+      "duration": "3:50"
+    },
+    {
+      "position": "A2",
+      "title": "Everything She Wants",
+      "duration": "5:01"
+    },
+    {
+      "position": "A3",
+      "title": "Heartbeat",
+      "duration": "4:42"
+    },
+    {
+      "position": "A4",
+      "title": "Like A Baby",
+      "duration": "4:12"
+    },
+    {
+      "position": "B1",
+      "title": "Freedom",
+      "duration": "5:01"
+    },
+    {
+      "position": "B2",
+      "title": "If You Were There",
+      "duration": "3:38"
+    },
+    {
+      "position": "B3",
+      "title": "Credit Card Baby",
+      "duration": "5:08"
+    },
+    {
+      "position": "B4",
+      "title": "Careless Whisper",
+      "duration": "6:30"
+    }
+  ]
+}

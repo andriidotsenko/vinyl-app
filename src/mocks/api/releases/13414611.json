@@ -1,0 +1,95 @@
+{
+  "id": 13414611,
+  "artist_id": 5590213,
+  "artist": "Billie Eilish",
+  "title": "When We All Fall Asleep, Where Do We Go?",
+  "all_genres": [
+    1,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Trap",
+    "Indie Pop"
+  ],
+  "release_date": "2019-03-29",
+  "year": 2019,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/jwFhB4ekksSJGQ7drMk-0APDiS7K_qwnojGkKGZVt10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/NjExLTE1NjMyOTUy/NzgtMjQyNi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/0l-Jj4oyQHBJj91uaN6iC9OM6tgsgcajQoWV_rbPo70/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/NjExLTE1NjMyOTUy/NzgtMjQyNi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "!!!!!!!",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Bad Guy",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Xanny",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "You Should See Me In A Crown",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "All The Good Girls Go To Hell",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Wish You Were Gay",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "When The Party's Over",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "8",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "My Strange Addiction",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Bury A Friend",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Ilomilo",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Listen Before I Go",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "I Love You",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Goodbye",
+      "duration": ""
+    }
+  ]
+}

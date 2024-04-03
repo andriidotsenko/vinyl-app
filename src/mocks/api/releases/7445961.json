@@ -1,0 +1,94 @@
+{
+  "id": 7445961,
+  "artist_id": 125246,
+  "artist": "Nirvana",
+  "title": "Nirvana",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Grunge",
+    "Alternative Rock"
+  ],
+  "release_date": "2015-11-13",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/TfPpJNPIepQ8epILsWDf46gIu50blu_mNyYvq8i21FE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDU5/NjEtMTU3MjI3NDgy/My02OTg5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/st5fJBtPbtBpAj1w-OGIfJNaVGBQXl5XTQMCJOf3608/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDU5/NjEtMTU3MjI3NDgy/My02OTg5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "You Know You're Right",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "About A Girl",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Been A Son",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Sliver",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Smells Like Teen Spirit",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Come As You Are",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "Lithium",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "In Bloom",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Heart-Shaped Box",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Pennyroyal Tea",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Rape Me",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Dumb",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "All Apologies",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "The Man Who Sold The World",
+      "duration": ""
+    }
+  ]
+}

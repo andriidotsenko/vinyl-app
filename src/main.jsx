@@ -11,6 +11,13 @@ import { HelmetProvider } from "react-helmet-async";
 const appElement = document.getElementById("app");
 const root = createRoot(appElement);
 
+async function bootstrap() {
+  if (import.meta.env.DEV) {
+    const { worker } = await import("./mocks/browser.js");
+    worker.start();
+  }
+}
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -41,10 +48,12 @@ const router = createBrowserRouter([
   },
 ]);
 
-root.render(
-  <StrictMode>
-    <HelmetProvider>
-      <RouterProvider router={router} />
-    </HelmetProvider>
-  </StrictMode>
-);
+bootstrap().then(() => {
+  root.render(
+    <StrictMode>
+      <HelmetProvider>
+        <RouterProvider router={router} />
+      </HelmetProvider>
+    </StrictMode>
+  );
+});

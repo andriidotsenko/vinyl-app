@@ -1,0 +1,48 @@
+{
+  "id": 1024257,
+  "artist_id": 103687,
+  "artist": "Dire Straits",
+  "title": "Love Over Gold",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock"
+  ],
+  "release_date": "1982",
+  "year": 1982,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/DzTP_18M0OCRe7gkEoZas6zD5FhBxSOm5VaLUMnBESE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/NTctMTI3NTYzMjcy/MC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/KpNijZTaFGDhj_wTSd2vyIIq6deOaP0jtHR6HvRdWFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/NTctMTI3NTYzMjcy/MC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Telegraph Road",
+      "duration": "14:20"
+    },
+    {
+      "position": "A2",
+      "title": "Private Investigations",
+      "duration": "7:00"
+    },
+    {
+      "position": "B1",
+      "title": "Industrial Disease",
+      "duration": "5:50"
+    },
+    {
+      "position": "B2",
+      "title": "Love Over Gold",
+      "duration": "6:15"
+    },
+    {
+      "position": "B3",
+      "title": "It Never Rains",
+      "duration": "7:55"
+    }
+  ]
+}

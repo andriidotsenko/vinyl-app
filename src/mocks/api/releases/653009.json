@@ -1,0 +1,83 @@
+{
+  "id": 653009,
+  "artist_id": 254441,
+  "artist": "The Blues Brothers",
+  "title": "Briefcase Full Of Blues",
+  "all_genres": [
+    9
+  ],
+  "genre": 9,
+  "styles": [
+    "Chicago Blues"
+  ],
+  "release_date": "1978",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/L5XMUfzrhwgJf4Pn8lsReReRkIZPAkgFeOPOkswr0Rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAw/OS0xNTA1OTMxOTYx/LTgyNDUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/NdbVTOxRoU0Xj2Yph1NJm4JqwLN8j1g9rD20yqVqwsI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAw/OS0xNTA1OTMxOTYx/LTgyNDUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Opening: I Can't Turn You Loose",
+      "duration": "1:17"
+    },
+    {
+      "position": "A2",
+      "title": "Hey Bartender",
+      "duration": "2:46"
+    },
+    {
+      "position": "A3",
+      "title": "Messin' With The Kid",
+      "duration": "2:46"
+    },
+    {
+      "position": "A4",
+      "title": "(I Got Everything I Need) Almost",
+      "duration": "2:36"
+    },
+    {
+      "position": "A5",
+      "title": "Rubber Biscuit",
+      "duration": "2:41"
+    },
+    {
+      "position": "A6",
+      "title": "Shot Gun Blues",
+      "duration": "5:13"
+    },
+    {
+      "position": "B1",
+      "title": "Groove Me",
+      "duration": "3:32"
+    },
+    {
+      "position": "B2",
+      "title": "I Don't Know",
+      "duration": "4:07"
+    },
+    {
+      "position": "B3",
+      "title": "Soul Man",
+      "duration": "2:54"
+    },
+    {
+      "position": "B4",
+      "title": "\"B\" Movie Box Car Blues",
+      "duration": "3:57"
+    },
+    {
+      "position": "B5",
+      "title": "Flip, Flop & Fly",
+      "duration": "3:35"
+    },
+    {
+      "position": "B6",
+      "title": "Closing: I Can't Turn You Loose",
+      "duration": "0:28"
+    }
+  ]
+}

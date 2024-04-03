@@ -1,0 +1,73 @@
+{
+  "id": 723633,
+  "artist_id": 68693,
+  "artist": "Toto",
+  "title": "Toto IV",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock"
+  ],
+  "release_date": "1982",
+  "year": 1982,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/sZ0j3ewgy7GCzXjx3QsUsjxu6hhuobBOSlEXWHf9v9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk3/LTUwNjIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/XulpiFcoKciIva2EDrij4BExwTULM5W0s9n-JQwUHFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk3/LTUwNjIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Rosanna",
+      "duration": "5:32"
+    },
+    {
+      "position": "A2",
+      "title": "Make Believe",
+      "duration": "3:43"
+    },
+    {
+      "position": "A3",
+      "title": "I Won't Hold You Back",
+      "duration": "4:56"
+    },
+    {
+      "position": "A4",
+      "title": "Good For You",
+      "duration": "3:18"
+    },
+    {
+      "position": "A5",
+      "title": "It's A Feeling",
+      "duration": "3:06"
+    },
+    {
+      "position": "B1",
+      "title": "Afraid Of Love",
+      "duration": "3:52"
+    },
+    {
+      "position": "B2",
+      "title": "Lovers In The Night",
+      "duration": "4:27"
+    },
+    {
+      "position": "B3",
+      "title": "We Made It",
+      "duration": "3:56"
+    },
+    {
+      "position": "B4",
+      "title": "Waiting For Your Love",
+      "duration": "4:13"
+    },
+    {
+      "position": "B5",
+      "title": "Africa",
+      "duration": "4:55"
+    }
+  ]
+}

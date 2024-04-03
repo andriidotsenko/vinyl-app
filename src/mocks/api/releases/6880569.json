@@ -1,0 +1,110 @@
+{
+  "id": 6880569,
+  "artist_id": 6378,
+  "artist": "Gorillaz",
+  "title": "Gorillaz",
+  "all_genres": [
+    1,
+    5,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Leftfield",
+    "Latin",
+    "Trip Hop",
+    "Lo-Fi",
+    "Pop Rap",
+    "Experimental"
+  ],
+  "release_date": "2015-03-15",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/x3JsPQNzjWhMN6u21O1_ZqQJsvHwQ3o6R-SAOFbiqcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODA1/NjktMTQyODgyNjk5/MS0xNjY3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/yVUpR4Lpr7NgkS8WjXk65vbqe4Cy-pg8Dxh5EKHYZqc/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODA1/NjktMTQyODgyNjk5/MS0xNjY3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Re-Hash",
+      "duration": "3:40"
+    },
+    {
+      "position": "A2",
+      "title": "5/4",
+      "duration": "2:42"
+    },
+    {
+      "position": "A3",
+      "title": "Tomorrow Comes Today",
+      "duration": "3:14"
+    },
+    {
+      "position": "A4",
+      "title": "New Genious (Brother)",
+      "duration": "3:59"
+    },
+    {
+      "position": "B5",
+      "title": "Clint Eastwood",
+      "duration": "5:43"
+    },
+    {
+      "position": "B6",
+      "title": "Man Research (Clapper)",
+      "duration": "4:32"
+    },
+    {
+      "position": "B7",
+      "title": "Punk",
+      "duration": "1:38"
+    },
+    {
+      "position": "B8",
+      "title": "Sound Check (Gravity)",
+      "duration": "4:42"
+    },
+    {
+      "position": "C9",
+      "title": "Double Bass",
+      "duration": "4:46"
+    },
+    {
+      "position": "C10",
+      "title": "Rock The House",
+      "duration": "4:11"
+    },
+    {
+      "position": "C11",
+      "title": "19-2000",
+      "duration": "3:29"
+    },
+    {
+      "position": "C12",
+      "title": "Latin Simone (Que Pasa Contigo)",
+      "duration": "3:38"
+    },
+    {
+      "position": "D13",
+      "title": "Starshine",
+      "duration": "3:33"
+    },
+    {
+      "position": "D14",
+      "title": "Slow Country",
+      "duration": "3:37"
+    },
+    {
+      "position": "D15",
+      "title": "M1 A1",
+      "duration": "3:57"
+    },
+    {
+      "position": "D16",
+      "title": "Clint Eastwood (Ed Case / Sweetie Irie Re-Fix)",
+      "duration": "4:28"
+    }
+  ]
+}

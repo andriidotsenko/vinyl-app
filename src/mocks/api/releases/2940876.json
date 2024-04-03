@@ -1,0 +1,74 @@
+{
+  "id": 2940876,
+  "artist_id": 1042739,
+  "artist": "Bon Iver",
+  "title": "Bon Iver, Bon Iver",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Indie Rock"
+  ],
+  "release_date": "2011-06-21",
+  "year": 2011,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/5eqDac9dB-tQ-7QPIbamJzyQf-Tvs9YNfV1FL9r8VzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDA4/NzYtMTMwODMyMDky/Ni5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/I9D3SYmefCXXU5sNKTcMjNX3xEtKivzFKkvosT5jLUQ/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDA4/NzYtMTMwODMyMDky/Ni5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Perth",
+      "duration": "4:22"
+    },
+    {
+      "position": "A2",
+      "title": "Minnesota, WI",
+      "duration": "3:52"
+    },
+    {
+      "position": "A3",
+      "title": "Holocene",
+      "duration": "5:37"
+    },
+    {
+      "position": "A4",
+      "title": "Towers",
+      "duration": "3:08"
+    },
+    {
+      "position": "A5",
+      "title": "Michicant",
+      "duration": "3:46"
+    },
+    {
+      "position": "B1",
+      "title": "Hinnom, TX",
+      "duration": "2:45"
+    },
+    {
+      "position": "B2",
+      "title": "Wash.",
+      "duration": "4:59"
+    },
+    {
+      "position": "B3",
+      "title": "Calgary",
+      "duration": "4:10"
+    },
+    {
+      "position": "B4",
+      "title": "Lisbon, OH",
+      "duration": "1:33"
+    },
+    {
+      "position": "B5",
+      "title": "Beth/Rest",
+      "duration": "5:17"
+    }
+  ]
+}

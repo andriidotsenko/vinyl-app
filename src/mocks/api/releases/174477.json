@@ -1,0 +1,74 @@
+{
+  "id": 174477,
+  "artist_id": 18956,
+  "artist": "Stevie Wonder",
+  "title": "Talking Book",
+  "all_genres": [
+    2
+  ],
+  "genre": 2,
+  "styles": [
+    "Soul",
+    "Funk"
+  ],
+  "release_date": "1972-10-27",
+  "year": 1972,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/v-d1D51jzhtAOhOcEk-DfCQslMeybgw6iTRlumzqMfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDQ3/Ny0xMzE0NDgwMzA1/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/IZJ_l9yMMJiEd8Cpkp47VmK4pkfBVg8elR5nXvbl-PE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDQ3/Ny0xMzE0NDgwMzA1/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "You Are The Sunshine Of My Life",
+      "duration": "2:45"
+    },
+    {
+      "position": "A2",
+      "title": "Maybe Your Baby",
+      "duration": "6:45"
+    },
+    {
+      "position": "A3",
+      "title": "You And I (We Can Conquer The World)",
+      "duration": "4:39"
+    },
+    {
+      "position": "A4",
+      "title": "Tuesday Heartbreak",
+      "duration": "3:09"
+    },
+    {
+      "position": "A5",
+      "title": "You've Got It Bad Girl",
+      "duration": "4:55"
+    },
+    {
+      "position": "B1",
+      "title": "Superstition",
+      "duration": "4:40"
+    },
+    {
+      "position": "B2",
+      "title": "Big Brother",
+      "duration": "3:35"
+    },
+    {
+      "position": "B3",
+      "title": "Blame It On The Sun",
+      "duration": "3:28"
+    },
+    {
+      "position": "B4",
+      "title": "Lookin For Another Pure Love",
+      "duration": "4:45"
+    },
+    {
+      "position": "B5",
+      "title": "I Believe (When I Fall In Love It Will Be Forever)",
+      "duration": "4:48"
+    }
+  ]
+}

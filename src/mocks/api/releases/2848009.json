@@ -1,0 +1,81 @@
+{
+  "id": 2848009,
+  "artist_id": 151223,
+  "artist": "Amy Winehouse",
+  "title": "Back To Black",
+  "all_genres": [
+    8,
+    2,
+    3
+  ],
+  "genre": 8,
+  "styles": [
+    "Contemporary R&B",
+    "Soul"
+  ],
+  "release_date": "2006",
+  "year": 2006,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/plEFCXKdVk1CS5v5U_x-wX8MQf_08uAywdToqHyqzf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDgw/MDktMTM5MDk5MDQ4/OS02OTc5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/NdldQe0P5ktTkjDoBFm9HLE0iiQ4xlqnDR2vNQ_Z0WU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDgw/MDktMTM5MDk5MDQ4/OS02OTc5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Rehab",
+      "duration": "3:30"
+    },
+    {
+      "position": "A2",
+      "title": "You Know I'm No Good",
+      "duration": "4:15"
+    },
+    {
+      "position": "A3",
+      "title": "Me & Mr Jones",
+      "duration": "2:30"
+    },
+    {
+      "position": "A4",
+      "title": "Just Friends",
+      "duration": "3:10"
+    },
+    {
+      "position": "A5",
+      "title": "Back To Black",
+      "duration": "4:00"
+    },
+    {
+      "position": "A6",
+      "title": "Love Is A Losing Game",
+      "duration": "2:32"
+    },
+    {
+      "position": "B7",
+      "title": "Tears Dry On Their Own",
+      "duration": "3:03"
+    },
+    {
+      "position": "B8",
+      "title": "Wake Up Alone",
+      "duration": "3:40"
+    },
+    {
+      "position": "B9",
+      "title": "Some Unholy War",
+      "duration": "2:20"
+    },
+    {
+      "position": "B10",
+      "title": "He Can Only Hold Her",
+      "duration": "2:45"
+    },
+    {
+      "position": "B11",
+      "title": "You Know I'm No Good",
+      "duration": "3:20"
+    }
+  ]
+}

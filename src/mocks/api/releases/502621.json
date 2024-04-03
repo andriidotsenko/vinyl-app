@@ -1,0 +1,65 @@
+{
+  "id": 502621,
+  "artist_id": 113020,
+  "artist": "Boston",
+  "title": "Boston",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Pop Rock",
+    "Arena Rock"
+  ],
+  "release_date": "1976",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/H4N2021OXZvyXFKy0Jz6AlvQsNwYWubDAgrrNSprF2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjYy/MS0xMzI2OTg3Mjgz/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/pIwwEjBilzFqWOwyXotNzov6JU2dQRLH5Qj2f1yH41I/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjYy/MS0xMzI2OTg3Mjgz/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "More Than A Feeling",
+      "duration": "4:44"
+    },
+    {
+      "position": "A2",
+      "title": "Peace Of Mind",
+      "duration": "4:55"
+    },
+    {
+      "position": "A3",
+      "title": "Foreplay/Long Time",
+      "duration": "7:56"
+    },
+    {
+      "position": "B1",
+      "title": "Rock & Roll Band",
+      "duration": "2:59"
+    },
+    {
+      "position": "B2",
+      "title": "Smokin'",
+      "duration": "4:44"
+    },
+    {
+      "position": "B3",
+      "title": "Hitch A Ride",
+      "duration": "3:18"
+    },
+    {
+      "position": "B4",
+      "title": "Something About You",
+      "duration": "4:19"
+    },
+    {
+      "position": "B5",
+      "title": "Let Me Take You Home Tonight",
+      "duration": "4:12"
+    }
+  ]
+}

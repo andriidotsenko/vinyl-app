@@ -1,0 +1,74 @@
+{
+  "id": 209358,
+  "artist_id": 66916,
+  "artist": "The Alan Parsons Project",
+  "title": "I Robot",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Prog Rock",
+    "Art Rock"
+  ],
+  "release_date": "1977-06-00",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/4uM949MSelpRUDrLdHqONLFMwz7s1WysVivJ7_cXt7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM1/OC0xNjY3MjYwNTAx/LTI1MzcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/K9p34GZiy1O_CcAQrFjbqwec17tQn73_UMsm13EUWrA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM1/OC0xNjY3MjYwNTAx/LTI1MzcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "I Robot",
+      "duration": "6:06"
+    },
+    {
+      "position": "A2",
+      "title": "I Wouldn't Want To Be Like You",
+      "duration": "3:19"
+    },
+    {
+      "position": "A3",
+      "title": "Some Other Time",
+      "duration": "4:05"
+    },
+    {
+      "position": "A4",
+      "title": "Breakdown",
+      "duration": "3:50"
+    },
+    {
+      "position": "A5",
+      "title": "Don't Let It Show",
+      "duration": "4:21"
+    },
+    {
+      "position": "B1",
+      "title": "The Voice",
+      "duration": "5:21"
+    },
+    {
+      "position": "B2",
+      "title": "Nucleus",
+      "duration": "3:35"
+    },
+    {
+      "position": "B3",
+      "title": "Day After Day (The Show Must Go On)",
+      "duration": "3:43"
+    },
+    {
+      "position": "B4",
+      "title": "Total Eclipse",
+      "duration": "3:05"
+    },
+    {
+      "position": "B5",
+      "title": "Genesis Ch.1, V.32",
+      "duration": "3:37"
+    }
+  ]
+}

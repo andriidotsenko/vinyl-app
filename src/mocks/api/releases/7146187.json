@@ -1,0 +1,75 @@
+{
+  "id": 7146187,
+  "artist_id": 4332385,
+  "artist": "Leon Bridges",
+  "title": "Coming Home",
+  "all_genres": [
+    2
+  ],
+  "genre": 2,
+  "styles": [
+    "Soul",
+    "Funk",
+    "Rhythm & Blues"
+  ],
+  "release_date": "2015-06-23",
+  "year": 2015,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/9W9sN5pFCyII9CWt74m_xvPR4yO9tp3GSUEq1QBnx34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ5NTE2MDY3/NC0zMTM1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/Xg7-JYafHj0wEjPeOvcv8K1goP0VCNykCL_3mWZLGho/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ5NTE2MDY3/NC0zMTM1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Coming Home",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Better Man",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Brown Skin Girl",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Smooth Sailin'",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Shine",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Lisa Sawyer",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Flowers",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Pull Away",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Twistin' & Groovin'",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "River",
+      "duration": ""
+    }
+  ]
+}

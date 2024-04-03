@@ -1,0 +1,93 @@
+{
+  "id": 12642678,
+  "artist_id": 85889,
+  "artist": "System Of A Down",
+  "title": "Toxicity",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Nu Metal"
+  ],
+  "release_date": "2018-10-12",
+  "year": 2018,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/S4x7_CuYnAotLkgKqsGNP-ga8hAfvwbSuo1LYr1rar8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/ODEtMzE1My5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/m6SoQlmfroOIPh-b5x_NGIOBeS9UmTSYVGZ7SJTxRI4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/ODEtMzE1My5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Prison Song",
+      "duration": "3:21"
+    },
+    {
+      "position": "A2",
+      "title": "Needles",
+      "duration": "3:13"
+    },
+    {
+      "position": "A3",
+      "title": "Deer Dance",
+      "duration": "2:54"
+    },
+    {
+      "position": "A4",
+      "title": "Jet Pilot",
+      "duration": "2:06"
+    },
+    {
+      "position": "A5",
+      "title": "X",
+      "duration": "1:58"
+    },
+    {
+      "position": "A6",
+      "title": "Chop Suey!",
+      "duration": "3:30"
+    },
+    {
+      "position": "A7",
+      "title": "Bounce",
+      "duration": "1:54"
+    },
+    {
+      "position": "A8",
+      "title": "Forest",
+      "duration": "4:00"
+    },
+    {
+      "position": "B1",
+      "title": "ATWA",
+      "duration": "2:56"
+    },
+    {
+      "position": "B2",
+      "title": "Science",
+      "duration": "2:42"
+    },
+    {
+      "position": "B3",
+      "title": "Shimmy",
+      "duration": "1:50"
+    },
+    {
+      "position": "B4",
+      "title": "Toxicity",
+      "duration": "3:38"
+    },
+    {
+      "position": "B5",
+      "title": "Psycho",
+      "duration": "3:45"
+    },
+    {
+      "position": "B6",
+      "title": "Aerials",
+      "duration": "6:11"
+    }
+  ]
+}

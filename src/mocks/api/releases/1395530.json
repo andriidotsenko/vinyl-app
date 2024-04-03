@@ -1,0 +1,85 @@
+{
+  "id": 1395530,
+  "artist_id": 266352,
+  "artist": "Carole King",
+  "title": "Tapestry",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Vocal"
+  ],
+  "release_date": "1971-02-10",
+  "year": 1971,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/WsjXJBuAnDSMt13nWk1nybrDXRtPv7-Co3-ScwO-d40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/MzAtMTM4OTk0Mzc1/NS01NjAzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/re5JdP_ATjuHxGgAp0-wylQCAgbqBsERjCdxO5bwWyU/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/MzAtMTM4OTk0Mzc1/NS01NjAzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "I Feel The Earth Move",
+      "duration": "2:57"
+    },
+    {
+      "position": "A2",
+      "title": "So Far Away",
+      "duration": "3:55"
+    },
+    {
+      "position": "A3",
+      "title": "It's Too Late",
+      "duration": "3:51"
+    },
+    {
+      "position": "A4",
+      "title": "Home Again",
+      "duration": "2:27"
+    },
+    {
+      "position": "A5",
+      "title": "Beautiful",
+      "duration": "3:05"
+    },
+    {
+      "position": "A6",
+      "title": "Way Over Yonder",
+      "duration": "4:42"
+    },
+    {
+      "position": "B1",
+      "title": "You've Got A Friend",
+      "duration": "5:07"
+    },
+    {
+      "position": "B2",
+      "title": "Where You Lead",
+      "duration": "3:18"
+    },
+    {
+      "position": "B3",
+      "title": "Will You Love Me Tomorrow?",
+      "duration": "4:10"
+    },
+    {
+      "position": "B4",
+      "title": "Smackwater Jack",
+      "duration": "3:39"
+    },
+    {
+      "position": "B5",
+      "title": "Tapestry",
+      "duration": "3:11"
+    },
+    {
+      "position": "B6",
+      "title": "(You Make Me Feel Like) A Natural Woman",
+      "duration": "3:47"
+    }
+  ]
+}

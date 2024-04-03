@@ -1,0 +1,73 @@
+{
+  "id": 10227747,
+  "artist_id": 12212,
+  "artist": "Rage Against The Machine",
+  "title": "Rage Against The Machine",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Funk Metal"
+  ],
+  "release_date": "2015",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/nVFOxz0l1LfRZnjKwHYaMbZ5zKkcTlXjR2L3Dp5CWdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/NzQ3LTE0OTM3NDEw/OTMtNzg4OS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/I7ZM3wLlpvrgB7ghnLV7GQkBe7chEWGYR0hQgqNLx18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/NzQ3LTE0OTM3NDEw/OTMtNzg4OS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Bombtrack",
+      "duration": "4:04"
+    },
+    {
+      "position": "A2",
+      "title": "Killing In The Name",
+      "duration": "5:13"
+    },
+    {
+      "position": "A3",
+      "title": "Take The Power Back",
+      "duration": "5:36"
+    },
+    {
+      "position": "A4",
+      "title": "Settle For Nothing",
+      "duration": "4:47"
+    },
+    {
+      "position": "A5",
+      "title": "Bullet In The Head",
+      "duration": "4:46"
+    },
+    {
+      "position": "B1",
+      "title": "Know Your Enemy",
+      "duration": "4:54"
+    },
+    {
+      "position": "B2",
+      "title": "Wake Up",
+      "duration": "6:04"
+    },
+    {
+      "position": "B3",
+      "title": "Fistful Of Steel",
+      "duration": "5:30"
+    },
+    {
+      "position": "B4",
+      "title": "Township Rebellion",
+      "duration": "5:24"
+    },
+    {
+      "position": "B5",
+      "title": "Freedom",
+      "duration": "6:06"
+    }
+  ]
+}

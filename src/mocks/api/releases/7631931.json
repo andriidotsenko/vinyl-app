@@ -1,0 +1,99 @@
+{
+  "id": 7631931,
+  "artist_id": 227677,
+  "artist": "Buena Vista Social Club",
+  "title": "Buena Vista Social Club",
+  "all_genres": [
+    12
+  ],
+  "genre": 12,
+  "styles": [
+    "Afro-Cuban",
+    "Son",
+    "Danzon",
+    "Bolero",
+    "Trova",
+    "Guajira",
+    "Ballad"
+  ],
+  "release_date": "2015-10-23",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/5VclDbnjzXS6kvLlbtUMuCxE9uXmD4rt0qvzvcAuiC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE5/MzEtMTQ4MTA1NTk5/Ny02ODg3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/rY5yCE6bBwxpbTzmStLmUkqzDcO3NG-2ZU9Q3s62Wos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE5/MzEtMTQ4MTA1NTk5/Ny02ODg3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Chan Chan",
+      "duration": "4:16"
+    },
+    {
+      "position": "A2",
+      "title": "De Camino A La Vereda",
+      "duration": "5:03"
+    },
+    {
+      "position": "A3",
+      "title": "El Cuarto De Tula",
+      "duration": "7:27"
+    },
+    {
+      "position": "B1",
+      "title": "Pueblo Nuevo",
+      "duration": "6:05"
+    },
+    {
+      "position": "B2",
+      "title": "Dos Gardenias",
+      "duration": "3:02"
+    },
+    {
+      "position": "B3",
+      "title": "¿Y Tú Qué Has Hecho?",
+      "duration": "3:13"
+    },
+    {
+      "position": "C1",
+      "title": "Veinte Años",
+      "duration": "3:29"
+    },
+    {
+      "position": "C2",
+      "title": "El Carretero",
+      "duration": "3:28"
+    },
+    {
+      "position": "C3",
+      "title": "Candela",
+      "duration": "5:29"
+    },
+    {
+      "position": "C4",
+      "title": "Amor De Loca Juventud",
+      "duration": "3:21"
+    },
+    {
+      "position": "D1",
+      "title": "Orgullecida",
+      "duration": "3:18"
+    },
+    {
+      "position": "D2",
+      "title": "Murmullo",
+      "duration": "3:50"
+    },
+    {
+      "position": "D3",
+      "title": "Buena Vista Social Club",
+      "duration": "4:50"
+    },
+    {
+      "position": "D4",
+      "title": "La Bayamesa",
+      "duration": "2:54"
+    }
+  ]
+}

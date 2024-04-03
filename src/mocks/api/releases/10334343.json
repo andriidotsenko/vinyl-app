@@ -1,0 +1,160 @@
+{
+  "id": 10334343,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "Sgt. Pepper's Lonely Hearts Club Band",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Rock & Roll",
+    "Psychedelic Rock"
+  ],
+  "release_date": "2017-05-26",
+  "year": 2017,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/Lrk6NR-dlFDJpq0-tIsUrxpK6rnm1vMvDddrIjKZo_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTU1MTAw/MzktNTQzMS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/ueIVDi0etVgQGQiIcgA0TEigSQ3-si73hY1bbYOb5HI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTU1MTAw/MzktNTQzMS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "duration": "1:57"
+    },
+    {
+      "position": "A2",
+      "title": "With A Little Help From My Friends",
+      "duration": "2:34"
+    },
+    {
+      "position": "A3",
+      "title": "Lucy In The Sky With Diamonds",
+      "duration": "3:21"
+    },
+    {
+      "position": "A4",
+      "title": "Getting Better",
+      "duration": "2:42"
+    },
+    {
+      "position": "A5",
+      "title": "Fixing A Hole",
+      "duration": "2:29"
+    },
+    {
+      "position": "A6",
+      "title": "She's Leaving Home",
+      "duration": "3:19"
+    },
+    {
+      "position": "A7",
+      "title": "Being For The Benefit Of Mr. Kite!",
+      "duration": "2:35"
+    },
+    {
+      "position": "B1",
+      "title": "Within You Without You",
+      "duration": "4:57"
+    },
+    {
+      "position": "B2",
+      "title": "When I'm Sixty-Four",
+      "duration": "2:34"
+    },
+    {
+      "position": "B3",
+      "title": "Lovely Rita",
+      "duration": "2:39"
+    },
+    {
+      "position": "B4",
+      "title": "Good Morning Good Morning",
+      "duration": "2:30"
+    },
+    {
+      "position": "B5",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+      "duration": "1:17"
+    },
+    {
+      "position": "B6",
+      "title": "A Day In The Life",
+      "duration": "4:55"
+    },
+    {
+      "position": "",
+      "title": "The Sgt. Pepper Sessions",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band (Take 9)",
+      "duration": "2:38"
+    },
+    {
+      "position": "C2",
+      "title": "With A Little Help From My Friends (Takes 1 And 2)",
+      "duration": "3:19"
+    },
+    {
+      "position": "C3",
+      "title": "Lucy In The Sky With Diamonds (Take 1)",
+      "duration": "4:00"
+    },
+    {
+      "position": "C4",
+      "title": "Getting Better (Take 1)",
+      "duration": "2:20"
+    },
+    {
+      "position": "C5",
+      "title": "Fixing A Hole (Take 3)",
+      "duration": "3:29"
+    },
+    {
+      "position": "C6",
+      "title": "She's Leaving Home (Take 1)",
+      "duration": "3:50"
+    },
+    {
+      "position": "C7",
+      "title": "Being For The Benefit Of Mr. Kite! (Take 4)",
+      "duration": "3:25"
+    },
+    {
+      "position": "D1",
+      "title": "Within You Without You (Take 1)",
+      "duration": "5:34"
+    },
+    {
+      "position": "D2",
+      "title": "When I'm Sixty-Four (Take 2)",
+      "duration": "3:03"
+    },
+    {
+      "position": "D3",
+      "title": "Lovely Rita (Take 9)",
+      "duration": "3:05"
+    },
+    {
+      "position": "D4",
+      "title": "Good Morning Good Morning (Take 8)",
+      "duration": "2:49"
+    },
+    {
+      "position": "D5",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise) (Take 8)",
+      "duration": "1:57"
+    },
+    {
+      "position": "D6",
+      "title": "A Day In The Life (Take 1 And Hummed Last Chord)",
+      "duration": "4:51"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1238431,
+  "artist_id": 124535,
+  "artist": "Guns N' Roses",
+  "title": "Appetite For Destruction",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Rock & Roll"
+  ],
+  "release_date": "1987",
+  "year": 1987,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/INFB5FOn4208EXbzp9ggR22ufKHqJpKPLb3v4zh9NXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzEtMTUwNjg3NjU3/My05NTQ5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/7DxQqrNfuqPQ7WrrtvJ_oIxJe3X6Sg86tnYmHRIrzIU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzEtMTUwNjg3NjU3/My05NTQ5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "G1",
+      "title": "Welcome To The Jungle",
+      "duration": "4:31"
+    },
+    {
+      "position": "G2",
+      "title": "It's So Easy",
+      "duration": "3:21"
+    },
+    {
+      "position": "G3",
+      "title": "Nightrain",
+      "duration": "4:26"
+    },
+    {
+      "position": "G4",
+      "title": "Out Ta Get Me",
+      "duration": "4:20"
+    },
+    {
+      "position": "G5",
+      "title": "Mr. Brownstone",
+      "duration": "3:46"
+    },
+    {
+      "position": "G6",
+      "title": "Paradise City",
+      "duration": "6:46"
+    },
+    {
+      "position": "R1",
+      "title": "My Michelle",
+      "duration": "3:39"
+    },
+    {
+      "position": "R2",
+      "title": "Think About You",
+      "duration": "3:50"
+    },
+    {
+      "position": "R3",
+      "title": "Sweet Child O' Mine",
+      "duration": "5:55"
+    },
+    {
+      "position": "R4",
+      "title": "You're Crazy",
+      "duration": "3:25"
+    },
+    {
+      "position": "R5",
+      "title": "Anything Goes",
+      "duration": "3:25"
+    },
+    {
+      "position": "R6",
+      "title": "Rocket Queen",
+      "duration": "6:13"
+    }
+  ]
+}

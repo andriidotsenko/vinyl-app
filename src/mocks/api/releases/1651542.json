@@ -1,0 +1,99 @@
+{
+  "id": 1651542,
+  "artist_id": 10783,
+  "artist": "Beastie Boys",
+  "title": "Paul's Boutique",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Hardcore Hip-Hop",
+    "Boom Bap"
+  ],
+  "release_date": "2009-02-10",
+  "year": 2009,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/xYBdTBrrbz1jY4oH4dvo8s_Y9UwhhxDqDAkYt_V7vEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTE1/NDItMTQ2NzgxMTg1/OS0zNTI0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/GEtIsLk9ZCZdBhKiJxf3d0DiAhvbs-xjeseHZrvA0jU/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTE1/NDItMTQ2NzgxMTg1/OS0zNTI0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "To All The Girls",
+      "duration": "1:29"
+    },
+    {
+      "position": "A2",
+      "title": "Shake Your Rump",
+      "duration": "3:19"
+    },
+    {
+      "position": "A3",
+      "title": "Johnny Ryall",
+      "duration": "3:00"
+    },
+    {
+      "position": "A4",
+      "title": "Egg Man",
+      "duration": "2:57"
+    },
+    {
+      "position": "A5",
+      "title": "High Plains Drifter",
+      "duration": "4:13"
+    },
+    {
+      "position": "A6",
+      "title": "The Sounds Of Science",
+      "duration": "3:11"
+    },
+    {
+      "position": "A7",
+      "title": "3-Minute Rule",
+      "duration": "3:39"
+    },
+    {
+      "position": "A8",
+      "title": "Hey Ladies",
+      "duration": "3:47"
+    },
+    {
+      "position": "B1",
+      "title": "5-Piece Chicken Dinner",
+      "duration": "0:23"
+    },
+    {
+      "position": "B2",
+      "title": "Looking Down The Barrel Of A Gun",
+      "duration": "3:28"
+    },
+    {
+      "position": "B3",
+      "title": "Car Thief",
+      "duration": "3:39"
+    },
+    {
+      "position": "B4",
+      "title": "What Comes Around",
+      "duration": "3:07"
+    },
+    {
+      "position": "B5",
+      "title": "Shadrach",
+      "duration": "4:07"
+    },
+    {
+      "position": "B6",
+      "title": "Ask For Janice",
+      "duration": "0:11"
+    },
+    {
+      "position": "",
+      "title": "B-Boy Bouillabaisse",
+      "duration": "12:34"
+    }
+  ]
+}

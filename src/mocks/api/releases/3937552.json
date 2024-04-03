@@ -1,0 +1,84 @@
+{
+  "id": 3937552,
+  "artist_id": 1245513,
+  "artist": "Tame Impala",
+  "title": "Lonerism",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Psychedelic Rock",
+    "Indie Rock"
+  ],
+  "release_date": "2012-10-09",
+  "year": 2012,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/UUXXYtYplR48l2LPX55fhT3GZgevkYZqzKgvLyIAYCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjEw/MS00NjUzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/Zeuz_lOX1s57aDZggyLek7HCGle8sZnPl067GznojCQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjEw/MS00NjUzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Be Above It",
+      "duration": "3:21"
+    },
+    {
+      "position": "A2",
+      "title": "Endors Toi",
+      "duration": "3:06"
+    },
+    {
+      "position": "A3",
+      "title": "Apocalypse Dreams",
+      "duration": "5:56"
+    },
+    {
+      "position": "B1",
+      "title": "Mind Mischief",
+      "duration": "4:31"
+    },
+    {
+      "position": "B2",
+      "title": "Music To Walk Home By",
+      "duration": "5:12"
+    },
+    {
+      "position": "B3",
+      "title": "Why Won't They Talk To Me?",
+      "duration": "4:46"
+    },
+    {
+      "position": "C1",
+      "title": "Feels Like We Only Go Backwards",
+      "duration": "3:12"
+    },
+    {
+      "position": "C2",
+      "title": "Keep On Lying",
+      "duration": "5:53"
+    },
+    {
+      "position": "C3",
+      "title": "Elephant",
+      "duration": "3:31"
+    },
+    {
+      "position": "D1",
+      "title": "She Just Won't Believe Me",
+      "duration": "0:57"
+    },
+    {
+      "position": "D2",
+      "title": "Nothing That Has Happened So Far Has Been Anything We Could Control",
+      "duration": "5:59"
+    },
+    {
+      "position": "D3",
+      "title": "Sun's Coming Up",
+      "duration": "5:20"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 190219,
+  "artist_id": 143225,
+  "artist": "The Cars",
+  "title": "The Cars",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "New Wave",
+    "Pop Rock",
+    "Power Pop"
+  ],
+  "release_date": "1978-06-06",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/QcC25VHTg_DmOPorf8jcKM6shRcjMUHOn_N5GrdavW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/mQ4p8rs4QCkWGIUV36RxMK41r3w-paGDsHmPYFZwydA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Good Times Roll",
+      "duration": "3:44"
+    },
+    {
+      "position": "A2",
+      "title": "My Best Friend's Girl",
+      "duration": "3:44"
+    },
+    {
+      "position": "A3",
+      "title": "Just What I Needed",
+      "duration": "3:44"
+    },
+    {
+      "position": "A4",
+      "title": "I'm In Touch With Your World",
+      "duration": "3:31"
+    },
+    {
+      "position": "A5",
+      "title": "Don't Cha Stop",
+      "duration": "3:01"
+    },
+    {
+      "position": "B1",
+      "title": "You're All I've Got Tonight",
+      "duration": "4:13"
+    },
+    {
+      "position": "B2",
+      "title": "Bye Bye Love",
+      "duration": "4:14"
+    },
+    {
+      "position": "B3",
+      "title": "Moving In Stereo",
+      "duration": "5:15"
+    },
+    {
+      "position": "B4",
+      "title": "All Mixed Up",
+      "duration": "4:14"
+    }
+  ]
+}

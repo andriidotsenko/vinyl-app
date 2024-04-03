@@ -1,0 +1,63 @@
+{
+  "id": 6224441,
+  "artist_id": 34278,
+  "artist": "Led Zeppelin",
+  "title": "Houses Of The Holy",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock"
+  ],
+  "release_date": "2014-10-24",
+  "year": 2014,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/D1tQq21Iyp0OLcyumit_UTynBovZ3FkNBOdwsFgAhps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ0/NDEtMTQxNzAxNTI2/MS0yNzk1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/4bUNIR1eIokPjt8OXFWKJNmN2tBoxYunP4rQSYbrfmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ0/NDEtMTQxNzAxNTI2/MS0yNzk1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Song Remains The Same",
+      "duration": "5:29"
+    },
+    {
+      "position": "A2",
+      "title": "The Rain Song",
+      "duration": "7:39"
+    },
+    {
+      "position": "A3",
+      "title": "Over The Hills And Far Away",
+      "duration": "4:50"
+    },
+    {
+      "position": "A4",
+      "title": "The Crunge",
+      "duration": "3:17"
+    },
+    {
+      "position": "B1",
+      "title": "Dancing Days",
+      "duration": "3:43"
+    },
+    {
+      "position": "B2",
+      "title": "D'yer Mak'er",
+      "duration": "4:22"
+    },
+    {
+      "position": "B3",
+      "title": "No Quarter",
+      "duration": "7:02"
+    },
+    {
+      "position": "B4",
+      "title": "The Ocean",
+      "duration": "4:31"
+    }
+  ]
+}

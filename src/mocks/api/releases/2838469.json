@@ -1,0 +1,84 @@
+{
+  "id": 2838469,
+  "artist_id": 175395,
+  "artist": "Pearl Jam",
+  "title": "Vs.",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Grunge"
+  ],
+  "release_date": "2011-04-16",
+  "year": 2011,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/dKYJZbniO6Z4PZau2y0PmOhmjIEhhNFej8NgEz1mL9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg0/NjktMTMzODI5NzQ4/Ny03MTkwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/RLFTbmMLEOTFG3ylUea3ygQeuPFQPiG5ywC7wuCSpZA/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg0/NjktMTMzODI5NzQ4/Ny03MTkwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Go",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Animal",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Daughter",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Glorified G",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Dissident",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "W.M.A.",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Blood",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Rearviewmirror",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Rats",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Elderly Woman Behind The Counter In A Small Town",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Leash",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Indifference",
+      "duration": ""
+    }
+  ]
+}

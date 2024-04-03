@@ -1,0 +1,86 @@
+{
+  "id": 436642,
+  "artist_id": 47333,
+  "artist": "Fleetwood Mac",
+  "title": "Tango In The Night",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Classic Rock"
+  ],
+  "release_date": "1987",
+  "year": 1987,
+  "all_countries": [
+    "uk",
+    "europe"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/cRWlpoKKTDUql_3R0-sJeju8YUgGivZ_cY_cUjGGZR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjY0/Mi0xMzgyOTAxMzAw/LTIyMjIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/s9GptxJtkKuWVrmC5uIaLQqA1-fNuU2HN23nSOB2fr0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjY0/Mi0xMzgyOTAxMzAw/LTIyMjIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Big Love",
+      "duration": "3:37"
+    },
+    {
+      "position": "A2",
+      "title": "Seven Wonders",
+      "duration": "3:38"
+    },
+    {
+      "position": "A3",
+      "title": "Everywhere",
+      "duration": "3:41"
+    },
+    {
+      "position": "A4",
+      "title": "Caroline",
+      "duration": "3:50"
+    },
+    {
+      "position": "A5",
+      "title": "Tango In The Night",
+      "duration": "3:56"
+    },
+    {
+      "position": "A6",
+      "title": "Mystified",
+      "duration": "3:06"
+    },
+    {
+      "position": "B1",
+      "title": "Little Lies",
+      "duration": "3:38"
+    },
+    {
+      "position": "B2",
+      "title": "Family Man",
+      "duration": "4:01"
+    },
+    {
+      "position": "B3",
+      "title": "Welcome To The Room...Sara",
+      "duration": "3:37"
+    },
+    {
+      "position": "B4",
+      "title": "Isn't It Midnight",
+      "duration": "4:06"
+    },
+    {
+      "position": "B5",
+      "title": "When I See You Again",
+      "duration": "3:47"
+    },
+    {
+      "position": "B6",
+      "title": "You And I, Part II",
+      "duration": "2:40"
+    }
+  ]
+}

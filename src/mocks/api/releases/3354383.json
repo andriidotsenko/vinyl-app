@@ -1,0 +1,109 @@
+{
+  "id": 3354383,
+  "artist_id": 2445772,
+  "artist": "Lana Del Rey",
+  "title": "Born To Die",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Baroque Pop",
+    "Dream Pop",
+    "Indie Pop",
+    "Trip Hop"
+  ],
+  "release_date": "2012-01-30",
+  "year": 2012,
+  "all_countries": [
+    "uk",
+    "europe"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/LX6NKKpgIW7t11cAd04w_WIFmtQHpVL-msvd5wHaFy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTQz/ODMtMTQwMTE4NDA5/MC0xNDgxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/OizS0WSGPOzsEV_d7hUVi1-JcIx3A3xfULQTb0pFtKE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTQz/ODMtMTQwMTE4NDA5/MC0xNDgxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Born To Die",
+      "duration": "4:46"
+    },
+    {
+      "position": "A2",
+      "title": "Off To The Races",
+      "duration": "5:01"
+    },
+    {
+      "position": "A3",
+      "title": "Blue Jeans",
+      "duration": "3:29"
+    },
+    {
+      "position": "A4",
+      "title": "Video Games",
+      "duration": "4:42"
+    },
+    {
+      "position": "B1",
+      "title": "Diet Mountain Dew",
+      "duration": "3:43"
+    },
+    {
+      "position": "B2",
+      "title": "National Anthem",
+      "duration": "3:49"
+    },
+    {
+      "position": "B3",
+      "title": "Dark Paradise",
+      "duration": "4:04"
+    },
+    {
+      "position": "B4",
+      "title": "Radio",
+      "duration": "3:35"
+    },
+    {
+      "position": "C1",
+      "title": "Carmen",
+      "duration": "4:09"
+    },
+    {
+      "position": "C2",
+      "title": "Million Dollar Man",
+      "duration": "3:50"
+    },
+    {
+      "position": "C3",
+      "title": "Summertime Sadness",
+      "duration": "4:25"
+    },
+    {
+      "position": "C4",
+      "title": "This Is What Makes Us Girls",
+      "duration": "4:00"
+    },
+    {
+      "position": "",
+      "title": "Bonus Tracks",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Without You",
+      "duration": "3:51"
+    },
+    {
+      "position": "D2",
+      "title": "Lolita",
+      "duration": "3:41"
+    },
+    {
+      "position": "D3",
+      "title": "Lucky Ones",
+      "duration": "3:45"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 12292679,
+  "artist_id": 137880,
+  "artist": "Kanye West",
+  "title": "Ye",
+  "all_genres": [
+    5,
+    2
+  ],
+  "genre": 5,
+  "styles": [
+    "Pop Rap",
+    "Contemporary R&B"
+  ],
+  "release_date": "2018-07-20",
+  "year": 2018,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/klaC9CoKngdOUi-cRsoRV3PQ_hIS1vh7S_yn_2rER0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjky/Njc5LTE1MzM5ODYx/MTMtNzUxOC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/xTWrgE5zVDPoS5wSrzqERaqHYxYJza3hPlpKFe7rzcs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjky/Njc5LTE1MzM5ODYx/MTMtNzUxOC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "I Thought About Killing You",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Yikes",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "All Mine",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Wouldn't Leave",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "No Mistakes",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Ghost Town",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Violent Crimes",
+      "duration": ""
+    }
+  ]
+}

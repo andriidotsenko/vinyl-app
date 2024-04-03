@@ -1,0 +1,79 @@
+{
+  "id": 475599,
+  "artist_id": 81013,
+  "artist": "Queen",
+  "title": "News Of The World",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1977-10-28",
+  "year": 1977,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/LEHlg7s7vrSNaqYJ4F3SR_ace8BrmvbzdlE8ic7-OGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU5/OS0xNDU0NzE1MjY1/LTc4NDIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/Y_1cSfid7EAXsQQPQYpMKYcq425-qEHbk3dbaIfpy5o/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU5/OS0xNDU0NzE1MjY1/LTc4NDIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "We Will Rock You",
+      "duration": "2:01"
+    },
+    {
+      "position": "A2",
+      "title": "We Are The Champions",
+      "duration": "2:59"
+    },
+    {
+      "position": "A3",
+      "title": "Sheer Heart Attack",
+      "duration": "3:24"
+    },
+    {
+      "position": "A4",
+      "title": "All Dead, All Dead",
+      "duration": "3:09"
+    },
+    {
+      "position": "A5",
+      "title": "Spread Your Wings",
+      "duration": "4:32"
+    },
+    {
+      "position": "A6",
+      "title": "Fight From The Inside",
+      "duration": "3:03"
+    },
+    {
+      "position": "B1",
+      "title": "Get Down, Make Love",
+      "duration": "3:51"
+    },
+    {
+      "position": "B2",
+      "title": "Sleeping On The Sidewalk",
+      "duration": "3:07"
+    },
+    {
+      "position": "B3",
+      "title": "Who Needs You",
+      "duration": "3:07"
+    },
+    {
+      "position": "B4",
+      "title": "It's Late",
+      "duration": "6:27"
+    },
+    {
+      "position": "B5",
+      "title": "My Melancholy Blues",
+      "duration": "3:29"
+    }
+  ]
+}

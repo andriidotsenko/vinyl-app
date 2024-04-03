@@ -1,0 +1,83 @@
+{
+  "id": 5607022,
+  "artist_id": 18839,
+  "artist": "Metallica",
+  "title": "Metallica",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Heavy Metal"
+  ],
+  "release_date": "1991-08-00",
+  "year": 1991,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/qxN_BaNganjOtKlp4Bzef0liaNWLflIxyTsAJTd_X04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDcw/MjItMTUxOTU4NzMy/Ni01OTk0LnBuZw.jpeg",
+  "cover_image": "https://i.discogs.com/XSTq7NS33PSFFXV0dpjENMaiVvxchD6WgIhPQgaj4jA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDcw/MjItMTUxOTU4NzMy/Ni01OTk0LnBuZw.jpeg",
+  "tracklist": [
+    {
+      "position": "1",
+      "title": "Enter Sandman",
+      "duration": "5:29"
+    },
+    {
+      "position": "2",
+      "title": "Sad But True",
+      "duration": "5:24"
+    },
+    {
+      "position": "3",
+      "title": "Holier Than Thou",
+      "duration": "3:47"
+    },
+    {
+      "position": "4",
+      "title": "The Unforgiven",
+      "duration": "6:26"
+    },
+    {
+      "position": "5",
+      "title": "Wherever I May Roam",
+      "duration": "6:42"
+    },
+    {
+      "position": "6",
+      "title": "Don't Tread On Me",
+      "duration": "3:59"
+    },
+    {
+      "position": "7",
+      "title": "Through The Never",
+      "duration": "4:01"
+    },
+    {
+      "position": "8",
+      "title": "Nothing Else Matters",
+      "duration": "6:29"
+    },
+    {
+      "position": "9",
+      "title": "Of Wolf And Man",
+      "duration": "4:16"
+    },
+    {
+      "position": "10",
+      "title": "The God That Failed",
+      "duration": "5:05"
+    },
+    {
+      "position": "11",
+      "title": "My Friend Of Misery",
+      "duration": "6:47"
+    },
+    {
+      "position": "12",
+      "title": "The Struggle Within",
+      "duration": "3:51"
+    }
+  ]
+}

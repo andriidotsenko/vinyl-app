@@ -1,0 +1,58 @@
+{
+  "id": 1765376,
+  "artist_id": 254259,
+  "artist": "Meat Loaf",
+  "title": "Bat Out Of Hell",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1977",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/q65sw8PJD-_SJbaBsJeWClOPqb6QPJIIGDhXIBp7OZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjUz/NzYtMTMyMzAzNjgw/Ni5wbmc.jpeg",
+  "cover_image": "https://i.discogs.com/InE5TDwyKkVLUvHAvWWoWLdSyTbpWVvqGfh8GY-I3HA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjUz/NzYtMTMyMzAzNjgw/Ni5wbmc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Bat Out Of Hell",
+      "duration": "9:48"
+    },
+    {
+      "position": "A2",
+      "title": "You Took The Words Right Out Of My Mouth (Hot Summer Night)",
+      "duration": "5:04"
+    },
+    {
+      "position": "A3",
+      "title": "Heaven Can Wait",
+      "duration": "4:38"
+    },
+    {
+      "position": "A4",
+      "title": "All Revved Up With No Place To Go",
+      "duration": "4:19"
+    },
+    {
+      "position": "B1",
+      "title": "Two Out Of Three Ain't Bad",
+      "duration": "5:23"
+    },
+    {
+      "position": "",
+      "title": "Paradise By The Dashboard Light",
+      "duration": "8:28"
+    },
+    {
+      "position": "B3",
+      "title": "For Crying Out Loud",
+      "duration": "8:45"
+    }
+  ]
+}

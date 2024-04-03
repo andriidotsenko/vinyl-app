@@ -1,0 +1,73 @@
+{
+  "id": 543205,
+  "artist_id": 128395,
+  "artist": "Journey",
+  "title": "Escape",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1981",
+  "year": 1981,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/lOifefjf6xe0T-XT-j3F0gX3xVL8NvWISWvF0STpPQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzIw/NS0xNTc5NDE4NTY1/LTgxMjcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/IEPyQ3fPPsXrVqyKz7roUAeHx5cgIXH1Ey7DIPG6Hj8/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzIw/NS0xNTc5NDE4NTY1/LTgxMjcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Don't Stop Believin'",
+      "duration": "4:10"
+    },
+    {
+      "position": "A2",
+      "title": "Stone In Love",
+      "duration": "4:25"
+    },
+    {
+      "position": "A3",
+      "title": "Who's Crying Now",
+      "duration": "5:01"
+    },
+    {
+      "position": "A4",
+      "title": "Keep On Runnin'",
+      "duration": "3:39"
+    },
+    {
+      "position": "A5",
+      "title": "Still They Ride",
+      "duration": "3:48"
+    },
+    {
+      "position": "B1",
+      "title": "Escape",
+      "duration": "5:15"
+    },
+    {
+      "position": "B2",
+      "title": "Lay It Down",
+      "duration": "4:13"
+    },
+    {
+      "position": "B3",
+      "title": "Dead Or Alive",
+      "duration": "3:20"
+    },
+    {
+      "position": "B4",
+      "title": "Mother, Father",
+      "duration": "5:28"
+    },
+    {
+      "position": "B5",
+      "title": "Open Arms",
+      "duration": "3:21"
+    }
+  ]
+}

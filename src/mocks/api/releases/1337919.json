@@ -1,0 +1,96 @@
+{
+  "id": 1337919,
+  "artist_id": 232157,
+  "artist": "Simon & Garfunkel",
+  "title": "Simon And Garfunkel's Greatest Hits",
+  "all_genres": [
+    4,
+    3,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1972",
+  "year": 1972,
+  "all_countries": [
+    "netherlands"
+  ],
+  "country": "netherlands",
+  "thumb_image": "https://i.discogs.com/I3JVS7aablTwgsProKqDiOeP3Q-ltsbSMD7A_bxPpls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc5/MTktMTI0ODUzNDcy/OS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/1O_E0eKtDDmjh1CC_Yqsgjl0_PCtbzl4UAvEwgxL1Y0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc5/MTktMTI0ODUzNDcy/OS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Mrs. Robinson",
+      "duration": "4:02"
+    },
+    {
+      "position": "A2",
+      "title": "For Emily, Whenever I May Find Her",
+      "duration": "2:04"
+    },
+    {
+      "position": "A3",
+      "title": "The Boxer",
+      "duration": "5:07"
+    },
+    {
+      "position": "A4",
+      "title": "The 59th Street Bridge Song (Feelin' Groovy)",
+      "duration": "1:43"
+    },
+    {
+      "position": "A5",
+      "title": "The Sound Of Silence",
+      "duration": "3:02"
+    },
+    {
+      "position": "A6",
+      "title": "I Am A Rock",
+      "duration": "2:50"
+    },
+    {
+      "position": "A7",
+      "title": "Scarborough Fair / Canticle",
+      "duration": "3:08"
+    },
+    {
+      "position": "B1",
+      "title": "Homeward Bound",
+      "duration": "2:30"
+    },
+    {
+      "position": "B2",
+      "title": "Bridge Over Troubled Water",
+      "duration": "4:52"
+    },
+    {
+      "position": "B3",
+      "title": "America",
+      "duration": "3:34"
+    },
+    {
+      "position": "B4",
+      "title": "Kathy's Song",
+      "duration": "3:16"
+    },
+    {
+      "position": "B5",
+      "title": "El Condor Pasa (If I Could)",
+      "duration": "3:06"
+    },
+    {
+      "position": "B6",
+      "title": "Bookends",
+      "duration": "1:16"
+    },
+    {
+      "position": "B7",
+      "title": "Cecilia",
+      "duration": "2:55"
+    }
+  ]
+}

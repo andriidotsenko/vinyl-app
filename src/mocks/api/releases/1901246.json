@@ -1,0 +1,95 @@
+{
+  "id": 1901246,
+  "artist_id": 125246,
+  "artist": "Nirvana",
+  "title": "MTV Unplugged In New York",
+  "all_genres": [
+    4,
+    9
+  ],
+  "genre": 4,
+  "styles": [
+    "Acoustic",
+    "Grunge"
+  ],
+  "release_date": "2008",
+  "year": 2008,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/mpL1HyOKwWAnjRhBDlqrpW_sGItD8EOo3Qkb2SFXWqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTQ1MTE1Nzg3/Ny01MTEyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/qjAg7iCF994KkLxePAQAl2oSydAbglykWdVeOgHquZw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTQ1MTE1Nzg3/Ny01MTEyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "About A Girl",
+      "duration": "3:37"
+    },
+    {
+      "position": "A2",
+      "title": "Come As You Are",
+      "duration": "4:14"
+    },
+    {
+      "position": "A3",
+      "title": "Jesus Doesn't Want Me For A Sunbeam",
+      "duration": "4:37"
+    },
+    {
+      "position": "A4",
+      "title": "The Man Who Sold The World",
+      "duration": "4:20"
+    },
+    {
+      "position": "A5",
+      "title": "Pennyroyal Tea",
+      "duration": "3:40"
+    },
+    {
+      "position": "A6",
+      "title": "Dumb",
+      "duration": "2:52"
+    },
+    {
+      "position": "A7",
+      "title": "Polly",
+      "duration": "3:16"
+    },
+    {
+      "position": "B1",
+      "title": "On A Plain",
+      "duration": "3:44"
+    },
+    {
+      "position": "B2",
+      "title": "Something In The Way",
+      "duration": "4:01"
+    },
+    {
+      "position": "B3",
+      "title": "Plateau",
+      "duration": "3:38"
+    },
+    {
+      "position": "B4",
+      "title": "Oh Me",
+      "duration": "3:26"
+    },
+    {
+      "position": "B5",
+      "title": "Lake Of Fire",
+      "duration": "2:55"
+    },
+    {
+      "position": "B6",
+      "title": "All Apologies",
+      "duration": "4:23"
+    },
+    {
+      "position": "B7",
+      "title": "Where Did You Sleep Last Night",
+      "duration": "5:07"
+    }
+  ]
+}

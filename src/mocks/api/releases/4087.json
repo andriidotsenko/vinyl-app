@@ -1,0 +1,29 @@
+{
+  "id": 4087,
+  "artist_id": 2569,
+  "artist": "Stardust",
+  "title": "Music Sounds Better With You",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "House",
+    "French House"
+  ],
+  "release_date": "1998-07-20",
+  "year": 1998,
+  "all_countries": [
+    "france"
+  ],
+  "country": "france",
+  "thumb_image": "https://i.discogs.com/lqVoOMWuLoJjK3ygnQ_XqFWjqAxJ_5k79LgP2Q9vu4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODct/MTIzMDA1NzQ4NC5q/cGVn.jpeg",
+  "cover_image": "https://i.discogs.com/O5klxSKsUSHBuPhdqE9_GVoHm3T7eCc3lIfjPY8kB28/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODct/MTIzMDA1NzQ4NC5q/cGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A",
+      "title": "Music Sounds Better With You",
+      "duration": "6:50"
+    }
+  ]
+}

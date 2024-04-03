@@ -1,0 +1,76 @@
+{
+  "id": 120096,
+  "artist_id": 15885,
+  "artist": "Michael Jackson",
+  "title": "Off The Wall",
+  "all_genres": [
+    2,
+    3
+  ],
+  "genre": 2,
+  "styles": [
+    "Disco",
+    "Soul",
+    "Ballad"
+  ],
+  "release_date": "1979-08-10",
+  "year": 1979,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/gFFPJRZd4BWUkml2WGlx2r6zO6eKEdm75bjMV42sjUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA5/Ni0xMDg1NjAwNjA3/LmpwZw.jpeg",
+  "cover_image": "https://i.discogs.com/zl5v5VCYQuYQcQtCa2xNah3p9LlsCDvObhfYWdGLjP4/rs:fit/g:sm/q:90/h:344/w:358/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA5/Ni0xMDg1NjAwNjA3/LmpwZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Don't Stop 'Til You Get Enough",
+      "duration": "6:02"
+    },
+    {
+      "position": "A2",
+      "title": "Rock With You",
+      "duration": "3:38"
+    },
+    {
+      "position": "A3",
+      "title": "Working Day And Night",
+      "duration": "5:12"
+    },
+    {
+      "position": "A4",
+      "title": "Get On The Floor",
+      "duration": "4:44"
+    },
+    {
+      "position": "B1",
+      "title": "Off The Wall",
+      "duration": "4:04"
+    },
+    {
+      "position": "B2",
+      "title": "Girlfriend",
+      "duration": "3:04"
+    },
+    {
+      "position": "B3",
+      "title": "She's Out Of My Life",
+      "duration": "3:36"
+    },
+    {
+      "position": "B4",
+      "title": "I Can't Help It",
+      "duration": "4:27"
+    },
+    {
+      "position": "B5",
+      "title": "It's The Falling In Love",
+      "duration": "3:46"
+    },
+    {
+      "position": "B6",
+      "title": "Burn This Disco Out",
+      "duration": "3:38"
+    }
+  ]
+}

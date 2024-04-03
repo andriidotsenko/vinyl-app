@@ -1,0 +1,80 @@
+{
+  "id": 755258,
+  "artist_id": 37606,
+  "artist": "Cat Stevens",
+  "title": "Tea For The Tillerman",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Acoustic",
+    "Pop Rock"
+  ],
+  "release_date": "1970-11-00",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/q10JZynCO0nNIm12o_M3ghP6rk7wjNH7uZb6aBsDumY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTI1/OC0xMTk2MTk0MDA0/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/6KSuCG-YHrJ023zoh7sXrU0aNVEHFrmvZTWHu5SVlSc/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTI1/OC0xMTk2MTk0MDA0/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Where Do The Children Play?",
+      "duration": "3:48"
+    },
+    {
+      "position": "A2",
+      "title": "Hard Headed Woman",
+      "duration": "3:42"
+    },
+    {
+      "position": "A3",
+      "title": "Wild World",
+      "duration": "3:15"
+    },
+    {
+      "position": "A4",
+      "title": "Sad Lisa",
+      "duration": "3:39"
+    },
+    {
+      "position": "A5",
+      "title": "Miles From Nowhere",
+      "duration": "3:30"
+    },
+    {
+      "position": "B1",
+      "title": "But I Might Die Tonight",
+      "duration": "1:51"
+    },
+    {
+      "position": "B2",
+      "title": "Longer Boats",
+      "duration": "3:07"
+    },
+    {
+      "position": "B3",
+      "title": "Into White",
+      "duration": "3:23"
+    },
+    {
+      "position": "B4",
+      "title": "On The Road To Find Out",
+      "duration": "5:07"
+    },
+    {
+      "position": "B5",
+      "title": "Father & Son",
+      "duration": "3:36"
+    },
+    {
+      "position": "B6",
+      "title": "Tea For The Tillerman",
+      "duration": "1:00"
+    }
+  ]
+}

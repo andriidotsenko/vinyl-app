@@ -1,0 +1,44 @@
+{
+  "id": 74260,
+  "artist_id": 280442,
+  "artist": "Godspeed You Black Emperor!",
+  "title": "Lift Your Skinny Fists Like Antennas To Heaven",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Post Rock",
+    "Experimental"
+  ],
+  "release_date": "2000-10-09",
+  "year": 2000,
+  "all_countries": [
+    "canada"
+  ],
+  "country": "canada",
+  "thumb_image": "https://i.discogs.com/InopuzEjuklPUJXblHhZPsHLv0I2D4Vik80WAq9qIX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjYw/LTE2MDI0MTM5NTIt/OTc1Ni5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/ytQGzdHvEGjnWr3PEX36iaDeBpwRg0QhXT830ml9HHs/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjYw/LTE2MDI0MTM5NTIt/OTc1Ni5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Storm",
+      "duration": "21:59"
+    },
+    {
+      "position": "",
+      "title": "Static",
+      "duration": "21:07"
+    },
+    {
+      "position": "",
+      "title": "Sleep",
+      "duration": "21:12"
+    },
+    {
+      "position": "",
+      "title": "Antennas To Heaven...",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": 3375961,
+  "artist_id": 251593,
+  "artist": "Green Day",
+  "title": "Dookie",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Punk",
+    "Punk"
+  ],
+  "release_date": "2008",
+  "year": 2008,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/1WtC84Pl9atfU6VN11Bekm6iGSkbuGh3eWHg432Ic1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzU5/NjEtMTU0NDg3MjAx/Ny03MjcwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/TZEBFXPV975_tmQRa0sknzVNV1M2PVI3MHuF7NcKY3Q/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzU5/NjEtMTU0NDg3MjAx/Ny03MjcwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Burnout",
+      "duration": "2:07"
+    },
+    {
+      "position": "A2",
+      "title": "Having A Blast",
+      "duration": "2:45"
+    },
+    {
+      "position": "A3",
+      "title": "Chump",
+      "duration": "2:54"
+    },
+    {
+      "position": "A4",
+      "title": "Longview",
+      "duration": "3:59"
+    },
+    {
+      "position": "A5",
+      "title": "Welcome To Paradise",
+      "duration": "3:45"
+    },
+    {
+      "position": "A6",
+      "title": "Pulling Teeth",
+      "duration": "2:31"
+    },
+    {
+      "position": "A7",
+      "title": "Basket Case",
+      "duration": "3:01"
+    },
+    {
+      "position": "B1",
+      "title": "She",
+      "duration": "2:14"
+    },
+    {
+      "position": "B2",
+      "title": "Sassafras Roots",
+      "duration": "2:38"
+    },
+    {
+      "position": "B3",
+      "title": "When I Come Around",
+      "duration": "2:58"
+    },
+    {
+      "position": "B4",
+      "title": "Coming Clean",
+      "duration": "1:35"
+    },
+    {
+      "position": "B5",
+      "title": "Emenius Sleepus",
+      "duration": "1:44"
+    },
+    {
+      "position": "B6",
+      "title": "In The End",
+      "duration": "1:46"
+    },
+    {
+      "position": "B7.1",
+      "title": "F.O.D.",
+      "duration": "2:49"
+    },
+    {
+      "position": "B7.2",
+      "title": "(silence)",
+      "duration": "1:20"
+    },
+    {
+      "position": "B7.3",
+      "title": "All By Myself",
+      "duration": "1:38"
+    }
+  ]
+}

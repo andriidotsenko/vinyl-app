@@ -1,0 +1,85 @@
+{
+  "id": 14210644,
+  "artist_id": 1967268,
+  "artist": "Tyler, The Creator",
+  "title": "Igor",
+  "all_genres": [
+    5,
+    2
+  ],
+  "genre": 5,
+  "styles": [
+    "Contemporary R&B",
+    "Neo Soul"
+  ],
+  "release_date": "2019",
+  "year": 2019,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/KJeVPXVlardGZKVRpNOOCwwfdzK_4uohSk0-SUHAPlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEw/NjQ0LTE1NzQ1MDY3/NzItMTgzNi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/KuSEYvNqrfq1sozfgEvP4U2gxCPFN35vFVWulxmwFeo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEw/NjQ0LTE1NzQ1MDY3/NzItMTgzNi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Igor's Theme",
+      "duration": "3:21"
+    },
+    {
+      "position": "A2",
+      "title": "Earfquake ",
+      "duration": "3:10"
+    },
+    {
+      "position": "A3",
+      "title": "I Think",
+      "duration": "3:32"
+    },
+    {
+      "position": "A4",
+      "title": "Boyfriend",
+      "duration": "4:00"
+    },
+    {
+      "position": "A5",
+      "title": "Running Out Of Time",
+      "duration": "2:57"
+    },
+    {
+      "position": "A6",
+      "title": "New Magic Wand",
+      "duration": "3:15"
+    },
+    {
+      "position": "B1",
+      "title": "A Boy Is A Gun*",
+      "duration": "3:30"
+    },
+    {
+      "position": "B2",
+      "title": "Puppet",
+      "duration": "2:59"
+    },
+    {
+      "position": "B3",
+      "title": "What's Good",
+      "duration": "3:26"
+    },
+    {
+      "position": "B4",
+      "title": "Gone, Gone / Thank You",
+      "duration": "6:15"
+    },
+    {
+      "position": "B5",
+      "title": "I Don't Love You Anymore",
+      "duration": "2:41"
+    },
+    {
+      "position": "B6",
+      "title": "Are We Still Friends?",
+      "duration": "4:25"
+    }
+  ]
+}

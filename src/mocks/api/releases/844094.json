@@ -1,0 +1,60 @@
+{
+  "id": 844094,
+  "artist_id": 160906,
+  "artist": "Steely Dan",
+  "title": "Gaucho",
+  "all_genres": [
+    8,
+    4
+  ],
+  "genre": 8,
+  "styles": [
+    "Pop Rock",
+    "Jazz-Rock"
+  ],
+  "release_date": "1980",
+  "year": 1980,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/-xPN9LQ0hfu8xOUk5tKK_29tGzT3TyH0PlX4tjyM868/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDA5/NC0xNTI3MzMwMjk0/LTgyNTAuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/AHkep76IXL_EdYaPOrTpajm1So6ch6lPX5l8SYR2C2M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDA5/NC0xNTI3MzMwMjk0/LTgyNTAuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Babylon Sisters",
+      "duration": "5:51"
+    },
+    {
+      "position": "A2",
+      "title": "Hey Nineteen",
+      "duration": "5:04"
+    },
+    {
+      "position": "A3",
+      "title": "Glamour Profession",
+      "duration": "7:28"
+    },
+    {
+      "position": "B1",
+      "title": "Gaucho",
+      "duration": "5:32"
+    },
+    {
+      "position": "B2",
+      "title": "Time Out Of Mind",
+      "duration": "4:10"
+    },
+    {
+      "position": "B3",
+      "title": "My Rival",
+      "duration": "4:30"
+    },
+    {
+      "position": "B4",
+      "title": "Third World Man",
+      "duration": "5:14"
+    }
+  ]
+}

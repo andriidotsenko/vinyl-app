@@ -1,0 +1,89 @@
+{
+  "id": 4289876,
+  "artist_id": 56798,
+  "artist": "The Doors",
+  "title": "Morrison Hotel",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Psychedelic Rock"
+  ],
+  "release_date": "1970-02-20",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/U_HGsbpCb9jWbJINDLD9dOffpD9YWY4iuUnMz03Fm68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODk4/NzYtMTM2MDg0MzE1/NC0yODYxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/_dUkWXOzhjGoTh9DX85qvbizEQSecGEpBU9WXbp5Mzc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODk4/NzYtMTM2MDg0MzE1/NC0yODYxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "One: Hard Rock Cafe",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Roadhouse Blues",
+      "duration": "4:04"
+    },
+    {
+      "position": "A2",
+      "title": "Waiting For The Sun",
+      "duration": "3:58"
+    },
+    {
+      "position": "A3",
+      "title": "You Make Me Real",
+      "duration": "2:50"
+    },
+    {
+      "position": "A4",
+      "title": "Peace Frog",
+      "duration": "2:52"
+    },
+    {
+      "position": "A5",
+      "title": "Blue Sunday",
+      "duration": "2:08"
+    },
+    {
+      "position": "A6",
+      "title": "Ship Of Fools",
+      "duration": "3:06"
+    },
+    {
+      "position": "",
+      "title": "Two: Morrison Hotel",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Land Ho!",
+      "duration": "4:08"
+    },
+    {
+      "position": "B2",
+      "title": "The Spy",
+      "duration": "4:15"
+    },
+    {
+      "position": "B3",
+      "title": "Queen Of The Highway",
+      "duration": "2:47"
+    },
+    {
+      "position": "B4",
+      "title": "Indian Summer",
+      "duration": "2:33"
+    },
+    {
+      "position": "B5",
+      "title": "Maggie M'Gill",
+      "duration": "4:24"
+    }
+  ]
+}

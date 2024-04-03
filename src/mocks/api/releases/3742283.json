@@ -1,0 +1,89 @@
+{
+  "id": 3742283,
+  "artist_id": 125246,
+  "artist": "Nirvana",
+  "title": "Bleach",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Grunge",
+    "Alternative Rock"
+  ],
+  "release_date": "2011",
+  "year": 2011,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/4Mu1CcP2-527BuZtKPCMtiUAkOq5jMOoemJzFTWu8_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIy/ODMtMTY0MzM4NjQy/My0yODI2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/s5_WPiDaoWLZGBptMrJroWShH-JMq6p77eeV2lKCzvk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIy/ODMtMTY0MzM4NjQy/My0yODI2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Blew",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Floyd The Barber",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "About A Girl",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "School",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Love Buzz",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Paper Cuts",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "Negative Creep",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Scoff",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Swap Meet",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Mr. Moustache",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Sifting",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Big Cheese",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Downer",
+      "duration": ""
+    }
+  ]
+}

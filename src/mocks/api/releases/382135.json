@@ -1,0 +1,104 @@
+{
+  "id": 382135,
+  "artist_id": 83080,
+  "artist": "The Smiths",
+  "title": "Hatful Of Hollow",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Indie Rock"
+  ],
+  "release_date": "1984-11-12",
+  "year": 1984,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/loiGnaRNkhy9V791RiYThTLYEGlblxcYmb-39VLyQWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjEz/NS0xNjY4MTM5NDE5/LTk5NjguanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/oJ85N6HJOBPwHlzIUJpersJGDpAhO9zXYt__ulYOJSY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjEz/NS0xNjY4MTM5NDE5/LTk5NjguanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "William, It Was Really Nothing",
+      "duration": "2:09"
+    },
+    {
+      "position": "A2",
+      "title": "What Difference Does It Make?",
+      "duration": "3:42"
+    },
+    {
+      "position": "A3",
+      "title": "These Things Take Time",
+      "duration": "2:33"
+    },
+    {
+      "position": "A4",
+      "title": "This Charming Man",
+      "duration": "2:43"
+    },
+    {
+      "position": "A5",
+      "title": "How Soon Is Now?",
+      "duration": "6:43"
+    },
+    {
+      "position": "A6",
+      "title": "Handsome Devil",
+      "duration": "2:46"
+    },
+    {
+      "position": "A7",
+      "title": "Hand In Glove",
+      "duration": "3:14"
+    },
+    {
+      "position": "A8",
+      "title": "Still Ill",
+      "duration": "3:54"
+    },
+    {
+      "position": "B1",
+      "title": "Heaven Knows I'm Miserable Now",
+      "duration": "3:34"
+    },
+    {
+      "position": "B2",
+      "title": "This Night Has Opened My Eyes",
+      "duration": "3:40"
+    },
+    {
+      "position": "B3",
+      "title": "You've Got Everything Now",
+      "duration": "4:18"
+    },
+    {
+      "position": "B4",
+      "title": "Accept Yourself",
+      "duration": "4:02"
+    },
+    {
+      "position": "B5",
+      "title": "Girl Afraid",
+      "duration": "2:45"
+    },
+    {
+      "position": "B6",
+      "title": "Back To The Old House",
+      "duration": "3:02"
+    },
+    {
+      "position": "B7",
+      "title": "Reel Around The Fountain",
+      "duration": "5:51"
+    },
+    {
+      "position": "B8",
+      "title": "Please Please Please Let Me Get What I Want",
+      "duration": "1:50"
+    }
+  ]
+}

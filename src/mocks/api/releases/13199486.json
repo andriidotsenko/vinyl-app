@@ -1,0 +1,80 @@
+{
+  "id": 13199486,
+  "artist_id": 47333,
+  "artist": "Fleetwood Mac",
+  "title": "Rumours",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock",
+    "Pop Rock",
+    "Soft Rock"
+  ],
+  "release_date": "2009",
+  "year": 2009,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/UPHFx7m2mvTDegYZ0_hVG1TRH8RU7um4TeIiCtdMppM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk5/NDg2LTE2MjEwMjgz/NTItODQzMS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/Bh3uIWwG-wygQE0sYta1RYrqmoIOtz5sggsIKUZYFPo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk5/NDg2LTE2MjEwMjgz/NTItODQzMS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Second Hand News",
+      "duration": "2:42"
+    },
+    {
+      "position": "A2",
+      "title": "Dreams",
+      "duration": "4:15"
+    },
+    {
+      "position": "A3",
+      "title": "Never Going Back Again",
+      "duration": "2:02"
+    },
+    {
+      "position": "A4",
+      "title": "Don't Stop",
+      "duration": "3:10"
+    },
+    {
+      "position": "A5",
+      "title": "Go Your Own Way",
+      "duration": "3:40"
+    },
+    {
+      "position": "A6",
+      "title": "Songbird",
+      "duration": "3:18"
+    },
+    {
+      "position": "B1",
+      "title": "The Chain",
+      "duration": "4:27"
+    },
+    {
+      "position": "B2",
+      "title": "You Make Loving Fun",
+      "duration": "3:33"
+    },
+    {
+      "position": "B3",
+      "title": "I Don't Want To Know",
+      "duration": "3:13"
+    },
+    {
+      "position": "B4",
+      "title": "Oh Daddy",
+      "duration": "3:54"
+    },
+    {
+      "position": "B5",
+      "title": "Gold Dust Woman",
+      "duration": "5:13"
+    }
+  ]
+}

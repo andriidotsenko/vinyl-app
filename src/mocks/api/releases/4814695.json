@@ -1,0 +1,124 @@
+{
+  "id": 4814695,
+  "artist_id": 70829,
+  "artist": "The Beach Boys",
+  "title": "Endless Summer",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Surf",
+    "Pop Rock"
+  ],
+  "release_date": "1974-06-24",
+  "year": 1974,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/bPj8Gv5VBrNWdyivHqga2cUNR3cHZ84946Xa1dkr3YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTQ2/OTUtMTM3NjYyNDI2/Ny0zMTk3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/sXp9SWEr-Dhy9I-E477LIQr0lcMDd1bWsUHxicKN7nM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTQ2/OTUtMTM3NjYyNDI2/Ny0zMTk3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Surfin' Safari",
+      "duration": "2:05"
+    },
+    {
+      "position": "A2",
+      "title": "Surfer Girl",
+      "duration": "2:15"
+    },
+    {
+      "position": "A3",
+      "title": "Catch A Wave",
+      "duration": "2:15"
+    },
+    {
+      "position": "A4",
+      "title": "The Warmth Of The Sun",
+      "duration": "2:47"
+    },
+    {
+      "position": "A5",
+      "title": "Surfin' U.S.A.",
+      "duration": "2:27"
+    },
+    {
+      "position": "B1",
+      "title": "Be True To Your School",
+      "duration": "2:05"
+    },
+    {
+      "position": "B2",
+      "title": "Little Deuce Coupe",
+      "duration": "1:50"
+    },
+    {
+      "position": "B3",
+      "title": "In My Room",
+      "duration": "2:11"
+    },
+    {
+      "position": "B4",
+      "title": "Shut Down",
+      "duration": "1:50"
+    },
+    {
+      "position": "B5",
+      "title": "Fun, Fun, Fun",
+      "duration": "2:16"
+    },
+    {
+      "position": "C1",
+      "title": "I Get Around",
+      "duration": "2:14"
+    },
+    {
+      "position": "C2",
+      "title": "The Girls On The Beach",
+      "duration": "2:25"
+    },
+    {
+      "position": "C3",
+      "title": "Wendy",
+      "duration": "2:20"
+    },
+    {
+      "position": "C4",
+      "title": "Let Him Run Wild",
+      "duration": "2:21"
+    },
+    {
+      "position": "C5",
+      "title": "Don't Worry Baby",
+      "duration": "2:45"
+    },
+    {
+      "position": "D1",
+      "title": "California Girls",
+      "duration": "2:37"
+    },
+    {
+      "position": "D2",
+      "title": "Girl Don't Tell Me",
+      "duration": "2:17"
+    },
+    {
+      "position": "D3",
+      "title": "Help Me, Rhonda",
+      "duration": "3:08"
+    },
+    {
+      "position": "D4",
+      "title": "You're So Good To Me",
+      "duration": "2:14"
+    },
+    {
+      "position": "D5",
+      "title": "All Summer Long",
+      "duration": "2:05"
+    }
+  ]
+}

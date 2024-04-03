@@ -1,0 +1,136 @@
+{
+  "id": 3259156,
+  "artist_id": 258372,
+  "artist": "The Black Keys",
+  "title": "El Camino",
+  "all_genres": [
+    4,
+    9
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Alternative Rock",
+    "Garage Rock"
+  ],
+  "release_date": "2011-12-06",
+  "year": 2011,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/sN_UV4dtOBmEKsd1DRuKsKRWFGyKPrnHiUdsh405NBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTkx/NTYtMTY0NzI3ODg1/MS03NTUzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/qceNieY4ubqXiYOUKzUwCVe6V4xNlJsq2MSTa6x-NKc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTkx/NTYtMTY0NzI3ODg1/MS03NTUzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Lonely Boy",
+      "duration": "3:13"
+    },
+    {
+      "position": "A2",
+      "title": "Dead And Gone",
+      "duration": "3:41"
+    },
+    {
+      "position": "A3",
+      "title": "Gold On The Ceiling",
+      "duration": "3:44"
+    },
+    {
+      "position": "A4",
+      "title": "Little Black Submarines",
+      "duration": "4:11"
+    },
+    {
+      "position": "A5",
+      "title": "Money Maker",
+      "duration": "2:57"
+    },
+    {
+      "position": "B1",
+      "title": "Run Right Back",
+      "duration": "3:17"
+    },
+    {
+      "position": "B2",
+      "title": "Sister",
+      "duration": "3:25"
+    },
+    {
+      "position": "B3",
+      "title": "Hell Of A Season",
+      "duration": "3:45"
+    },
+    {
+      "position": "B4",
+      "title": "Stop Stop",
+      "duration": "3:30"
+    },
+    {
+      "position": "B5",
+      "title": "Nova Baby",
+      "duration": "3:27"
+    },
+    {
+      "position": "B6",
+      "title": "Mind Eraser",
+      "duration": "3:15"
+    },
+    {
+      "position": "CD-1",
+      "title": "Lonely Boy",
+      "duration": "3:13"
+    },
+    {
+      "position": "CD-2",
+      "title": "Dead And Gone",
+      "duration": "3:41"
+    },
+    {
+      "position": "CD-3",
+      "title": "Gold On The Ceiling",
+      "duration": "3:44"
+    },
+    {
+      "position": "CD-4",
+      "title": "Little Black Submarines",
+      "duration": "4:11"
+    },
+    {
+      "position": "CD-5",
+      "title": "Money Maker",
+      "duration": "2:57"
+    },
+    {
+      "position": "CD-6",
+      "title": "Run Right Back",
+      "duration": "3:17"
+    },
+    {
+      "position": "CD-7",
+      "title": "Sister",
+      "duration": "3:25"
+    },
+    {
+      "position": "CD-8",
+      "title": "Hell Of A Season",
+      "duration": "3:45"
+    },
+    {
+      "position": "CD-9",
+      "title": "Stop Stop",
+      "duration": "3:30"
+    },
+    {
+      "position": "CD-10",
+      "title": "Nova Baby",
+      "duration": "3:27"
+    },
+    {
+      "position": "CD-11",
+      "title": "Mind Eraser",
+      "duration": "3:15"
+    }
+  ]
+}

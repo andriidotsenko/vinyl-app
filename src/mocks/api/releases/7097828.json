@@ -1,0 +1,86 @@
+{
+  "id": 7097828,
+  "artist_id": 7027,
+  "artist": "Vangelis",
+  "title": "Blade Runner",
+  "all_genres": [
+    1,
+    6
+  ],
+  "genre": 1,
+  "styles": [
+    "Ambient",
+    "Soundtrack",
+    "Score"
+  ],
+  "release_date": "2015-06-08",
+  "year": 2015,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/zBXGm4lpf_evGNz6Mol-nN1zWuXePja6xuFco9vWgKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTc4/MjgtMTU2Mjg5MDc4/NC04Nzk1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/l9cJ3yBjZATxgJQILd0GjzMPvlup_BEPuwaql9ZGpLs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTc4/MjgtMTU2Mjg5MDc4/NC04Nzk1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Main Titles",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Blush Response",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Wait For Me",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Rachel's Song",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Love Theme",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "One More Kiss, Dear",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Blade Runner Blues",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Memories Of Green",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Tales Of The Future",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Damask Rose",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Blade Runner (End Titles)",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Tears In Rain",
+      "duration": ""
+    }
+  ]
+}

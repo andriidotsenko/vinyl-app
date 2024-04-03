@@ -1,0 +1,95 @@
+{
+  "id": 448759,
+  "artist_id": 114483,
+  "artist": "Chicago",
+  "title": "Chicago",
+  "all_genres": [
+    8,
+    4
+  ],
+  "genre": 8,
+  "styles": [
+    "Jazz-Rock",
+    "Classic Rock"
+  ],
+  "release_date": "1970-01-26",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/M3bgm43wVs2wspxl08pYYZ52mJLhxVAf6wASOv4QMIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODc1/OS0xNjQwNjEwODQ3/LTUzMjEuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/GjHSx2LuWL1Xt-vdUanO0gxehxrbrWWLCImSB81wHCU/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODc1/OS0xNjQwNjEwODQ3/LTUzMjEuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Movin' In",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "The Road",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Poem For The People",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "In The Country",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Wake Up Sunshine",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Ballet For A Girl In Buchannon",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Fancy Colours",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "25 Or 6 To 4",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Prelude",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "A.M. Mourning",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "title": "P.M. Mourning",
+      "duration": ""
+    },
+    {
+      "position": "C6",
+      "title": "Memories Of Love",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "It Better End Soon",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Where Do We Go From Here",
+      "duration": ""
+    }
+  ]
+}

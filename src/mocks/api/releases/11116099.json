@@ -1,0 +1,83 @@
+{
+  "id": 11116099,
+  "artist_id": 2482309,
+  "artist": "Childish Gambino",
+  "title": "Awaken, My Love!",
+  "all_genres": [
+    2
+  ],
+  "genre": 2,
+  "styles": [
+    "Contemporary R&B",
+    "Funk",
+    "Neo Soul",
+    "Psychedelic"
+  ],
+  "release_date": "2017-11-10",
+  "year": 2017,
+  "all_countries": [
+    "uk",
+    "europe",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/ygdMnljqDzikauwCCi5GCh0SKnKxkIBT97AgOuCPFOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE2/MDk5LTE1MTU4NDU4/ODYtNTA4My5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/UTVD7HoRr4k0ZpXjcGvgXm7FEVXMMjra9kvKXIVowp8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE2/MDk5LTE1MTU4NDU4/ODYtNTA4My5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Me And Your Mama",
+      "duration": "6:19"
+    },
+    {
+      "position": "A2",
+      "title": "Have Some Love",
+      "duration": "3:44"
+    },
+    {
+      "position": "A3",
+      "title": "Boogieman",
+      "duration": "3:37"
+    },
+    {
+      "position": "A4",
+      "title": "Zombies",
+      "duration": "4:42"
+    },
+    {
+      "position": "A5",
+      "title": "Riot",
+      "duration": "2:05"
+    },
+    {
+      "position": "A6",
+      "title": "Redbone",
+      "duration": "5:27"
+    },
+    {
+      "position": "B1",
+      "title": "California",
+      "duration": "2:45"
+    },
+    {
+      "position": "B2",
+      "title": "Terrified",
+      "duration": "4:15"
+    },
+    {
+      "position": "B3",
+      "title": "Baby Boy",
+      "duration": "6:22"
+    },
+    {
+      "position": "B4",
+      "title": "The Night Me And Your Mama Met",
+      "duration": "3:34"
+    },
+    {
+      "position": "B5",
+      "title": "Stand Tall",
+      "duration": "6:11"
+    }
+  ]
+}

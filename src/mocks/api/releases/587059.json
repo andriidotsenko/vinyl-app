@@ -1,0 +1,74 @@
+{
+  "id": 587059,
+  "artist_id": 114210,
+  "artist": "Men At Work",
+  "title": "Business As Usual",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Indie Rock"
+  ],
+  "release_date": "1982",
+  "year": 1982,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/qYgisDReR7Vl4NmLPAp8MXeSGcK0ojZ5z7n8wivQYJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzA1/OS0xNDA3MzY5NzU4/LTcyMDkuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/r8oqPvsb_eoru0EfwP80Pq_10ZjJf_klw2Tw4Yc5wM4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzA1/OS0xNDA3MzY5NzU4/LTcyMDkuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Who Can It Be Now?",
+      "duration": "3:21"
+    },
+    {
+      "position": "A2",
+      "title": "I Can See It In Your Eyes",
+      "duration": "3:28"
+    },
+    {
+      "position": "A3",
+      "title": "Down Under",
+      "duration": "3:41"
+    },
+    {
+      "position": "A4",
+      "title": "Underground",
+      "duration": "3:02"
+    },
+    {
+      "position": "A5",
+      "title": "Helpless Automaton",
+      "duration": "3:21"
+    },
+    {
+      "position": "B1",
+      "title": "People Just Love To Play With Words",
+      "duration": "3:28"
+    },
+    {
+      "position": "B2",
+      "title": "Be Good Johnny",
+      "duration": "3:34"
+    },
+    {
+      "position": "B3",
+      "title": "Touching The Untouchables",
+      "duration": "3:39"
+    },
+    {
+      "position": "B4",
+      "title": "Catch A Star",
+      "duration": "3:27"
+    },
+    {
+      "position": "B5",
+      "title": "Down By The Sea",
+      "duration": "6:38"
+    }
+  ]
+}

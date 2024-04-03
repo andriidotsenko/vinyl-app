@@ -1,0 +1,88 @@
+{
+  "id": 400788,
+  "artist_id": 74500,
+  "artist": "R.E.M.",
+  "title": "Out Of Time",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock"
+  ],
+  "release_date": "1991",
+  "year": 1991,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/YH4TmQT3_NswyUxbeJpxy51yjsnnasCYxsJxclFK7RM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDc4/OC0xNjUwNTcyODY4/LTkwMTMuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/sSI1b9o47fAmjT5zgalh-RasnhB1klmN06ebvZeaaTw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDc4/OC0xNjUwNTcyODY4/LTkwMTMuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Time Side",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Radio Song",
+      "duration": "4:12"
+    },
+    {
+      "position": "A2",
+      "title": "Losing My Religion",
+      "duration": "4:26"
+    },
+    {
+      "position": "A3",
+      "title": "Low",
+      "duration": "4:55"
+    },
+    {
+      "position": "A4",
+      "title": "Near Wild Heaven",
+      "duration": "3:17"
+    },
+    {
+      "position": "A5",
+      "title": "Endgame",
+      "duration": "3:48"
+    },
+    {
+      "position": "",
+      "title": "Memory Side",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Shiny Happy People",
+      "duration": "3:44"
+    },
+    {
+      "position": "B2",
+      "title": "Belong",
+      "duration": "4:03"
+    },
+    {
+      "position": "B3",
+      "title": "Half A World Away",
+      "duration": "3:26"
+    },
+    {
+      "position": "B4",
+      "title": "Texarkana",
+      "duration": "3:36"
+    },
+    {
+      "position": "B5",
+      "title": "Country Feedback",
+      "duration": "4:07"
+    },
+    {
+      "position": "B6",
+      "title": "Me In Honey",
+      "duration": "4:06"
+    }
+  ]
+}

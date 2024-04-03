@@ -1,0 +1,82 @@
+{
+  "id": 7748058,
+  "artist_id": 819015,
+  "artist": "Adele",
+  "title": "25",
+  "all_genres": [
+    2,
+    9,
+    3
+  ],
+  "genre": 2,
+  "styles": [
+    "Ballad",
+    "Neo Soul",
+    "Piano Blues"
+  ],
+  "release_date": "2015-11-20",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/zojY18TCy6BSqoh-Mwt7MbjXv1s-x4cfvgwLcLPt90M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDgw/NTgtMTUwMDYzNjk4/Mi04Mjc5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/8Q90AEv3raXlfTkfbVMMeQOGrEEwC5Cq8rB9-jUapkI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDgw/NTgtMTUwMDYzNjk4/Mi04Mjc5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hello",
+      "duration": "4:52"
+    },
+    {
+      "position": "A2",
+      "title": "Send My Love (To Your New Lover) ",
+      "duration": "3:38"
+    },
+    {
+      "position": "A3",
+      "title": "I Miss You",
+      "duration": "5:45"
+    },
+    {
+      "position": "A4",
+      "title": "When We Were Young ",
+      "duration": "4:44"
+    },
+    {
+      "position": "A5",
+      "title": "Remedy",
+      "duration": "3:58"
+    },
+    {
+      "position": "B1",
+      "title": "Water Under The Bridge",
+      "duration": "3:56"
+    },
+    {
+      "position": "B2",
+      "title": "River Lea",
+      "duration": "3:42"
+    },
+    {
+      "position": "B3",
+      "title": "Love In The Dark ",
+      "duration": "4:42"
+    },
+    {
+      "position": "B4",
+      "title": "Million Years Ago ",
+      "duration": "3:45"
+    },
+    {
+      "position": "B5",
+      "title": "All I Ask",
+      "duration": "4:26"
+    },
+    {
+      "position": "B6",
+      "title": "Sweetest Devotion",
+      "duration": "4:08"
+    }
+  ]
+}

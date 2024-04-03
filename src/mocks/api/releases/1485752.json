@@ -1,0 +1,143 @@
+{
+  "id": 1485752,
+  "artist_id": 243955,
+  "artist": "George Harrison",
+  "title": "All Things Must Pass",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1970-11-27",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/uvaPgicermcXqp_3TZPy4PSgGQ2gn_dnQBtcku0lr6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU3/NTItMTM2Mjk1ODk5/OC04NjE4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/QoKg3eR36IBHn_czkwT20iGITQvFExpX0lvfhCQsTNI/rs:fit/g:sm/q:90/h:585/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU3/NTItMTM2Mjk1ODk5/OC04NjE4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "I'd Have You Anytime",
+      "duration": "2:50"
+    },
+    {
+      "position": "A2",
+      "title": "My Sweet Lord",
+      "duration": "4:39"
+    },
+    {
+      "position": "A3",
+      "title": "Wah-Wah",
+      "duration": "5:35"
+    },
+    {
+      "position": "A4",
+      "title": "Isn't It A Pity (Version One)",
+      "duration": "7:10"
+    },
+    {
+      "position": "B1",
+      "title": "What Is Life",
+      "duration": "4:18"
+    },
+    {
+      "position": "B2",
+      "title": "If Not For You",
+      "duration": "4:27"
+    },
+    {
+      "position": "B3",
+      "title": "Behind That Locked Door",
+      "duration": "3:03"
+    },
+    {
+      "position": "B4",
+      "title": "Let It Down",
+      "duration": "4:55"
+    },
+    {
+      "position": "B5",
+      "title": "Run Of The Mill",
+      "duration": "2:52"
+    },
+    {
+      "position": "C1",
+      "title": "Beware Of Darkness",
+      "duration": "3:47"
+    },
+    {
+      "position": "C2",
+      "title": "Apple Scruffs",
+      "duration": "3:03"
+    },
+    {
+      "position": "C3",
+      "title": "Ballad Of Sir Frankie Crisp (Let It Roll)",
+      "duration": "3:47"
+    },
+    {
+      "position": "C4",
+      "title": "Awaiting On You All",
+      "duration": "2:44"
+    },
+    {
+      "position": "C5",
+      "title": "All Things Must Pass",
+      "duration": "3:46"
+    },
+    {
+      "position": "D1",
+      "title": "I Dig Love",
+      "duration": "4:54"
+    },
+    {
+      "position": "D2",
+      "title": "Art Of Dying",
+      "duration": "3:35"
+    },
+    {
+      "position": "D3",
+      "title": "Isn't It A Pity (Version Two)",
+      "duration": "4:46"
+    },
+    {
+      "position": "D4",
+      "title": "Hear Me Lord",
+      "duration": "5:46"
+    },
+    {
+      "position": "",
+      "title": "Apple Jam",
+      "duration": ""
+    },
+    {
+      "position": "E1",
+      "title": "Out Of The Blue",
+      "duration": "11:07"
+    },
+    {
+      "position": "E2",
+      "title": "It's Johnny's Birthday",
+      "duration": "0:49"
+    },
+    {
+      "position": "E3",
+      "title": "Plug Me In",
+      "duration": "3:15"
+    },
+    {
+      "position": "F1",
+      "title": "I Remember Jeep",
+      "duration": "6:59"
+    },
+    {
+      "position": "F2",
+      "title": "Thanks For The Pepperoni",
+      "duration": "5:26"
+    }
+  ]
+}

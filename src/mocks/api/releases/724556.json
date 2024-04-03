@@ -1,0 +1,73 @@
+{
+  "id": 724556,
+  "artist_id": 424476,
+  "artist": "Band Of Horses",
+  "title": "Everything All The Time",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock"
+  ],
+  "release_date": "2006-03-21",
+  "year": 2006,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/tGGNY9eNQYhBQaJZE611IA3j53khc-B605-h0cRMaj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDU1/Ni0xMjQ5MzE2NDIx/LnBuZw.jpeg",
+  "cover_image": "https://i.discogs.com/GD9DZa6KfeMHwRbz5ScA9ViQO6EJgu1kFQtO1kN9HZE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDU1/Ni0xMjQ5MzE2NDIx/LnBuZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The First Song",
+      "duration": "3:43"
+    },
+    {
+      "position": "A2",
+      "title": "Wicked Gil",
+      "duration": "2:57"
+    },
+    {
+      "position": "A3",
+      "title": "Our Swords",
+      "duration": "2:26"
+    },
+    {
+      "position": "A4",
+      "title": "The Funeral",
+      "duration": "5:22"
+    },
+    {
+      "position": "A5",
+      "title": "Part One",
+      "duration": "2:36"
+    },
+    {
+      "position": "B1",
+      "title": "The Great Salt Lake",
+      "duration": "4:45"
+    },
+    {
+      "position": "B2",
+      "title": "Weed Party",
+      "duration": "3:09"
+    },
+    {
+      "position": "B3",
+      "title": "I Go To The Barn Because I Like The",
+      "duration": "3:06"
+    },
+    {
+      "position": "B4",
+      "title": "Monsters",
+      "duration": "5:21"
+    },
+    {
+      "position": "B5",
+      "title": "St. Augustine",
+      "duration": "2:41"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": 5595031,
+  "artist_id": 2482309,
+  "artist": "Childish Gambino",
+  "title": "Because The Internet",
+  "all_genres": [
+    1,
+    5,
+    2,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Abstract",
+    "Conscious",
+    "Contemporary R&B",
+    "Experimental",
+    "Pop Rap",
+    "Neo Soul"
+  ],
+  "release_date": "2014-04-19",
+  "year": 2014,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/RgqASE5SbW7bXhSNF6yVWiSseRqpkhWTQzNtmTB8iCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTUw/MzEtMTQ0NjkyOTkw/Ny01NjYxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/JE2MWaeSzHdPouA_IDk1W_lInT1I9S0coFL_op7Hf3I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTUw/MzEtMTQ0NjkyOTkw/Ny01NjYxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "1.",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "The Library (Intro)",
+      "duration": "0:04"
+    },
+    {
+      "position": "A2",
+      "title": "I. The Crawl",
+      "duration": "3:29"
+    },
+    {
+      "position": "A3",
+      "title": "II. Worldstar",
+      "duration": "4:04"
+    },
+    {
+      "position": "",
+      "title": "2.",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Dial Up",
+      "duration": "0:44"
+    },
+    {
+      "position": "A5",
+      "title": "I. The Worst Guys",
+      "duration": "3:39"
+    },
+    {
+      "position": "A6",
+      "title": "II. Shadows",
+      "duration": "3:51"
+    },
+    {
+      "position": "B1",
+      "title": "III. Telegraph Ave. (\"Oakland\" By Lloyd)",
+      "duration": "3:30"
+    },
+    {
+      "position": "B2",
+      "title": "IV. Sweatpants",
+      "duration": "3:00"
+    },
+    {
+      "position": "B3",
+      "title": "V. 3005",
+      "duration": "3:54"
+    },
+    {
+      "position": "",
+      "title": "3.",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Playing Around Before The Party Starts",
+      "duration": "0:54"
+    },
+    {
+      "position": "B5",
+      "title": "I. The Party",
+      "duration": "1:31"
+    },
+    {
+      "position": "C1",
+      "title": "II. No Exit",
+      "duration": "2:51"
+    },
+    {
+      "position": "",
+      "title": "4.",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Death By Numbers",
+      "duration": "0:43"
+    },
+    {
+      "position": "C3",
+      "title": "I. Flight Of The Navigator",
+      "duration": "5:44"
+    },
+    {
+      "position": "C4",
+      "title": "II. Zealots Of Stockholm [Free Information]",
+      "duration": "4:50"
+    },
+    {
+      "position": "D1",
+      "title": "III. Urn",
+      "duration": "1:13"
+    },
+    {
+      "position": "",
+      "title": "5.",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Pink Toes",
+      "duration": "3:27"
+    },
+    {
+      "position": "",
+      "title": "6.",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Earth: The Oldest Computer (The Last Night)",
+      "duration": "4:42"
+    },
+    {
+      "position": "",
+      "title": "7.",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Life: The Biggest Troll [Andrew Auernheimer]",
+      "duration": "5:42"
+    }
+  ]
+}

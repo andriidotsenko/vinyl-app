@@ -1,0 +1,96 @@
+{
+  "id": 12795892,
+  "artist_id": 85929,
+  "artist": "Kate Bush",
+  "title": "Hounds Of Love",
+  "all_genres": [
+    1,
+    4,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Art Rock",
+    "Pop Rock"
+  ],
+  "release_date": "2018-11-16",
+  "year": 2018,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/tc4uLICYUHS3go7-9R1cOKXXSw0KkHCNwAotXRKUVSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk1/ODkyLTE1NDIxMzQw/MDEtMjA5Ny5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/riX4rykniwPKn4ZnjtMdSRd1msxsiMGit64DumULVmQ/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk1/ODkyLTE1NDIxMzQw/MDEtMjA5Ny5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Hounds Of Love",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Running Up That Hill (A Deal With God)",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Hounds Of Love",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "The Big Sky (7\" Mix)",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Mother Stands For Comfort",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Cloudbusting",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "The Ninth Wave",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "And Dream Of Sheep",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Under Ice",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Waking The Witch",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Watching You Without Me",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Jig Of Life",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Hello Earth",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "The Morning Fog",
+      "duration": ""
+    }
+  ]
+}

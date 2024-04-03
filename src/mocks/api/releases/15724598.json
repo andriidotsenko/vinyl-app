@@ -1,0 +1,98 @@
+{
+  "id": 15724598,
+  "artist_id": 25058,
+  "artist": "MF Doom",
+  "title": "MM..Food",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Conscious"
+  ],
+  "release_date": "2020",
+  "year": 2020,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/woZC4wTICrZBIyp6cqxSzUodQhmiKHW8CXO58lzLX6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI0/NTk4LTE2MjgyMzI3/NjAtOTIzMi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/IZ_duZiWeqpXB0kHH71LNodDec-aQFlj6BvViHWAWgM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI0/NTk4LTE2MjgyMzI3/NjAtOTIzMi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Beef Rapp",
+      "duration": "4:39"
+    },
+    {
+      "position": "A2",
+      "title": "Hoe Cakes",
+      "duration": "3:54"
+    },
+    {
+      "position": "A3",
+      "title": "Potholderz",
+      "duration": "3:20"
+    },
+    {
+      "position": "B4",
+      "title": "One Beer",
+      "duration": "4:18"
+    },
+    {
+      "position": "B5",
+      "title": "Deep Fried Frenz",
+      "duration": "4:59"
+    },
+    {
+      "position": "B6",
+      "title": "Poo-Putt Platter",
+      "duration": "1:13"
+    },
+    {
+      "position": "B7",
+      "title": "Fillet-O-Rapper",
+      "duration": "1:03"
+    },
+    {
+      "position": "B8",
+      "title": "Gumbo",
+      "duration": "0:49"
+    },
+    {
+      "position": "C9",
+      "title": "Fig Leaf Bi-Carbonate",
+      "duration": "3:19"
+    },
+    {
+      "position": "C10",
+      "title": "Kon Karne",
+      "duration": "2:51"
+    },
+    {
+      "position": "C11",
+      "title": "Guinnesses",
+      "duration": "4:41"
+    },
+    {
+      "position": "D12",
+      "title": "Kon Queso",
+      "duration": "4:00"
+    },
+    {
+      "position": "D13",
+      "title": "Rapp Snitch Knishes",
+      "duration": "2:52"
+    },
+    {
+      "position": "D14",
+      "title": "Vomitspit",
+      "duration": "2:48"
+    },
+    {
+      "position": "D15",
+      "title": "Kookies",
+      "duration": "4:02"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 822425,
+  "artist_id": 137418,
+  "artist": "Billy Joel",
+  "title": "An Innocent Man",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Rock & Roll",
+    "Pop Rock"
+  ],
+  "release_date": "1983",
+  "year": 1983,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/PuSoxfAzfGjtACT3ts7hKayoGW_2S_jEKBvTIpZyL_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjQy/NS0xMzUyMzIwNTM2/LTE1ODIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/DKm0zIv4r3qmMRFTWKAxGQUbnyUedjihVGyZyZJ07jw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjQy/NS0xMzUyMzIwNTM2/LTE1ODIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Easy Money",
+      "duration": "4:00"
+    },
+    {
+      "position": "A2",
+      "title": "An Innocent Man",
+      "duration": "5:16"
+    },
+    {
+      "position": "A3",
+      "title": "The Longest Time",
+      "duration": "3:32"
+    },
+    {
+      "position": "A4",
+      "title": "This Night",
+      "duration": "4:12"
+    },
+    {
+      "position": "A5",
+      "title": "Tell Her About It",
+      "duration": "3:45"
+    },
+    {
+      "position": "B1",
+      "title": "Uptown Girl",
+      "duration": "3:12"
+    },
+    {
+      "position": "B2",
+      "title": "Careless Talk",
+      "duration": "3:42"
+    },
+    {
+      "position": "B3",
+      "title": "Christie Lee",
+      "duration": "3:25"
+    },
+    {
+      "position": "B4",
+      "title": "Leave A Tender Moment Alone",
+      "duration": "3:49"
+    },
+    {
+      "position": "B5",
+      "title": "Keeping The Faith",
+      "duration": "4:35"
+    }
+  ]
+}

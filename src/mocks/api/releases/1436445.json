@@ -1,0 +1,175 @@
+{
+  "id": 1436445,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "The Beatles",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Psychedelic Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1968",
+  "year": 1968,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/4zlNs4yfuqu23zZf0TSE_zd3GzDmpPpqaGDDwIKl0_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzY0/NDUtMTIzMzY5Nzgx/Ny5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/gOfsu0ld4NfpUoE9c5qO3-Uqx-mWjTv-YGud-LyTUFI/rs:fit/g:sm/q:90/h:464/w:465/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzY0/NDUtMTIzMzY5Nzgx/Ny5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Back In The U.S.S.R.",
+      "duration": "2:45"
+    },
+    {
+      "position": "A2",
+      "title": "Dear Prudence",
+      "duration": "4:00"
+    },
+    {
+      "position": "A3",
+      "title": "Glass Onion",
+      "duration": "2:10"
+    },
+    {
+      "position": "A4",
+      "title": "Ob-La-Di, Ob-La-Da",
+      "duration": "3:10"
+    },
+    {
+      "position": "A5",
+      "title": "Wild Honey Pie",
+      "duration": "1:02"
+    },
+    {
+      "position": "A6",
+      "title": "The Continuing Story Of Bungalow Bill",
+      "duration": "3:05"
+    },
+    {
+      "position": "A7",
+      "title": "While My Guitar Gently Weeps",
+      "duration": "4:46"
+    },
+    {
+      "position": "A8",
+      "title": "Happiness Is A Warm Gun",
+      "duration": "2:47"
+    },
+    {
+      "position": "B1",
+      "title": "Martha My Dear",
+      "duration": "2:28"
+    },
+    {
+      "position": "B2",
+      "title": "I'm So Tired",
+      "duration": "2:01"
+    },
+    {
+      "position": "B3",
+      "title": "Blackbird",
+      "duration": "2:20"
+    },
+    {
+      "position": "B4",
+      "title": "Piggies",
+      "duration": "2:04"
+    },
+    {
+      "position": "B5",
+      "title": "Rocky Racoon",
+      "duration": "3:33"
+    },
+    {
+      "position": "B6",
+      "title": "Don't Pass Me By",
+      "duration": "3:52"
+    },
+    {
+      "position": "B7",
+      "title": "Why Don't We Do It In The Road?",
+      "duration": "1:42"
+    },
+    {
+      "position": "B8",
+      "title": "I Will",
+      "duration": "1:46"
+    },
+    {
+      "position": "B9",
+      "title": "Julia",
+      "duration": "2:57"
+    },
+    {
+      "position": "C1",
+      "title": "Birthday",
+      "duration": "2:40"
+    },
+    {
+      "position": "C2",
+      "title": "Yer Blues",
+      "duration": "4:01"
+    },
+    {
+      "position": "C3",
+      "title": "Mother Nature's Son",
+      "duration": "2:46"
+    },
+    {
+      "position": "C4",
+      "title": "Everybody's Got Something To Hide Except Me And My Monkey",
+      "duration": "2:25"
+    },
+    {
+      "position": "C5",
+      "title": "Sexy Sadie",
+      "duration": "3:15"
+    },
+    {
+      "position": "C6",
+      "title": "Helter Skelter",
+      "duration": "4:30"
+    },
+    {
+      "position": "C7",
+      "title": "Long, Long, Long",
+      "duration": "3:08"
+    },
+    {
+      "position": "D1",
+      "title": "Revolution 1",
+      "duration": "4:13"
+    },
+    {
+      "position": "D2",
+      "title": "Honey Pie",
+      "duration": "2:42"
+    },
+    {
+      "position": "D3",
+      "title": "Savoy Truffle",
+      "duration": "2:55"
+    },
+    {
+      "position": "D4",
+      "title": "Cry Baby Cry",
+      "duration": "3:11"
+    },
+    {
+      "position": "D5",
+      "title": "Revolution 9",
+      "duration": "8:15"
+    },
+    {
+      "position": "D6",
+      "title": "Good Night",
+      "duration": "3:14"
+    }
+  ]
+}

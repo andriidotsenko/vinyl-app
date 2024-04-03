@@ -1,0 +1,85 @@
+{
+  "id": 611451,
+  "artist_id": 170357,
+  "artist": "Carpenters",
+  "title": "The Singles 1969-1973",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Easy Listening"
+  ],
+  "release_date": "1973-11-09",
+  "year": 1973,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/IEv7ab527SgZxRLoNqEXCzqNsWtsQBsoQT2jMpxa08U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQ1/MS0xMjIyNjkxNzMw/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/mv3jvx2uWoNi71Tv9rBCk3YZpS-BFeJjnvYdnFM-2HE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQ1/MS0xMjIyNjkxNzMw/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "We've Only Just Begun",
+      "duration": "3:04"
+    },
+    {
+      "position": "A2",
+      "title": "Top Of The World",
+      "duration": "2:56"
+    },
+    {
+      "position": "A3",
+      "title": "Ticket To Ride",
+      "duration": "4:10"
+    },
+    {
+      "position": "A4",
+      "title": "Superstar",
+      "duration": "3:49"
+    },
+    {
+      "position": "A5",
+      "title": "Rainy Days And Mondays",
+      "duration": "3:40"
+    },
+    {
+      "position": "A6",
+      "title": "Goodbye To Love",
+      "duration": "3:50"
+    },
+    {
+      "position": "B1",
+      "title": "Yesterday Once More",
+      "duration": "3:50"
+    },
+    {
+      "position": "B2",
+      "title": "It's Going To Take Some Time",
+      "duration": "2:55"
+    },
+    {
+      "position": "B3",
+      "title": "Sing",
+      "duration": "3:20"
+    },
+    {
+      "position": "B4",
+      "title": "For All We Know",
+      "duration": "2:34"
+    },
+    {
+      "position": "B5",
+      "title": "Hurting Each Other",
+      "duration": "2:46"
+    },
+    {
+      "position": "B6",
+      "title": "(They Long To Be) Close To You",
+      "duration": "4:34"
+    }
+  ]
+}

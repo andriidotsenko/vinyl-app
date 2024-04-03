@@ -1,0 +1,75 @@
+{
+  "id": 759699,
+  "artist_id": 132066,
+  "artist": "Cheap Trick",
+  "title": "Cheap Trick At Budokan",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Power Pop",
+    "Hard Rock"
+  ],
+  "release_date": "1979",
+  "year": 1979,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/5usutWrIjvA4VDOYLcWbozb0IDKOizZpKrW8yWGDwbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTY5/OS0xMjgwNjY2MDcw/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/ZtEOSbh9X2r1XArYc219GGlhh-NzISssGucQOOg6huY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTY5/OS0xMjgwNjY2MDcw/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hello There",
+      "duration": "2:27"
+    },
+    {
+      "position": "A2",
+      "title": "Come On Come On",
+      "duration": "3:03"
+    },
+    {
+      "position": "A3",
+      "title": "Look Out",
+      "duration": "3:15"
+    },
+    {
+      "position": "A4",
+      "title": "Big Eyes",
+      "duration": "3:47"
+    },
+    {
+      "position": "A5",
+      "title": "Need Your Love",
+      "duration": "9:07"
+    },
+    {
+      "position": "B1",
+      "title": "Ain't That A Shame",
+      "duration": "5:10"
+    },
+    {
+      "position": "B2",
+      "title": "I Want You To Want Me",
+      "duration": "3:38"
+    },
+    {
+      "position": "B3",
+      "title": "Surrender",
+      "duration": "4:40"
+    },
+    {
+      "position": "B4",
+      "title": "Goodnight Now",
+      "duration": "2:42"
+    },
+    {
+      "position": "B5",
+      "title": "Clock Strikes Ten",
+      "duration": "4:11"
+    }
+  ]
+}

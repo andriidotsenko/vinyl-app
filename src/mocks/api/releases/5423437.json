@@ -1,0 +1,91 @@
+{
+  "id": 5423437,
+  "artist_id": 3928,
+  "artist": "Beck",
+  "title": "Morning Phase",
+  "all_genres": [
+    4,
+    3,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk",
+    "Alternative Rock"
+  ],
+  "release_date": "2014-02-25",
+  "year": 2014,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/ydPArfBXjO8y24_jvxO4KyCdPOiccvgHXTE05lREv1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM0/MzctMTY3MTkwNTM2/OS02NzI3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/RBdEFIv5-hyOdZ33-K_grYRtkDymmpedSJsPRAs0uOI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM0/MzctMTY3MTkwNTM2/OS02NzI3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Cycle",
+      "duration": "0:40"
+    },
+    {
+      "position": "A2",
+      "title": "Morning",
+      "duration": "5:22"
+    },
+    {
+      "position": "A3",
+      "title": "Heart Is A Drum",
+      "duration": "4:31"
+    },
+    {
+      "position": "A4",
+      "title": "Say Goodbye",
+      "duration": "3:29"
+    },
+    {
+      "position": "A5",
+      "title": "Blue Moon",
+      "duration": "4:00"
+    },
+    {
+      "position": "A6",
+      "title": "Unforgiven",
+      "duration": "4:34"
+    },
+    {
+      "position": "B1",
+      "title": "Wave",
+      "duration": "3:45"
+    },
+    {
+      "position": "B2",
+      "title": "Don't Let It Go",
+      "duration": "3:08"
+    },
+    {
+      "position": "B3",
+      "title": "Blackbird Chain",
+      "duration": "4:26"
+    },
+    {
+      "position": "B4",
+      "title": "Phase",
+      "duration": "1:12"
+    },
+    {
+      "position": "B5",
+      "title": "Turn Away",
+      "duration": "3:05"
+    },
+    {
+      "position": "B6",
+      "title": "Country Down",
+      "duration": "4:00"
+    },
+    {
+      "position": "B7",
+      "title": "Waking Light",
+      "duration": "5:00"
+    }
+  ]
+}

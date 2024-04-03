@@ -1,0 +1,109 @@
+{
+  "id": 5006908,
+  "artist_id": 307,
+  "artist": "Boards Of Canada",
+  "title": "Music Has The Right To Children",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "IDM",
+    "Ambient"
+  ],
+  "release_date": "2013-10-21",
+  "year": 2013,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/8V4WR2n5bMQ0A2_QF8OytxPKI3nv_NxrcqvPOZuH8tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDY5/MDgtMTUwMzkzNzYy/Ny0xNzgwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/8R1pK_WHrFD56W4XlJAAAQilpQ0pS95Fm8s9F2oC7Fo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDY5/MDgtMTUwMzkzNzYy/Ny0xNzgwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Wildlife Analysis",
+      "duration": "1:17"
+    },
+    {
+      "position": "A2",
+      "title": "An Eagle In Your Mind",
+      "duration": "6:23"
+    },
+    {
+      "position": "A3",
+      "title": "The Color Of The Fire",
+      "duration": "1:45"
+    },
+    {
+      "position": "A4",
+      "title": "Telephasic Workshop",
+      "duration": "6:35"
+    },
+    {
+      "position": "A5",
+      "title": "Triangles And Rhombuses",
+      "duration": "1:50"
+    },
+    {
+      "position": "B1",
+      "title": "Sixtyten",
+      "duration": "5:48"
+    },
+    {
+      "position": "B2",
+      "title": "Turquoise Hexagon Sun",
+      "duration": "5:07"
+    },
+    {
+      "position": "B3",
+      "title": "Kaini Industries",
+      "duration": "0:59"
+    },
+    {
+      "position": "B4",
+      "title": "Bocuma",
+      "duration": "1:35"
+    },
+    {
+      "position": "B5",
+      "title": "Roygbiv",
+      "duration": "2:31"
+    },
+    {
+      "position": "C1",
+      "title": "Rue The Whirl",
+      "duration": "6:39"
+    },
+    {
+      "position": "C2",
+      "title": "Aquarius",
+      "duration": "5:58"
+    },
+    {
+      "position": "C3",
+      "title": "Olson",
+      "duration": "1:31"
+    },
+    {
+      "position": "D1",
+      "title": "Pete Standing Alone",
+      "duration": "6:07"
+    },
+    {
+      "position": "D2",
+      "title": "Smokes Quantity",
+      "duration": "3:07"
+    },
+    {
+      "position": "D3",
+      "title": "Open The Light",
+      "duration": "4:25"
+    },
+    {
+      "position": "D4",
+      "title": "One Very Important Thought",
+      "duration": "1:14"
+    }
+  ]
+}

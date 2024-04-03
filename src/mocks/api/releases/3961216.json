@@ -1,0 +1,85 @@
+{
+  "id": 3961216,
+  "artist_id": 271051,
+  "artist": "Vince Guaraldi Trio",
+  "title": "A Charlie Brown Christmas",
+  "all_genres": [
+    8,
+    6
+  ],
+  "genre": 8,
+  "styles": [
+    "Contemporary Jazz",
+    "Holiday"
+  ],
+  "release_date": "2012-10-09",
+  "year": 2012,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/ioWGvTrzphqD0X4YQUpsEVEwyPBfX9t6KLg06kowvlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjEy/MTYtMTY2NjU4MTA4/Ny03NzQ1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/vsfT_qHEv-YwNscaA4d8tKJiXBB1JTV7V9RNDL_QB6Q/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjEy/MTYtMTY2NjU4MTA4/Ny03NzQ1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "O Tannenbaum",
+      "duration": "5:03"
+    },
+    {
+      "position": "A2",
+      "title": "What Child Is This",
+      "duration": "2:20"
+    },
+    {
+      "position": "A3",
+      "title": "My Little Drum",
+      "duration": "3:15"
+    },
+    {
+      "position": "A4",
+      "title": "Linus And Lucy",
+      "duration": "3:03"
+    },
+    {
+      "position": "A5",
+      "title": "Christmas Time Is Here (Instrumental)",
+      "duration": "6:06"
+    },
+    {
+      "position": "B1",
+      "title": "Christmas Time Is Here (Vocal)",
+      "duration": "2:44"
+    },
+    {
+      "position": "B2",
+      "title": "Skating",
+      "duration": "2:24"
+    },
+    {
+      "position": "B3",
+      "title": "Hark, The Herald Angels Sing",
+      "duration": "1:55"
+    },
+    {
+      "position": "B4",
+      "title": "Christmas Is Coming",
+      "duration": "3:22"
+    },
+    {
+      "position": "B5",
+      "title": "Für Elise",
+      "duration": "1:02"
+    },
+    {
+      "position": "B6",
+      "title": "The Christmas Song",
+      "duration": "3:15"
+    },
+    {
+      "position": "B7",
+      "title": "Greensleeves",
+      "duration": "5:25"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 125874,
+  "artist_id": 96774,
+  "artist": "Prince And The Revolution",
+  "title": "Purple Rain",
+  "all_genres": [
+    4,
+    2,
+    3,
+    6
+  ],
+  "genre": 4,
+  "styles": [
+    "Soundtrack",
+    "Pop Rock",
+    "Funk",
+    "Minneapolis Sound"
+  ],
+  "release_date": "1984",
+  "year": 1984,
+  "all_countries": [
+    "uk",
+    "europe"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/JR9KDY4XlSsujJI8K3uSXWDFN-N0SnrQz8taUPx0PHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/NC0xMTU2NTg1NTQy/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/_DyZWOJU8r6Dp2iWE43I9FNfHeSHB2mHcati-DrOMyQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/NC0xMTU2NTg1NTQy/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Let's Go Crazy",
+      "duration": "4:39"
+    },
+    {
+      "position": "A2",
+      "title": "Take Me With U",
+      "duration": "3:54"
+    },
+    {
+      "position": "A3",
+      "title": "The Beautiful Ones",
+      "duration": "5:15"
+    },
+    {
+      "position": "A4",
+      "title": "Computer Blue",
+      "duration": "3:59"
+    },
+    {
+      "position": "A5",
+      "title": "Darling Nikki",
+      "duration": "4:15"
+    },
+    {
+      "position": "B1",
+      "title": "When Doves Cry",
+      "duration": "5:52"
+    },
+    {
+      "position": "B2",
+      "title": "I Would Die 4 U",
+      "duration": "2:51"
+    },
+    {
+      "position": "B3",
+      "title": "Baby I'm A Star",
+      "duration": "4:20"
+    },
+    {
+      "position": "B4",
+      "title": "Purple Rain",
+      "duration": "8:45"
+    }
+  ]
+}

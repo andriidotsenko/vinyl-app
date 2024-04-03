@@ -1,0 +1,65 @@
+{
+  "id": 116491,
+  "artist_id": 22854,
+  "artist": "Talking Heads",
+  "title": "Remain In Light",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "New Wave",
+    "Art Rock"
+  ],
+  "release_date": "1980-10-00",
+  "year": 1980,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/zDMEFMBLb9j8gqtksqWBkib83fxR20okzOTesKtUCQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ5/MS0xNTQxOTQ1NDcy/LTQ3OTUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/rHJU3UXR0FAkeUkU4vZpdpF3XwsLoJeitBnQVCxjRQQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ5/MS0xNTQxOTQ1NDcy/LTQ3OTUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Born Under Punches (The Heat Goes On)",
+      "duration": "5:46"
+    },
+    {
+      "position": "A2",
+      "title": "Crosseyed And Painless",
+      "duration": "4:45"
+    },
+    {
+      "position": "A3",
+      "title": "The Great Curve",
+      "duration": "6:26"
+    },
+    {
+      "position": "B1",
+      "title": "Once In A Lifetime",
+      "duration": "4:19"
+    },
+    {
+      "position": "B2",
+      "title": "Houses In Motion",
+      "duration": "4:30"
+    },
+    {
+      "position": "B3",
+      "title": "Seen And Not Seen",
+      "duration": "3:20"
+    },
+    {
+      "position": "B4",
+      "title": "Listening Wind",
+      "duration": "4:42"
+    },
+    {
+      "position": "B5",
+      "title": "The Overload",
+      "duration": "6:00"
+    }
+  ]
+}

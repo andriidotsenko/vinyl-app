@@ -1,0 +1,74 @@
+{
+  "id": 2944827,
+  "artist_id": 37606,
+  "artist": "Cat Stevens",
+  "title": "Teaser And The Firecat",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Soft Rock"
+  ],
+  "release_date": "1971",
+  "year": 1971,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/trbO1SSHjLuAVLeo6VD9lfCikXyLWjVF1sxpw7SstUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ4/MjctMTM5NTYzODk1/OS0yNDI4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/y48Hwi3HFuXJ3w1HOyMiQJ1vEEvYW3dfch8F6F69Soo/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ4/MjctMTM5NTYzODk1/OS0yNDI4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Wind",
+      "duration": "1:40"
+    },
+    {
+      "position": "A2",
+      "title": "Rubylove",
+      "duration": "2:35"
+    },
+    {
+      "position": "A3",
+      "title": "If I Laugh",
+      "duration": "3:20"
+    },
+    {
+      "position": "A4",
+      "title": "Changes IV",
+      "duration": "3:27"
+    },
+    {
+      "position": "A5",
+      "title": "How Can I Tell You",
+      "duration": "4:25"
+    },
+    {
+      "position": "B1",
+      "title": "Tuesday's Dead",
+      "duration": "3:34"
+    },
+    {
+      "position": "B2",
+      "title": "Morning Has Broken",
+      "duration": "3:15"
+    },
+    {
+      "position": "B3",
+      "title": "Bitterblue",
+      "duration": "3:07"
+    },
+    {
+      "position": "B4",
+      "title": "Moonshadow",
+      "duration": "2:37"
+    },
+    {
+      "position": "B5",
+      "title": "Peace Train",
+      "duration": "4:10"
+    }
+  ]
+}

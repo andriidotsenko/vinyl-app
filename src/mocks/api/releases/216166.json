@@ -1,0 +1,81 @@
+{
+  "id": 216166,
+  "artist_id": 10263,
+  "artist": "David Bowie",
+  "title": "Low",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Art Rock",
+    "Ambient",
+    "Experimental"
+  ],
+  "release_date": "1977-01-14",
+  "year": 1977,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/-AwMz27hG5XohosCpCf2UttrbxrAOEhlJ8_TxayLhtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjE2/Ni0xMjc1NjI1NjQ5/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/U3pqMqj3_qkfW3A7TSy0MJCOfaPuERLdNEWjjxgFjRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjE2/Ni0xMjc1NjI1NjQ5/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Speed Of Life",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Breaking Glass",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "What In The World",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Sound And Vision",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Always Crashing In The Same Car",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Be My Wife",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "A New Career In A New Town",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Warszawa",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Art Decade",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Weeping Wall",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Subterraneans",
+      "duration": ""
+    }
+  ]
+}

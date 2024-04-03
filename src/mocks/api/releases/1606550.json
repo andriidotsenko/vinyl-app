@@ -1,0 +1,75 @@
+{
+  "id": 1606550,
+  "artist_id": 29718,
+  "artist": "Cyndi Lauper",
+  "title": "She's So Unusual",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Pop Rock",
+    "Synth-pop"
+  ],
+  "release_date": "1983",
+  "year": 1983,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/wG3s4JP5T8crWSquxN3Rrp9KKQDSlXebkw3wah8ds9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY1/NTAtMTI3NDY3OTcy/Mi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/z-n16sHeXVYi-T4161WF8OgyUpRszMfvN-VtUZnptS0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY1/NTAtMTI3NDY3OTcy/Mi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Money Changes Everything",
+      "duration": "5:02"
+    },
+    {
+      "position": "A2",
+      "title": "Girls Just Want To Have Fun",
+      "duration": "3:55"
+    },
+    {
+      "position": "A3",
+      "title": "When You Were Mine",
+      "duration": "5:07"
+    },
+    {
+      "position": "A4",
+      "title": "Time After Time",
+      "duration": "3:59"
+    },
+    {
+      "position": "B1",
+      "title": "She Bop",
+      "duration": "3:43"
+    },
+    {
+      "position": "B2",
+      "title": "All Through The Night",
+      "duration": "4:29"
+    },
+    {
+      "position": "B3",
+      "title": "Witness",
+      "duration": "3:38"
+    },
+    {
+      "position": "B4",
+      "title": "I'll Kiss You",
+      "duration": "4:05"
+    },
+    {
+      "position": "B5",
+      "title": "He's So Unusual",
+      "duration": "0:45"
+    },
+    {
+      "position": "B6",
+      "title": "Yeah Yeah",
+      "duration": "3:17"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": 10175557,
+  "artist_id": 6378,
+  "artist": "Gorillaz",
+  "title": "Humanz",
+  "all_genres": [
+    1,
+    5,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Pop Rap",
+    "Dance-pop",
+    "Trip Hop"
+  ],
+  "release_date": "2017-04-28",
+  "year": 2017,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/rSjlDWykD6UclL9w6wJ6PDKL2Er6GhLpNlr8keFDcK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/NTU3LTE0OTYwNzY4/MjAtNzAzNS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/XHWfO4MH3FYZvQfXdgp25faFFkuGBjNQ-bVf8GVnxdU/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/NTU3LTE0OTYwNzY4/MjAtNzAzNS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Intro: I Switched My Robot Off",
+      "duration": "0:23"
+    },
+    {
+      "position": "A2",
+      "title": "Ascension",
+      "duration": "2:36"
+    },
+    {
+      "position": "A3",
+      "title": "Strobelite",
+      "duration": "4:33"
+    },
+    {
+      "position": "A4",
+      "title": "Saturnz Barz",
+      "duration": "3:02"
+    },
+    {
+      "position": "A5",
+      "title": "Momentz",
+      "duration": "3:17"
+    },
+    {
+      "position": "B6",
+      "title": "Interlude: The Non-Conformist Oath",
+      "duration": "0:22"
+    },
+    {
+      "position": "B7",
+      "title": "Submission",
+      "duration": "3:22"
+    },
+    {
+      "position": "B8",
+      "title": "Charger",
+      "duration": "3:35"
+    },
+    {
+      "position": "B9",
+      "title": "Interlude: Elevator Going Up",
+      "duration": "0:02"
+    },
+    {
+      "position": "B10",
+      "title": "Andromeda",
+      "duration": "3:18"
+    },
+    {
+      "position": "B11",
+      "title": "Busted And Blue",
+      "duration": "4:37"
+    },
+    {
+      "position": "C12",
+      "title": "Interlude: Talk Radio",
+      "duration": "0:20"
+    },
+    {
+      "position": "C13",
+      "title": "Carnival",
+      "duration": "2:15"
+    },
+    {
+      "position": "C14",
+      "title": "Let Me Out",
+      "duration": "3:13"
+    },
+    {
+      "position": "C15",
+      "title": "Interlude: Penthouse",
+      "duration": "0:12"
+    },
+    {
+      "position": "C16",
+      "title": "Sex Murder Party",
+      "duration": "4:19"
+    },
+    {
+      "position": "D17",
+      "title": "She's My Collar",
+      "duration": "3:30"
+    },
+    {
+      "position": "D18",
+      "title": "Interlude: The Elephant",
+      "duration": "0:08"
+    },
+    {
+      "position": "D19",
+      "title": "Hallelujah Money",
+      "duration": "4:26"
+    },
+    {
+      "position": "D20",
+      "title": "We Got The Power (Version 2:18:482)",
+      "duration": "2:18"
+    }
+  ]
+}

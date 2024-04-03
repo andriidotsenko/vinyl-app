@@ -1,0 +1,89 @@
+{
+  "id": 4572816,
+  "artist_id": 261537,
+  "artist": "The National",
+  "title": "Trouble Will Find Me",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock"
+  ],
+  "release_date": "2013-05-21",
+  "year": 2013,
+  "all_countries": [
+    "usa",
+    "canada"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/B7vcVc8pEjaEJfGbgtm9ina4Db4L2K8_lpfuNWG7Hug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzI4/MTYtMTUzMTgwMDIz/MC01Mzc5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/7w6_PCIzf1oE7G3uKCzs-5ezAJk3UKRakoPv0wxdPg8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzI4/MTYtMTUzMTgwMDIz/MC01Mzc5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "I Should Live In Salt",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Demons",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Don't Swallow The Cap",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Fireproof",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Sea Of Love",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Heavenfaced",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "This Is The Last Time",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Graceless",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Slipped",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "I Need My Girl",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Humiliation",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Pink Rabbits",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Hard To Find",
+      "duration": ""
+    }
+  ]
+}

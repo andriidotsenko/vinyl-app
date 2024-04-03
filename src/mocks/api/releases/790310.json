@@ -1,0 +1,77 @@
+{
+  "id": 790310,
+  "artist_id": 137418,
+  "artist": "Billy Joel",
+  "title": "Glass Houses",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Rock & Roll",
+    "Hard Rock",
+    "Soft Rock"
+  ],
+  "release_date": "1980",
+  "year": 1980,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Ye1ANFqE9sZyxGFoNM3eLfKIo_hZKm8_60amCXV4Y6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDMx/MC0xMTU5MzIxMjcy/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/fPN0EalqW_BfdobHvHP-XADbgZwtwarA_-nqOQWLkmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDMx/MC0xMTU5MzIxMjcy/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "You May Be Right",
+      "duration": "4:07"
+    },
+    {
+      "position": "A2",
+      "title": "Sometimes A Fantasy",
+      "duration": "3:39"
+    },
+    {
+      "position": "A3",
+      "title": "Don't Ask Me Why",
+      "duration": "2:56"
+    },
+    {
+      "position": "A4",
+      "title": "It's Still Rock And Roll To Me",
+      "duration": "2:55"
+    },
+    {
+      "position": "A5",
+      "title": "All For Leyna",
+      "duration": "4:10"
+    },
+    {
+      "position": "B1",
+      "title": "I Don't Want To Be Alone",
+      "duration": "3:34"
+    },
+    {
+      "position": "B2",
+      "title": "Sleeping With The Television On",
+      "duration": "2:59"
+    },
+    {
+      "position": "B3",
+      "title": "C'Etait Toi (You Were The One)",
+      "duration": "3:45"
+    },
+    {
+      "position": "B4",
+      "title": "Close To The Borderline",
+      "duration": "3:45"
+    },
+    {
+      "position": "B5",
+      "title": "Through The Long Night",
+      "duration": "2:45"
+    }
+  ]
+}

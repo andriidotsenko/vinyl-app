@@ -1,0 +1,84 @@
+{
+  "id": 1976385,
+  "artist_id": 1416238,
+  "artist": "The XX",
+  "title": "XX",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Indie Rock"
+  ],
+  "release_date": "2009-10-20",
+  "year": 2009,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/_91NecB9o19pPq7Cnq47g-U-vYwGaTMb_zeAkrVOs5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYz/ODUtMTMwOTY3Nzk5/Ny5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/H5GYNbsjvaVLqgmLRj1EHtVW6MyJ4FFVtDLMcEHjjrE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYz/ODUtMTMwOTY3Nzk5/Ny5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Intro",
+      "duration": "2:08"
+    },
+    {
+      "position": "A2",
+      "title": "VCR",
+      "duration": "2:57"
+    },
+    {
+      "position": "A3",
+      "title": "Crystalised",
+      "duration": "3:22"
+    },
+    {
+      "position": "A4",
+      "title": "Islands",
+      "duration": "2:41"
+    },
+    {
+      "position": "A5",
+      "title": "Heart Skipped A Beat",
+      "duration": "4:02"
+    },
+    {
+      "position": "A6",
+      "title": "Hot Like Fire",
+      "duration": "3:34"
+    },
+    {
+      "position": "B1",
+      "title": "Fantasy",
+      "duration": "2:38"
+    },
+    {
+      "position": "B2",
+      "title": "Shelter",
+      "duration": "4:30"
+    },
+    {
+      "position": "B3",
+      "title": "Basic Space",
+      "duration": "3:08"
+    },
+    {
+      "position": "B4",
+      "title": "Infinity",
+      "duration": "5:13"
+    },
+    {
+      "position": "B5",
+      "title": "Night Time",
+      "duration": "3:37"
+    },
+    {
+      "position": "B6",
+      "title": "Stars",
+      "duration": "4:23"
+    }
+  ]
+}

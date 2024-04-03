@@ -1,0 +1,109 @@
+{
+  "id": 611455,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "Abbey Road",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1974",
+  "year": 1974,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/ZLbJd9ZXritbtBloojft-SxWnVLUpvHST2Dodmj-O5M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQ1/NS0xNDkyMzA1NzM3/LTcwOTAubXBv.jpeg",
+  "cover_image": "https://i.discogs.com/7Nk1zdW1hAwWzxRSvb3VofNbv5InnHfSX_3mn375P10/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQ1/NS0xNDkyMzA1NzM3/LTcwOTAubXBv.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Come Together",
+      "duration": "4:16"
+    },
+    {
+      "position": "A2",
+      "title": "Something",
+      "duration": "2:59"
+    },
+    {
+      "position": "A3",
+      "title": "Maxwell's Silver Hammer",
+      "duration": "3:24"
+    },
+    {
+      "position": "A4",
+      "title": "Oh! Darling",
+      "duration": "3:28"
+    },
+    {
+      "position": "A5",
+      "title": "Octopus's Garden",
+      "duration": "2:49"
+    },
+    {
+      "position": "A6",
+      "title": "I Want You (She's So Heavy)",
+      "duration": "7:49"
+    },
+    {
+      "position": "B1",
+      "title": "Here Comes The Sun",
+      "duration": "3:04"
+    },
+    {
+      "position": "B2",
+      "title": "Because",
+      "duration": "2:45"
+    },
+    {
+      "position": "B3",
+      "title": "You Never Give Me Your Money",
+      "duration": "3:57"
+    },
+    {
+      "position": "B4",
+      "title": "Sun King",
+      "duration": "2:31"
+    },
+    {
+      "position": "B5",
+      "title": "Mean Mr. Mustard",
+      "duration": "1:06"
+    },
+    {
+      "position": "B6",
+      "title": "Polythene Pam",
+      "duration": "1:13"
+    },
+    {
+      "position": "B7",
+      "title": "She Came In Through The Bathroom Window",
+      "duration": "1:58"
+    },
+    {
+      "position": "B8",
+      "title": "Golden Slumbers",
+      "duration": "1:31"
+    },
+    {
+      "position": "B9",
+      "title": "Carry That Weight",
+      "duration": "1:37"
+    },
+    {
+      "position": "B10",
+      "title": "The End",
+      "duration": "2:04"
+    },
+    {
+      "position": "B11",
+      "title": "Her Majesty",
+      "duration": "0:23"
+    }
+  ]
+}

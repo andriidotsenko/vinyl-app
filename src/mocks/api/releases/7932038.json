@@ -1,0 +1,64 @@
+{
+  "id": 7932038,
+  "artist_id": 10263,
+  "artist": "David Bowie",
+  "title": "★ (Blackstar)",
+  "all_genres": [
+    1,
+    8,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Art Rock",
+    "Experimental",
+    "Jazz-Rock",
+    "Prog Rock",
+    "Glam"
+  ],
+  "release_date": "2016-01-08",
+  "year": 2016,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/bLmSLgf3E4fYK3-rheJce7e-Ob892zRzphpRMO3ogjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzIw/MzgtMTQ1MjQxNDQ5/Ni05NDIyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/hj_PC4P-C1JsF47L5xhmzuWHND6kNf4JujnaJ0w3Vvg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzIw/MzgtMTQ1MjQxNDQ5/Ni05NDIyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "★ (Blackstar)",
+      "duration": "9:57"
+    },
+    {
+      "position": "A2",
+      "title": "'Tis A Pity She Was A Whore",
+      "duration": "4:52"
+    },
+    {
+      "position": "A3",
+      "title": "Lazarus",
+      "duration": "6:22"
+    },
+    {
+      "position": "B1",
+      "title": "Sue (Or In A Season Of Crime)",
+      "duration": "4:40"
+    },
+    {
+      "position": "B2",
+      "title": "Girl Loves Me",
+      "duration": "4:51"
+    },
+    {
+      "position": "B3",
+      "title": "Dollar Days",
+      "duration": "4:44"
+    },
+    {
+      "position": "B4",
+      "title": "I Can't Give Everything Away",
+      "duration": "5:47"
+    }
+  ]
+}

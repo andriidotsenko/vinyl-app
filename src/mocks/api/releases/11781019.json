@@ -1,0 +1,89 @@
+{
+  "id": 11781019,
+  "artist_id": 2866928,
+  "artist": "Kacey Musgraves",
+  "title": "Golden Hour",
+  "all_genres": [
+    3,
+    7
+  ],
+  "genre": 3,
+  "styles": [
+    "Country"
+  ],
+  "release_date": "2018-03-30",
+  "year": 2018,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/OwfmTplknJSp7XmglrXkVEYvfl4Eu3Z9E47bYoeaCkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgx/MDE5LTE1MjQ4NzM3/NjMtNjE4Mi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/dg2jtbfvhFtXu0JHuTr7MJoL136SH8OOX_K2HeyKmyU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgx/MDE5LTE1MjQ4NzM3/NjMtNjE4Mi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Slow Burn",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Lonely Weekend",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Butterflies",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Oh, What A World",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Mother",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Love Is A Wild Thing",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Space Cowboy",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Happy & Sad",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Velvet Elvis ",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Wonder Woman",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "High Horse",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Golden Hour",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Rainbow",
+      "duration": ""
+    }
+  ]
+}

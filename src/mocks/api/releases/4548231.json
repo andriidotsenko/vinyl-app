@@ -1,0 +1,110 @@
+{
+  "id": 4548231,
+  "artist_id": 307,
+  "artist": "Boards Of Canada",
+  "title": "Tomorrow's Harvest",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "Downtempo",
+    "Ambient",
+    "IDM"
+  ],
+  "release_date": "2013-06-10",
+  "year": 2013,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/Q76BS_rGNBG0KltRNJ_lQ9rYmpfIqIr1SOAsc9--QLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDgy/MzEtMTM3MDUzMzI5/Mi00MTA3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/UT-dlMuMHWBIDSLNjvRfzMxDl3hAu3uQ3aGDfXPKMs8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDgy/MzEtMTM3MDUzMzI5/Mi00MTA3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Gemini",
+      "duration": "2:56"
+    },
+    {
+      "position": "A2",
+      "title": "Reach For The Dead",
+      "duration": "4:47"
+    },
+    {
+      "position": "A3",
+      "title": "White Cyclosa",
+      "duration": "3:13"
+    },
+    {
+      "position": "A4",
+      "title": "Jacquard Causeway",
+      "duration": "6:35"
+    },
+    {
+      "position": "B1",
+      "title": "Telepath",
+      "duration": "1:32"
+    },
+    {
+      "position": "B2",
+      "title": "Cold Earth",
+      "duration": "3:42"
+    },
+    {
+      "position": "B3",
+      "title": "Transmisiones Ferox",
+      "duration": "2:18"
+    },
+    {
+      "position": "B4",
+      "title": "Sick Times",
+      "duration": "4:16"
+    },
+    {
+      "position": "B5",
+      "title": "Collapse",
+      "duration": "2:49"
+    },
+    {
+      "position": "C1",
+      "title": "Palace Posy",
+      "duration": "4:05"
+    },
+    {
+      "position": "C2",
+      "title": "Split Your Infinities",
+      "duration": "4:28"
+    },
+    {
+      "position": "C3",
+      "title": "Uritual",
+      "duration": "1:59"
+    },
+    {
+      "position": "C4",
+      "title": "Nothing Is Real",
+      "duration": "3:52"
+    },
+    {
+      "position": "C5",
+      "title": "Sundown",
+      "duration": "2:16"
+    },
+    {
+      "position": "D1",
+      "title": "New Seeds",
+      "duration": "5:39"
+    },
+    {
+      "position": "D2",
+      "title": "Come To Dust",
+      "duration": "4:07"
+    },
+    {
+      "position": "D3",
+      "title": "Semena Mertvykh",
+      "duration": "3:30"
+    }
+  ]
+}

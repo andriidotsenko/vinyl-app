@@ -1,0 +1,91 @@
+{
+  "id": 3653591,
+  "artist_id": 2830806,
+  "artist": "alt-J",
+  "title": "An Awesome Wave",
+  "all_genres": [
+    4,
+    3,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Experimental"
+  ],
+  "release_date": "2012-06-06",
+  "year": 2012,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/ypvcCyaK97ZlmI6X4Y97yfZOqqBvg7YHcxO8lCdv9Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTM1/OTEtMTQwMTM2OTk3/OC04MzIyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/b3PyRl5klpdI2kSDcyYkOuaXHhPHxDYgHGvvTxcDWuE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTM1/OTEtMTQwMTM2OTk3/OC04MzIyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Intro",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Interlude1",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Tesselate",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Breezeblocks",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Interlude 2",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Something Good",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "Dissolve Me",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Matilda",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Ms",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Fitzpleasure",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Interlude 3",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Bloodflood",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Taro",
+      "duration": ""
+    }
+  ]
+}

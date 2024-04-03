@@ -1,0 +1,88 @@
+{
+  "id": 5735339,
+  "artist_id": 3128936,
+  "artist": "Twenty One Pilots",
+  "title": "Vessel",
+  "all_genres": [
+    1,
+    5,
+    4,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Synth-pop",
+    "Indie Rock",
+    "Alternative Rock"
+  ],
+  "release_date": "2014-05-27",
+  "year": 2014,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/gavsFnJbVLimyZOQJZ5XE81agTlC-zsAByfkTF5Xy0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzUz/MzktMTQ3MjE0MzA2/OS05NDAxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/yJOZ-CFQqr9hR50TEouB1a3Nq6Z_QS2mSAsjgVGBbEw/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzUz/MzktMTQ3MjE0MzA2/OS05NDAxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Ode To Sleep",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Holding On To You",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Migraine",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "House Of Gold",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Car Radio",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Semi-Automatic",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Screen",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "title": "The Run And Go",
+      "duration": ""
+    },
+    {
+      "position": "B9",
+      "title": "Fake You Out",
+      "duration": ""
+    },
+    {
+      "position": "B10",
+      "title": "Guns For Hands",
+      "duration": ""
+    },
+    {
+      "position": "B11",
+      "title": "Trees",
+      "duration": ""
+    },
+    {
+      "position": "B12",
+      "title": "Truce",
+      "duration": ""
+    }
+  ]
+}

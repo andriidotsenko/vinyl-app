@@ -1,0 +1,84 @@
+{
+  "id": 2289504,
+  "artist_id": 28972,
+  "artist": "The Cure",
+  "title": "Disintegration",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "New Wave"
+  ],
+  "release_date": "2010-05-21",
+  "year": 2010,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/Qt3AmbCNTr6PHPMIvlHu4aZZKbi5LujXR1dh2xaOveA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/MDQtMTI3NDcxNTkw/NS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/uzugQeKYG-LmRGX59JUWcr_XPGzzqBLlIHBHa1RVymI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/MDQtMTI3NDcxNTkw/NS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Plainsong",
+      "duration": "5:15"
+    },
+    {
+      "position": "A2",
+      "title": "Pictures Of You",
+      "duration": "7:28"
+    },
+    {
+      "position": "A3",
+      "title": "Closedown",
+      "duration": "4:21"
+    },
+    {
+      "position": "B1",
+      "title": "Lovesong",
+      "duration": "3:30"
+    },
+    {
+      "position": "B2",
+      "title": "Last Dance",
+      "duration": "4:47"
+    },
+    {
+      "position": "B3",
+      "title": "Lullaby",
+      "duration": "4:12"
+    },
+    {
+      "position": "B4",
+      "title": "Fascination Street",
+      "duration": "5:16"
+    },
+    {
+      "position": "C1",
+      "title": "Prayers For Rain",
+      "duration": "6:07"
+    },
+    {
+      "position": "C2",
+      "title": "The Same Deep Water As You",
+      "duration": "9:22"
+    },
+    {
+      "position": "D1",
+      "title": "Disintegration",
+      "duration": "8:23"
+    },
+    {
+      "position": "D2",
+      "title": "Homesick",
+      "duration": "7:09"
+    },
+    {
+      "position": "D3",
+      "title": "Untitled",
+      "duration": "6:30"
+    }
+  ]
+}

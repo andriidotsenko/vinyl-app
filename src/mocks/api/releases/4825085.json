@@ -1,0 +1,81 @@
+{
+  "id": 4825085,
+  "artist_id": 113655,
+  "artist": "ZZ Top",
+  "title": "Eliminator",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Hard Rock",
+    "Blues Rock",
+    "AOR"
+  ],
+  "release_date": "1983",
+  "year": 1983,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/VVaxrkEPphLTKKdhBXQq_7tmkXsZG8-uinRbnaWEXbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjUw/ODUtMTM3NjY3NTA3/NS01MzI1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/G97lciR_13OtiULAG_3mzUzauQ5HRQIb6m_M6biZ4r0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjUw/ODUtMTM3NjY3NTA3/NS01MzI1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Gimme All Your Lovin",
+      "duration": "3:59"
+    },
+    {
+      "position": "A2",
+      "title": "Got Me Under Pressure",
+      "duration": "3:59"
+    },
+    {
+      "position": "A3",
+      "title": "Sharp Dressed Man",
+      "duration": "4:13"
+    },
+    {
+      "position": "A4",
+      "title": "I Need You Tonight",
+      "duration": "6:14"
+    },
+    {
+      "position": "A5",
+      "title": "I Got The Six",
+      "duration": "2:52"
+    },
+    {
+      "position": "B1",
+      "title": "Legs",
+      "duration": "4:35"
+    },
+    {
+      "position": "B2",
+      "title": "Thug",
+      "duration": "4:17"
+    },
+    {
+      "position": "B3",
+      "title": "TV Dinners",
+      "duration": "3:50"
+    },
+    {
+      "position": "B4",
+      "title": "Dirty Dog",
+      "duration": "4:05"
+    },
+    {
+      "position": "B5",
+      "title": "If I Could Only Flag Her Down",
+      "duration": "3:40"
+    },
+    {
+      "position": "B6",
+      "title": "Bad Girl",
+      "duration": "3:16"
+    }
+  ]
+}

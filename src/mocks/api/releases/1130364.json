@@ -1,0 +1,84 @@
+{
+  "id": 1130364,
+  "artist_id": 16655,
+  "artist": "Blondie",
+  "title": "Eat To The Beat",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "New Wave"
+  ],
+  "release_date": "1979-10-00",
+  "year": 1979,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/JYmX-PY6BP5JSE_mTAvcqDYM0u7EEt4xvrQrBVLvXAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/NjQtMTMxMTcyNjE5/OC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/RIvcQdmIOT44nWY29J-S9GGC9O0cscuGRYe0bW0KNrk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/NjQtMTMxMTcyNjE5/OC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Dreaming",
+      "duration": "3:02"
+    },
+    {
+      "position": "A2",
+      "title": "The Hardest Part",
+      "duration": "3:37"
+    },
+    {
+      "position": "A3",
+      "title": "Union City Blue",
+      "duration": "3:19"
+    },
+    {
+      "position": "A4",
+      "title": "Shayla",
+      "duration": "3:51"
+    },
+    {
+      "position": "A5",
+      "title": "Eat To The Beat",
+      "duration": "2:35"
+    },
+    {
+      "position": "A6",
+      "title": "Accidents Never Happen",
+      "duration": "4:10"
+    },
+    {
+      "position": "B1",
+      "title": "Die Young Stay Pretty",
+      "duration": "3:27"
+    },
+    {
+      "position": "B2",
+      "title": "Slow Motion",
+      "duration": "3:25"
+    },
+    {
+      "position": "B3",
+      "title": "Atomic",
+      "duration": "4:35"
+    },
+    {
+      "position": "B4",
+      "title": "Sound-A-Sleep",
+      "duration": "4:12"
+    },
+    {
+      "position": "B5",
+      "title": "Victor",
+      "duration": "3:19"
+    },
+    {
+      "position": "B6",
+      "title": "Living In The Real World",
+      "duration": "2:38"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": 2067455,
+  "artist_id": 198282,
+  "artist": "Foo Fighters",
+  "title": "Greatest Hits",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Hard Rock"
+  ],
+  "release_date": "2009-11-02",
+  "year": 2009,
+  "all_countries": [
+    "uk",
+    "europe"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/l5GcjDYnV-2g7KPd6qPZvIonXohMB0DZZOjodTW0EvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc0/NTUtMTQ4OTY2MzUz/Ni04NzE2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/QETEzR3knhhVTPMiEdV5NpUgRhLmSnkT8IxoNwrNPgc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc0/NTUtMTQ4OTY2MzUz/Ni04NzE2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "All My Life",
+      "duration": "4:24"
+    },
+    {
+      "position": "A2",
+      "title": "Best Of You",
+      "duration": "4:16"
+    },
+    {
+      "position": "A3",
+      "title": "Everlong",
+      "duration": "4:10"
+    },
+    {
+      "position": "A4",
+      "title": "The Pretender",
+      "duration": "4:27"
+    },
+    {
+      "position": "B1",
+      "title": "My Hero",
+      "duration": "4:19"
+    },
+    {
+      "position": "B2",
+      "title": "Learn To Fly",
+      "duration": "3:56"
+    },
+    {
+      "position": "B3",
+      "title": "Times Like These",
+      "duration": "4:28"
+    },
+    {
+      "position": "B4",
+      "title": "Monkey Wrench",
+      "duration": "3:53"
+    },
+    {
+      "position": "C1",
+      "title": "Big Me",
+      "duration": "2:14"
+    },
+    {
+      "position": "C2",
+      "title": "Breakout",
+      "duration": "3:22"
+    },
+    {
+      "position": "C3",
+      "title": "Long Road To Ruin",
+      "duration": "3:48"
+    },
+    {
+      "position": "C4",
+      "title": "This Is A Call",
+      "duration": "3:55"
+    },
+    {
+      "position": "D1",
+      "title": "Skin And Bones",
+      "duration": "4:04"
+    },
+    {
+      "position": "D2",
+      "title": "Wheels",
+      "duration": "4:38"
+    },
+    {
+      "position": "D3",
+      "title": "Word Forward",
+      "duration": "3:49"
+    },
+    {
+      "position": "D4",
+      "title": "Everlong (Acoustic)",
+      "duration": "4:41"
+    }
+  ]
+}

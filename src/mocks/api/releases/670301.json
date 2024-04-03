@@ -1,0 +1,75 @@
+{
+  "id": 670301,
+  "artist_id": 22164,
+  "artist": "Earth, Wind & Fire",
+  "title": "The Best Of Earth Wind & Fire Vol. I",
+  "all_genres": [
+    2
+  ],
+  "genre": 2,
+  "styles": [
+    "Soul",
+    "Funk",
+    "Disco"
+  ],
+  "release_date": "1978",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/ayC3lH5SmzLB9nCu1sEVJFA7o6zZuHeDoKghJOI0Tig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/MS0xNDEyNzQ3NjA1/LTg1MTcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/7-gZt7GxB5vcqd0ONJENKHCJdiz61WD5zsk6i8iMUlw/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/MS0xNDEyNzQ3NjA1/LTg1MTcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Got To Get You Into My Life",
+      "duration": "4:03"
+    },
+    {
+      "position": "A2",
+      "title": "Fantasy",
+      "duration": "3:46"
+    },
+    {
+      "position": "A3",
+      "title": "Can't Hide Love",
+      "duration": "4:11"
+    },
+    {
+      "position": "A4",
+      "title": "Love Music",
+      "duration": "3:55"
+    },
+    {
+      "position": "A5",
+      "title": "Getaway",
+      "duration": "3:46"
+    },
+    {
+      "position": "B1",
+      "title": "That's The Way Of The World",
+      "duration": "5:47"
+    },
+    {
+      "position": "B2",
+      "title": "September",
+      "duration": "3:37"
+    },
+    {
+      "position": "B3",
+      "title": "Shining Star",
+      "duration": "2:50"
+    },
+    {
+      "position": "B4",
+      "title": "Reasons",
+      "duration": "5:01"
+    },
+    {
+      "position": "B5",
+      "title": "Singasong",
+      "duration": "3:23"
+    }
+  ]
+}

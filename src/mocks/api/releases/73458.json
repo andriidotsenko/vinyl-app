@@ -1,0 +1,132 @@
+{
+  "id": 73458,
+  "artist_id": 6273,
+  "artist": "Frankie Goes To Hollywood",
+  "title": "Welcome To The Pleasuredome",
+  "all_genres": [
+    1,
+    4,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Pop Rock",
+    "Synth-pop",
+    "Ballad"
+  ],
+  "release_date": "1984-10-29",
+  "year": 1984,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/MmWLRl32aLBq_lNNUobccuod90z5GT_cUxvUP39S9Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU4/LTE0MjI1MTgwNTQt/NTg2OS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/onnbmJKSQLd7PyDruvsBgVZVgnHcfvAJe5ZgC5oQqHo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU4/LTE0MjI1MTgwNTQt/NTg2OS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "F - Pray Frankie Pray",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Well...",
+      "duration": "0:57"
+    },
+    {
+      "position": "A2",
+      "title": "The World Is My Oyster",
+      "duration": "1:05"
+    },
+    {
+      "position": "A3",
+      "title": "Snatch Of Fury (Stay)",
+      "duration": "1:20"
+    },
+    {
+      "position": "A4",
+      "title": "Welcome To The Pleasure Dome",
+      "duration": "12:24"
+    },
+    {
+      "position": "",
+      "title": "G - Say Frankie Say",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Relax (Come Fighting)",
+      "duration": "4:00"
+    },
+    {
+      "position": "B2",
+      "title": "War (...And Hide)",
+      "duration": "6:11"
+    },
+    {
+      "position": "B3",
+      "title": "Two Tribes (For The Victims Of Ravishment)",
+      "duration": "3:58"
+    },
+    {
+      "position": "",
+      "title": "T - Stay Frankie Stay",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Ferry (Go)",
+      "duration": "1:55"
+    },
+    {
+      "position": "C2",
+      "title": "Born To Run",
+      "duration": "3:56"
+    },
+    {
+      "position": "C3",
+      "title": "San Jose (The Way)",
+      "duration": "3:10"
+    },
+    {
+      "position": "C4",
+      "title": "Wish (The Lads Were Here)",
+      "duration": "3:06"
+    },
+    {
+      "position": "C5",
+      "title": "Including The Ballad Of 32",
+      "duration": "4:23"
+    },
+    {
+      "position": "",
+      "title": "H - Play Frankie Play",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Krisco Kisses",
+      "duration": "3:03"
+    },
+    {
+      "position": "D2",
+      "title": "Black Night White Light",
+      "duration": "4:04"
+    },
+    {
+      "position": "D3",
+      "title": "The Only Star In Heaven",
+      "duration": "4:18"
+    },
+    {
+      "position": "D4",
+      "title": "The Power Of Love",
+      "duration": "5:24"
+    },
+    {
+      "position": "D5",
+      "title": "Bang...",
+      "duration": "1:14"
+    }
+  ]
+}

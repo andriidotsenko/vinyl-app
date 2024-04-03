@@ -1,0 +1,128 @@
+{
+  "id": 1979157,
+  "artist_id": 1093094,
+  "artist": "Kid Cudi",
+  "title": "Man On The Moon: The End Of Day",
+  "all_genres": [
+    1,
+    5,
+    2,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Pop Rap",
+    "Soul",
+    "Synth-pop"
+  ],
+  "release_date": "2009-09-14",
+  "year": 2009,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/4PmERnUBbPXah63Qydd1Gs3qSlWYRQIosFlH9pU_tSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzkx/NTctMTYwNjE5NDI1/OS04NjY1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/uoWZTEjMmYK8kUycS5TRfNlCBS7looZu3Jce6dkHWXM/rs:fit/g:sm/q:90/h:485/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzkx/NTctMTYwNjE5NDI1/OS04NjY1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Act 1: The End Of Day",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "In My Dreams (Cudder Anthem)",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Soundtrack 2 My Life",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Simple As...",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Act 2: Rise Of The Night Terrors",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Solo Dolo (Nightmare)",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Heart Of A Lion (KiD CuDi Theme Music)",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "My World",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Act 3: Taking A Trip",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Day N Nite (Nightmare)",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Sky Might Fall",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Enter Galactic (Love Connection Part 1)",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Act 4: Alive",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Alive (Nightmare)",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "CuDi Zone",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Make Her Say",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Pursuit Of Happiness (Nightmare)",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Act 5: A New Beginning",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Hyyerr (Nightmare)",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Up, Up And Away",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 2445087,
+  "artist_id": 251846,
+  "artist": "Alice In Chains",
+  "title": "MTV Unplugged",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Acoustic",
+    "Grunge"
+  ],
+  "release_date": "2010",
+  "year": 2010,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/0i92bvZ_Q1TpWfKHjBy9wo4UmKlOnm5Vf-Eqxof3F9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUw/ODctMTQzMTY5NzU2/Mi0xODE3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/QsaImxmzxaHuzHPaBGBbWEhpAOEHfWlW0iS8K6EHUq4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUw/ODctMTQzMTY5NzU2/Mi0xODE3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Nutshell",
+      "duration": "4:58"
+    },
+    {
+      "position": "A2",
+      "title": "Brother",
+      "duration": "5:27"
+    },
+    {
+      "position": "A3",
+      "title": "No Excuses",
+      "duration": "4:57"
+    },
+    {
+      "position": "A4",
+      "title": "Sludge Factory",
+      "duration": "4:36"
+    },
+    {
+      "position": "B1",
+      "title": "Down In A Hole",
+      "duration": "5:38"
+    },
+    {
+      "position": "B2",
+      "title": "Angry Chair",
+      "duration": "4:36"
+    },
+    {
+      "position": "B3",
+      "title": "Rooster",
+      "duration": "6:31"
+    },
+    {
+      "position": "C1",
+      "title": "Got Me Wrong",
+      "duration": "4:59"
+    },
+    {
+      "position": "C2",
+      "title": "Heaven Beside You",
+      "duration": "5:38"
+    },
+    {
+      "position": "C3",
+      "title": "Would?",
+      "duration": "3:43"
+    },
+    {
+      "position": "D1",
+      "title": "Frogs",
+      "duration": "7:30"
+    },
+    {
+      "position": "D2",
+      "title": "Over Now",
+      "duration": "7:12"
+    },
+    {
+      "position": "D3",
+      "title": "Killer Is Me",
+      "duration": "5:23"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": 1359927,
+  "artist_id": 1105843,
+  "artist": "Fleet Foxes",
+  "title": "Fleet Foxes",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Indie Rock"
+  ],
+  "release_date": "2008-06-03",
+  "year": 2008,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/iwkZmmfp4ZDT2PSHNrB15I4gwktDPzYg9NIkB5iDXn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk5/MjctMTYyODYwNjgw/MS0xMzIwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/RKhfiLLqjrylqyHfkGDMmaK4rT_Ba5M_eHrYYM5BBro/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk5/MjctMTYyODYwNjgw/MS0xMzIwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Fleet Foxes",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Sun It Rises",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "White Winter Hymnal",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Ragged Wood",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Tiger Mountain Peasant Song",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Quiet Houses",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "He Doesn't Know Why",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Heard Them Stirring",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Your Protector",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Meadowlarks",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Blue Ridge Mountains",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Oliver James",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Sun Giant EP",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Sun Giant",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Drops In The River",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "English House",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Mykonos",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Innocent Son",
+      "duration": ""
+    }
+  ]
+}

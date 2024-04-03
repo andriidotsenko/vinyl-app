@@ -1,0 +1,69 @@
+{
+  "id": 1224493,
+  "artist_id": 137418,
+  "artist": "Billy Joel",
+  "title": "52nd Street",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Soft Rock"
+  ],
+  "release_date": "1978",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/NDTVFW2uH-yScQQ5w2q8xhGVCvINi0Audn6TcnKCLqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQ0/OTMtMTM2NTM2NDU5/NS01OTQ5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/rbC79FkUwz_-fjgB2ugMBPvnIFbDB3-TJfWwOZQ1sTw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQ0/OTMtMTM2NTM2NDU5/NS01OTQ5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Big Shot",
+      "duration": "4:01"
+    },
+    {
+      "position": "A2",
+      "title": "Honesty",
+      "duration": "3:50"
+    },
+    {
+      "position": "A3",
+      "title": "My Life",
+      "duration": "4:43"
+    },
+    {
+      "position": "A4",
+      "title": "Zanzibar",
+      "duration": "5:10"
+    },
+    {
+      "position": "B1",
+      "title": "Stiletto",
+      "duration": "4:39"
+    },
+    {
+      "position": "B2",
+      "title": "Rosalinda's Eyes",
+      "duration": "4:40"
+    },
+    {
+      "position": "B3",
+      "title": "Half A Mile Away",
+      "duration": "4:06"
+    },
+    {
+      "position": "B4",
+      "title": "Until The Night",
+      "duration": "6:35"
+    },
+    {
+      "position": "B5",
+      "title": "52nd Street",
+      "duration": "2:27"
+    }
+  ]
+}

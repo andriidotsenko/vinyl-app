@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Electronic"
+  },
+  {
+    "id": 2,
+    "title": "Funk / Soul"
+  },
+  {
+    "id": 3,
+    "title": "Pop"
+  },
+  {
+    "id": 4,
+    "title": "Rock"
+  },
+  {
+    "id": 5,
+    "title": "Hip Hop"
+  },
+  {
+    "id": 6,
+    "title": "Stage & Screen"
+  },
+  {
+    "id": 7,
+    "title": "Folk, World, & Country"
+  },
+  {
+    "id": 8,
+    "title": "Jazz"
+  },
+  {
+    "id": 9,
+    "title": "Blues"
+  },
+  {
+    "id": 10,
+    "title": "Classical"
+  },
+  {
+    "id": 11,
+    "title": "Reggae"
+  },
+  {
+    "id": 12,
+    "title": "Latin"
+  },
+  {
+    "id": 13,
+    "title": "Non-Music"
+  }
+]

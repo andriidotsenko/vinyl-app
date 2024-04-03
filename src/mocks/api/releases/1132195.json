@@ -1,0 +1,74 @@
+{
+  "id": 1132195,
+  "artist_id": 285408,
+  "artist": "Crosby, Stills, Nash & Young",
+  "title": "Déjà Vu",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Country Rock"
+  ],
+  "release_date": "1970-03-11",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/W6H_QWNOn2J01brPUoPOJprchU0SO9iAzy08WrK1lgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIx/OTUtMTU5ODkwNDE0/NC0zNzk0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/uJWFjtkWet6BGK6XIxacO6Hfh8qHYiAdPQ06WZtmsDw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIx/OTUtMTU5ODkwNDE0/NC0zNzk0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Carry On",
+      "duration": "4:25"
+    },
+    {
+      "position": "A2",
+      "title": "Teach Your Children",
+      "duration": "2:53"
+    },
+    {
+      "position": "A3",
+      "title": "Almost Cut My Hair",
+      "duration": "4:25"
+    },
+    {
+      "position": "A4",
+      "title": "Helpless",
+      "duration": "3:30"
+    },
+    {
+      "position": "A5",
+      "title": "Woodstock",
+      "duration": "3:52"
+    },
+    {
+      "position": "B1",
+      "title": "Deja Vu",
+      "duration": "4:10"
+    },
+    {
+      "position": "B2",
+      "title": "Our House",
+      "duration": "2:59"
+    },
+    {
+      "position": "B3",
+      "title": "4 + 20",
+      "duration": "1:55"
+    },
+    {
+      "position": "",
+      "title": "Country Girl",
+      "duration": "5:05"
+    },
+    {
+      "position": "B5",
+      "title": "Everybody I Love You",
+      "duration": "2:20"
+    }
+  ]
+}

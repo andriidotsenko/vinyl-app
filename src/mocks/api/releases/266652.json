@@ -1,0 +1,74 @@
+{
+  "id": 266652,
+  "artist_id": 22854,
+  "artist": "Talking Heads",
+  "title": "Stop Making Sense",
+  "all_genres": [
+    4,
+    2,
+    6
+  ],
+  "genre": 4,
+  "styles": [
+    "Funk",
+    "New Wave",
+    "Soundtrack",
+    "Post-Punk",
+    "Art Rock"
+  ],
+  "release_date": "1984",
+  "year": 1984,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/ui18nP4qimvpsnljPhqbA4WYNHdTAxMkswcrrCl4zXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY1/Mi0xNTczNzA1MjYx/LTM3MTcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/jEBj2bCsAKZh5kxpRRgU4fRPNbLtY6L5-iGRFL5572s/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY1/Mi0xNTczNzA1MjYx/LTM3MTcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Psycho Killer",
+      "duration": "4:20"
+    },
+    {
+      "position": "A2",
+      "title": "Swamp",
+      "duration": "3:50"
+    },
+    {
+      "position": "A3",
+      "title": "Slippery People",
+      "duration": "3:35"
+    },
+    {
+      "position": "A4",
+      "title": "Burning Down The House",
+      "duration": "4:10"
+    },
+    {
+      "position": "A5",
+      "title": "Girlfriend Is Better",
+      "duration": "3:32"
+    },
+    {
+      "position": "B1",
+      "title": "Once In A Lifetime",
+      "duration": "4:34"
+    },
+    {
+      "position": "B2",
+      "title": "What A Day That Was",
+      "duration": "5:08"
+    },
+    {
+      "position": "B3",
+      "title": "Life During Wartime",
+      "duration": "4:52"
+    },
+    {
+      "position": "B4",
+      "title": "Take Me To The River",
+      "duration": "5:36"
+    }
+  ]
+}

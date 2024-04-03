@@ -1,0 +1,69 @@
+{
+  "id": 1132211,
+  "artist_id": 252102,
+  "artist": "Creedence Clearwater Revival",
+  "title": "Green River",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Country Rock"
+  ],
+  "release_date": "1969-08-03",
+  "year": 1969,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/pZRM6pXmPlOdVy12irAG_1Hfn_lrVXqdc0CEhaYb7rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIy/MTEtMTE5NDY0NTU3/OC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/L92BqdLhUez9X5JLndTd6n2lfdIickBCM9SOzzyl0ro/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIy/MTEtMTE5NDY0NTU3/OC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Green River",
+      "duration": "2:31"
+    },
+    {
+      "position": "A2",
+      "title": "Commotion",
+      "duration": "2:37"
+    },
+    {
+      "position": "A3",
+      "title": "Tombstone Shadow",
+      "duration": "3:36"
+    },
+    {
+      "position": "A4",
+      "title": "Wrote A Song For Everyone",
+      "duration": "4:55"
+    },
+    {
+      "position": "B1",
+      "title": "Bad Moon Rising",
+      "duration": "2:17"
+    },
+    {
+      "position": "B2",
+      "title": "Lodi",
+      "duration": "3:08"
+    },
+    {
+      "position": "B3",
+      "title": "Cross-Tie Walker",
+      "duration": "3:17"
+    },
+    {
+      "position": "B4",
+      "title": "Sinister Purpose",
+      "duration": "3:19"
+    },
+    {
+      "position": "B5",
+      "title": "The Night Time Is The Right Time",
+      "duration": "3:07"
+    }
+  ]
+}

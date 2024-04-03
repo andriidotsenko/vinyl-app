@@ -1,0 +1,72 @@
+{
+  "id": 1030796,
+  "artist_id": 96774,
+  "artist": "Prince And The Revolution",
+  "title": "Around The World In A Day",
+  "all_genres": [
+    4,
+    2,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Minneapolis Sound",
+    "Funk",
+    "Pop Rock"
+  ],
+  "release_date": "1985-04-22",
+  "year": 1985,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/dXafCZd-vP1CglNq64W4DJuYKS5e9SliViAjACSjC68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/OTYtMTIwNDYzNTc5/MC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/47UIKalkUNeYkChnYmvDomYXyCwFyGL-Eqq5Ivct19U/rs:fit/g:sm/q:90/h:598/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/OTYtMTIwNDYzNTc5/MC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Around The World In  A Day",
+      "duration": "3:25"
+    },
+    {
+      "position": "A2",
+      "title": "Paisley Park",
+      "duration": "4:41"
+    },
+    {
+      "position": "A3",
+      "title": "Condition Of The Heart",
+      "duration": "6:46"
+    },
+    {
+      "position": "A4",
+      "title": "Raspberry Beret",
+      "duration": "3:31"
+    },
+    {
+      "position": "A5",
+      "title": "Tamborine",
+      "duration": "2:46"
+    },
+    {
+      "position": "B1",
+      "title": "America",
+      "duration": "3:40"
+    },
+    {
+      "position": "B2",
+      "title": "Pop Life",
+      "duration": "3:42"
+    },
+    {
+      "position": "B3",
+      "title": "The Ladder",
+      "duration": "5:26"
+    },
+    {
+      "position": "B4",
+      "title": "Temptation",
+      "duration": "8:21"
+    }
+  ]
+}

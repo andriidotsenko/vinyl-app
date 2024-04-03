@@ -1,0 +1,73 @@
+{
+  "id": 382877,
+  "artist_id": 46481,
+  "artist": "John Lennon",
+  "title": "Imagine",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1971-10-08",
+  "year": 1971,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/a_0yGUCg5M0BzYbhNsEBHVkJ5WOAY-_-FUVx8UnvYts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjg3/Ny0xNjc0Mjk0MjE5/LTQ5MjAuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/niJCZULbS5JKel-Z1-FdNY4KHWirgn3IfVBNFncWp74/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjg3/Ny0xNjc0Mjk0MjE5/LTQ5MjAuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Imagine",
+      "duration": "2:59"
+    },
+    {
+      "position": "A2",
+      "title": "Crippled Inside",
+      "duration": "3:43"
+    },
+    {
+      "position": "A3",
+      "title": "Jealous Guy",
+      "duration": "4:10"
+    },
+    {
+      "position": "A4",
+      "title": "It's So Hard",
+      "duration": "2:22"
+    },
+    {
+      "position": "A5",
+      "title": "I Don't Want To Be A Soldier",
+      "duration": "6:01"
+    },
+    {
+      "position": "B1",
+      "title": "Give Me Some Truth",
+      "duration": "3:11"
+    },
+    {
+      "position": "B2",
+      "title": "Oh My Love",
+      "duration": "2:40"
+    },
+    {
+      "position": "B3",
+      "title": "How Do You Sleep?",
+      "duration": "5:29"
+    },
+    {
+      "position": "B4",
+      "title": "How?",
+      "duration": "3:37"
+    },
+    {
+      "position": "B5",
+      "title": "Oh Yoko!",
+      "duration": "4:18"
+    }
+  ]
+}

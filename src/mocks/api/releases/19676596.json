@@ -1,0 +1,104 @@
+{
+  "id": 19676596,
+  "artist_id": 5590213,
+  "artist": "Billie Eilish",
+  "title": "Happier Than Ever",
+  "all_genres": [
+    3
+  ],
+  "genre": 3,
+  "styles": [
+    "Indie Pop"
+  ],
+  "release_date": "2021-07-30",
+  "year": 2021,
+  "all_countries": [
+    "usa",
+    "europe"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/wJUjEDYwgCTcnp4SFN7EjbEI88MZ_VBKXYmuu5exL3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc2/NTk2LTE2Mjc2Mzgy/NTQtNTAyNS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/GwYxoOv5ffsKbT48Ve8vZcgK0JXALZWnPqisNC6On-0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc2/NTk2LTE2Mjc2Mzgy/NTQtNTAyNS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Getting Older",
+      "duration": "4:04"
+    },
+    {
+      "position": "A2",
+      "title": "I Didn't Change My Number",
+      "duration": "2:38"
+    },
+    {
+      "position": "A3",
+      "title": "Billie Bossa Nova",
+      "duration": "3:16"
+    },
+    {
+      "position": "A4",
+      "title": "My Future",
+      "duration": "3:30"
+    },
+    {
+      "position": "B5",
+      "title": "Oxytocin",
+      "duration": "3:30"
+    },
+    {
+      "position": "B6",
+      "title": "Goldwing",
+      "duration": "2:31"
+    },
+    {
+      "position": "B7",
+      "title": "Lost Cause",
+      "duration": "3:32"
+    },
+    {
+      "position": "B8",
+      "title": "Halley's Comet",
+      "duration": "3:54"
+    },
+    {
+      "position": "C9",
+      "title": "Not My Responsibility",
+      "duration": "3:47"
+    },
+    {
+      "position": "C10",
+      "title": "Overheated",
+      "duration": "3:34"
+    },
+    {
+      "position": "C11",
+      "title": "Everybody Dies",
+      "duration": "3:26"
+    },
+    {
+      "position": "C12",
+      "title": "Your Power",
+      "duration": "4:05"
+    },
+    {
+      "position": "D13",
+      "title": "NDA",
+      "duration": "3:15"
+    },
+    {
+      "position": "D14",
+      "title": "Therefore I Am",
+      "duration": "2:53"
+    },
+    {
+      "position": "D15",
+      "title": "Happier Than Ever",
+      "duration": "4:58"
+    },
+    {
+      "position": "D16",
+      "title": "Male Fantasy",
+      "duration": "3:14"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": 2072210,
+  "artist_id": 37223,
+  "artist": "The Doobie Brothers",
+  "title": "Best Of The Doobies",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Southern Rock"
+  ],
+  "release_date": "1976-11-00",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/_SQQAMKxmlKgCPBBzGqDB7tVzc8DQ4vQsfTJnKt7Tqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzIy/MTAtMTUyNTYyNDQw/OC03Nzg1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/ONYIiLN2nYVoQcdZJI_KSekrv35SUOZsmBRSAVrywgg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzIy/MTAtMTUyNTYyNDQw/OC03Nzg1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "China Grove",
+      "duration": "3:14"
+    },
+    {
+      "position": "A2",
+      "title": "Long Train Runnin'",
+      "duration": "3:23"
+    },
+    {
+      "position": "A3",
+      "title": "Takin' It To The Streets",
+      "duration": "3:36"
+    },
+    {
+      "position": "A4",
+      "title": "Listen To The Music",
+      "duration": "3:49"
+    },
+    {
+      "position": "A5",
+      "title": "Black Water",
+      "duration": "4:14"
+    },
+    {
+      "position": "A6",
+      "title": "Rockin' Down The Highway",
+      "duration": "3:19"
+    },
+    {
+      "position": "B1",
+      "title": "Jesus Is Just Alright",
+      "duration": "4:30"
+    },
+    {
+      "position": "B2",
+      "title": "It Keeps You Runnin'",
+      "duration": "4:18"
+    },
+    {
+      "position": "B3",
+      "title": "South City Midnight Lady",
+      "duration": "5:28"
+    },
+    {
+      "position": "B4",
+      "title": "Take Me In Your Arms",
+      "duration": "3:39"
+    },
+    {
+      "position": "B5",
+      "title": "Without You",
+      "duration": "4:56"
+    }
+  ]
+}

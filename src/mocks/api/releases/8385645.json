@@ -1,0 +1,64 @@
+{
+  "id": 8385645,
+  "artist_id": 18839,
+  "artist": "Metallica",
+  "title": "Ride The Lightning",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Thrash",
+    "Speed Metal"
+  ],
+  "release_date": "2016-04-15",
+  "year": 2016,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/MnfcErqzuAeveAKn5V5dehfnqbAqVkKykoQJUPxZhgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODU2/NDUtMTQ2MzU1MzE1/OS0zNTM3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/53Fq15MYe7-DQJ-zAfD1p8jvgZbcN0FScCRavxDsRL8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODU2/NDUtMTQ2MzU1MzE1/OS0zNTM3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Fight Fire With Fire",
+      "duration": "4:44"
+    },
+    {
+      "position": "A2",
+      "title": "Ride The Lightning",
+      "duration": "6:36"
+    },
+    {
+      "position": "A3",
+      "title": "For Whom The Bell Tolls",
+      "duration": "5:10"
+    },
+    {
+      "position": "A4",
+      "title": "Fade To Black",
+      "duration": "6:56"
+    },
+    {
+      "position": "B1",
+      "title": "Trapped Under Ice",
+      "duration": "4:03"
+    },
+    {
+      "position": "B2",
+      "title": "Escape",
+      "duration": "4:23"
+    },
+    {
+      "position": "B3",
+      "title": "Creeping Death",
+      "duration": "6:36"
+    },
+    {
+      "position": "B4",
+      "title": "The Call Of Ktulu",
+      "duration": "8:52"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 899603,
+  "artist_id": 29815,
+  "artist": "Steve Miller Band",
+  "title": "Book Of Dreams",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Classic Rock"
+  ],
+  "release_date": "1977",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/_7HJTdrDhuDHsb4dz_z82reTxGvUviD_Wv_pY0T0uyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTYw/My0xNDA3Mjc1MjQ4/LTIzMTMuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/yaU4lxrVftNKwMwWr33V149sbtEDDfEA8l5ZF3dESkk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTYw/My0xNDA3Mjc1MjQ4/LTIzMTMuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Threshold",
+      "duration": "1:05"
+    },
+    {
+      "position": "A2",
+      "title": "Jet Airliner",
+      "duration": "4:25"
+    },
+    {
+      "position": "A3",
+      "title": "Winter Time",
+      "duration": "3:10"
+    },
+    {
+      "position": "A4",
+      "title": "Swingtown",
+      "duration": "3:54"
+    },
+    {
+      "position": "A5",
+      "title": "True Fine Love",
+      "duration": "2:37"
+    },
+    {
+      "position": "A6",
+      "title": "Wish Upon A Star",
+      "duration": "3:39"
+    },
+    {
+      "position": "B1",
+      "title": "Jungle Love",
+      "duration": "3:10"
+    },
+    {
+      "position": "B2",
+      "title": "Electro Lux Imbroglio",
+      "duration": "0:55"
+    },
+    {
+      "position": "B3",
+      "title": "Sacrifice",
+      "duration": "5:17"
+    },
+    {
+      "position": "B4",
+      "title": "The Stake",
+      "duration": "3:56"
+    },
+    {
+      "position": "B5",
+      "title": "My Own Space",
+      "duration": "3:00"
+    },
+    {
+      "position": "B6",
+      "title": "Babes In The Wood",
+      "duration": "2:40"
+    }
+  ]
+}

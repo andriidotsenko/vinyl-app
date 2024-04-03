@@ -1,0 +1,165 @@
+{
+  "id": 20414812,
+  "artist_id": 1124645,
+  "artist": "Taylor Swift",
+  "title": "Fearless (Taylor's Version)",
+  "all_genres": [
+    3,
+    7
+  ],
+  "genre": 3,
+  "styles": [
+    "Country",
+    "Vocal"
+  ],
+  "release_date": "2021-10-01",
+  "year": 2021,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/74xkLSu_WH7IYXRWrTeJVRfzn9brFwUODJ8DEIvyW34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE0/ODEyLTE2NDUzNzQ4/NTctNTg3Ni5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/1O38RhEPWpgHcIks_MZYU1Tb_jGxTGnSeFXRFSMQOGk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE0/ODEyLTE2NDUzNzQ4/NTctNTg3Ni5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Fearless (Taylor’s Version)",
+      "duration": "4:01"
+    },
+    {
+      "position": "A2",
+      "title": "Fifteen (Taylor’s Version)",
+      "duration": "4:54"
+    },
+    {
+      "position": "A3",
+      "title": "Love Story (Taylor’s Version)",
+      "duration": "3:55"
+    },
+    {
+      "position": "A4",
+      "title": "Hey Stephen (Taylor’s Version)",
+      "duration": "4:14"
+    },
+    {
+      "position": "B1",
+      "title": "White Horse (Taylor’s Version)",
+      "duration": "3:54"
+    },
+    {
+      "position": "B2",
+      "title": "You Belong With Me (Taylor’s Version)",
+      "duration": "3:51"
+    },
+    {
+      "position": "B3",
+      "title": "Breathe (Taylor’s Version)",
+      "duration": "4:23"
+    },
+    {
+      "position": "B4",
+      "title": "Tell Me Why (Taylor’s Version)",
+      "duration": "3:20"
+    },
+    {
+      "position": "B5",
+      "title": "You’re Not Sorry (Taylor’s Version)",
+      "duration": "4:21"
+    },
+    {
+      "position": "C1",
+      "title": "The Way I Loved You (Taylor’s Version)",
+      "duration": "4:03"
+    },
+    {
+      "position": "C2",
+      "title": "Forever & Always (Taylor’s Version)",
+      "duration": "3:45"
+    },
+    {
+      "position": "C3",
+      "title": "The Best Day (Taylor’s Version)",
+      "duration": "4:05"
+    },
+    {
+      "position": "C4",
+      "title": "Change (Taylor’s Version)",
+      "duration": "4:39"
+    },
+    {
+      "position": "D1",
+      "title": "Jump Then Fall (Taylor's Version)",
+      "duration": "3:57"
+    },
+    {
+      "position": "D2",
+      "title": "Untouchable (Taylor's Version)",
+      "duration": "5:12"
+    },
+    {
+      "position": "D3",
+      "title": "Forever & Always (Piano Version) (Taylor's Version)",
+      "duration": "4:27"
+    },
+    {
+      "position": "D4",
+      "title": "Come In With The Rain (Taylor's Version)",
+      "duration": "3:57"
+    },
+    {
+      "position": "E1",
+      "title": "Superstar (Taylor's Version)",
+      "duration": "4:23"
+    },
+    {
+      "position": "E2",
+      "title": "The Other Side Of The Door (Taylor's Version)",
+      "duration": "3:58"
+    },
+    {
+      "position": "E3",
+      "title": "Today Was A Fairytale (Taylor's Version)",
+      "duration": "4:01"
+    },
+    {
+      "position": "E4",
+      "title": "You All Over Me (From The Vault)",
+      "duration": "3:40"
+    },
+    {
+      "position": "E5",
+      "title": "Mr. Perfectly Fine (From The Vault)",
+      "duration": "4:37"
+    },
+    {
+      "position": "F1",
+      "title": "We Were Happy (From The Vault)",
+      "duration": "4:04"
+    },
+    {
+      "position": "F2",
+      "title": "That's When (From The Vault)",
+      "duration": "3:09"
+    },
+    {
+      "position": "F3",
+      "title": "Don't You (From The Vault)",
+      "duration": "3:28"
+    },
+    {
+      "position": "F4",
+      "title": "Bye Bye Baby (From The Vault)",
+      "duration": "4:02"
+    },
+    {
+      "position": "",
+      "title": "Bonus Track",
+      "duration": ""
+    },
+    {
+      "position": "F5",
+      "title": "Love Story (Taylor’s Version) - Elvira Remix",
+      "duration": "3:31"
+    }
+  ]
+}

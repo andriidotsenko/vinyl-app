@@ -1,0 +1,103 @@
+{
+  "id": 9437902,
+  "artist_id": 3268,
+  "artist": "A Tribe Called Quest",
+  "title": "We Got It From Here…Thank You 4 Your Service",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Conscious"
+  ],
+  "release_date": "2016-12-23",
+  "year": 2016,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/k_rpftchLuzLx3AaEU4d0Copsb6PQjJ1ENfElVWvO0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzc5/MDItMTQ4MjYwNzcz/NS05NzUzLnBuZw.jpeg",
+  "cover_image": "https://i.discogs.com/ArQVTaQOvCMKpypy1ioJybVGRbWtmBVlwdANh7iAMMs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzc5/MDItMTQ4MjYwNzcz/NS05NzUzLnBuZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Space Program",
+      "duration": "5:40"
+    },
+    {
+      "position": "A2",
+      "title": "We The People....",
+      "duration": "2:52"
+    },
+    {
+      "position": "A3",
+      "title": "Whateva Will Be",
+      "duration": "2:52"
+    },
+    {
+      "position": "A4",
+      "title": "Solid Wall of Sound",
+      "duration": "3:43"
+    },
+    {
+      "position": "B1",
+      "title": "Dis Generation",
+      "duration": "3:33"
+    },
+    {
+      "position": "B2",
+      "title": "Kids... ",
+      "duration": "3:48"
+    },
+    {
+      "position": "B3",
+      "title": "Melatonin",
+      "duration": "4:44"
+    },
+    {
+      "position": "B4",
+      "title": "Enough!!",
+      "duration": "3:20"
+    },
+    {
+      "position": "C1",
+      "title": "Mobius",
+      "duration": "2:51"
+    },
+    {
+      "position": "C2",
+      "title": "Black Spasmodic",
+      "duration": "3:03"
+    },
+    {
+      "position": "C3",
+      "title": "The Killing Season",
+      "duration": "2:43"
+    },
+    {
+      "position": "C4",
+      "title": "Lost Somebody",
+      "duration": "4:18"
+    },
+    {
+      "position": "D1",
+      "title": "Movin Backwards",
+      "duration": "4:41"
+    },
+    {
+      "position": "D2",
+      "title": "Conrad Tokyo",
+      "duration": "3:31"
+    },
+    {
+      "position": "D3",
+      "title": "Ego",
+      "duration": "3:17"
+    },
+    {
+      "position": "D4",
+      "title": "The Donald",
+      "duration": "5:22"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 667892,
+  "artist_id": 55980,
+  "artist": "The Strokes",
+  "title": "Is This It",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock",
+    "Garage Rock",
+    "Post-Punk"
+  ],
+  "release_date": "2001-09-11",
+  "year": 2001,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/DK-fquXYo-B_CPpgQ3Xi3-If4-Ck7TEWA7fg0XWInCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg5/Mi0xMjQ5NTQ4OTc5/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/I-5W0fpyfiabeWAXjTY0DdQ_0-PibB8kINZLXI8EiV0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg5/Mi0xMjQ5NTQ4OTc5/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Is This It",
+      "duration": "2:34"
+    },
+    {
+      "position": "A2",
+      "title": "The Modern Age",
+      "duration": "3:32"
+    },
+    {
+      "position": "A3",
+      "title": "Soma",
+      "duration": "2:37"
+    },
+    {
+      "position": "A4",
+      "title": "Barely Legal",
+      "duration": "3:58"
+    },
+    {
+      "position": "A5",
+      "title": "Someday",
+      "duration": "3:07"
+    },
+    {
+      "position": "B1",
+      "title": "Alone, Together",
+      "duration": "3:12"
+    },
+    {
+      "position": "B2",
+      "title": "Last Nite",
+      "duration": "3:17"
+    },
+    {
+      "position": "B3",
+      "title": "Hard To Explain",
+      "duration": "3:47"
+    },
+    {
+      "position": "B4",
+      "title": "New York City Cops",
+      "duration": "3:36"
+    },
+    {
+      "position": "B5",
+      "title": "Trying Your Luck",
+      "duration": "3:27"
+    },
+    {
+      "position": "B6",
+      "title": "Take It Or Leave It",
+      "duration": "3:16"
+    }
+  ]
+}

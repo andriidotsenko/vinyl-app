@@ -1,0 +1,84 @@
+{
+  "id": 2191572,
+  "artist_id": 8708,
+  "artist": "Bonobo",
+  "title": "Black Sands",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "Downtempo",
+    "Ambient"
+  ],
+  "release_date": "2010-03-29",
+  "year": 2010,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/YJnS2B9XUJT1EH7vy-3NewNoR3eT_4swHf75xKXvu7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTE1/NzItMTQxMzg5MDIy/NC05Njc4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/B9qlwGG0ATq9Pre-kOxiDGJmFTR4FOmLW5nmlJ1eVBk/rs:fit/g:sm/q:90/h:570/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTE1/NzItMTQxMzg5MDIy/NC05Njc4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Prelude",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Kiara",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Kong",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Eyesdown",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "El Toro",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "We Could Forever",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "1009",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "All In Forms",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "The Keeper",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Stay The Same",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Animals",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Black Sands",
+      "duration": ""
+    }
+  ]
+}

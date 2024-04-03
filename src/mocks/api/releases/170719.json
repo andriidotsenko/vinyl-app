@@ -1,0 +1,71 @@
+{
+  "id": 170719,
+  "artist_id": 22854,
+  "artist": "Talking Heads",
+  "title": "Speaking In Tongues",
+  "all_genres": [
+    4,
+    2
+  ],
+  "genre": 4,
+  "styles": [
+    "New Wave",
+    "Pop Rock",
+    "Funk"
+  ],
+  "release_date": "1983-06-00",
+  "year": 1983,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/7_0Fq27p_8Ed79-niTKKrKRSsPJHDuu0AfE1odFoLWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcx/OS0xNDM3NDU0NzA4/LTQ4OTQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/w3G0LxzwepwIgx7NkozV23OhlQ3j0XZ3WsvHPH6J1DQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcx/OS0xNDM3NDU0NzA4/LTQ4OTQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Burning Down The House",
+      "duration": "4:00"
+    },
+    {
+      "position": "A2",
+      "title": "Making Flippy Floppy",
+      "duration": "4:36"
+    },
+    {
+      "position": "A3",
+      "title": "Girlfriend Is Better",
+      "duration": "4:25"
+    },
+    {
+      "position": "A4",
+      "title": "Slippery People",
+      "duration": "3:30"
+    },
+    {
+      "position": "A5",
+      "title": "I Get Wild / Wild Gravity",
+      "duration": "4:06"
+    },
+    {
+      "position": "B1",
+      "title": "Swamp",
+      "duration": "5:09"
+    },
+    {
+      "position": "B2",
+      "title": "Moon Rocks",
+      "duration": "5:04"
+    },
+    {
+      "position": "B3",
+      "title": "Pull Up The Roots",
+      "duration": "5:08"
+    },
+    {
+      "position": "B4",
+      "title": "This Must Be The Place (Naive Melody)",
+      "duration": "4:56"
+    }
+  ]
+}

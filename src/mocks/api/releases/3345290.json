@@ -1,0 +1,79 @@
+{
+  "id": 3345290,
+  "artist_id": 138556,
+  "artist": "Neil Young",
+  "title": "After The Gold Rush",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Rock & Roll",
+    "Country Rock"
+  ],
+  "release_date": "1970-09-19",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/qOkq0WUvLaXo2uh3JPRoCz27VYyyHPaGQmAcwi7jxpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDUy/OTAtMTQxNTEyMjQy/NC00MDU3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/ylWWw2Y1IrETuPJ1AFAfTSLAR_9s4pL-RTOXmnNLo6o/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDUy/OTAtMTQxNTEyMjQy/NC00MDU3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Tell Me Why",
+      "duration": "2:54"
+    },
+    {
+      "position": "A2",
+      "title": "After The Goldrush",
+      "duration": "3:45"
+    },
+    {
+      "position": "A3",
+      "title": "Only Love Can Break Your Heart",
+      "duration": "3:05"
+    },
+    {
+      "position": "A4",
+      "title": "Southern Man",
+      "duration": "5:41"
+    },
+    {
+      "position": "A5",
+      "title": "Till The Morning Comes",
+      "duration": "1:17"
+    },
+    {
+      "position": "B1",
+      "title": "Oh Lonesome Me",
+      "duration": "3:47"
+    },
+    {
+      "position": "B2",
+      "title": "Don't Let It Bring You Down",
+      "duration": "2:56"
+    },
+    {
+      "position": "B3",
+      "title": "Birds",
+      "duration": "2:34"
+    },
+    {
+      "position": "B4",
+      "title": "When You Dance I Can Really Love",
+      "duration": "3:44"
+    },
+    {
+      "position": "B5",
+      "title": "I Believe In You",
+      "duration": "2:24"
+    },
+    {
+      "position": "B6",
+      "title": "Cripple Creek Ferry",
+      "duration": "1:34"
+    }
+  ]
+}

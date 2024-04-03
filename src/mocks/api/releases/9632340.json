@@ -1,0 +1,154 @@
+{
+  "id": 9632340,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "The Beatles 1962-1966",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Beat",
+    "Pop Rock"
+  ],
+  "release_date": "1976",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/AV4LZNtl8pgk9P3mbggn0j80qLtW-wCmIqy9ViZK9wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzIz/NDAtMTQ5Nzc5MDUz/Ni01OTUwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/4KBOH6VUtFt_b-34XGvnCfA4jLasf-vgojYJE955yt0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzIz/NDAtMTQ5Nzc5MDUz/Ni01OTUwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Love Me Do",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Please Please Me",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "From Me To You",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "She Loves You",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "I Want To Hold Your Hand",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "All My Loving",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "Can't Buy Me Love",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "A Hard Day's Night",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "And I Love Her",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Eight Days A Week",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "I Feel Fine",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Ticket To Ride",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Yesterday",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Help!",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "You've Got To Hide Your Love Away",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "We Can Work It Out",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Day Tripper",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "title": "Drive My Car",
+      "duration": ""
+    },
+    {
+      "position": "C6",
+      "title": "Norwegian Wood (This Bird Has Flown)",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Nowhere Man",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Michelle",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "In My Life",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Girl",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "Paperback Writer",
+      "duration": ""
+    },
+    {
+      "position": "D6",
+      "title": "Eleanor Rigby",
+      "duration": ""
+    },
+    {
+      "position": "D7",
+      "title": "Yellow Submarine",
+      "duration": ""
+    }
+  ]
+}

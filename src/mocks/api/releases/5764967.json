@@ -1,0 +1,105 @@
+{
+  "id": 5764967,
+  "artist_id": 278763,
+  "artist": "Jack White",
+  "title": "Lazaretto",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Blues Rock",
+    "Country Rock"
+  ],
+  "release_date": "2014-06-10",
+  "year": 2014,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/a7JWTptwDe3POIHOJAW8i7HrKLPV41VoFJuMBAa4Bac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjQ5/NjctMTY1MjM3MTIw/NS0yNDgzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/KxQEzdekSW8zx6UAWMVnsR3Qe5rfFp2DYH7-CNhEqcI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjQ5/NjctMTY1MjM3MTIw/NS0yNDgzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Three Women",
+      "duration": "3:56"
+    },
+    {
+      "position": "A2",
+      "title": "Lazaretto",
+      "duration": "3:40"
+    },
+    {
+      "position": "A3",
+      "title": "Temporary Ground",
+      "duration": "3:13"
+    },
+    {
+      "position": "A4",
+      "title": "Would You Fight For My Love?",
+      "duration": "4:10"
+    },
+    {
+      "position": "A5",
+      "title": "High Ball Stepper",
+      "duration": "3:45"
+    },
+    {
+      "position": "A6",
+      "title": "Untitled",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "Untitled",
+      "duration": "0:56"
+    },
+    {
+      "position": "BA1",
+      "title": "Just One Drink",
+      "duration": "2:40"
+    },
+    {
+      "position": "BB1",
+      "title": "Just One Drink",
+      "duration": "2:37"
+    },
+    {
+      "position": "B2",
+      "title": "Alone In My Home",
+      "duration": "3:30"
+    },
+    {
+      "position": "B3",
+      "title": "That Black Bat Licorice",
+      "duration": "3:52"
+    },
+    {
+      "position": "B4",
+      "title": "Entitlement",
+      "duration": "4:06"
+    },
+    {
+      "position": "B5",
+      "title": "I Think I Found The Culprit",
+      "duration": "3:51"
+    },
+    {
+      "position": "B6",
+      "title": "Want And Able",
+      "duration": "2:34"
+    },
+    {
+      "position": "B7",
+      "title": "Untitled",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "title": "Untitled",
+      "duration": "0:44"
+    }
+  ]
+}

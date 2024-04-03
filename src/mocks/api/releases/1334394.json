@@ -1,0 +1,90 @@
+{
+  "id": 1334394,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "Sgt. Pepper's Lonely Hearts Club Band",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Psychedelic Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1968",
+  "year": 1968,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/X9qfdXjTtICVY7HOm51lZVqr1V9KdKOm5efxaXPtugQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQz/OTQtMTMxODg5OTU2/My5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/oFBPa8OnTx2ILD9q2drMaQwJhQbR5IfuFLrXTlEShLg/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzQz/OTQtMTMxODg5OTU2/My5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "duration": "1:59"
+    },
+    {
+      "position": "A2",
+      "title": "With A Little Help From My Friends",
+      "duration": "2:46"
+    },
+    {
+      "position": "A3",
+      "title": "Lucy In The Sky With Diamonds",
+      "duration": "3:25"
+    },
+    {
+      "position": "A4",
+      "title": "Getting Better",
+      "duration": "2:47"
+    },
+    {
+      "position": "A5",
+      "title": "Fixing A Hole",
+      "duration": "2:33"
+    },
+    {
+      "position": "A6",
+      "title": "She's Leaving Home",
+      "duration": "3:24"
+    },
+    {
+      "position": "A7",
+      "title": "Being For The Benefit Of Mr. Kite!",
+      "duration": "2:36"
+    },
+    {
+      "position": "B1",
+      "title": "Within You Without You",
+      "duration": "5:03"
+    },
+    {
+      "position": "B2",
+      "title": "When I'm Sixty-Four",
+      "duration": "2:38"
+    },
+    {
+      "position": "B3",
+      "title": "Lovely Rita",
+      "duration": "2:43"
+    },
+    {
+      "position": "B4",
+      "title": "Good Morning, Good Morning",
+      "duration": "2:35"
+    },
+    {
+      "position": "B5",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+      "duration": "1:20"
+    },
+    {
+      "position": "B6",
+      "title": "A Day In The Life",
+      "duration": "5:03"
+    }
+  ]
+}

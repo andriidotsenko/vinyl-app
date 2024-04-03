@@ -1,0 +1,79 @@
+{
+  "id": 5077187,
+  "artist_id": 4480,
+  "artist": "Massive Attack",
+  "title": "Mezzanine",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "Trip Hop",
+    "Downtempo"
+  ],
+  "release_date": "2013-11-08",
+  "year": 2013,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/o1H9nJlz4N1aV8x1k6esWgp6nu-XFbQTLfS5adS4iKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTYzMjgzNjky/OC01NTkzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/gqCkCURexqaNgtuxxr1sZDNAdi6lBphQL2dfuNX_It0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTYzMjgzNjky/OC01NTkzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Angel",
+      "duration": "6:18"
+    },
+    {
+      "position": "A2",
+      "title": "Risingson ",
+      "duration": "4:58"
+    },
+    {
+      "position": "A3",
+      "title": "Teardrop ",
+      "duration": "5:29"
+    },
+    {
+      "position": "B1",
+      "title": "Inertia Creeps",
+      "duration": "5:56"
+    },
+    {
+      "position": "B2",
+      "title": "Exchange ",
+      "duration": "4:11"
+    },
+    {
+      "position": "B3",
+      "title": "Dissolved Girl ",
+      "duration": "6:07"
+    },
+    {
+      "position": "C1",
+      "title": "Man Next Door",
+      "duration": "5:55"
+    },
+    {
+      "position": "C2",
+      "title": "Black Milk ",
+      "duration": "6:20"
+    },
+    {
+      "position": "C3",
+      "title": "Mezzanine",
+      "duration": "5:54"
+    },
+    {
+      "position": "D1",
+      "title": "Group Four",
+      "duration": "8:13"
+    },
+    {
+      "position": "D2",
+      "title": "(Exchange)",
+      "duration": "4:08"
+    }
+  ]
+}

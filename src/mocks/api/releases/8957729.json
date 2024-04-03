@@ -1,0 +1,154 @@
+{
+  "id": 8957729,
+  "artist_id": 45467,
+  "artist": "Pink Floyd",
+  "title": "The Wall",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Art Rock",
+    "Prog Rock"
+  ],
+  "release_date": "2016-08-26",
+  "year": 2016,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/kzMMJS9bahfzUNAZojvLfBbIDFiFdIh7ONkoMLjSmOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTc3/MjktMTQ3NzIzNzMy/Ni04Nzg3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/o5B1ExlTGbrs0UC8BkCdSVt4XIOhxphrKQpDoiiZJAE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NTc3/MjktMTQ3NzIzNzMy/Ni04Nzg3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "In The Flesh?",
+      "duration": "3:16"
+    },
+    {
+      "position": "A2",
+      "title": "The Thin Ice",
+      "duration": "2:27"
+    },
+    {
+      "position": "A3",
+      "title": "Another Brick In The Wall Part 1",
+      "duration": "3:11"
+    },
+    {
+      "position": "A4",
+      "title": "The Happiest Days Of Our Lives",
+      "duration": "1:46"
+    },
+    {
+      "position": "A5",
+      "title": "Another Brick In The Wall Part 2",
+      "duration": "3:59"
+    },
+    {
+      "position": "A6",
+      "title": "Mother",
+      "duration": "5:32"
+    },
+    {
+      "position": "B1",
+      "title": "Goodbye Blue Sky",
+      "duration": "2:45"
+    },
+    {
+      "position": "B2",
+      "title": "Empty Spaces",
+      "duration": "2:10"
+    },
+    {
+      "position": "B3",
+      "title": "Young Lust",
+      "duration": "3:25"
+    },
+    {
+      "position": "B4",
+      "title": "One Of My Turns",
+      "duration": "3:41"
+    },
+    {
+      "position": "B5",
+      "title": "Don't Leave Me Now",
+      "duration": "4:08"
+    },
+    {
+      "position": "B6",
+      "title": "Another Brick In The Wall Part 3",
+      "duration": "1:18"
+    },
+    {
+      "position": "B7",
+      "title": "Goodbye Cruel World",
+      "duration": "1:16"
+    },
+    {
+      "position": "C1",
+      "title": "Hey You",
+      "duration": "4:40"
+    },
+    {
+      "position": "C2",
+      "title": "Is There Anybody Out There?",
+      "duration": "2:44"
+    },
+    {
+      "position": "C3",
+      "title": "Nobody Home",
+      "duration": "3:26"
+    },
+    {
+      "position": "C4",
+      "title": "Vera",
+      "duration": "1:35"
+    },
+    {
+      "position": "C5",
+      "title": "Bring The Boys Back Home",
+      "duration": "1:21"
+    },
+    {
+      "position": "C6",
+      "title": "Comfortably Numb",
+      "duration": "6:23"
+    },
+    {
+      "position": "D1",
+      "title": "The Show Must Go On",
+      "duration": "1:36"
+    },
+    {
+      "position": "D2",
+      "title": "In The Flesh",
+      "duration": "4:15"
+    },
+    {
+      "position": "D3",
+      "title": "Run Like Hell",
+      "duration": "4:20"
+    },
+    {
+      "position": "D4",
+      "title": "Waiting For The Worms",
+      "duration": "4:04"
+    },
+    {
+      "position": "D5",
+      "title": "Stop",
+      "duration": "0:30"
+    },
+    {
+      "position": "D6",
+      "title": "The Trial",
+      "duration": "5:13"
+    },
+    {
+      "position": "D7",
+      "title": "Outside The Wall",
+      "duration": "1:41"
+    }
+  ]
+}

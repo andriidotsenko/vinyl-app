@@ -1,0 +1,100 @@
+{
+  "id": 233445,
+  "artist_id": 137880,
+  "artist": "Kanye West",
+  "title": "The College Dropout",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Pop Rap",
+    "Conscious",
+    "Contemporary R&B"
+  ],
+  "release_date": "2004-02-10",
+  "year": 2004,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/zkVrbwNN72h1RPhgSwSbaACjgCcdd5WTLj5OksgYrAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQ0/NS0xNDg5ODEwNDA0/LTk3MDEuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/bbYRxCngKfYkzKx5TUuYKGod4DpYv535H363fx8qaKE/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQ0/NS0xNDg5ODEwNDA0/LTk3MDEuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "We Don't Care",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Graduation Day",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "All Falls Down",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Spaceship",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Jesus Walks",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Never Let Me Down",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Get Em High",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "The New Workout Plan",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Through The Wire",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Slow Jamz",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Breathe In Breathe Out",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "School Spirit",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Two Words",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Family Business",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Last Call",
+      "duration": ""
+    }
+  ]
+}

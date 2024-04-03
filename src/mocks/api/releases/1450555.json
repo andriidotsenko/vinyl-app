@@ -1,0 +1,96 @@
+{
+  "id": 1450555,
+  "artist_id": 3840,
+  "artist": "Radiohead",
+  "title": "Kid A",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Alternative Rock",
+    "IDM",
+    "Experimental"
+  ],
+  "release_date": "2008-09-02",
+  "year": 2008,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/udGBjRyeBLMi-vqkXOsgJ1KgSlj77CJVBPGVjLs55sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA1/NTUtMTQwODI5OTIw/MC04ODg1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/ZHZNiMF_8j1P2_8lqpkgE5r3d6vltN9zFn6JXzzIq-k/rs:fit/g:sm/q:90/h:547/w:561/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA1/NTUtMTQwODI5OTIw/MC04ODg1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Alpha",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Everything In Its Right Place",
+      "duration": "4:09"
+    },
+    {
+      "position": "A2",
+      "title": "Kid A",
+      "duration": "4:44"
+    },
+    {
+      "position": "",
+      "title": "Beta",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "The National Anthem",
+      "duration": "5:48"
+    },
+    {
+      "position": "B2",
+      "title": "How To Disappear Completely",
+      "duration": "5:53"
+    },
+    {
+      "position": "B3",
+      "title": "Treefingers",
+      "duration": "3:43"
+    },
+    {
+      "position": "",
+      "title": "Gamma",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Optimistic",
+      "duration": "5:14"
+    },
+    {
+      "position": "C2",
+      "title": "In Limbo",
+      "duration": "3:31"
+    },
+    {
+      "position": "",
+      "title": "Delta",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Idioteque",
+      "duration": "5:07"
+    },
+    {
+      "position": "D2",
+      "title": "Morning Bell",
+      "duration": "4:30"
+    },
+    {
+      "position": "D3",
+      "title": "Motion Picture Soundtrack",
+      "duration": "4:37"
+    }
+  ]
+}

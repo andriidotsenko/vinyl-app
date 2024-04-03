@@ -1,0 +1,72 @@
+{
+  "id": 413315,
+  "artist_id": 32990,
+  "artist": "George Michael",
+  "title": "Faith",
+  "all_genres": [
+    1,
+    4,
+    2,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Soft Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1987-10-30",
+  "year": 1987,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/WkcVxqUPTzttTdLCiceuqyc8pJeBItdsdzYglQ-XgF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzMx/NS0xNTE0NDY2NjUx/LTQ0ODQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/9wyPxBCXjpqmIZhlYdpV0VCQ0a1taliCjQiqwPuLkto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzMx/NS0xNTE0NDY2NjUx/LTQ0ODQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Faith",
+      "duration": "3:15"
+    },
+    {
+      "position": "A2",
+      "title": "Father Figure",
+      "duration": "5:36"
+    },
+    {
+      "position": "",
+      "title": "I Want Your Sex",
+      "duration": "9:13"
+    },
+    {
+      "position": "A4",
+      "title": "One More Try",
+      "duration": "5:49"
+    },
+    {
+      "position": "B1",
+      "title": "Hard Day",
+      "duration": "4:47"
+    },
+    {
+      "position": "B2",
+      "title": "Hand To Mouth",
+      "duration": "4:36"
+    },
+    {
+      "position": "B3",
+      "title": "Look At Your Hands",
+      "duration": "4:36"
+    },
+    {
+      "position": "B4",
+      "title": "Monkey",
+      "duration": "5:05"
+    },
+    {
+      "position": "B5",
+      "title": "Kissing A Fool",
+      "duration": "4:34"
+    }
+  ]
+}

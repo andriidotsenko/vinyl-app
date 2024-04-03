@@ -1,0 +1,60 @@
+{
+  "id": 680968,
+  "artist_id": 252102,
+  "artist": "Creedence Clearwater Revival",
+  "title": "Bayou Country",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Blues Rock",
+    "Hard Rock"
+  ],
+  "release_date": "1969-01-05",
+  "year": 1969,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/wx6DAnUQWHNWAh3NzgQO6qoQ1VumSXfOzOYD86IfcCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDk2/OC0xMjI1MDU1MTUw/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/q6fgVgnvoOmvKeXN77ggDSa-wS5pfz3LdaeQv1WuZIQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDk2/OC0xMjI1MDU1MTUw/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Born On The Bayou",
+      "duration": "5:10"
+    },
+    {
+      "position": "A2",
+      "title": "Bootleg",
+      "duration": "2:58"
+    },
+    {
+      "position": "A3",
+      "title": "Graveyard Train",
+      "duration": "8:32"
+    },
+    {
+      "position": "B1",
+      "title": "Good Golly Miss Molly",
+      "duration": "2:39"
+    },
+    {
+      "position": "B2",
+      "title": "Penthouse Pauper",
+      "duration": "3:37"
+    },
+    {
+      "position": "B3",
+      "title": "Proud Mary",
+      "duration": "3:07"
+    },
+    {
+      "position": "B4",
+      "title": "Keep On Chooglin'",
+      "duration": "7:40"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": 513594,
+  "artist_id": 87016,
+  "artist": "Tool",
+  "title": "Lateralus",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Prog Rock",
+    "Heavy Metal"
+  ],
+  "release_date": "2005-08-26",
+  "year": 2005,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/-z8VoSBKA5mj5fr-UcZTZuNZUBKQzfYz5fsMkpu6yjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzU5/NC0xNjQwNzE0MDM4/LTY3NzcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/4r3CDKkXduv9zBfx9wkQtmVyIO-cduRIGzJSQWwE48I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzU5/NC0xNjQwNzE0MDM4/LTY3NzcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Grudge",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Eon Blue Apocalypse",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "The Patient",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Mantra",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Schism",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Parabol",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Parabola",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Disposition",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Ticks & Leeches",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Lateralus",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Reflection",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Triad",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Faaip De Oiad",
+      "duration": ""
+    }
+  ]
+}

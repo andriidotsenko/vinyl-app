@@ -1,0 +1,83 @@
+{
+  "id": 1594061,
+  "artist_id": 3840,
+  "artist": "Radiohead",
+  "title": "The Bends",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock"
+  ],
+  "release_date": "2008",
+  "year": 2008,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/7nmAchEfomfOwVnFe2LvxNdZOvmBOjn6IbFHI7rJ8go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQw/NjEtMTQyOTIzNzM1/NS03MDQ1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/F1_Y0SRt1wmr_LK9-4XYnyFVHmvBysX1xZLV9ryyvR8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQw/NjEtMTQyOTIzNzM1/NS03MDQ1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Planet Telex",
+      "duration": "4:22"
+    },
+    {
+      "position": "A2",
+      "title": "The Bends",
+      "duration": "3:58"
+    },
+    {
+      "position": "A3",
+      "title": "High And Dry",
+      "duration": "4:17"
+    },
+    {
+      "position": "A4",
+      "title": "Fake Plastic Trees",
+      "duration": "4:50"
+    },
+    {
+      "position": "A5",
+      "title": "Bones",
+      "duration": "3:07"
+    },
+    {
+      "position": "A6",
+      "title": "(Nice Dream)",
+      "duration": "3:51"
+    },
+    {
+      "position": "B1",
+      "title": "Just",
+      "duration": "3:52"
+    },
+    {
+      "position": "B2",
+      "title": "My Iron Lung",
+      "duration": "4:36"
+    },
+    {
+      "position": "B3",
+      "title": "Bullet Proof..I Wish I Was",
+      "duration": "3:28"
+    },
+    {
+      "position": "B4",
+      "title": "Black Star",
+      "duration": "4:03"
+    },
+    {
+      "position": "B5",
+      "title": "Sulk",
+      "duration": "3:42"
+    },
+    {
+      "position": "B6",
+      "title": "Street Spirit (Fade Out)",
+      "duration": "4:13"
+    }
+  ]
+}

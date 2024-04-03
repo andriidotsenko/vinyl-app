@@ -1,0 +1,63 @@
+{
+  "id": 382415,
+  "artist_id": 103687,
+  "artist": "Dire Straits",
+  "title": "Making Movies",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock"
+  ],
+  "release_date": "1980",
+  "year": 1980,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/9aGbPCzVoFNbkMrO-WbnErv_0ruknApWiyPNbzp-P2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjQx/NS0xMTcxMTM4MzEx/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/jXw4bIzZhYPtG9XLegleRSz4FZ6N7n2topLLt4TZhAk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjQx/NS0xMTcxMTM4MzEx/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "Intro",
+      "title": "Carousel Waltz",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Tunnel Of Love",
+      "duration": "8:09"
+    },
+    {
+      "position": "A2",
+      "title": "Romeo And Juliet",
+      "duration": "5:47"
+    },
+    {
+      "position": "A3",
+      "title": "Skateaway",
+      "duration": "6:32"
+    },
+    {
+      "position": "B1",
+      "title": "Expresso Love",
+      "duration": "5:17"
+    },
+    {
+      "position": "B2",
+      "title": "Hand In Hand",
+      "duration": "4:50"
+    },
+    {
+      "position": "B3",
+      "title": "Solid Rock",
+      "duration": "3:18"
+    },
+    {
+      "position": "B4",
+      "title": "Les Boys",
+      "duration": "4:07"
+    }
+  ]
+}

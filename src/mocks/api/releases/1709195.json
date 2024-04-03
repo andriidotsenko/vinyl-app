@@ -1,0 +1,83 @@
+{
+  "id": 1709195,
+  "artist_id": 219986,
+  "artist": "Bruce Springsteen",
+  "title": "Tunnel Of Love",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1987-10-09",
+  "year": 1987,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Ordl18ln9UklE1OcixYYnOb5M5AxPQyPA_5NBGma-yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDkx/OTUtMTYyMDU1OTky/MC0zNDY1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/iJSD4PkFK75mTJHQGoYbRdvEW16hbdPaq1_KiZ2YUJI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDkx/OTUtMTYyMDU1OTky/MC0zNDY1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Ain't Got You",
+      "duration": "2:06"
+    },
+    {
+      "position": "A2",
+      "title": "Tougher Than The Rest",
+      "duration": "4:35"
+    },
+    {
+      "position": "A3",
+      "title": "All That Heaven Will Allow",
+      "duration": "2:38"
+    },
+    {
+      "position": "A4",
+      "title": "Spare Parts",
+      "duration": "3:39"
+    },
+    {
+      "position": "A5",
+      "title": "Cautious Man",
+      "duration": "3:56"
+    },
+    {
+      "position": "A6",
+      "title": "Walk Like A Man",
+      "duration": "3:37"
+    },
+    {
+      "position": "B1",
+      "title": "Tunnel Of Love",
+      "duration": "5:11"
+    },
+    {
+      "position": "B2",
+      "title": "Two Faces",
+      "duration": "3:00"
+    },
+    {
+      "position": "B3",
+      "title": "Brilliant Disguise",
+      "duration": "4:15"
+    },
+    {
+      "position": "B4",
+      "title": "One Step Up",
+      "duration": "4:21"
+    },
+    {
+      "position": "B5",
+      "title": "When You're Alone",
+      "duration": "3:20"
+    },
+    {
+      "position": "B6",
+      "title": "Valentine's Day",
+      "duration": "5:10"
+    }
+  ]
+}

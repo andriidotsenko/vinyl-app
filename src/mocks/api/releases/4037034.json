@@ -1,0 +1,94 @@
+{
+  "id": 4037034,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "Revolver",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Psychedelic Rock"
+  ],
+  "release_date": "2012-11-12",
+  "year": 2012,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/yo4YGgVVGOlDNZW1OUEO2YL6KWA28vjxQUEQ3isI5js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzcw/MzQtMTYzMTk1Nzg3/Mi02NzY4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/rFDliKXms0111CONgefaWcbxNGFBWqbfhk_D8V499ek/rs:fit/g:sm/q:90/h:562/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzcw/MzQtMTYzMTk1Nzg3/Mi02NzY4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Taxman",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Eleanor Rigby",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "I'm Only Sleeping",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Love You To",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Here, There And Everywhere",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Yellow Submarine",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "She Said She Said",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Good Day Sunshine",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "And Your Bird Can Sing",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "For No One",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Doctor Robert",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "I Want To Tell You",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Got To Get You Into My Life",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Tomorrow Never Knows",
+      "duration": ""
+    }
+  ]
+}

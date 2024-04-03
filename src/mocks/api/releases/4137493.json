@@ -1,0 +1,54 @@
+{
+  "id": 4137493,
+  "artist_id": 45467,
+  "artist": "Pink Floyd",
+  "title": "Meddle",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Psychedelic Rock",
+    "Prog Rock"
+  ],
+  "release_date": "1971-11-05",
+  "year": 1971,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/c2vW3od8n_1yt77HQmyHC08A1DaxKY6MliCKXIXxusQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzc0/OTMtMTUzNzIxNjkz/NS05NzUzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/nlcHURJ-xZgDIezGAne4lRoiOZJYbb-qHxf7NMfwTQw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzc0/OTMtMTUzNzIxNjkz/NS05NzUzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "One Of These Days",
+      "duration": "5:50"
+    },
+    {
+      "position": "A2",
+      "title": "A Pillow Of Winds",
+      "duration": "5:10"
+    },
+    {
+      "position": "A3",
+      "title": "Fearless",
+      "duration": "6:03"
+    },
+    {
+      "position": "A4",
+      "title": "San Tropez",
+      "duration": "3:42"
+    },
+    {
+      "position": "A5",
+      "title": "Seamus",
+      "duration": "2:09"
+    },
+    {
+      "position": "B",
+      "title": "Echoes",
+      "duration": "23:31"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 459334,
+  "artist_id": 20991,
+  "artist": "The Rolling Stones",
+  "title": "Let It Bleed",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Rock & Roll",
+    "Country Rock"
+  ],
+  "release_date": "2003",
+  "year": 2003,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/dEBozyG8iJvbSZRkFHXyERpPAEdhASTzra07M7OLjb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTMz/NC0xNDIxOTY0ODMx/LTU0NzQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/uspWvrC3RED7HrKuOhMbdlv2-JhthY1Uu-4Fth9EzrI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTMz/NC0xNDIxOTY0ODMx/LTU0NzQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Gimmie Shelter",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Love In Vain",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Country Honk",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Live With Me",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Let It Bleed",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Midnight Rambler",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "You Got The Silver",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Monkey Man",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "You Can't Always Get What You Want",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": 707930,
+  "artist_id": 232157,
+  "artist": "Simon & Garfunkel",
+  "title": "Bookends",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Soft Rock",
+    "Pop Rock",
+    "Vocal"
+  ],
+  "release_date": "1968-04-00",
+  "year": 1968,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/6S_7sMKkw74PIMngutnfYNU-bLwfOaR43swLafWFnzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzkz/MC0xNDk1NDM5Mjc4/LTc3MjAuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/TqqdQavDE_DGVNdV3qpn7K-pS6F9SwJQ3mT-WUQi0C4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzkz/MC0xNDk1NDM5Mjc4/LTc3MjAuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Bookends Theme (Instrumental)",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Save The Life Of My Child",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "America",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Overs",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Voices Of Old People",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Old Friends",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "Bookends Theme",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Fakin' It",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Punky's Dilemma",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Mrs. Robinson",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "A Hazy Shade Of Winter",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "At The Zoo",
+      "duration": ""
+    }
+  ]
+}

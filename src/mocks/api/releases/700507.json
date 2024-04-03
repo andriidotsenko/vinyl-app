@@ -1,0 +1,73 @@
+{
+  "id": 700507,
+  "artist_id": 131970,
+  "artist": "Jefferson Starship",
+  "title": "Red Octopus",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock"
+  ],
+  "release_date": "1975",
+  "year": 1975,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/dxXTrCl3r7sNWQwFpTipfBED-5sVYGz2Wz2xYjlECew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDUw/Ny0xNDgxODQwMDQ3/LTk1OTAuZ2lm.jpeg",
+  "cover_image": "https://i.discogs.com/uzBLciI-ThHh6enOsANPbyiFYREP6WMVezytNUhVv7c/rs:fit/g:sm/q:90/h:499/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDUw/Ny0xNDgxODQwMDQ3/LTk1OTAuZ2lm.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Fast Buck Freddie",
+      "duration": "3:28"
+    },
+    {
+      "position": "A2",
+      "title": "Miracles",
+      "duration": "6:52"
+    },
+    {
+      "position": "A3",
+      "title": "Git Fiddler",
+      "duration": "3:08"
+    },
+    {
+      "position": "A4",
+      "title": "Ai Garimasu (There Is Love)",
+      "duration": "4:15"
+    },
+    {
+      "position": "A5",
+      "title": "Sweeter Than Honey",
+      "duration": "3:20"
+    },
+    {
+      "position": "B1",
+      "title": "Play On Love",
+      "duration": "3:44"
+    },
+    {
+      "position": "B2",
+      "title": "Tumblin",
+      "duration": "3:27"
+    },
+    {
+      "position": "B3",
+      "title": "I Want To See Another World",
+      "duration": "4:34"
+    },
+    {
+      "position": "B4",
+      "title": "Sandalphon",
+      "duration": "4:08"
+    },
+    {
+      "position": "B5",
+      "title": "There Will Be Love",
+      "duration": "5:04"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": 676961,
+  "artist_id": 95886,
+  "artist": "Daryl Hall & John Oates",
+  "title": "H₂O",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Pop Rock",
+    "Synth-pop"
+  ],
+  "release_date": "1982",
+  "year": 1982,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/RtQnw80AMJHpweL-t-nazi7zSO-uY8gxrKBesQhyjdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Njk2/MS0xMzA0NDc2NTYw/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/KW57ZjSy71dIpZOVbm2jEx6zKagd8R_NUmGzfjJA-HU/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Njk2/MS0xMzA0NDc2NTYw/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "A Side",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Maneater",
+      "duration": "4:34"
+    },
+    {
+      "position": "A2",
+      "title": "Crime Pays",
+      "duration": "4:32"
+    },
+    {
+      "position": "A3",
+      "title": "Art Of Heartbreak",
+      "duration": "3:43"
+    },
+    {
+      "position": "A4",
+      "title": "One On One",
+      "duration": "4:28"
+    },
+    {
+      "position": "A5",
+      "title": "Open All Night",
+      "duration": "4:34"
+    },
+    {
+      "position": "",
+      "title": "Side One",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Family Man",
+      "duration": "3:26"
+    },
+    {
+      "position": "B2",
+      "title": "Italian Girls",
+      "duration": "3:18"
+    },
+    {
+      "position": "B3",
+      "title": "Guessing Games",
+      "duration": "3:15"
+    },
+    {
+      "position": "B4",
+      "title": "Delayed Reaction",
+      "duration": "4:00"
+    },
+    {
+      "position": "B5",
+      "title": "At Tension",
+      "duration": "6:16"
+    },
+    {
+      "position": "B6",
+      "title": "Go Solo",
+      "duration": "4:34"
+    }
+  ]
+}

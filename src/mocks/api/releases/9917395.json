@@ -1,0 +1,104 @@
+{
+  "id": 9917395,
+  "artist_id": 2184482,
+  "artist": "Ed Sheeran",
+  "title": "÷ (Divide)",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "2017-03-03",
+  "year": 2017,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/UFfF9YBiVdmymU1dvDzuliyrxyqewatQ_40Ds-FixlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTcz/OTUtMTQ4ODUxMzA0/MC02Nzg2LnBuZw.jpeg",
+  "cover_image": "https://i.discogs.com/anC0rN9ydBhnbnLLLbmc3x95R4nsFRh4ZbrwwyeurG8/rs:fit/g:sm/q:90/h:480/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTcz/OTUtMTQ4ODUxMzA0/MC02Nzg2LnBuZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Eraser ",
+      "duration": "3:46"
+    },
+    {
+      "position": "A2",
+      "title": "Castle On The Hill",
+      "duration": "4:21"
+    },
+    {
+      "position": "A3",
+      "title": "Dive",
+      "duration": "3:57"
+    },
+    {
+      "position": "A4",
+      "title": "Shape Of You",
+      "duration": "3:51"
+    },
+    {
+      "position": "B1",
+      "title": "Perfect ",
+      "duration": "4:22"
+    },
+    {
+      "position": "B2",
+      "title": "Galway Girl",
+      "duration": "2:49"
+    },
+    {
+      "position": "B3",
+      "title": "Happier",
+      "duration": "3:26"
+    },
+    {
+      "position": "B4",
+      "title": "New Man",
+      "duration": "3:07"
+    },
+    {
+      "position": "C1",
+      "title": "Hearts Don't Break Around Here",
+      "duration": "4:07"
+    },
+    {
+      "position": "C2",
+      "title": "What Do I Know?",
+      "duration": "3:55"
+    },
+    {
+      "position": "C3",
+      "title": "How Would You Feel (Paean)",
+      "duration": "4:38"
+    },
+    {
+      "position": "C4",
+      "title": "Supermarket Flowers",
+      "duration": "3:37"
+    },
+    {
+      "position": "D1",
+      "title": "Barcelona ",
+      "duration": "3:09"
+    },
+    {
+      "position": "D2",
+      "title": "Bibia Be Ye Ye",
+      "duration": "2:54"
+    },
+    {
+      "position": "D3",
+      "title": "Nancy Mulligan",
+      "duration": "2:56"
+    },
+    {
+      "position": "D4",
+      "title": "Save Myself",
+      "duration": "4:04"
+    }
+  ]
+}

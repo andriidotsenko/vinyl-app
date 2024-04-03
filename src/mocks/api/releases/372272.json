@@ -1,0 +1,75 @@
+{
+  "id": 372272,
+  "artist_id": 251517,
+  "artist": "Supertramp",
+  "title": "Breakfast In America",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Art Rock"
+  ],
+  "release_date": "1979",
+  "year": 1979,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/o4nIfI3j3lHtOraumJFGCWDD7qVU1JaGXcv66MN9ukw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/Mi0xMzgwNzExOTk5/LTgxMTUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/roC75Kr8x7cwYCHMoB96QpPX_mb971dfMqBOXsShSA8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/Mi0xMzgwNzExOTk5/LTgxMTUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Gone Hollywood",
+      "duration": "5:14"
+    },
+    {
+      "position": "A2",
+      "title": "The Logical Song",
+      "duration": "4:08"
+    },
+    {
+      "position": "A3",
+      "title": "Goodbye Stranger",
+      "duration": "5:47"
+    },
+    {
+      "position": "A4",
+      "title": "Breakfast In America",
+      "duration": "2:37"
+    },
+    {
+      "position": "A5",
+      "title": "Oh Darling",
+      "duration": "4:01"
+    },
+    {
+      "position": "B1",
+      "title": "Take The Long Way Home",
+      "duration": "5:02"
+    },
+    {
+      "position": "B2",
+      "title": "Lord Is It Mine",
+      "duration": "4:04"
+    },
+    {
+      "position": "B3",
+      "title": "Just Another Nervous Wreck",
+      "duration": "4:22"
+    },
+    {
+      "position": "B4",
+      "title": "Casual Conversations",
+      "duration": "2:58"
+    },
+    {
+      "position": "B5",
+      "title": "Child Of Vision",
+      "duration": "7:23"
+    }
+  ]
+}

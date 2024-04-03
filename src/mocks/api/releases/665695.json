@@ -1,0 +1,74 @@
+{
+  "id": 665695,
+  "artist_id": 160130,
+  "artist": "Pat Benatar",
+  "title": "Crimes Of Passion",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1980",
+  "year": 1980,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/o4oDFYq1MeQWKHsiscPXp0TYhm6GwoWDrtxMRDmbLiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTY5/NS0xNDU0ODc4MzA5/LTI3NzguanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/sPB7zMxJxaeFEThZsQAtpbCtJDOZ12ICgXsS4kBMbEU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTY5/NS0xNDU0ODc4MzA5/LTI3NzguanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Treat Me Right",
+      "duration": "3:24"
+    },
+    {
+      "position": "A2",
+      "title": "You Better Run",
+      "duration": "3:02"
+    },
+    {
+      "position": "A3",
+      "title": "Never Wanna Leave You",
+      "duration": "3:13"
+    },
+    {
+      "position": "A4",
+      "title": "Hit Me With Your Best Shot",
+      "duration": "2:51"
+    },
+    {
+      "position": "A5",
+      "title": "Hell Is For Children",
+      "duration": "4:48"
+    },
+    {
+      "position": "B1",
+      "title": "Little Paradise",
+      "duration": "3:32"
+    },
+    {
+      "position": "B2",
+      "title": "I'm Gonna Follow You",
+      "duration": "4:28"
+    },
+    {
+      "position": "B3",
+      "title": "Wuthering Heights",
+      "duration": "4:28"
+    },
+    {
+      "position": "B4",
+      "title": "Prisoner Of Love",
+      "duration": "3:05"
+    },
+    {
+      "position": "B5",
+      "title": "Out-A-Touch",
+      "duration": "4:16"
+    }
+  ]
+}

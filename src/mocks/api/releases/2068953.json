@@ -1,0 +1,131 @@
+{
+  "id": 2068953,
+  "artist_id": 194,
+  "artist": "Various",
+  "title": "Pulp Fiction (Music From The Motion Picture)",
+  "all_genres": [
+    4,
+    2,
+    13,
+    6
+  ],
+  "genre": 4,
+  "styles": [
+    "Surf",
+    "Rock & Roll",
+    "Dialogue",
+    "Soul",
+    "Soundtrack",
+    "Funk"
+  ],
+  "release_date": "2008-12-09",
+  "year": 2008,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/KbppDgf2B9CLS-j2DF8hb9hm9RcgkWX7QczOOC3k5zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjg5/NTMtMTY0MTA1OTc5/MC00MDAzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/bMEU1aKZsTrPRzJ9FkWvBE18G_AuN21CmAt8jjtJLdY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjg5/NTMtMTY0MTA1OTc5/MC00MDAzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1a",
+      "title": "Pumpkin And Honey Bunny",
+      "duration": "0:11"
+    },
+    {
+      "position": "A1b",
+      "title": "Misirlou",
+      "duration": "2:16"
+    },
+    {
+      "position": "A2",
+      "title": "Royale With Cheese",
+      "duration": "1:43"
+    },
+    {
+      "position": "A3",
+      "title": "Jungle Boogie",
+      "duration": "3:05"
+    },
+    {
+      "position": "A4",
+      "title": "Let's Stay Together",
+      "duration": "3:15"
+    },
+    {
+      "position": "A5",
+      "title": "Bustin' Surfboards",
+      "duration": "2:27"
+    },
+    {
+      "position": "A6",
+      "title": "Lonesome Town",
+      "duration": "2:13"
+    },
+    {
+      "position": "A7",
+      "title": "Son Of A Preacher Man",
+      "duration": "2:26"
+    },
+    {
+      "position": "A8a",
+      "title": "Zed's Dead, Baby",
+      "duration": "0:12"
+    },
+    {
+      "position": "A8b",
+      "title": "Bullwinkle Part II",
+      "duration": "2:18"
+    },
+    {
+      "position": "B1a",
+      "title": "Jack Rabbit Slims Twist Contest",
+      "duration": "0:32"
+    },
+    {
+      "position": "B1b",
+      "title": "You Never Can Tell",
+      "duration": "2:40"
+    },
+    {
+      "position": "B2",
+      "title": "Girl, You'll Be A Woman Soon",
+      "duration": "3:10"
+    },
+    {
+      "position": "B3",
+      "title": "If Love Is A Red Dress (Hang Me In Rags)",
+      "duration": "4:55"
+    },
+    {
+      "position": "B4a",
+      "title": "Bring Out The Gimp",
+      "duration": "0:08"
+    },
+    {
+      "position": "B4b",
+      "title": "Comanche",
+      "duration": "2:04"
+    },
+    {
+      "position": "B5",
+      "title": "Flowers On The Wall",
+      "duration": "2:23"
+    },
+    {
+      "position": "B6",
+      "title": "Personality Goes A Long Way",
+      "duration": "1:01"
+    },
+    {
+      "position": "B7",
+      "title": "Surf Rider",
+      "duration": "3:19"
+    },
+    {
+      "position": "B8",
+      "title": "Ezekiel 25:17",
+      "duration": "0:52"
+    }
+  ]
+}

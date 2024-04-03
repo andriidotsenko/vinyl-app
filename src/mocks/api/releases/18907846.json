@@ -1,0 +1,115 @@
+{
+  "id": 18907846,
+  "artist_id": 1124645,
+  "artist": "Taylor Swift",
+  "title": "Evermore",
+  "all_genres": [
+    4,
+    3,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "2021-05-28",
+  "year": 2021,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/BAAhZiD6NC-tQZO_EtkCKasKI5SeEjztdm2PDrLX3gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTA3/ODQ2LTE2MjIxOTky/ODAtNDExNy5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/zII3bdh9cvLe7YyfuSM1WJTZLokpztJF1rXKSJuMD_8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTA3/ODQ2LTE2MjIxOTky/ODAtNDExNy5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Willow",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Champagne Problems",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Gold Rush",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "‘Tis The Damn Season",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Tolerate It",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "No Body, No Crime",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Happiness",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Dorothea",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Coney Island",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Ivy",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Cowboy Like Me",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Long Story Short",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Marjorie",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Closure",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Evermore",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Bonus Tracks",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Right Where You Left Me",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "It's Time To Go",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": 7568442,
+  "artist_id": 1778977,
+  "artist": "Kendrick Lamar",
+  "title": "To Pimp A Butterfly",
+  "all_genres": [
+    5,
+    2
+  ],
+  "genre": 5,
+  "styles": [
+    "Conscious",
+    "Jazzy Hip-Hop"
+  ],
+  "release_date": "2015-09-25",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/qReGPRFvpLPMnidpfOI_uN3HnlnuUQkWBgkvE7yah-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTQ0NDIxMjgw/Ny03MzMxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/uyNREpCzq3Qt3jaKkfrEBTiqVoFO03P2Q1wrWh6qzAE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTQ0NDIxMjgw/Ny03MzMxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Wesley's Theory",
+      "duration": "4:47"
+    },
+    {
+      "position": "A2",
+      "title": "For Free? (Interlude)",
+      "duration": "2:10"
+    },
+    {
+      "position": "A3",
+      "title": "King Kunta",
+      "duration": "3:54"
+    },
+    {
+      "position": "A4",
+      "title": "Institutionalized",
+      "duration": "4:31"
+    },
+    {
+      "position": "A5",
+      "title": "These Walls",
+      "duration": "5:00"
+    },
+    {
+      "position": "B1",
+      "title": "U",
+      "duration": "4:28"
+    },
+    {
+      "position": "B2",
+      "title": "Alright",
+      "duration": "3:39"
+    },
+    {
+      "position": "B3",
+      "title": "For Sale? (Interlude)",
+      "duration": "4:51"
+    },
+    {
+      "position": "B4",
+      "title": "Momma",
+      "duration": "4:43"
+    },
+    {
+      "position": "C1",
+      "title": "Hood Politics",
+      "duration": "4:52"
+    },
+    {
+      "position": "C2",
+      "title": "How Much A Dollar Cost",
+      "duration": "4:21"
+    },
+    {
+      "position": "C3",
+      "title": "Complexion (A Zulu Love)",
+      "duration": "4:23"
+    },
+    {
+      "position": "C4",
+      "title": "The Blacker The Berry",
+      "duration": "5:28"
+    },
+    {
+      "position": "D1",
+      "title": "You Aint Gotta Lie (Momma Said)",
+      "duration": "4:01"
+    },
+    {
+      "position": "D2",
+      "title": "I",
+      "duration": "5:36"
+    },
+    {
+      "position": "D3",
+      "title": "Mortal Man",
+      "duration": "12:07"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 464292,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "Magical Mystery Tour",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Psychedelic Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1967-11-27",
+  "year": 1967,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/rlBEW2_fnog2cAZTH_T4kMxM2TVjTQwUtu6vMEvOMhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDI5/Mi0xNDM0NjY1MjM4/LTM3MDIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/TMS7SaJzPt6PQXdRjwM9LpgvyMTU3mcyvCBRA_14Eio/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDI5/Mi0xNDM0NjY1MjM4/LTM3MDIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Magical Mystery Tour",
+      "duration": "2:48"
+    },
+    {
+      "position": "A2",
+      "title": "The Fool On The Hill",
+      "duration": "3:00"
+    },
+    {
+      "position": "A3",
+      "title": "Flying",
+      "duration": "2:16"
+    },
+    {
+      "position": "A4",
+      "title": "Blue Jay Way",
+      "duration": "3:50"
+    },
+    {
+      "position": "A5",
+      "title": "Your Mother Should Know",
+      "duration": "2:33"
+    },
+    {
+      "position": "A6",
+      "title": "I Am The Walrus",
+      "duration": "4:35"
+    },
+    {
+      "position": "B1",
+      "title": "Hello Goodbye",
+      "duration": "3:24"
+    },
+    {
+      "position": "B2",
+      "title": "Strawberry Fields Forever",
+      "duration": "4:05"
+    },
+    {
+      "position": "B3",
+      "title": "Penny Lane",
+      "duration": "2:57"
+    },
+    {
+      "position": "B4",
+      "title": "Baby You're A Rich Man",
+      "duration": "3:07"
+    },
+    {
+      "position": "B5",
+      "title": "All You Need Is Love",
+      "duration": "3:57"
+    }
+  ]
+}

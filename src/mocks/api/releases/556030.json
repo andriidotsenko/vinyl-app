@@ -1,0 +1,74 @@
+{
+  "id": 556030,
+  "artist_id": 84752,
+  "artist": "AC/DC",
+  "title": "Back In Black",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Classic Rock"
+  ],
+  "release_date": "1980",
+  "year": 1980,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/0w01Akzs-Leq1zeqoi90W0fUFjyMEdGDgRol8RwnCu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjAz/MC0xNTkyNzc2Njk4/LTM3NDMuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/lTTXhZ_WbGo5gei3vxoS9eKWfYOuRUuszGK2SAzt-Pk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjAz/MC0xNTkyNzc2Njk4/LTM3NDMuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hells Bells",
+      "duration": "5:09"
+    },
+    {
+      "position": "A2",
+      "title": "Shoot To Thrill",
+      "duration": "5:14"
+    },
+    {
+      "position": "A3",
+      "title": "What Do You Do For Money Honey",
+      "duration": "3:33"
+    },
+    {
+      "position": "A4",
+      "title": "Given The Dog A Bone",
+      "duration": "3:30"
+    },
+    {
+      "position": "A5",
+      "title": "Let Me Put My Love Into You",
+      "duration": "4:12"
+    },
+    {
+      "position": "B1",
+      "title": "Back In Black",
+      "duration": "4:13"
+    },
+    {
+      "position": "B2",
+      "title": "You Shook Me All Night Long",
+      "duration": "3:28"
+    },
+    {
+      "position": "B3",
+      "title": "Have A Drink On Me",
+      "duration": "3:57"
+    },
+    {
+      "position": "B4",
+      "title": "Shake A Leg",
+      "duration": "4:03"
+    },
+    {
+      "position": "B5",
+      "title": "Rock And Roll Ain't Noise Pollution",
+      "duration": "4:12"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": 3255473,
+  "artist_id": 28970,
+  "artist": "The Smashing Pumpkins",
+  "title": "Siamese Dream",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock"
+  ],
+  "release_date": "2011-11-29",
+  "year": 2011,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Wzbcu2010BXK4Bof2bAuv3wPSTCkt8m3w_QIwI5Fzuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU0/NzMtMTUxODgyNzk3/MS0xOTg3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/pL3rARtwDDyN4-M3i5wYbdISURP73LIrP_s6vaoaZdw/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU0/NzMtMTUxODgyNzk3/MS0xOTg3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Cherub Rock",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Quiet",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Today",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Hummer",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Rocket",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Disarm",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Soma",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Geek U.S.A.",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Mayonaise",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Spaceboy",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Silverfuck",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Sweet Sweet",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Luna",
+      "duration": ""
+    }
+  ]
+}

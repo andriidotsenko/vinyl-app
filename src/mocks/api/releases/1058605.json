@@ -1,0 +1,169 @@
+{
+  "id": 1058605,
+  "artist_id": 100752,
+  "artist": "2Pac",
+  "title": "All Eyez On Me",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Gangsta",
+    "G-Funk"
+  ],
+  "release_date": "2001-05-22",
+  "year": 2001,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/FcqNuNfRfjOuMG19v_SMA7WISHQzhEOqEhm-GqQ-3vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/MDUtMTYzOTA0MjY5/Ni01NDIxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/PnszeAPOw97Cd3RmJvIo3zKNOPFMx01DhJXqBiusDco/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/MDUtMTYzOTA0MjY5/Ni01NDIxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Book 1",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Ambitionz Az A Ridah",
+      "duration": "4:39"
+    },
+    {
+      "position": "A2",
+      "title": "All About U",
+      "duration": "4:37"
+    },
+    {
+      "position": "A3",
+      "title": "Skandalouz",
+      "duration": "4:09"
+    },
+    {
+      "position": "B1",
+      "title": "Got My Mind Made Up",
+      "duration": "5:13"
+    },
+    {
+      "position": "B2",
+      "title": "How Do U Want It",
+      "duration": "4:47"
+    },
+    {
+      "position": "B3",
+      "title": "2 Of Amerikaz Most Wanted",
+      "duration": "4:07"
+    },
+    {
+      "position": "C1",
+      "title": "No More Pain",
+      "duration": "6:14"
+    },
+    {
+      "position": "C2",
+      "title": "Heartz Of Men",
+      "duration": "4:43"
+    },
+    {
+      "position": "C3",
+      "title": "Life Goes On",
+      "duration": "5:02"
+    },
+    {
+      "position": "C4",
+      "title": "Only God Can Judge Me",
+      "duration": "4:57"
+    },
+    {
+      "position": "D1",
+      "title": "Tradin War Stories",
+      "duration": "5:29"
+    },
+    {
+      "position": "D2",
+      "title": "California Love (Rmx)",
+      "duration": "6:25"
+    },
+    {
+      "position": "D3",
+      "title": "I Ain't Mad At Cha",
+      "duration": "4:53"
+    },
+    {
+      "position": "D4",
+      "title": "What'z Ya Phone #",
+      "duration": "5:10"
+    },
+    {
+      "position": "",
+      "title": "Book 2",
+      "duration": ""
+    },
+    {
+      "position": "E1",
+      "title": "Can't C Me",
+      "duration": "5:30"
+    },
+    {
+      "position": "E2",
+      "title": "Shorty Wanna Be A Thug",
+      "duration": "3:51"
+    },
+    {
+      "position": "E3",
+      "title": "Holla At Me",
+      "duration": "4:56"
+    },
+    {
+      "position": "E4",
+      "title": "Wonda Why They Call U Bytch",
+      "duration": "4:19"
+    },
+    {
+      "position": "F1",
+      "title": "When We Ride",
+      "duration": "5:09"
+    },
+    {
+      "position": "F2",
+      "title": "Thug Passion",
+      "duration": "5:08"
+    },
+    {
+      "position": "F3",
+      "title": "Picture Me Rollin'",
+      "duration": "5:15"
+    },
+    {
+      "position": "G1",
+      "title": "Check Out Time",
+      "duration": "4:39"
+    },
+    {
+      "position": "G2",
+      "title": "Ratha Be Ya Nigga",
+      "duration": "4:14"
+    },
+    {
+      "position": "G3",
+      "title": "All Eyez On Me",
+      "duration": "5:08"
+    },
+    {
+      "position": "H1",
+      "title": "Run Tha Streetz",
+      "duration": "5:17"
+    },
+    {
+      "position": "H2",
+      "title": "Ain't Hard 2 Find",
+      "duration": "4:29"
+    },
+    {
+      "position": "H3",
+      "title": "Heaven Ain't Hard 2 Find",
+      "duration": "3:58"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": 470912,
+  "artist_id": 29890,
+  "artist": "The Clash",
+  "title": "London Calling",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Punk",
+    "New Wave"
+  ],
+  "release_date": "1979-12-14",
+  "year": 1979,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/O-KA3B6HBYOoy8DohltOuwxXW1EL_52p5dldyT1IOiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDkx/Mi0xNjA3NzYxMTgy/LTU4MjQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/vKxXel-d8v2rK-XYAVEaEi6d-2SgwXHxsVF8D17_-lI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDkx/Mi0xNjA3NzYxMTgy/LTU4MjQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "London Calling",
+      "duration": "3:17"
+    },
+    {
+      "position": "A2",
+      "title": "Brand New Cadillac",
+      "duration": "2:05"
+    },
+    {
+      "position": "A3",
+      "title": "Jimmy Jazz",
+      "duration": "3:51"
+    },
+    {
+      "position": "A4",
+      "title": "Hateful",
+      "duration": "2:42"
+    },
+    {
+      "position": "A5",
+      "title": "Rudie Can't Fail",
+      "duration": "3:25"
+    },
+    {
+      "position": "B1",
+      "title": "Spanish Bombs",
+      "duration": "3:17"
+    },
+    {
+      "position": "B2",
+      "title": "The Right Profile",
+      "duration": "3:50"
+    },
+    {
+      "position": "B3",
+      "title": "Lost In The Supermarket",
+      "duration": "3:43"
+    },
+    {
+      "position": "B4",
+      "title": "Clampdown",
+      "duration": "3:45"
+    },
+    {
+      "position": "B5",
+      "title": "The Guns Of Brixton",
+      "duration": "3:08"
+    },
+    {
+      "position": "C1",
+      "title": "Wrong 'Em Boyo",
+      "duration": "3:08"
+    },
+    {
+      "position": "C2",
+      "title": "Death Or Glory",
+      "duration": "3:52"
+    },
+    {
+      "position": "C3",
+      "title": "Koka Kola",
+      "duration": "1:44"
+    },
+    {
+      "position": "C4",
+      "title": "The Card Cheat",
+      "duration": "3:44"
+    },
+    {
+      "position": "D1",
+      "title": "Lover's Rock",
+      "duration": "3:59"
+    },
+    {
+      "position": "D2",
+      "title": "Four Horsemen",
+      "duration": "2:55"
+    },
+    {
+      "position": "D3",
+      "title": "I'm Not Down",
+      "duration": "3:03"
+    },
+    {
+      "position": "D4",
+      "title": "Revolution Rock",
+      "duration": "5:29"
+    },
+    {
+      "position": "D5",
+      "title": "Train In Vain",
+      "duration": "3:02"
+    }
+  ]
+}

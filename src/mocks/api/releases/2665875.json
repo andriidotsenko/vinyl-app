@@ -1,0 +1,73 @@
+{
+  "id": 2665875,
+  "artist_id": 255680,
+  "artist": "Eagles",
+  "title": "Their Greatest Hits 1971-1975",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock"
+  ],
+  "release_date": "1976",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/6Uk2lUr5VxfBqCDiTfd6s0JuZ_dJjqMwkPZjLxVsmmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU4/NzUtMTM2NTM4NDEx/Ny01NjM5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/MbeKggupL5JQgJxVgVOG-TaS1tpyi_iLiwmgttM8PSc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU4/NzUtMTM2NTM4NDEx/Ny01NjM5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Take It Easy",
+      "duration": "3:29"
+    },
+    {
+      "position": "A2",
+      "title": "Witchy Woman",
+      "duration": "4:10"
+    },
+    {
+      "position": "A3",
+      "title": "Lyin' Eyes",
+      "duration": "6:21"
+    },
+    {
+      "position": "A4",
+      "title": "Already Gone",
+      "duration": "4:13"
+    },
+    {
+      "position": "A5",
+      "title": "Desperado",
+      "duration": "3:33"
+    },
+    {
+      "position": "B1",
+      "title": "One Of These Nights",
+      "duration": "4:51"
+    },
+    {
+      "position": "B2",
+      "title": "Tequila Sunrise",
+      "duration": "2:52"
+    },
+    {
+      "position": "B3",
+      "title": "Take It To The Limit",
+      "duration": "4:48"
+    },
+    {
+      "position": "B4",
+      "title": "Peaceful, Easy Feeling",
+      "duration": "4:16"
+    },
+    {
+      "position": "B5",
+      "title": "Best Of My Love",
+      "duration": "4:35"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 423056,
+  "artist_id": 10263,
+  "artist": "David Bowie",
+  "title": "Scary Monsters",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Art Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1980-09-12",
+  "year": 1980,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/gEPu1mKWWJQSwtB5criLHjUfHPLpKvSHMAa2pN2F-W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzA1/Ni0xNDc5NjM4MTMx/LTgwNTkuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/4Ftk3qhyaCMlMD24alyKx9pcqzcZh7Bi_BJmbs7LtEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzA1/Ni0xNDc5NjM4MTMx/LTgwNTkuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "It's No Game (No. 1)",
+      "duration": "4:17"
+    },
+    {
+      "position": "A2",
+      "title": "Up The Hill Backwards",
+      "duration": "3:13"
+    },
+    {
+      "position": "A3",
+      "title": "Scary Monsters (And Super Creeps)",
+      "duration": "5:10"
+    },
+    {
+      "position": "A4",
+      "title": "Ashes To Ashes",
+      "duration": "4:24"
+    },
+    {
+      "position": "A5",
+      "title": "Fashion",
+      "duration": "4:48"
+    },
+    {
+      "position": "B1",
+      "title": "Teenage Wildlife",
+      "duration": "6:55"
+    },
+    {
+      "position": "B2",
+      "title": "Scream Like A Baby",
+      "duration": "3:35"
+    },
+    {
+      "position": "B3",
+      "title": "Kingdom Come",
+      "duration": "3:42"
+    },
+    {
+      "position": "B4",
+      "title": "Because You're Young",
+      "duration": "4:51"
+    },
+    {
+      "position": "B5",
+      "title": "It's No Game (No. 2)",
+      "duration": "4:20"
+    }
+  ]
+}

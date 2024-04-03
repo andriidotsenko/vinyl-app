@@ -1,0 +1,73 @@
+{
+  "id": 788029,
+  "artist_id": 254408,
+  "artist": "Kansas",
+  "title": "Point Of Know Return",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Prog Rock"
+  ],
+  "release_date": "1977",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/89fcaOO1kC9yCIkS4MqbEpSyxOOoCtrP70v5is6Bh6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODAy/OS0xNDE2MDIwODYx/LTg3MzIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/gf3RxchDpYw8FYZYd4wEwgL0c6ozmnKkhWXa6st0qts/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODAy/OS0xNDE2MDIwODYx/LTg3MzIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Point Of Know Return",
+      "duration": "3:11"
+    },
+    {
+      "position": "A2",
+      "title": "Paradox",
+      "duration": "3:49"
+    },
+    {
+      "position": "A3",
+      "title": "The Spider",
+      "duration": "2:08"
+    },
+    {
+      "position": "A4",
+      "title": "Portrait (He Knew)",
+      "duration": "4:32"
+    },
+    {
+      "position": "A5",
+      "title": "Closet Chronicles",
+      "duration": "6:30"
+    },
+    {
+      "position": "B1",
+      "title": "Lightning's Hand",
+      "duration": "4:21"
+    },
+    {
+      "position": "B2",
+      "title": "Dust In The Wind",
+      "duration": "3:26"
+    },
+    {
+      "position": "B3",
+      "title": "Sparks Of The Tempest",
+      "duration": "4:15"
+    },
+    {
+      "position": "B4",
+      "title": "Nobody's Home",
+      "duration": "4:37"
+    },
+    {
+      "position": "B5",
+      "title": "Hopelessly Human",
+      "duration": "7:10"
+    }
+  ]
+}

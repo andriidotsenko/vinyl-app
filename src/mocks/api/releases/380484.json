@@ -1,0 +1,69 @@
+{
+  "id": 380484,
+  "artist_id": 48424,
+  "artist": "Aerosmith",
+  "title": "\"Rocks\"",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Blues Rock"
+  ],
+  "release_date": "1976",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/F396dK7CR-bBgW-MnjaUhxjZsyAfRzuNSdPMdLhyoOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDQ4/NC0xNTU3NjAzMzE3/LTU4MDMuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/5CwSh2-WOdzPr5Hrfw4HOGD_8C1JlgXX-eoWelw4m_A/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDQ4/NC0xNTU3NjAzMzE3/LTU4MDMuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Back In The Saddle",
+      "duration": "4:40"
+    },
+    {
+      "position": "A2",
+      "title": "Last Child",
+      "duration": "3:27"
+    },
+    {
+      "position": "A3",
+      "title": "Rats In The Cellar",
+      "duration": "4:02"
+    },
+    {
+      "position": "A4",
+      "title": "Combination",
+      "duration": "3:38"
+    },
+    {
+      "position": "B1",
+      "title": "Sick As A Dog",
+      "duration": "4:25"
+    },
+    {
+      "position": "B2",
+      "title": "Nobody's Fault",
+      "duration": "4:40"
+    },
+    {
+      "position": "B3",
+      "title": "Get The Lead Out",
+      "duration": "3:42"
+    },
+    {
+      "position": "B4",
+      "title": "Lick And A Promise",
+      "duration": "3:04"
+    },
+    {
+      "position": "B5",
+      "title": "Home Tonight",
+      "duration": "3:15"
+    }
+  ]
+}

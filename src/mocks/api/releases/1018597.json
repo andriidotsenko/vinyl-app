@@ -1,0 +1,82 @@
+{
+  "id": 1018597,
+  "artist_id": 252102,
+  "artist": "Creedence Clearwater Revival",
+  "title": "Cosmo's Factory",
+  "all_genres": [
+    4,
+    9
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Rock & Roll",
+    "Southern Rock",
+    "Classic Rock"
+  ],
+  "release_date": "1970-07-00",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/M-3sN5Fsjua09jsKhu-oS7xTbM0T0dD8uIZB59VcBLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg1/OTctMTIxMTk4MjMy/My5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/WWm1HQB-5T9IQxF4InwI3o0EGkGG93cCqsJYtqlY37E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg1/OTctMTIxMTk4MjMy/My5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Ramble Tamble",
+      "duration": "7:09"
+    },
+    {
+      "position": "A2",
+      "title": "Before You Accuse Me",
+      "duration": "3:24"
+    },
+    {
+      "position": "A3",
+      "title": "Travelin' Band",
+      "duration": "2:07"
+    },
+    {
+      "position": "A4",
+      "title": "Ooby Dooby",
+      "duration": "2:05"
+    },
+    {
+      "position": "A5",
+      "title": "Lookin' Out My Back Door",
+      "duration": "2:31"
+    },
+    {
+      "position": "A6",
+      "title": "Run Through The Jungle",
+      "duration": "3:09"
+    },
+    {
+      "position": "B1",
+      "title": "Up Around The Bend",
+      "duration": "2:40"
+    },
+    {
+      "position": "B2",
+      "title": "My Baby Left Me",
+      "duration": "2:17"
+    },
+    {
+      "position": "B3",
+      "title": "Who'll Stop The Rain",
+      "duration": "2:28"
+    },
+    {
+      "position": "B4",
+      "title": "I Heard It Through The Grapevine",
+      "duration": "11:05"
+    },
+    {
+      "position": "B5",
+      "title": "Long As I Can See The Light",
+      "duration": "3:33"
+    }
+  ]
+}

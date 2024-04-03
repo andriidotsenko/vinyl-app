@@ -1,0 +1,60 @@
+{
+  "id": 3020121,
+  "artist_id": 110253,
+  "artist": "The Allman Brothers Band",
+  "title": "Brothers And Sisters",
+  "all_genres": [
+    4,
+    9
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Southern Rock"
+  ],
+  "release_date": "1973",
+  "year": 1973,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/FzH0ZUpFXSkdBrRUKKzJvMO_i_wtGkHRx6QrB6X9Cqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAx/MjEtMTYxNzk5OTYw/OS01ODMyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/cfSPWz-vzcirmI2U1khbF9jcTgZ_0efoKCcom8bDg4U/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAx/MjEtMTYxNzk5OTYw/OS01ODMyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Wasted Words",
+      "duration": "4:19"
+    },
+    {
+      "position": "A2",
+      "title": "Ramblin Man",
+      "duration": "4:46"
+    },
+    {
+      "position": "A3",
+      "title": "Come And Go Blues",
+      "duration": "4:52"
+    },
+    {
+      "position": "A4",
+      "title": "Jelly Jelly",
+      "duration": "5:47"
+    },
+    {
+      "position": "B1",
+      "title": "Southbound",
+      "duration": "5:07"
+    },
+    {
+      "position": "B2",
+      "title": "Jessica",
+      "duration": "7:02"
+    },
+    {
+      "position": "B3",
+      "title": "Pony Boy",
+      "duration": "5:50"
+    }
+  ]
+}

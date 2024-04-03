@@ -1,0 +1,69 @@
+{
+  "id": 8162088,
+  "artist_id": 10263,
+  "artist": "David Bowie",
+  "title": "Hunky Dory",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Glam",
+    "Pop Rock"
+  ],
+  "release_date": "2016-02-26",
+  "year": 2016,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/5E3Kw3H8cLvgIZtx_6T-Cey5PPxdvjyt3yiSEDBI3EQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjIw/ODgtMTQ3MDc3NDI1/NS0yOTQ0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/IZRdkq5nssuixWy1OaXshzUlLIYf-pWoep_zfBNxaaw/rs:fit/g:sm/q:90/h:602/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjIw/ODgtMTQ3MDc3NDI1/NS0yOTQ0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Changes",
+      "duration": "2:32"
+    },
+    {
+      "position": "",
+      "title": "Oh! You Pretty Things/Eight Line Poem",
+      "duration": "6:04"
+    },
+    {
+      "position": "A4",
+      "title": "Life On Mars?",
+      "duration": "3:45"
+    },
+    {
+      "position": "A5",
+      "title": "Kooks",
+      "duration": "2:45"
+    },
+    {
+      "position": "A6",
+      "title": "Quicksand",
+      "duration": "5:03"
+    },
+    {
+      "position": "",
+      "title": "Fill Your Heart/Andy Warhol",
+      "duration": "7:02"
+    },
+    {
+      "position": "B3",
+      "title": "Song For Bob Dylan",
+      "duration": "4:10"
+    },
+    {
+      "position": "B4",
+      "title": "Queen Bitch",
+      "duration": "3:14"
+    },
+    {
+      "position": "B5",
+      "title": "The Bewlay Brothers",
+      "duration": "5:21"
+    }
+  ]
+}

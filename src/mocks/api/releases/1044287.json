@@ -1,0 +1,74 @@
+{
+  "id": 1044287,
+  "artist_id": 138556,
+  "artist": "Neil Young",
+  "title": "Harvest",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Country Rock"
+  ],
+  "release_date": "1972-02-01",
+  "year": 1972,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/y5YpQDGFxagrQmMwiI2ThRGCdXxoZxF046meBjNd3Tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQy/ODctMTQwMDMyNzM1/OS02OTM1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/HIG9DTdEHes_xcLLoiYh-VV0yl1SDOwUkieABv6BrUY/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQy/ODctMTQwMDMyNzM1/OS02OTM1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Out On The Weekend",
+      "duration": "4:35"
+    },
+    {
+      "position": "A2",
+      "title": "Harvest",
+      "duration": "3:03"
+    },
+    {
+      "position": "A3",
+      "title": "A Man Needs A Maid",
+      "duration": "4:00"
+    },
+    {
+      "position": "A4",
+      "title": "Heart Of Gold",
+      "duration": "3:05"
+    },
+    {
+      "position": "A5",
+      "title": "Are You Ready For The Country",
+      "duration": "3:21"
+    },
+    {
+      "position": "B1",
+      "title": "Old Man",
+      "duration": "3:22"
+    },
+    {
+      "position": "B2",
+      "title": "There's A World",
+      "duration": "3:00"
+    },
+    {
+      "position": "B3",
+      "title": "Alabama",
+      "duration": "4:02"
+    },
+    {
+      "position": "B4",
+      "title": "The Needle And The Damage Done",
+      "duration": "2:00"
+    },
+    {
+      "position": "B5",
+      "title": "Words (Between The Lines Of Age)",
+      "duration": "6:42"
+    }
+  ]
+}

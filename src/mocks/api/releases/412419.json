@@ -1,0 +1,73 @@
+{
+  "id": 412419,
+  "artist_id": 269534,
+  "artist": "Tom Petty And The Heartbreakers",
+  "title": "Hard Promises",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Rock & Roll"
+  ],
+  "release_date": "1981-05-05",
+  "year": 1981,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/vV8hZ47TyQQH7FZnEkKmLvL_tzQA2VTp_aSADiuA2G0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjQx/OS0xNTU4OTk5MTE5/LTU2ODQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/Wangv7hyzCTkA9KuEg2s9-mlg9Pmh98wLHf8EhE1-g4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjQx/OS0xNTU4OTk5MTE5/LTU2ODQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Waiting",
+      "duration": "3:54"
+    },
+    {
+      "position": "A2",
+      "title": "A Woman In Love (It's Not Me)",
+      "duration": "4:21"
+    },
+    {
+      "position": "A3",
+      "title": "Nightwatchman",
+      "duration": "3:58"
+    },
+    {
+      "position": "A4",
+      "title": "Something Big",
+      "duration": "4:45"
+    },
+    {
+      "position": "A5",
+      "title": "Kings Road",
+      "duration": "3:21"
+    },
+    {
+      "position": "B1",
+      "title": "Letting You Go",
+      "duration": "3:22"
+    },
+    {
+      "position": "B2",
+      "title": "A Thing About You",
+      "duration": "3:32"
+    },
+    {
+      "position": "B3",
+      "title": "Insider",
+      "duration": "4:21"
+    },
+    {
+      "position": "B4",
+      "title": "The Criminal Kind",
+      "duration": "3:55"
+    },
+    {
+      "position": "B5",
+      "title": "You Can Still Change Your Mind",
+      "duration": "4:01"
+    }
+  ]
+}

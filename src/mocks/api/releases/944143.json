@@ -1,0 +1,72 @@
+{
+  "id": 944143,
+  "artist_id": 138556,
+  "artist": "Neil Young",
+  "title": "Rust Never Sleeps",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Acoustic",
+    "Folk Rock",
+    "Hard Rock",
+    "Classic Rock",
+    "Arena Rock"
+  ],
+  "release_date": "1979",
+  "year": 1979,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/b9zKEDWoGfMy4YUvC4kne0Rc9sTyd3stVMinoPmSbas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDE0/My0xNDk4Nzg3OTc4/LTY5NzcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/vuwOzYhanFLjB4lv0Sm9hE_kB7rHE4dEuCHlCS0cSO0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDE0/My0xNDk4Nzg3OTc4/LTY5NzcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "My My, Hey Hey (Out Of The Blue)",
+      "duration": "3:45"
+    },
+    {
+      "position": "A2",
+      "title": "Thrasher",
+      "duration": "5:38"
+    },
+    {
+      "position": "A3",
+      "title": "Ride My Llama",
+      "duration": "2:29"
+    },
+    {
+      "position": "A4",
+      "title": "Pocahontas",
+      "duration": "3:22"
+    },
+    {
+      "position": "A5",
+      "title": "Sail Away",
+      "duration": "3:46"
+    },
+    {
+      "position": "B1",
+      "title": "Powderfinger",
+      "duration": "5:30"
+    },
+    {
+      "position": "B2",
+      "title": "Welfare Mothers",
+      "duration": "3:48"
+    },
+    {
+      "position": "B3",
+      "title": "Sedan Delivery",
+      "duration": "4:40"
+    },
+    {
+      "position": "B4",
+      "title": "Hey Hey, My My (Into The Black)",
+      "duration": "5:18"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1120137,
+  "artist_id": 57103,
+  "artist": "Elton John",
+  "title": "Greatest Hits",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Classic Rock"
+  ],
+  "release_date": "1974",
+  "year": 1974,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/8MaL8bNzvLF5IMXBiJjaj23Zp1YuF2iqoBIHkPdQr1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAx/MzctMTQyMzQwMjEz/My0xNjQ5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/ueXk5dFUkveMYsJxe26Y92dRLVT9UTCx6Dtn2QD1lok/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAx/MzctMTQyMzQwMjEz/My0xNjQ5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Your Song",
+      "duration": "4:00"
+    },
+    {
+      "position": "A2",
+      "title": "Daniel",
+      "duration": "3:52"
+    },
+    {
+      "position": "A3",
+      "title": "Honky Cat",
+      "duration": "5:12"
+    },
+    {
+      "position": "A4",
+      "title": "Goodbye Yellow Brick Road",
+      "duration": "3:13"
+    },
+    {
+      "position": "A5",
+      "title": "Saturday Night's Alright For Fighting",
+      "duration": "4:55"
+    },
+    {
+      "position": "B1",
+      "title": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "duration": "4:40"
+    },
+    {
+      "position": "B2",
+      "title": "Bennie And The Jets",
+      "duration": "5:10"
+    },
+    {
+      "position": "B3",
+      "title": "Don't Let The Sun Go Down On Me",
+      "duration": "5:33"
+    },
+    {
+      "position": "B4",
+      "title": "Border Song",
+      "duration": "3:19"
+    },
+    {
+      "position": "B5",
+      "title": "Crocodile Rock",
+      "duration": "3:56"
+    }
+  ]
+}

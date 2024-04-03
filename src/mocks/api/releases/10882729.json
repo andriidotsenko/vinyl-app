@@ -1,0 +1,66 @@
+{
+  "id": 10882729,
+  "artist_id": 5590213,
+  "artist": "Billie Eilish",
+  "title": "Dont Smile At Me",
+  "all_genres": [
+    1,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Indie Pop"
+  ],
+  "release_date": "2017-11-10",
+  "year": 2017,
+  "all_countries": [
+    "uk",
+    "europe",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/mQHd01FYljeQFcca4BOMOZl6PpD06KNdflkFGxkBAIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODgy/NzI5LTE2NDQ0MTEy/NTYtNjQwMi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/Y04L7-7KpF13433N6BfmtkOb8BUctawwcw3nPBrxRSw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODgy/NzI5LTE2NDQ0MTEy/NTYtNjQwMi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Copycat",
+      "duration": "3:13"
+    },
+    {
+      "position": "A2",
+      "title": "Idontwannabeyouanymore",
+      "duration": "3:23"
+    },
+    {
+      "position": "A3",
+      "title": "My Boy",
+      "duration": "2:50"
+    },
+    {
+      "position": "A4",
+      "title": "Watch",
+      "duration": "2:57"
+    },
+    {
+      "position": "B1",
+      "title": "Party Favor",
+      "duration": "3:24"
+    },
+    {
+      "position": "B2",
+      "title": "Bellyache",
+      "duration": "2:59"
+    },
+    {
+      "position": "B3",
+      "title": "Ocean Eyes",
+      "duration": "3:20"
+    },
+    {
+      "position": "B4",
+      "title": "Hostage",
+      "duration": "3:49"
+    }
+  ]
+}

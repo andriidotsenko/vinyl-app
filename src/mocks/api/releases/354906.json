@@ -1,0 +1,73 @@
+{
+  "id": 354906,
+  "artist_id": 10263,
+  "artist": "David Bowie",
+  "title": "Aladdin Sane",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Glam"
+  ],
+  "release_date": "1973-04-19",
+  "year": 1973,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/sR88m_06W3r-ke-o0A-5DjnX25n23vthG8f1ggTgAoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkw/Ni0xNDEyNzc1NzU1/LTQwMTIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/GRCkybUp0qFCQaBOAl_rRomCEzweg2xSJKnJv-CW4Cg/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkw/Ni0xNDEyNzc1NzU1/LTQwMTIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Watch That Man",
+      "duration": "4:30"
+    },
+    {
+      "position": "A2",
+      "title": "Aladdin Sane (1913-1938-197?)",
+      "duration": "5:15"
+    },
+    {
+      "position": "A3",
+      "title": "Drive-In Saturday",
+      "duration": "4:38"
+    },
+    {
+      "position": "A4",
+      "title": "Panic In Detroit",
+      "duration": "4:30"
+    },
+    {
+      "position": "A5",
+      "title": "Cracked Actor",
+      "duration": "3:01"
+    },
+    {
+      "position": "B1",
+      "title": "Time",
+      "duration": "5:10"
+    },
+    {
+      "position": "B2",
+      "title": "The Prettiest Star",
+      "duration": "3:28"
+    },
+    {
+      "position": "B3",
+      "title": "Let's Spend The Night Together",
+      "duration": "3:10"
+    },
+    {
+      "position": "B4",
+      "title": "The Jean Genie",
+      "duration": "4:06"
+    },
+    {
+      "position": "B5",
+      "title": "Lady Grinning Soul",
+      "duration": "3:53"
+    }
+  ]
+}

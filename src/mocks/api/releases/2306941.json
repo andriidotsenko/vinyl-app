@@ -1,0 +1,75 @@
+{
+  "id": 2306941,
+  "artist_id": 59792,
+  "artist": "Bob Dylan",
+  "title": "Blood On The Tracks",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Acoustic",
+    "Ballad"
+  ],
+  "release_date": "1975-01-20",
+  "year": 1975,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/v0Qvf7c2n4MJaPeVOcQ4Lku_gqtkekXBOFvBJrA_P_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY5/NDEtMTMzNzQzMzg5/MS01MTc2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/Aq5gLIL8zUSEBQpOiutdVfApi41taYrIU5DYAcUmMZI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY5/NDEtMTMzNzQzMzg5/MS01MTc2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Tangled Up In Blue",
+      "duration": "5:40"
+    },
+    {
+      "position": "A2",
+      "title": "Simple Twist Of Fate",
+      "duration": "4:18"
+    },
+    {
+      "position": "A3",
+      "title": "You're A Big Girl Now",
+      "duration": "4:36"
+    },
+    {
+      "position": "A4",
+      "title": "Idiot Wind",
+      "duration": "7:45"
+    },
+    {
+      "position": "A5",
+      "title": "You're Gonna Make Me Lonesome When You Go",
+      "duration": "2:58"
+    },
+    {
+      "position": "B1",
+      "title": "Meet Me In The Morning",
+      "duration": "4:19"
+    },
+    {
+      "position": "B2",
+      "title": "Lily, Rosemary And The Jack Of Hearts",
+      "duration": "8:50"
+    },
+    {
+      "position": "B3",
+      "title": "If You See Her, Say Hello",
+      "duration": "4:46"
+    },
+    {
+      "position": "B4",
+      "title": "Shelter From The Storm",
+      "duration": "4:59"
+    },
+    {
+      "position": "B5",
+      "title": "Buckets Of Rain",
+      "duration": "3:29"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 19929817,
+  "artist_id": 7592689,
+  "artist": "Olivia Rodrigo",
+  "title": "Sour",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Power Pop",
+    "Pop Punk",
+    "Acoustic",
+    "Ballad"
+  ],
+  "release_date": "2021-08-20",
+  "year": 2021,
+  "all_countries": [
+    "usa",
+    "canada"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/Z_ZnmEQplwVBUXQdjpe3vtsPIzt8CjXa2Ot66DEOo0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI5/ODE3LTE2Mjk0OTQz/ODItNDE5My5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/wgjPzjsTiK4BlHvZNIy14XPoQ0IN7T1AxNOCX_8rW1U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI5/ODE3LTE2Mjk0OTQz/ODItNDE5My5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Brutal",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Traitor",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Drivers License",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "1 Step Forward, 3 Steps Back",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Deja Vu",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Good 4 U",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Enough For You",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Happier",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Jealousy, Jealousy",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Favorite Crime",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Hope Ur Ok",
+      "duration": ""
+    }
+  ]
+}

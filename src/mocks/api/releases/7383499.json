@@ -1,0 +1,128 @@
+{
+  "id": 7383499,
+  "artist_id": 324293,
+  "artist": "Kamasi Washington",
+  "title": "The Epic",
+  "all_genres": [
+    8,
+    2
+  ],
+  "genre": 8,
+  "styles": [
+    "Fusion",
+    "Contemporary Jazz",
+    "Psychedelic",
+    "Soul-Jazz"
+  ],
+  "release_date": "2015-10-02",
+  "year": 2015,
+  "all_countries": [
+    "usa",
+    "europe"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/N8AIVtUKGagpfgH5R2mN_Y15X0so2R_sQ_EDkMucM2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTU0MzE1NjU0/Ny01MTc3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/FQknT2LCjlCCqr6kNviLli6SdGU3PjLOA-_iWZQ8Mjk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTU0MzE1NjU0/Ny01MTc3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Volume 1 - The Plan",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Change Of The Guard",
+      "duration": "12:16"
+    },
+    {
+      "position": "A2",
+      "title": "Isabelle ",
+      "duration": "12:13"
+    },
+    {
+      "position": "A3",
+      "title": "Final Thought",
+      "duration": "06:32"
+    },
+    {
+      "position": "B1",
+      "title": "The Next Step",
+      "duration": "14:49"
+    },
+    {
+      "position": "B2",
+      "title": "Askim",
+      "duration": "12:35"
+    },
+    {
+      "position": "",
+      "title": "Volume 2 - The Glorious Tale",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "The Rhythm Changes",
+      "duration": "07:44"
+    },
+    {
+      "position": "C2",
+      "title": "Leroy And Lanisha",
+      "duration": "09:24"
+    },
+    {
+      "position": "C3",
+      "title": "Re Run",
+      "duration": "08:20"
+    },
+    {
+      "position": "D1",
+      "title": "Miss Understanding",
+      "duration": "08:46"
+    },
+    {
+      "position": "D2",
+      "title": "Henrietta Our Hero",
+      "duration": "07:14"
+    },
+    {
+      "position": "D3",
+      "title": "Seven Prayers",
+      "duration": "07:36"
+    },
+    {
+      "position": "D4",
+      "title": "Cherokee",
+      "duration": "08:14"
+    },
+    {
+      "position": "",
+      "title": "Volume 3 - The Historic Repetition",
+      "duration": ""
+    },
+    {
+      "position": "E1",
+      "title": "The Magnificent 7",
+      "duration": "12:46"
+    },
+    {
+      "position": "E2",
+      "title": "Re Run Home",
+      "duration": "14:06"
+    },
+    {
+      "position": "F1",
+      "title": "Malcolm's Theme",
+      "duration": "08:41"
+    },
+    {
+      "position": "F2",
+      "title": "Clair De Lune",
+      "duration": "11:08"
+    },
+    {
+      "position": "F3",
+      "title": "The Message",
+      "duration": "11:09"
+    }
+  ]
+}

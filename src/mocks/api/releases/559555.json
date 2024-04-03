@@ -1,0 +1,78 @@
+{
+  "id": 559555,
+  "artist_id": 252391,
+  "artist": "John Denver",
+  "title": "John Denver's Greatest Hits",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Country Rock"
+  ],
+  "release_date": "1973",
+  "year": 1973,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Q1EjPt2pkTlKkJr0VfLShhzU8o0xcRAaYGM5G258DTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTU1/NS0xNTkzNTQwMzQ1/LTM2NDEuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/GrL_hO5rudxwU2SR7DpIIAN7hnJg-LLQB7JgG1ipTM0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTU1/NS0xNTkzNTQwMzQ1/LTM2NDEuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Take Me Home, Country Roads",
+      "duration": "3:08"
+    },
+    {
+      "position": "A2",
+      "title": "Follow Me",
+      "duration": "2:56"
+    },
+    {
+      "position": "A3",
+      "title": "Starwood In Aspen",
+      "duration": "3:10"
+    },
+    {
+      "position": "A4",
+      "title": "For Baby (For Bobbie)",
+      "duration": "2:58"
+    },
+    {
+      "position": "A5",
+      "title": "Rhymes And Reasons",
+      "duration": "3:11"
+    },
+    {
+      "position": "A6",
+      "title": "Leaving, On A Jet Plane",
+      "duration": "4:00"
+    },
+    {
+      "position": "B1",
+      "title": "The Eagle And The Hawk",
+      "duration": "2:10"
+    },
+    {
+      "position": "B2",
+      "title": "Sunshine On My Shoulders",
+      "duration": "5:10"
+    },
+    {
+      "position": "B3",
+      "title": "Goodbye Again",
+      "duration": "3:36"
+    },
+    {
+      "position": "B4",
+      "title": "Poems, Prayers And Promises",
+      "duration": "4:34"
+    },
+    {
+      "position": "B5",
+      "title": "Rocky Mountain High",
+      "duration": "4:43"
+    }
+  ]
+}

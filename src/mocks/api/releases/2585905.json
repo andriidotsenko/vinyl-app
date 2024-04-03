@@ -1,0 +1,73 @@
+{
+  "id": 2585905,
+  "artist_id": 174890,
+  "artist": "Foreigner",
+  "title": "Double Vision",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1978",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/HwlKBwFJQ1pZUH6zem4CkQOPFXcYylt3-___qdp7zM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODU5/MDUtMTI5MTgwNTMw/OC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/LDUE8OhmjbYYvP84lngKcX2ok7bQjPLjxl-yIexRSBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODU5/MDUtMTI5MTgwNTMw/OC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hot Blooded",
+      "duration": "4:20"
+    },
+    {
+      "position": "A2",
+      "title": "Blue Morning, Blue Day",
+      "duration": "3:06"
+    },
+    {
+      "position": "A3",
+      "title": "You're All I Am",
+      "duration": "3:19"
+    },
+    {
+      "position": "A4",
+      "title": "Back Where You Belong",
+      "duration": "3:20"
+    },
+    {
+      "position": "A5",
+      "title": "Love Has Taken Its Toll",
+      "duration": "3:25"
+    },
+    {
+      "position": "B1",
+      "title": "Double Vision",
+      "duration": "3:40"
+    },
+    {
+      "position": "B2",
+      "title": "Tramontane",
+      "duration": "3:52"
+    },
+    {
+      "position": "B3",
+      "title": "I Have Waited So Long",
+      "duration": "4:04"
+    },
+    {
+      "position": "B4",
+      "title": "Lonely Children",
+      "duration": "3:31"
+    },
+    {
+      "position": "B5",
+      "title": "Spellbinder",
+      "duration": "4:43"
+    }
+  ]
+}

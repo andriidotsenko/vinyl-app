@@ -1,0 +1,75 @@
+{
+  "id": 894184,
+  "artist_id": 94066,
+  "artist": "Van Halen",
+  "title": "Van Halen II",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Classic Rock",
+    "Heavy Metal"
+  ],
+  "release_date": "1979-03-26",
+  "year": 1979,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/P2bjgBrEHcHgI1IEJ4SUQSwFC74kL5QD0Qd39CE3Og8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDE4/NC0xMzI5Nzg2Njk5/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/uWQ_gQNTd8gJh4ntQTeowYE-GQIGpEqNsmCtjjKcHFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDE4/NC0xMzI5Nzg2Njk5/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "You're No Good",
+      "duration": "3:12"
+    },
+    {
+      "position": "A2",
+      "title": "Dance The Night Away",
+      "duration": "3:04"
+    },
+    {
+      "position": "A3",
+      "title": "Somebody Get Me A Doctor",
+      "duration": "2:51"
+    },
+    {
+      "position": "A4",
+      "title": "Bottoms Up!",
+      "duration": "3:04"
+    },
+    {
+      "position": "A5",
+      "title": "Outta Love Again",
+      "duration": "2:49"
+    },
+    {
+      "position": "B1",
+      "title": "Light Up The Sky",
+      "duration": "3:09"
+    },
+    {
+      "position": "B2",
+      "title": "Spanish Fly",
+      "duration": "0:58"
+    },
+    {
+      "position": "B3",
+      "title": "D.O.A.",
+      "duration": "4:07"
+    },
+    {
+      "position": "B4",
+      "title": "Women In Love ...",
+      "duration": "4:03"
+    },
+    {
+      "position": "B5",
+      "title": "Beautiful Girls",
+      "duration": "3:55"
+    }
+  ]
+}

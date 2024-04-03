@@ -1,0 +1,73 @@
+{
+  "id": 401466,
+  "artist_id": 174890,
+  "artist": "Foreigner",
+  "title": "4",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1981",
+  "year": 1981,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/sFyEQ4JJb51Qf9LCjCPFNQItzMwkhfTrpPmGLxJfTgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTQ2/Ni0xNDQxNjc3MjE5/LTM5NzguanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/wRSEMSpPv2L6KoiGijZAOefSoiXwxCrsxbfR1bu9PTI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTQ2/Ni0xNDQxNjc3MjE5/LTM5NzguanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Night Life",
+      "duration": "3:48"
+    },
+    {
+      "position": "A2",
+      "title": "Juke Box Hero",
+      "duration": "4:18"
+    },
+    {
+      "position": "A3",
+      "title": "Break It Up",
+      "duration": "4:11"
+    },
+    {
+      "position": "A4",
+      "title": "Waiting For A Girl Like You",
+      "duration": "4:49"
+    },
+    {
+      "position": "A5",
+      "title": "Luanne",
+      "duration": "3:25"
+    },
+    {
+      "position": "B1",
+      "title": "Urgent",
+      "duration": "4:29"
+    },
+    {
+      "position": "B2",
+      "title": "I'm Gonna Win",
+      "duration": "4:51"
+    },
+    {
+      "position": "B3",
+      "title": "Woman In Black",
+      "duration": "4:42"
+    },
+    {
+      "position": "B4",
+      "title": "Girl On The Moon",
+      "duration": "3:49"
+    },
+    {
+      "position": "B5",
+      "title": "Don't Let Go",
+      "duration": "3:48"
+    }
+  ]
+}

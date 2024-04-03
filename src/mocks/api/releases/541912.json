@@ -1,0 +1,97 @@
+{
+  "id": 541912,
+  "artist_id": 106474,
+  "artist": "Paul Simon",
+  "title": "The Graduate (Original Sound Track Recording)",
+  "all_genres": [
+    8,
+    4,
+    6
+  ],
+  "genre": 8,
+  "styles": [
+    "Folk Rock",
+    "Acoustic",
+    "Soundtrack"
+  ],
+  "release_date": "1968",
+  "year": 1968,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/IXu4FoxdDECbU9u0TC2CyKo3DZuO5kl8fGmgBygOLC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTkx/Mi0xNTgxNzQ1MjU0/LTkyNzYuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/YcaDYDoUCPoZC0Fx4pG-N7PpYobmUogbQvLuESMEWPY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTkx/Mi0xNTgxNzQ1MjU0/LTkyNzYuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Sounds Of Silence",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "The Singleman Party Foxtrot",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Mrs. Robinson",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Sunporch Cha-Cha-Cha",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Scarborough Fair / Canticle (Interlude)",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "On The Strip",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "April Come She Will",
+      "duration": ""
+    },
+    {
+      "position": "A8",
+      "title": "The Folks",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Scarborough Fair / Canticle",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "A Great Effect",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "The Big Bright Green Pleasure Machine",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Whew",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Mrs. Robinson",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "The Sounds Of Silence",
+      "duration": ""
+    }
+  ]
+}

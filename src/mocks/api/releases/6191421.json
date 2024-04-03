@@ -1,0 +1,63 @@
+{
+  "id": 6191421,
+  "artist_id": 251595,
+  "artist": "Iron Maiden",
+  "title": "The Number Of The Beast",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Heavy Metal"
+  ],
+  "release_date": "2014-10-13",
+  "year": 2014,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/thSa475vgvtoepMTbUovIt2rNAGNeFY30t6qFuFbaso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTQyODg1MDc0/OC0xNTA2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/nEMq2lTulipXKMU5chmOL68hcUvFrYX7cPpe6I01m_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTQyODg1MDc0/OC0xNTA2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Invaders",
+      "duration": "3:20"
+    },
+    {
+      "position": "A2",
+      "title": "Children Of The Damned",
+      "duration": "4:34"
+    },
+    {
+      "position": "A3",
+      "title": "The Prisoner",
+      "duration": "5:34"
+    },
+    {
+      "position": "A4",
+      "title": "22 Acacia Avenue",
+      "duration": "6:34"
+    },
+    {
+      "position": "B1",
+      "title": "The Number Of The Beast",
+      "duration": "4:25"
+    },
+    {
+      "position": "B2",
+      "title": "Run To The Hills",
+      "duration": "3:50"
+    },
+    {
+      "position": "B3",
+      "title": "Gangland",
+      "duration": "3:46"
+    },
+    {
+      "position": "B4",
+      "title": "Hallowed Be Thy Name",
+      "duration": "7:08"
+    }
+  ]
+}

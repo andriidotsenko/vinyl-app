@@ -1,0 +1,90 @@
+{
+  "id": 1203470,
+  "artist_id": 251593,
+  "artist": "Green Day",
+  "title": "American Idiot",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Punk",
+    "Pop Rock",
+    "Pop Punk"
+  ],
+  "release_date": "2004-10-04",
+  "year": 2004,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/8ViyqmNrr0fjlbaG643ovkiTAQ-tKY0bPdm_Oq982xY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM0/NzAtMTU3NDI2ODI2/Ni05MDM2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/MZK1NpQQ4V2QYjchCOmpc6aZuYJVjfAWfw9c5cAp6zI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM0/NzAtMTU3NDI2ODI2/Ni05MDM2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "American Idiot",
+      "duration": "2:54"
+    },
+    {
+      "position": "",
+      "title": "Jesus Of Suburbia",
+      "duration": "9:07"
+    },
+    {
+      "position": "B3",
+      "title": "Holiday",
+      "duration": "3:52"
+    },
+    {
+      "position": "B4",
+      "title": "Boulevard Of Broken Dreams",
+      "duration": "4:20"
+    },
+    {
+      "position": "B5",
+      "title": "Are We The Waiting",
+      "duration": "2:42"
+    },
+    {
+      "position": "B6",
+      "title": "St. Jimmy",
+      "duration": "2:54"
+    },
+    {
+      "position": "C7",
+      "title": "Give Me Novacaine",
+      "duration": "3:25"
+    },
+    {
+      "position": "C8",
+      "title": "She's A Rebel",
+      "duration": "2:00"
+    },
+    {
+      "position": "C9",
+      "title": "Extraordinary Girl",
+      "duration": "3:34"
+    },
+    {
+      "position": "C10",
+      "title": "Letterbomb",
+      "duration": "4:06"
+    },
+    {
+      "position": "C11",
+      "title": "Wake Me Up When September Ends",
+      "duration": "4:44"
+    },
+    {
+      "position": "",
+      "title": "Homecoming",
+      "duration": "9:18"
+    },
+    {
+      "position": "D13",
+      "title": "Whatsername",
+      "duration": "4:12"
+    }
+  ]
+}

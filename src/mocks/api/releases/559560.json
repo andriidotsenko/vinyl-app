@@ -1,0 +1,59 @@
+{
+  "id": 559560,
+  "artist_id": 90232,
+  "artist": "Big Brother & The Holding Company",
+  "title": "Cheap Thrills",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Psychedelic Rock"
+  ],
+  "release_date": "1968-08-12",
+  "year": 1968,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/0vNwNZRCIekEKJ4rsC-QWUh4Cw2ngED0BRi0NMy9H0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTU2/MC0xNDQxNzc5NDcx/LTI4MjMuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/xlygcdCs4Zr1RPUNNlSL9IumtFCCZwkrwnpG2w6FLc0/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTU2/MC0xNDQxNzc5NDcx/LTI4MjMuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Combination Of The Two",
+      "duration": "5:45"
+    },
+    {
+      "position": "A2",
+      "title": "I Need A Man To Love",
+      "duration": "4:56"
+    },
+    {
+      "position": "A3",
+      "title": "Summertime",
+      "duration": "3:59"
+    },
+    {
+      "position": "A4",
+      "title": "Piece Of My Heart",
+      "duration": "4:12"
+    },
+    {
+      "position": "B1",
+      "title": "Turtle Blues",
+      "duration": "4:21"
+    },
+    {
+      "position": "B2",
+      "title": "Oh, Sweet Mary",
+      "duration": "4:16"
+    },
+    {
+      "position": "B3",
+      "title": "Ball And Chain",
+      "duration": "9:30"
+    }
+  ]
+}

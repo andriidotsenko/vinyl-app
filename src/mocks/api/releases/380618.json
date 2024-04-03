@@ -1,0 +1,70 @@
+{
+  "id": 380618,
+  "artist_id": 48424,
+  "artist": "Aerosmith",
+  "title": "Toys In The Attic",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Classic Rock",
+    "Blues Rock"
+  ],
+  "release_date": "1975",
+  "year": 1975,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/4OA3T6Iz41KfTi71uMmtOlEUiYEuF0qOkmxhRyxz8nY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDYx/OC0xNDU5NDk5MDE2/LTEyNDcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/nBeJ69M0Lb9G9Ipw8x51lRzN07IuH9d8i1oFDSBynJQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDYx/OC0xNDU5NDk5MDE2/LTEyNDcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Toys In The Attic",
+      "duration": "3:05"
+    },
+    {
+      "position": "A2",
+      "title": "Uncle Salty",
+      "duration": "4:08"
+    },
+    {
+      "position": "A3",
+      "title": "Adam's Apple",
+      "duration": "4:34"
+    },
+    {
+      "position": "A4",
+      "title": "Walk This Way",
+      "duration": "3:39"
+    },
+    {
+      "position": "A5",
+      "title": "Big Ten Inch Record",
+      "duration": "2:10"
+    },
+    {
+      "position": "B1",
+      "title": "Sweet Emotion",
+      "duration": "4:34"
+    },
+    {
+      "position": "B2",
+      "title": "No More No More",
+      "duration": "4:35"
+    },
+    {
+      "position": "B3",
+      "title": "Round And Round",
+      "duration": "5:02"
+    },
+    {
+      "position": "B4",
+      "title": "You See Me Crying",
+      "duration": "5:12"
+    }
+  ]
+}

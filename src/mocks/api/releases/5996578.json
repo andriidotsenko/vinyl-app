@@ -1,0 +1,178 @@
+{
+  "id": 5996578,
+  "artist_id": 194,
+  "artist": "Various",
+  "title": "Guardians Of The Galaxy",
+  "all_genres": [
+    4,
+    2,
+    6
+  ],
+  "genre": 4,
+  "styles": [
+    "Soundtrack",
+    "Classic Rock",
+    "Pop Rock",
+    "Soul"
+  ],
+  "release_date": "2014-09-16",
+  "year": 2014,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/IpWuFCtBQoLyLi27ckIAhEXDwYp6lHcAE959xt8Em4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTY1/NzgtMTQzNjgyNjQ2/My00NDk5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/-WBuuBJBHfshJ_dJHckEI1PQ1h5BuQ4t-wHSbJGq5mc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTY1/NzgtMTQzNjgyNjQ2/My00NDk5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Awesome Mix Vol. 1",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Hooked On A Feeling",
+      "duration": "2:55"
+    },
+    {
+      "position": "A2",
+      "title": "Go All The Way",
+      "duration": "3:23"
+    },
+    {
+      "position": "A3",
+      "title": "Spirit In The Sky",
+      "duration": "4:04"
+    },
+    {
+      "position": "A4",
+      "title": "Moonage Daydream",
+      "duration": "4:43"
+    },
+    {
+      "position": "A5",
+      "title": "Fooled Around And Fell In Love",
+      "duration": "4:37"
+    },
+    {
+      "position": "A6",
+      "title": "I Want You Back",
+      "duration": "3:00"
+    },
+    {
+      "position": "B1",
+      "title": "I'm Not In Love",
+      "duration": "6:06"
+    },
+    {
+      "position": "B2",
+      "title": "Come And Get Your Love",
+      "duration": "3:28"
+    },
+    {
+      "position": "B3",
+      "title": "Cherry Bomb",
+      "duration": "2:20"
+    },
+    {
+      "position": "B4",
+      "title": "Escape (The Piña Colada Song)",
+      "duration": "4:39"
+    },
+    {
+      "position": "B5",
+      "title": "O-o-h Child",
+      "duration": "3:16"
+    },
+    {
+      "position": "B6",
+      "title": "Ain't No Mountain High Enough",
+      "duration": "2:3"
+    },
+    {
+      "position": "",
+      "title": "Original Score By Tyler Bates",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "The Final Battle Begins",
+      "duration": "4:21"
+    },
+    {
+      "position": "C2",
+      "title": "Morag",
+      "duration": "1:59"
+    },
+    {
+      "position": "C3",
+      "title": "Everyone's An Idiot",
+      "duration": "1:27"
+    },
+    {
+      "position": "C4",
+      "title": "What A Bunch Of A-Holes",
+      "duration": "2:14"
+    },
+    {
+      "position": "C5",
+      "title": "Sacrifice",
+      "duration": "3:20"
+    },
+    {
+      "position": "C6",
+      "title": "The New Meat",
+      "duration": "0:35"
+    },
+    {
+      "position": "C7",
+      "title": "The Pod Chase",
+      "duration": "3:55"
+    },
+    {
+      "position": "C8",
+      "title": "Don't Mess With My Walkman",
+      "duration": "0:44"
+    },
+    {
+      "position": "C9",
+      "title": "Losers (Bonus Track)",
+      "duration": "2:39"
+    },
+    {
+      "position": "D1",
+      "title": "The Ballad Of The Nova Corps (Instrumental)",
+      "duration": "1:49"
+    },
+    {
+      "position": "D2",
+      "title": "The Kyln Escape",
+      "duration": "7:23"
+    },
+    {
+      "position": "D3",
+      "title": "Groot Spores",
+      "duration": "1:11"
+    },
+    {
+      "position": "D4",
+      "title": "Guardians United",
+      "duration": "2:46"
+    },
+    {
+      "position": "D5",
+      "title": "The Big Blast",
+      "duration": "3:04"
+    },
+    {
+      "position": "D6",
+      "title": "Black Tears",
+      "duration": "2:44"
+    },
+    {
+      "position": "D7",
+      "title": "A Nova Upgrade",
+      "duration": "2:11"
+    }
+  ]
+}

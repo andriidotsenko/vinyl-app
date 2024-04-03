@@ -1,0 +1,118 @@
+{
+  "id": 16242480,
+  "artist_id": 1124645,
+  "artist": "Taylor Swift",
+  "title": "Folklore",
+  "all_genres": [
+    4,
+    3,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Vocal",
+    "Indie Pop",
+    "Indie Rock",
+    "Ballad"
+  ],
+  "release_date": "2020-11-20",
+  "year": 2020,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/-klny1qhJUf6q62EIlOrZVwbVKX1ARNqZ25nz7nnXBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQy/NDgwLTE2MDk2OTc3/MTAtMTU5Ny5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/u7VN3zk_KheHoxzH8C9_Yn5T_TpFDIOwD83-aLf2PAQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQy/NDgwLTE2MDk2OTc3/MTAtMTU5Ny5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The 1",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Cardigan",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "The Last Great American Dynasty",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Exile",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "My Tears Ricochet",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Mirrorball",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Seven",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "August",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "This Is Me Trying",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Illicit Affairs",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Invisible String",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Mad Woman",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Epiphany",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Betty",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Peace",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Hoax",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Bonus Track",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "The Lakes",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": 435931,
+  "artist_id": 6520,
+  "artist": "U2",
+  "title": "The Joshua Tree",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1987-03-09",
+  "year": 1987,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/AX1auuf7YFpPwCImoUEcUjPSaFLZ-2_v32YnDl30rZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTkz/MS0xMTczNDYwNzQy/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/wmLOA2Ffwhdgw-OVqmPKC3WW1FwhPWsso27PfZWGZnE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTkz/MS0xMTczNDYwNzQy/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Where The Streets Have No Name",
+      "duration": "5:35"
+    },
+    {
+      "position": "A2",
+      "title": "I Still Haven't Found What I'm Looking For",
+      "duration": "4:38"
+    },
+    {
+      "position": "A3",
+      "title": "With Or Without You",
+      "duration": "4:57"
+    },
+    {
+      "position": "A4",
+      "title": "Bullet The Blue Sky",
+      "duration": "4:32"
+    },
+    {
+      "position": "A5",
+      "title": "Running To Stand Still",
+      "duration": "4:20"
+    },
+    {
+      "position": "B1",
+      "title": "Red Hill Mining Town",
+      "duration": "4:51"
+    },
+    {
+      "position": "B2",
+      "title": "In God's Country",
+      "duration": "2:57"
+    },
+    {
+      "position": "B3",
+      "title": "Trip Through Your Wires",
+      "duration": "3:32"
+    },
+    {
+      "position": "B4",
+      "title": "One Tree Hill",
+      "duration": "5:24"
+    },
+    {
+      "position": "B5",
+      "title": "Exit",
+      "duration": "4:14"
+    },
+    {
+      "position": "B6",
+      "title": "Mothers Of The Disappeared",
+      "duration": "5:14"
+    }
+  ]
+}

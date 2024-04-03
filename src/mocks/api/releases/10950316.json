@@ -1,0 +1,107 @@
+{
+  "id": 10950316,
+  "artist_id": 2445772,
+  "artist": "Lana Del Rey",
+  "title": "Lust For Life",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock",
+    "Alternative Rock"
+  ],
+  "release_date": "2017-10-05",
+  "year": 2017,
+  "all_countries": [
+    "uk",
+    "europe",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/mEIYns4BpkLwU9uy-T4UON0FS9sfzZJyCML5fSBP-0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUw/MzE2LTE1MDkwNTM0/OTctMjUyMi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/bOExzHgdqxEXhnQ-iVrIfX-TsvrTH4oBILQr_6wVGqw/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUw/MzE2LTE1MDkwNTM0/OTctMjUyMi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Love",
+      "duration": "4:33"
+    },
+    {
+      "position": "A2",
+      "title": "Lust For Life",
+      "duration": "4:23"
+    },
+    {
+      "position": "A3",
+      "title": "13 Beaches",
+      "duration": "4:55"
+    },
+    {
+      "position": "A4",
+      "title": "Cherry",
+      "duration": "3:00"
+    },
+    {
+      "position": "A5",
+      "title": "White Mustang",
+      "duration": "2:44"
+    },
+    {
+      "position": "B1",
+      "title": "Summer Bummer",
+      "duration": "4:20"
+    },
+    {
+      "position": "B2",
+      "title": "Groupie Love",
+      "duration": "4:24"
+    },
+    {
+      "position": "B3",
+      "title": "In My Feelings",
+      "duration": "3:58"
+    },
+    {
+      "position": "B4",
+      "title": "Coachella - Woodstock In My Mind",
+      "duration": "4:18"
+    },
+    {
+      "position": "C1",
+      "title": "God Bless America - And All The Beautiful Women In It",
+      "duration": "4:36"
+    },
+    {
+      "position": "C2",
+      "title": "When The World Was At War We Kept Dancing",
+      "duration": "4:35"
+    },
+    {
+      "position": "C3",
+      "title": "Beautiful People Beautiful Problems",
+      "duration": "4:13"
+    },
+    {
+      "position": "C4",
+      "title": "Tomorrow Never Came",
+      "duration": "5:07"
+    },
+    {
+      "position": "D1",
+      "title": "Heroin",
+      "duration": "5:55"
+    },
+    {
+      "position": "D2",
+      "title": "Change",
+      "duration": "5:21"
+    },
+    {
+      "position": "D3",
+      "title": "Get Free",
+      "duration": "5:36"
+    }
+  ]
+}

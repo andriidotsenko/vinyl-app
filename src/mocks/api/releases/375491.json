@@ -1,0 +1,109 @@
+{
+  "id": 375491,
+  "artist_id": 92476,
+  "artist": "Red Hot Chili Peppers",
+  "title": "Blood Sugar Sex Magik",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Funk Metal"
+  ],
+  "release_date": "1991-09-24",
+  "year": 1991,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/vUiGyauzeFcen48ImrRkuqPovb3RxEtYmHxju9BWmhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ5/MS0xNTA3MjkyNTg2/LTE5NDIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/TBFMsp_ki2nO56jvJ4CR7X5KwWGv1Apai7DPg-3usyI/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ5/MS0xNTA3MjkyNTg2/LTE5NDIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Power Of Equality",
+      "duration": "4:00"
+    },
+    {
+      "position": "A2",
+      "title": "If You Have To Ask",
+      "duration": "4:11"
+    },
+    {
+      "position": "A3",
+      "title": "Breaking The Girl",
+      "duration": "5:03"
+    },
+    {
+      "position": "A4",
+      "title": "Funky Monks",
+      "duration": "5:22"
+    },
+    {
+      "position": "A5",
+      "title": "Suck My Kiss",
+      "duration": "3:35"
+    },
+    {
+      "position": "B1",
+      "title": "I Could Have Lied",
+      "duration": "4:10"
+    },
+    {
+      "position": "B2",
+      "title": "Mellowship Slinky In B Major",
+      "duration": "4:00"
+    },
+    {
+      "position": "B3",
+      "title": "The Righteous & The Wicked",
+      "duration": "4:05"
+    },
+    {
+      "position": "B4",
+      "title": "Give It Away",
+      "duration": "4:45"
+    },
+    {
+      "position": "C1",
+      "title": "Blood Sugar Sex Magik",
+      "duration": "4:31"
+    },
+    {
+      "position": "C2",
+      "title": "Under The Bridge",
+      "duration": "4:34"
+    },
+    {
+      "position": "C3",
+      "title": "Naked In The Rain",
+      "duration": "4:30"
+    },
+    {
+      "position": "C4",
+      "title": "Apache Rose Peacock",
+      "duration": "4:43"
+    },
+    {
+      "position": "D1",
+      "title": "The Greeting Song",
+      "duration": "3:14"
+    },
+    {
+      "position": "D2",
+      "title": "My Lovely Man",
+      "duration": "4:45"
+    },
+    {
+      "position": "D3",
+      "title": "Sir Psycho Sexy",
+      "duration": "8:24"
+    },
+    {
+      "position": "D4",
+      "title": "They're Red Hot",
+      "duration": "1:44"
+    }
+  ]
+}

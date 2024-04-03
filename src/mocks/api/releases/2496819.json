@@ -1,0 +1,48 @@
+{
+  "id": 2496819,
+  "artist_id": 70828,
+  "artist": "King Crimson",
+  "title": "In The Court Of The Crimson King",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Prog Rock"
+  ],
+  "release_date": "2010-10-18",
+  "year": 2010,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/J7rapC1s1ZrA7BHZcoGFXALAK7du3hlFGgSqlgwHhR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY4/MTktMTI5MDM2NDE3/NC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/Fo7V6dM8xCBAQGF1fhPwxEfcz0AlCvjh6eQU2we48yM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY4/MTktMTI5MDM2NDE3/NC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "21st Century Schizoid Man (Including Mirrors)",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "I Talk To The Wind",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Epitaph (Including (A) March For No Reason (B) Tomorrow And Tomorrow)",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Moonchild (Including (A) The Dream (B) The Illusion)",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "The Court Of The Crimson King (Including (A) The Return Of The Fire Witch (B) The Dance Of The Puppets)",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 438865,
+  "artist_id": 34278,
+  "artist": "Led Zeppelin",
+  "title": "Led Zeppelin III",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Folk Rock"
+  ],
+  "release_date": "1970-10-05",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/NVyuODmMQHrz_yitAdfypYFpZI7d5Nj14HJ6lheEK_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODg2/NS0xNTc5NDE3NTYy/LTY1MTUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/vBdP_eem2syIxHAUueUvDdfxNfyp8ESNhOxuDfJKDVo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODg2/NS0xNTc5NDE3NTYy/LTY1MTUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Immigrant Song",
+      "duration": "2:26"
+    },
+    {
+      "position": "A2",
+      "title": "Friends",
+      "duration": "3:55"
+    },
+    {
+      "position": "A3",
+      "title": "Celebration Day",
+      "duration": "3:29"
+    },
+    {
+      "position": "A4",
+      "title": "Since I've Been Loving You",
+      "duration": "7:25"
+    },
+    {
+      "position": "A5",
+      "title": "Out On The Tiles",
+      "duration": "4:04"
+    },
+    {
+      "position": "B1",
+      "title": "Gallows Pole",
+      "duration": "4:58"
+    },
+    {
+      "position": "B2",
+      "title": "Tangerine",
+      "duration": "3:12"
+    },
+    {
+      "position": "B3",
+      "title": "That's The Way",
+      "duration": "5:38"
+    },
+    {
+      "position": "B4",
+      "title": "Bron-Y-Aur Stomp",
+      "duration": "4:20"
+    },
+    {
+      "position": "B5",
+      "title": "Hats Off To (Roy) Harper",
+      "duration": "3:41"
+    }
+  ]
+}

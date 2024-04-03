@@ -1,0 +1,164 @@
+{
+  "id": 851518,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "1967-1970",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Psychedelic Rock"
+  ],
+  "release_date": "1973-04-19",
+  "year": 1973,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/j8gKTaoInUEbHYNHjY8EhFdU3pGjllJo7Rl4z71kNHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTUx/OC0xMjYzMzkzODcy/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/9elbGMo0n8wsE3ldqqYg6rfEstQQPcsqVcJZ5Oyd3bk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTUx/OC0xMjYzMzkzODcy/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Strawberry Fields Forever",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Penny Lane",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "With A Little Help From My Friends",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Lucy In The Sky With Diamonds",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "A Day In The Life",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "All You Need Is Love",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "I Am The Walrus",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Hello Goodbye",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "The Fool On The Hill",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Magical Mystery Tour",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Lady Madonna",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Hey Jude",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Revolution",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Back In The U.S.S.R.",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "While My Guitar Gently Weeps",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Ob-La-Di, Ob-La-Da",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Get Back",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "title": "Don't Let Me Down",
+      "duration": ""
+    },
+    {
+      "position": "C6",
+      "title": "The Ballad Of John & Yoko",
+      "duration": ""
+    },
+    {
+      "position": "C7",
+      "title": "Old Brown Shoe",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Here Comes The Sun",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Come Together",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Something",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Octopus's Garden",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "Let It Be",
+      "duration": ""
+    },
+    {
+      "position": "D6",
+      "title": "Across The Universe",
+      "duration": ""
+    },
+    {
+      "position": "D7",
+      "title": "The Long And Winding Road",
+      "duration": ""
+    }
+  ]
+}

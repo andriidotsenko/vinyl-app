@@ -1,0 +1,137 @@
+{
+  "id": 266650,
+  "artist_id": 18956,
+  "artist": "Stevie Wonder",
+  "title": "Songs In The Key Of Life",
+  "all_genres": [
+    8,
+    2
+  ],
+  "genre": 8,
+  "styles": [
+    "Soul",
+    "Funk",
+    "Fusion",
+    "Jazz-Funk"
+  ],
+  "release_date": "1976-09-28",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/xHMK9zdCHilL1GzWg2TKur_6Lr4CxPcvN8EAXz6GfYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY1/MC0xNDkxMDEwNTM4/LTcyNzUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/cmalBxXo_YdO90ufVWF7sBjqvA6H4dkbTagkhkMbSZk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY1/MC0xNDkxMDEwNTM4/LTcyNzUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Love's In Need Of Love Today",
+      "duration": "7:05"
+    },
+    {
+      "position": "A2",
+      "title": "Have A Talk With God",
+      "duration": "2:42"
+    },
+    {
+      "position": "A3",
+      "title": "Village Ghetto Land",
+      "duration": "3:25"
+    },
+    {
+      "position": "A4",
+      "title": "Contusion",
+      "duration": "3:45"
+    },
+    {
+      "position": "A5",
+      "title": "Sir Duke",
+      "duration": "3:52"
+    },
+    {
+      "position": "B1",
+      "title": "I Wish",
+      "duration": "4:12"
+    },
+    {
+      "position": "B2",
+      "title": "Knocks Me Off My Feet",
+      "duration": "3:35"
+    },
+    {
+      "position": "B3",
+      "title": "Pastime Paradise",
+      "duration": "3:20"
+    },
+    {
+      "position": "B4",
+      "title": "Summer Soft",
+      "duration": "4:16"
+    },
+    {
+      "position": "B5",
+      "title": "Ordinary Pain",
+      "duration": "6:22"
+    },
+    {
+      "position": "C1",
+      "title": "Isn't She Lovely",
+      "duration": "6:33"
+    },
+    {
+      "position": "C2",
+      "title": "Joy Inside My Tears",
+      "duration": "6:29"
+    },
+    {
+      "position": "C3",
+      "title": "Black Man",
+      "duration": "8:29"
+    },
+    {
+      "position": "D1",
+      "title": "Ngiculela - Es Una Historia - I Am Singing",
+      "duration": "3:48"
+    },
+    {
+      "position": "D2",
+      "title": "If It's Magic",
+      "duration": "3:11"
+    },
+    {
+      "position": "D3",
+      "title": "As",
+      "duration": "7:07"
+    },
+    {
+      "position": "D4",
+      "title": "Another Star",
+      "duration": "8:19"
+    },
+    {
+      "position": "",
+      "title": "A Something's Extra Bonus Record",
+      "duration": ""
+    },
+    {
+      "position": "E1",
+      "title": "Saturn",
+      "duration": "4:54"
+    },
+    {
+      "position": "E2",
+      "title": "Ebony Eyes",
+      "duration": "4:10"
+    },
+    {
+      "position": "F1",
+      "title": "All Day Sucker",
+      "duration": "5:06"
+    },
+    {
+      "position": "F2",
+      "title": "Easy Goin' Evening (My Mama's Call)",
+      "duration": "3:58"
+    }
+  ]
+}

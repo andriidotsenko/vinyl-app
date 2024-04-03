@@ -1,0 +1,86 @@
+{
+  "id": 3892004,
+  "artist_id": 1567405,
+  "artist": "Mumford & Sons",
+  "title": "Babel",
+  "all_genres": [
+    3,
+    7
+  ],
+  "genre": 3,
+  "styles": [
+    "Bluegrass",
+    "Folk"
+  ],
+  "release_date": "2012-09-24",
+  "year": 2012,
+  "all_countries": [
+    "usa",
+    "canada"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/d7StklyUscAkhQRn6Lbthn6ILahBbQvDCv6ss_OgOCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTIw/MDQtMTQ3MTMxNTM1/MS02MTA3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/DIjzwpP1W8-NbEI2zjU_J2tNQa41Rf51La6QS0IiUYQ/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTIw/MDQtMTQ3MTMxNTM1/MS02MTA3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Babel",
+      "duration": "3:28"
+    },
+    {
+      "position": "A2",
+      "title": "Whispers In The Dark",
+      "duration": "3:15"
+    },
+    {
+      "position": "A3",
+      "title": "I Will Wait",
+      "duration": "4:36"
+    },
+    {
+      "position": "A4",
+      "title": "Holland Road",
+      "duration": "4:13"
+    },
+    {
+      "position": "A5",
+      "title": "Ghosts That We Knew",
+      "duration": "5:39"
+    },
+    {
+      "position": "A6",
+      "title": "Lover Of The Light",
+      "duration": "5:14"
+    },
+    {
+      "position": "B1",
+      "title": "Lovers' Eyes",
+      "duration": "5:21"
+    },
+    {
+      "position": "B2",
+      "title": "Reminder",
+      "duration": "2:04"
+    },
+    {
+      "position": "B3",
+      "title": "Hopeless Wanderer",
+      "duration": "5:07"
+    },
+    {
+      "position": "B4",
+      "title": "Broken Crown",
+      "duration": "4:16"
+    },
+    {
+      "position": "B5",
+      "title": "Below My Feet",
+      "duration": "4:52"
+    },
+    {
+      "position": "B6",
+      "title": "Not With Haste",
+      "duration": "4:09"
+    }
+  ]
+}

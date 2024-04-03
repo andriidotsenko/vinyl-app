@@ -1,0 +1,106 @@
+{
+  "id": 528627,
+  "artist_id": 273394,
+  "artist": "John Williams",
+  "title": "Star Wars",
+  "all_genres": [
+    10,
+    6
+  ],
+  "genre": 10,
+  "styles": [
+    "Soundtrack",
+    "Score",
+    "Neo-Romantic"
+  ],
+  "release_date": "1977",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/xB_GBymi4XaIsgIgo4tXAy1PzR26UqDLthTQBDHs-vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODYy/Ny0xNDgwMjkzNTU5/LTI4ODMuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/oF3iSWjMa-f_1KWkzeU407gQFYbWcXKxVRFSIbpY2EE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODYy/Ny0xNDgwMjkzNTU5/LTI4ODMuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Main Title",
+      "duration": "5:20"
+    },
+    {
+      "position": "A2",
+      "title": "Imperial Attack",
+      "duration": "6:10"
+    },
+    {
+      "position": "A3",
+      "title": "Princess Leia's Theme",
+      "duration": "4:18"
+    },
+    {
+      "position": "A4",
+      "title": "The Desert And The Robot Auction",
+      "duration": "2:51"
+    },
+    {
+      "position": "B1",
+      "title": "Ben's Death And TIE Fighter Attack",
+      "duration": "3:46"
+    },
+    {
+      "position": "B2",
+      "title": "The Little People Work",
+      "duration": "4:02"
+    },
+    {
+      "position": "B3",
+      "title": "Rescue Of The Princess",
+      "duration": "4:46"
+    },
+    {
+      "position": "B4",
+      "title": "Inner City",
+      "duration": "4:12"
+    },
+    {
+      "position": "B5",
+      "title": "Cantina Band",
+      "duration": "2:44"
+    },
+    {
+      "position": "C1",
+      "title": "The Land Of The Sand People",
+      "duration": "2:50"
+    },
+    {
+      "position": "C2",
+      "title": "Mouse Robot And Blasting Off",
+      "duration": "4:01"
+    },
+    {
+      "position": "C3",
+      "title": "The Return Home",
+      "duration": "2:46"
+    },
+    {
+      "position": "C4",
+      "title": "The Walls Converge",
+      "duration": "4:37"
+    },
+    {
+      "position": "C5",
+      "title": "The Princess Appears",
+      "duration": "4:04"
+    },
+    {
+      "position": "D1",
+      "title": "The Last Battle",
+      "duration": "12:05"
+    },
+    {
+      "position": "D2",
+      "title": "The Throne Room And End Title",
+      "duration": "5:28"
+    }
+  ]
+}

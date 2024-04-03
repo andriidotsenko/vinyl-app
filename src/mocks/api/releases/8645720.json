@@ -1,0 +1,92 @@
+{
+  "id": 8645720,
+  "artist_id": 70829,
+  "artist": "The Beach Boys",
+  "title": "Pet Sounds",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Art Rock",
+    "Surf",
+    "Psychedelic Rock"
+  ],
+  "release_date": "2016-06-10",
+  "year": 2016,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/KtBfEcuBIh6mCeyKYi2T0su4w50ZapgAwYJcVZXf8q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDU3/MjAtMTUwNTQxMTQ1/My03MTM3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/VDbRNf7Cf5uJHQTrimMhIsLRQnr1lh2ytydU9C_98QY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDU3/MjAtMTUwNTQxMTQ1/My03MTM3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Wouldn't It Be Nice",
+      "duration": "2:22"
+    },
+    {
+      "position": "A2",
+      "title": "You Still Believe In Me",
+      "duration": "2:33"
+    },
+    {
+      "position": "A3",
+      "title": "That's Not Me",
+      "duration": "2:27"
+    },
+    {
+      "position": "A4",
+      "title": "Don't Talk (Put Your Head On My Shoulder)",
+      "duration": "2:52"
+    },
+    {
+      "position": "A5",
+      "title": "I'm Waiting For The Day",
+      "duration": "3:01"
+    },
+    {
+      "position": "A6",
+      "title": "Let's Go Away For Awhile",
+      "duration": "2:18"
+    },
+    {
+      "position": "A7",
+      "title": "Sloop John B",
+      "duration": "2:57"
+    },
+    {
+      "position": "B1",
+      "title": "God Only Knows",
+      "duration": "2:46"
+    },
+    {
+      "position": "B2",
+      "title": "I Know There's An Answer",
+      "duration": "3:10"
+    },
+    {
+      "position": "B3",
+      "title": "Here Today",
+      "duration": "2:38"
+    },
+    {
+      "position": "B4",
+      "title": "I Just Wasn't Made For These Times",
+      "duration": "3:21"
+    },
+    {
+      "position": "B5",
+      "title": "Pet Sounds",
+      "duration": "2:20"
+    },
+    {
+      "position": "B6",
+      "title": "Caroline, No",
+      "duration": "2:16"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 8888892,
+  "artist_id": 10785,
+  "artist": "Angelo Badalamenti",
+  "title": "Twin Peaks",
+  "all_genres": [
+    1,
+    8,
+    6
+  ],
+  "genre": 1,
+  "styles": [
+    "Soundtrack",
+    "Score",
+    "Ambient"
+  ],
+  "release_date": "2016-08-10",
+  "year": 2016,
+  "all_countries": [
+    "usa",
+    "canada"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/R_q1wXsT8qxHt8wkaRh-aC7AYOflMWzDgcm1bZdOQQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTYyNjc4ODEw/Ni03NTQ4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/kSb-ELOINA2XzCQZA01RJ3E-4U-HymFjndGTSB00WCM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTYyNjc4ODEw/Ni03NTQ4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Twin Peaks Theme",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Laura Palmer's Theme",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Audrey's Dance",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "The Nightingale",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Freshly Squeezed",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "The Bookhouse Boys",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Into The Night",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "title": "Night Life In Twin Peaks",
+      "duration": ""
+    },
+    {
+      "position": "B9",
+      "title": "Dance Of The Dream Man",
+      "duration": ""
+    },
+    {
+      "position": "B10",
+      "title": "Love Theme From Twin Peaks",
+      "duration": ""
+    },
+    {
+      "position": "B11",
+      "title": "Falling",
+      "duration": ""
+    }
+  ]
+}

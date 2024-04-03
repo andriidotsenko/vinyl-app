@@ -1,0 +1,90 @@
+{
+  "id": 2606952,
+  "artist_id": 137880,
+  "artist": "Kanye West",
+  "title": "My Beautiful Dark Twisted Fantasy",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Contemporary R&B",
+    "Pop Rap",
+    "Avantgarde"
+  ],
+  "release_date": "2010-11-00",
+  "year": 2010,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Pl9e-6rhwxl1tfvQHburhQ7nFFmLSZYh2zJ1deEhTaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY5/NTItMTUyMTQ2ODE4/MC04NjMwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/hFrpXP9sZ-LwVY-onr8HleH6Hg5GRzwm9KfSO0ZbmWA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY5/NTItMTUyMTQ2ODE4/MC04NjMwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Dark Fantasy",
+      "duration": "4:40"
+    },
+    {
+      "position": "A2",
+      "title": "Gorgeous",
+      "duration": "5:57"
+    },
+    {
+      "position": "B1",
+      "title": "Power",
+      "duration": "4:52"
+    },
+    {
+      "position": "B2",
+      "title": "All Of The Lights (Interlude)",
+      "duration": "1:02"
+    },
+    {
+      "position": "B3",
+      "title": "All Of The Lights",
+      "duration": "4:59"
+    },
+    {
+      "position": "C",
+      "title": "Monster",
+      "duration": "6:18"
+    },
+    {
+      "position": "D1",
+      "title": "So Appalled",
+      "duration": "6:38"
+    },
+    {
+      "position": "D2",
+      "title": "Devil In A New Dress",
+      "duration": "5:52"
+    },
+    {
+      "position": "E1",
+      "title": "Runaway",
+      "duration": "9:08"
+    },
+    {
+      "position": "E2",
+      "title": "Hell Of A Life",
+      "duration": "5:27"
+    },
+    {
+      "position": "F1",
+      "title": "Blame Game",
+      "duration": "7:49"
+    },
+    {
+      "position": "F2",
+      "title": "Lost In The World",
+      "duration": "4:16"
+    },
+    {
+      "position": "F3",
+      "title": "Who Will Survive In America",
+      "duration": "1:38"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": 9370710,
+  "artist_id": 81013,
+  "artist": "Queen",
+  "title": "Greatest Hits II",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Arena Rock",
+    "Pop Rock"
+  ],
+  "release_date": "2016-11-18",
+  "year": 2016,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/tbsRzQC1oZe0R6uMmb2UxhlKJmHLc0nerzmwYlg388g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzA3/MTAtMTQ4MzE4MTQ0/Ni00NTgxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/KOoN3wyTCxts-Br8FLA9DzRrhIxxunwSX9BD8LR4xKk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzA3/MTAtMTQ4MzE4MTQ0/Ni00NTgxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "A Kind Of Magic",
+      "duration": "4:24"
+    },
+    {
+      "position": "A2",
+      "title": "Under Pressure",
+      "duration": "3:56"
+    },
+    {
+      "position": "A3",
+      "title": "Radio Ga Ga",
+      "duration": "5:48"
+    },
+    {
+      "position": "A4",
+      "title": "I Want It All",
+      "duration": "4:01"
+    },
+    {
+      "position": "A5",
+      "title": "I Want To Break Free",
+      "duration": "4:18"
+    },
+    {
+      "position": "B1",
+      "title": "Innuendo",
+      "duration": "6:31"
+    },
+    {
+      "position": "B2",
+      "title": "It's A Hard Life",
+      "duration": "4:09"
+    },
+    {
+      "position": "B3",
+      "title": "Breakthru",
+      "duration": "4:08"
+    },
+    {
+      "position": "B4",
+      "title": "Who Wants To Live Forever",
+      "duration": "4:56"
+    },
+    {
+      "position": "C1",
+      "title": "Headlong",
+      "duration": "4:33"
+    },
+    {
+      "position": "C2",
+      "title": "The Miracle",
+      "duration": "5:01"
+    },
+    {
+      "position": "C3",
+      "title": "I'm Going Slightly Mad",
+      "duration": "4:07"
+    },
+    {
+      "position": "C4",
+      "title": "The Invisible Man",
+      "duration": "3:55"
+    },
+    {
+      "position": "D1",
+      "title": "Hammer To Fall",
+      "duration": "3:40"
+    },
+    {
+      "position": "D2",
+      "title": "Friends Will Be Friends",
+      "duration": "4:07"
+    },
+    {
+      "position": "D3",
+      "title": "The Show Must Go On",
+      "duration": "4:35"
+    },
+    {
+      "position": "D4",
+      "title": "One Vision",
+      "duration": "4:02"
+    }
+  ]
+}

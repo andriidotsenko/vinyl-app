@@ -1,0 +1,76 @@
+{
+  "id": 869077,
+  "artist_id": 120232,
+  "artist": "Janis Joplin",
+  "title": "Pearl",
+  "all_genres": [
+    4,
+    2
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Classic Rock",
+    "Soul"
+  ],
+  "release_date": "1971",
+  "year": 1971,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/lAbGJu7LwxWzqIp_8Ssl5NZa7rd9kdcgM2lhAnkLYvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTA3/Ny0xMzA3ODgyOTc5/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/R-CwmXzYXL2SxxADfYuSOvlccWkUfgHt1zJW1FCMV4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTA3/Ny0xMzA3ODgyOTc5/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Move Over",
+      "duration": "3:40"
+    },
+    {
+      "position": "A2",
+      "title": "Cry Baby",
+      "duration": "3:55"
+    },
+    {
+      "position": "A3",
+      "title": "A Woman Left Lonely",
+      "duration": "3:26"
+    },
+    {
+      "position": "A4",
+      "title": "Half Moon",
+      "duration": "3:50"
+    },
+    {
+      "position": "A5",
+      "title": "Buried Alive In The Blues",
+      "duration": "2:23"
+    },
+    {
+      "position": "B1",
+      "title": "My Baby",
+      "duration": "3:43"
+    },
+    {
+      "position": "B2",
+      "title": "Me & Bobby McGee",
+      "duration": "4:28"
+    },
+    {
+      "position": "B3",
+      "title": "Mercedes Benz",
+      "duration": "1:45"
+    },
+    {
+      "position": "B4",
+      "title": "Trust Me",
+      "duration": "3:14"
+    },
+    {
+      "position": "B5",
+      "title": "Get It While You Can",
+      "duration": "3:22"
+    }
+  ]
+}

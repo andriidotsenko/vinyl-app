@@ -1,0 +1,103 @@
+{
+  "id": 1287354,
+  "artist_id": 135946,
+  "artist": "Johnny Cash",
+  "title": "At Folsom Prison",
+  "all_genres": [
+    7
+  ],
+  "genre": 7,
+  "styles": [
+    "Country"
+  ],
+  "release_date": "1968-05-00",
+  "year": 1968,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/pNlbGTim7CLy9BXjojyWJoD4e7vm7SRcfoccCDTb3ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcz/NTQtMTM0NTAwMDk4/Ny02NjYwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/cFdIDv5zF1USh8tZ76nBFpyPl2p3PQlsuMlXJlQt1lE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcz/NTQtMTM0NTAwMDk4/Ny02NjYwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Folsom Prison Blues",
+      "duration": "2:43"
+    },
+    {
+      "position": "A2",
+      "title": "Dark As The Dungeon",
+      "duration": "2:45"
+    },
+    {
+      "position": "A3",
+      "title": "I Still Miss Someone",
+      "duration": "1:57"
+    },
+    {
+      "position": "A4",
+      "title": "Cocaine Blues",
+      "duration": "2:47"
+    },
+    {
+      "position": "A5",
+      "title": "25 Minutes To Go",
+      "duration": "3:12"
+    },
+    {
+      "position": "A6",
+      "title": "Orange Blossom Special",
+      "duration": "3:37"
+    },
+    {
+      "position": "A7",
+      "title": "The Long Black Veil",
+      "duration": "3:53"
+    },
+    {
+      "position": "B1",
+      "title": "Send A Picture Of Mother",
+      "duration": "2:24"
+    },
+    {
+      "position": "B2",
+      "title": "The Wall",
+      "duration": "1:36"
+    },
+    {
+      "position": "B3",
+      "title": "Dirty Old Egg-Sucking Dog",
+      "duration": "1:30"
+    },
+    {
+      "position": "B4",
+      "title": "Flushed From The Bathroom Of Your Heart",
+      "duration": "2:15"
+    },
+    {
+      "position": "B5",
+      "title": "Jackson",
+      "duration": "3:20"
+    },
+    {
+      "position": "B6",
+      "title": "Give My Love To Rose",
+      "duration": "2:40"
+    },
+    {
+      "position": "B7",
+      "title": "I Got Stripes",
+      "duration": "1:48"
+    },
+    {
+      "position": "B8",
+      "title": "Green, Green Grass Of Home",
+      "duration": "2:30"
+    },
+    {
+      "position": "B9",
+      "title": "Greystone Chapel",
+      "duration": "6:07"
+    }
+  ]
+}

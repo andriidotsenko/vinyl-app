@@ -1,0 +1,90 @@
+{
+  "id": 9173990,
+  "artist_id": 10783,
+  "artist": "Beastie Boys",
+  "title": "Licensed To Ill",
+  "all_genres": [
+    5,
+    4
+  ],
+  "genre": 5,
+  "styles": [
+    "Cut-up/DJ",
+    "Hard Rock"
+  ],
+  "release_date": "2016-10-14",
+  "year": 2016,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/hVdiF1EbHiq3OQ_wBX2iz4m0CwnoLCWy98P8rjer0Xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/My02MDAxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/D1egauX30OUM3xE6_oFg2cFryGJo1MLDXl5lVLwjt4Q/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/My02MDAxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Rhymin & Stealin",
+      "duration": "4:08"
+    },
+    {
+      "position": "A2",
+      "title": "The New Style",
+      "duration": "4:35"
+    },
+    {
+      "position": "A3",
+      "title": "She’s Crafty",
+      "duration": "3:36"
+    },
+    {
+      "position": "A4",
+      "title": "Posse In Effect",
+      "duration": "2:27"
+    },
+    {
+      "position": "A5",
+      "title": "Slow Ride",
+      "duration": "2:56"
+    },
+    {
+      "position": "A6",
+      "title": "Girls",
+      "duration": "2:14"
+    },
+    {
+      "position": "A7",
+      "title": "Fight For Your Right",
+      "duration": "3:28"
+    },
+    {
+      "position": "B1",
+      "title": "No Sleep Till Brooklyn",
+      "duration": "4:07"
+    },
+    {
+      "position": "B2",
+      "title": "Paul Revere",
+      "duration": "3:42"
+    },
+    {
+      "position": "B3",
+      "title": "Hold It Now, Hit It",
+      "duration": "3:29"
+    },
+    {
+      "position": "B4",
+      "title": "Brass Monkey",
+      "duration": "2:38"
+    },
+    {
+      "position": "B5",
+      "title": "Slow And Low",
+      "duration": "3:37"
+    },
+    {
+      "position": "B6",
+      "title": "Time To Get Ill",
+      "duration": "3:37"
+    }
+  ]
+}

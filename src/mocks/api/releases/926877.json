@@ -1,0 +1,74 @@
+{
+  "id": 926877,
+  "artist_id": 106474,
+  "artist": "Paul Simon",
+  "title": "Still Crazy After All These Years",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1975-10-00",
+  "year": 1975,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/a-Jg7xZVOz_htkw_-0zmW6oyaAHh8qbfBPFELQiWxoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjg3/Ny0xNjgxNjQ2ODgw/LTc5MjUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/x3lcxK8zqEyrX8vwvNFoorhZei_hxg9vA4SQIWSy1Es/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjg3/Ny0xNjgxNjQ2ODgw/LTc5MjUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Still Crazy After All These Years",
+      "duration": "3:25"
+    },
+    {
+      "position": "A2",
+      "title": "My Little Town",
+      "duration": "3:52"
+    },
+    {
+      "position": "A3",
+      "title": "I Do It For Your Love",
+      "duration": "3:35"
+    },
+    {
+      "position": "A4",
+      "title": "50 Ways To Leave Your Lover",
+      "duration": "3:35"
+    },
+    {
+      "position": "A5",
+      "title": "Night Game",
+      "duration": "2:47"
+    },
+    {
+      "position": "B1",
+      "title": "Gone At Last",
+      "duration": "3:24"
+    },
+    {
+      "position": "B2",
+      "title": "Some Folks Lives Roll Easy",
+      "duration": "3:10"
+    },
+    {
+      "position": "B3",
+      "title": "Have A Good Time",
+      "duration": "3:25"
+    },
+    {
+      "position": "B4",
+      "title": "You're Kind",
+      "duration": "3:23"
+    },
+    {
+      "position": "B5",
+      "title": "Silent Eyes",
+      "duration": "3:57"
+    }
+  ]
+}

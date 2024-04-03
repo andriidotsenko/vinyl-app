@@ -1,0 +1,69 @@
+{
+  "id": 5734419,
+  "artist_id": 34278,
+  "artist": "Led Zeppelin",
+  "title": "Led Zeppelin",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Hard Rock"
+  ],
+  "release_date": "2014-06-02",
+  "year": 2014,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/mxIi0wSYLiuss62ZAUjm32tMa6k3SX7zIEdMkwOx_wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/MTktMTQwOTIxMjIy/MS0yODM0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/Of8HCWVr61BW_PZHMQK6A95VpQ-gqM3skESX5GlTYWQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/MTktMTQwOTIxMjIy/MS0yODM0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Good Times Bad Times",
+      "duration": "2:46"
+    },
+    {
+      "position": "A2",
+      "title": "Babe I'm Gonna Leave You",
+      "duration": "6:42"
+    },
+    {
+      "position": "A3",
+      "title": "You Shook Me",
+      "duration": "6:28"
+    },
+    {
+      "position": "A4",
+      "title": "Dazed And Confused",
+      "duration": "6:28"
+    },
+    {
+      "position": "B1",
+      "title": "Your Time Is Gonna Come",
+      "duration": "4:34"
+    },
+    {
+      "position": "B2",
+      "title": "Black Mountain Side",
+      "duration": "2:12"
+    },
+    {
+      "position": "B3",
+      "title": "Communication Breakdown",
+      "duration": "2:30"
+    },
+    {
+      "position": "B4",
+      "title": "I Can't Quit You Baby",
+      "duration": "4:42"
+    },
+    {
+      "position": "B5",
+      "title": "How Many More Times",
+      "duration": "8:27"
+    }
+  ]
+}

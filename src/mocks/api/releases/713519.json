@@ -1,0 +1,75 @@
+{
+  "id": 713519,
+  "artist_id": 268583,
+  "artist": "Boz Scaggs",
+  "title": "Silk Degrees",
+  "all_genres": [
+    4,
+    2
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Soul"
+  ],
+  "release_date": "1976-02-00",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Eq1Ft0HZvm0vic5xLDsXurMIK2ttcM_irfqs07OVIRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzUx/OS0xNDM2MTk5MjMy/LTc4MDAuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/7NR9yUK4qA-oMevkZR1x7XLrgi8tCdyiNOzCSaEaCnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzUx/OS0xNDM2MTk5MjMy/LTc4MDAuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "What Can I Say",
+      "duration": "2:59"
+    },
+    {
+      "position": "A2",
+      "title": "Georgia",
+      "duration": "3:54"
+    },
+    {
+      "position": "A3",
+      "title": "Jump Street",
+      "duration": "5:10"
+    },
+    {
+      "position": "A4",
+      "title": "What Do You Want The Girl To Do",
+      "duration": "3:49"
+    },
+    {
+      "position": "A5",
+      "title": "Harbor Lights",
+      "duration": "5:55"
+    },
+    {
+      "position": "B1",
+      "title": "Lowdown",
+      "duration": "5:15"
+    },
+    {
+      "position": "B2",
+      "title": "It's Over",
+      "duration": "2:48"
+    },
+    {
+      "position": "B3",
+      "title": "Love Me Tomorrow",
+      "duration": "3:14"
+    },
+    {
+      "position": "B4",
+      "title": "Lido Shuffle",
+      "duration": "3:40"
+    },
+    {
+      "position": "B5",
+      "title": "We're All Alone",
+      "duration": "4:10"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": 2380004,
+  "artist_id": 281232,
+  "artist": "Arcade Fire",
+  "title": "The Suburbs",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Indie Rock"
+  ],
+  "release_date": "2010-08-03",
+  "year": 2010,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/w7tp8cPOB7b9AJ7BvnJqHatER5LW2ap1Qr34sKEck_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAw/MDQtMTU3OTQ3ODg0/Mi01NTAzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/wkYwUOYrK-kiGRJF3FGwgN9UCiAIhSdbSxtiSla6o0o/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAw/MDQtMTU3OTQ3ODg0/Mi01NTAzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Suburbs",
+      "duration": "5:15"
+    },
+    {
+      "position": "A2",
+      "title": "Ready To Start",
+      "duration": "4:16"
+    },
+    {
+      "position": "A3",
+      "title": "Modern Man",
+      "duration": "4:40"
+    },
+    {
+      "position": "A4",
+      "title": "Rococo",
+      "duration": "3:57"
+    },
+    {
+      "position": "B1",
+      "title": "Empty Room",
+      "duration": "2:52"
+    },
+    {
+      "position": "B2",
+      "title": "City With No Children",
+      "duration": "3:12"
+    },
+    {
+      "position": "B3",
+      "title": "Half Light I",
+      "duration": "4:14"
+    },
+    {
+      "position": "B4",
+      "title": "Half Light II (No Celebration)",
+      "duration": "4:27"
+    },
+    {
+      "position": "C1",
+      "title": "Month Of May",
+      "duration": "3:51"
+    },
+    {
+      "position": "C2",
+      "title": "Wasted Hours",
+      "duration": "3:21"
+    },
+    {
+      "position": "C3",
+      "title": "Deep Blue",
+      "duration": "4:28"
+    },
+    {
+      "position": "C4",
+      "title": "We Used To Wait",
+      "duration": "5:01"
+    },
+    {
+      "position": "D1",
+      "title": "Sprawl I (Flatland)",
+      "duration": "2:54"
+    },
+    {
+      "position": "D2",
+      "title": "Sprawl II (Mountains Beyond Mountains)",
+      "duration": "5:26"
+    },
+    {
+      "position": "D3",
+      "title": "Suburban War",
+      "duration": "4:45"
+    },
+    {
+      "position": "D4",
+      "title": "The Suburbs (Continued)",
+      "duration": "1:28"
+    }
+  ]
+}

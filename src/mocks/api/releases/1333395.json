@@ -1,0 +1,225 @@
+{
+  "id": 1333395,
+  "artist_id": 760706,
+  "artist": "Bruce Springsteen & The E-Street Band",
+  "title": "Live / 1975-85",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Soft Rock",
+    "Pop Rock",
+    "Classic Rock"
+  ],
+  "release_date": "1986",
+  "year": 1986,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/jzw6ht6kpJ7nvZAcyH6DtC7GQNb3TsEFCpkdc4Bxu_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMz/OTUtMTM4MTEwMTYz/OS05Njk0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/ZoUYpc-uuol34FMI5tyEl7LS3chcucvl-sScTwYzq4E/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMz/OTUtMTM4MTEwMTYz/OS05Njk0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Thunder Road",
+      "duration": "5:41"
+    },
+    {
+      "position": "A2",
+      "title": "Adam Raised A Cain",
+      "duration": "5:25"
+    },
+    {
+      "position": "A3",
+      "title": "Spirit In The Night",
+      "duration": "6:22"
+    },
+    {
+      "position": "A4",
+      "title": "4th Of July, Asbury Park (Sandy)",
+      "duration": "6:29"
+    },
+    {
+      "position": "B1",
+      "title": "Paradise By The \"C\"",
+      "duration": "3:34"
+    },
+    {
+      "position": "B2",
+      "title": "Fire",
+      "duration": "3:12"
+    },
+    {
+      "position": "B3",
+      "title": "Growin' Up",
+      "duration": "7:57"
+    },
+    {
+      "position": "B4",
+      "title": "It's Hard To Be A Saint In The City",
+      "duration": "4:37"
+    },
+    {
+      "position": "C1",
+      "title": "Backstreets",
+      "duration": "7:27"
+    },
+    {
+      "position": "C2",
+      "title": "Rosalita (Come Out Tonight)",
+      "duration": "9:59"
+    },
+    {
+      "position": "C3",
+      "title": "Raise Your Hand",
+      "duration": "5:10"
+    },
+    {
+      "position": "D1",
+      "title": "Hungry Heart",
+      "duration": "4:28"
+    },
+    {
+      "position": "D2",
+      "title": "Two Hearts",
+      "duration": "3:05"
+    },
+    {
+      "position": "D3",
+      "title": "Cadillac Ranch",
+      "duration": "4:50"
+    },
+    {
+      "position": "D4",
+      "title": "You Can Look (But You Better Not Touch)",
+      "duration": "3:51"
+    },
+    {
+      "position": "D5",
+      "title": "Independence Day",
+      "duration": "5:09"
+    },
+    {
+      "position": "E1",
+      "title": "Badlands",
+      "duration": "5:15"
+    },
+    {
+      "position": "E2",
+      "title": "Because The Night",
+      "duration": "5:18"
+    },
+    {
+      "position": "E3",
+      "title": "Candy's Room",
+      "duration": "3:09"
+    },
+    {
+      "position": "E4",
+      "title": "Darkness On The Edge Of Town",
+      "duration": "4:28"
+    },
+    {
+      "position": "E5",
+      "title": "Racing In The Street",
+      "duration": "8:13"
+    },
+    {
+      "position": "F1",
+      "title": "This Land Is Your Land",
+      "duration": "4:17"
+    },
+    {
+      "position": "F2",
+      "title": "Nebraska",
+      "duration": "4:16"
+    },
+    {
+      "position": "F3",
+      "title": "Johnny 99",
+      "duration": "4:21"
+    },
+    {
+      "position": "F4",
+      "title": "Reason To Believe",
+      "duration": "5:15"
+    },
+    {
+      "position": "G1",
+      "title": "Born In The U.S.A.",
+      "duration": "6:07"
+    },
+    {
+      "position": "G2",
+      "title": "Seeds",
+      "duration": "5:13"
+    },
+    {
+      "position": "G3",
+      "title": "The River",
+      "duration": "11:37"
+    },
+    {
+      "position": "H1",
+      "title": "War",
+      "duration": "4:51"
+    },
+    {
+      "position": "H2",
+      "title": "Darlington County",
+      "duration": "5:12"
+    },
+    {
+      "position": "H3",
+      "title": "Working On The Highway",
+      "duration": "3:59"
+    },
+    {
+      "position": "H4",
+      "title": "The Promised Land",
+      "duration": "5:32"
+    },
+    {
+      "position": "I1",
+      "title": "Cover Me",
+      "duration": "6:58"
+    },
+    {
+      "position": "I2",
+      "title": "I'm On Fire",
+      "duration": "4:23"
+    },
+    {
+      "position": "I3",
+      "title": "Bobby Jean",
+      "duration": "4:27"
+    },
+    {
+      "position": "I4",
+      "title": "My Hometown",
+      "duration": "5:08"
+    },
+    {
+      "position": "J1",
+      "title": "Born To Run",
+      "duration": "5:02"
+    },
+    {
+      "position": "J2",
+      "title": "No Surrender",
+      "duration": "4:42"
+    },
+    {
+      "position": "J3",
+      "title": "Tenth Avenue Freeze-Out",
+      "duration": "4:18"
+    },
+    {
+      "position": "J4",
+      "title": "Jersey Girl",
+      "duration": "6:31"
+    }
+  ]
+}

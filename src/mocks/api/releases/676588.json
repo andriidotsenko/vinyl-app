@@ -1,0 +1,84 @@
+{
+  "id": 676588,
+  "artist_id": 260190,
+  "artist": "The Knack",
+  "title": "Get The Knack",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Power Pop"
+  ],
+  "release_date": "1979",
+  "year": 1979,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/gwJ1KgAjLbQFVe7y70gB1AskDreIaHOEjY5lXNqbq78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjU4/OC0xMjg0Njk0MjQ4/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/ExiQOk_vBv5h_AaBntyk7eCHNzoKoPxP8od9HUokDeI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjU4/OC0xMjg0Njk0MjQ4/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Let Me Out",
+      "duration": "2:20"
+    },
+    {
+      "position": "A2",
+      "title": "Your Number Or Your Name",
+      "duration": "2:57"
+    },
+    {
+      "position": "A3",
+      "title": "Oh Tara",
+      "duration": "3:04"
+    },
+    {
+      "position": "A4",
+      "title": "(She's So) Selfish",
+      "duration": "4:30"
+    },
+    {
+      "position": "A5",
+      "title": "Maybe Tonight",
+      "duration": "4:00"
+    },
+    {
+      "position": "A6",
+      "title": "Good Girls Don't",
+      "duration": "3:07"
+    },
+    {
+      "position": "B1",
+      "title": "My Sharona",
+      "duration": "4:52"
+    },
+    {
+      "position": "B2",
+      "title": "Heartbeat",
+      "duration": "2:11"
+    },
+    {
+      "position": "B3",
+      "title": "Siamese Twins (The Monkey And Me)",
+      "duration": "3:25"
+    },
+    {
+      "position": "B4",
+      "title": "Lucinda",
+      "duration": "4:00"
+    },
+    {
+      "position": "B5",
+      "title": "That's What The Little Girls Do",
+      "duration": "2:41"
+    },
+    {
+      "position": "B6",
+      "title": "Frustrated",
+      "duration": "3:51"
+    }
+  ]
+}

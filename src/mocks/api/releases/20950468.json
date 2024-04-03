@@ -1,0 +1,177 @@
+{
+  "id": 20950468,
+  "artist_id": 1124645,
+  "artist": "Taylor Swift",
+  "title": "Red (Taylor's Version)",
+  "all_genres": [
+    4,
+    3,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Ballad",
+    "Country",
+    "Pop Rock"
+  ],
+  "release_date": "2021-11-12",
+  "year": 2021,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/APYQaoyzDOdr-G1FPBLz_QpI8DGMtVXmjwlBGG9mtpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTUw/NDY4LTE2ODI0Njcy/OTYtMTcxOC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/eeJE7VsQumocSwk76qZ7XQh_6abYCHpAEbqJSSj6pO0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTUw/NDY4LTE2ODI0Njcy/OTYtMTcxOC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "State Of Grace (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Red (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Treacherous (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "I Knew You Were Trouble (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "All Too Well (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "22 (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "I Almost Do (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Stay Stay Stay (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "The Last Time (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Holy Ground (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Sad Beautiful Tragic (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "The Lucky One (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Everything Has Changed (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Starlight (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Begin Again (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "E1",
+      "title": "The Moment I Knew (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "E2",
+      "title": "Come Back... Be Here (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "E3",
+      "title": "Girl At Home (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "E4",
+      "title": "State Of Grace (Acoustic Version) (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "F1",
+      "title": "Ronan (Taylor's Version)",
+      "duration": ""
+    },
+    {
+      "position": "F2",
+      "title": "Better Man (Taylor's Version) (From The Vault)",
+      "duration": ""
+    },
+    {
+      "position": "F3",
+      "title": "Nothing New (Taylor's Version) (From The Vault)",
+      "duration": ""
+    },
+    {
+      "position": "F4",
+      "title": "Babe (Taylor's Version) (From The Vault)",
+      "duration": ""
+    },
+    {
+      "position": "G1",
+      "title": "Message In A Bottle (Taylor's Version) (From The Vault)",
+      "duration": ""
+    },
+    {
+      "position": "G2",
+      "title": " I Bet You Think About Me (Taylor's Version) (From The Vault)",
+      "duration": ""
+    },
+    {
+      "position": "G3",
+      "title": "Forever Winter (Taylor's Version) (From The Vault)",
+      "duration": ""
+    },
+    {
+      "position": "G4",
+      "title": "Run (Taylor's Version) (From The Vault)",
+      "duration": ""
+    },
+    {
+      "position": "H1",
+      "title": " The Very First Night (Taylor's Version) (From The Vault)",
+      "duration": ""
+    },
+    {
+      "position": "H2",
+      "title": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 2449546,
+  "artist_id": 231577,
+  "artist": "Pixies",
+  "title": "Doolittle",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock"
+  ],
+  "release_date": "2004-09-15",
+  "year": 2004,
+  "all_countries": [
+    "uk",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/7NpI9GG1K0krLDXKj-hbpyzyroyqtcZu7K1oNydnB00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDk1/NDYtMTQ4NTYxNDY3/OS02NTkxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/RSJ9fGVQs5lHWlkS1-cKEtBAAhR5inqKNZnPkWwspdo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDk1/NDYtMTQ4NTYxNDY3/OS02NTkxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Debaser",
+      "duration": "2:52"
+    },
+    {
+      "position": "A2",
+      "title": "Tame",
+      "duration": "1:55"
+    },
+    {
+      "position": "A3",
+      "title": "Wave Of Mutilation",
+      "duration": "2:04"
+    },
+    {
+      "position": "A4",
+      "title": "I Bleed",
+      "duration": "2:34"
+    },
+    {
+      "position": "A5",
+      "title": "Here Comes Your Man",
+      "duration": "3:21"
+    },
+    {
+      "position": "A6",
+      "title": "Dead",
+      "duration": "2:21"
+    },
+    {
+      "position": "A7",
+      "title": "Monkey Gone To Heaven",
+      "duration": "2:57"
+    },
+    {
+      "position": "B1",
+      "title": "Mr. Grieves",
+      "duration": "2:05"
+    },
+    {
+      "position": "B2",
+      "title": "Crackity Jones",
+      "duration": "1:24"
+    },
+    {
+      "position": "B3",
+      "title": "La La Love You",
+      "duration": "2:43"
+    },
+    {
+      "position": "B4",
+      "title": "Number 13 Baby",
+      "duration": "3:51"
+    },
+    {
+      "position": "B5",
+      "title": "There Goes My Gun",
+      "duration": "1:49"
+    },
+    {
+      "position": "B6",
+      "title": "Hey",
+      "duration": "3:31"
+    },
+    {
+      "position": "B7",
+      "title": "Silver",
+      "duration": "2:25"
+    },
+    {
+      "position": "B8",
+      "title": "Gouge Away",
+      "duration": "2:45"
+    }
+  ]
+}

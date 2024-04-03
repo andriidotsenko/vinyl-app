@@ -1,0 +1,80 @@
+{
+  "id": 15492389,
+  "artist_id": 4138698,
+  "artist": "Phoebe Bridgers",
+  "title": "Punisher",
+  "all_genres": [
+    4,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock",
+    "Folk"
+  ],
+  "release_date": "2020-06-00",
+  "year": 2020,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/pj_mf10a45K9znpY3sBFuVJirQlniKy7Gtilc-8Qdz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDky/Mzg5LTE2MDY5Njgy/MTItMzAwOC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/ZXp-c5c3m3tLYdpXgJYJajxCJSPtYhqrX0h4gngwIOg/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDky/Mzg5LTE2MDY5Njgy/MTItMzAwOC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "DVD Menu",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Garden Song",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Kyoto",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Punisher",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Halloween",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Chinese Satellite",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Moon Song",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Savior Complex",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "ICU",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Graceland Too",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "I Know The End",
+      "duration": ""
+    }
+  ]
+}

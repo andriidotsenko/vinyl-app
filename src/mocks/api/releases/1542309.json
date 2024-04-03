@@ -1,0 +1,73 @@
+{
+  "id": 1542309,
+  "artist_id": 200567,
+  "artist": "Jackson Browne",
+  "title": "Running On Empty",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1977",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/AsGS-oVTC4Dw6vOWRZo_inhAnSknemBO3IiB3JCUNgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIz/MDktMTUzNzcyODU4/NC0yNDYzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/lLXEDc0-4XD-2SO_QHDFdA4n8unUiMWxASCK1Z3JTPg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIz/MDktMTUzNzcyODU4/NC0yNDYzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Running On Empty",
+      "duration": "5:20"
+    },
+    {
+      "position": "A2",
+      "title": "The Road",
+      "duration": "4:50"
+    },
+    {
+      "position": "A3",
+      "title": "Rosie",
+      "duration": "3:37"
+    },
+    {
+      "position": "A4",
+      "title": "You Love The Thunder",
+      "duration": "3:52"
+    },
+    {
+      "position": "A5",
+      "title": "Cocaine",
+      "duration": "4:55"
+    },
+    {
+      "position": "B1",
+      "title": "Shaky Town",
+      "duration": "3:36"
+    },
+    {
+      "position": "B2",
+      "title": "Love Needs A Heart",
+      "duration": "3:28"
+    },
+    {
+      "position": "B3",
+      "title": "Nothing But Time",
+      "duration": "3:05"
+    },
+    {
+      "position": "B4",
+      "title": "The Load-Out",
+      "duration": "5:38"
+    },
+    {
+      "position": "B5",
+      "title": "Stay",
+      "duration": "3:28"
+    }
+  ]
+}

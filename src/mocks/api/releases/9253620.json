@@ -1,0 +1,75 @@
+{
+  "id": 9253620,
+  "artist_id": 105730,
+  "artist": "Weezer",
+  "title": "Weezer",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Power Pop",
+    "Alternative Rock",
+    "Indie Rock"
+  ],
+  "release_date": "2016-10-28",
+  "year": 2016,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/dMV0GOJSV9dyp9sZhPXydxeEPHFrG3JYEdObn8iI8f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTM2/MjAtMTQ5MDg3NjA3/MC01MDU0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/5GIvVCdOKdFfLySJC4-lHbU3hwAkXReDNbMiHGE3SXU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTM2/MjAtMTQ5MDg3NjA3/MC01MDU0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "My Name Is Jonas",
+      "duration": "3:24"
+    },
+    {
+      "position": "A2",
+      "title": "No One Else",
+      "duration": "3:04"
+    },
+    {
+      "position": "A3",
+      "title": "The World Has Turned And Left Me Here",
+      "duration": "4:19"
+    },
+    {
+      "position": "A4",
+      "title": "Buddy Holly",
+      "duration": "2:39"
+    },
+    {
+      "position": "A5",
+      "title": "Undone - The Sweater Song",
+      "duration": "5:05"
+    },
+    {
+      "position": "A6",
+      "title": "Surf Wax America",
+      "duration": "3:06"
+    },
+    {
+      "position": "B1",
+      "title": "Say It Ain't So",
+      "duration": "4:18"
+    },
+    {
+      "position": "B2",
+      "title": "In The Garage",
+      "duration": "3:55"
+    },
+    {
+      "position": "B3",
+      "title": "Holiday",
+      "duration": "3:24"
+    },
+    {
+      "position": "B4",
+      "title": "Only In Dreams",
+      "duration": "7:59"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": 14192689,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "Abbey Road",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Classic Rock"
+  ],
+  "release_date": "2019-09-27",
+  "year": 2019,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/xMvpz_UW5PNYx-e5C93cvUrnODMhtw3QVcDHjGVw4Nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/Njg5LTE1NzU5MDY2/ODMtODkxNS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/tR1fTLtYtoZoU7KwbK-lbgG0L-3pDKdq2OkChGmm-eE/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTky/Njg5LTE1NzU5MDY2/ODMtODkxNS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Come Together",
+      "duration": "4:21"
+    },
+    {
+      "position": "A2",
+      "title": "Something",
+      "duration": "3:03"
+    },
+    {
+      "position": "A3",
+      "title": "Maxwell's Silver Hammer",
+      "duration": "3:27"
+    },
+    {
+      "position": "A4",
+      "title": "Oh! Darling",
+      "duration": "3:27"
+    },
+    {
+      "position": "A5",
+      "title": "Octopus's Garden",
+      "duration": "2:51"
+    },
+    {
+      "position": "A6",
+      "title": "I Want You (She's So Heavy)",
+      "duration": "7:47"
+    },
+    {
+      "position": "B1",
+      "title": "Here Comes The Sun",
+      "duration": "3:05"
+    },
+    {
+      "position": "B2",
+      "title": "Because",
+      "duration": "2:46"
+    },
+    {
+      "position": "B3",
+      "title": "You Never Give Me Your Money",
+      "duration": "4:02"
+    },
+    {
+      "position": "B4",
+      "title": "Sun King",
+      "duration": "2:27"
+    },
+    {
+      "position": "B5",
+      "title": "Mean Mr. Mustard",
+      "duration": "1:06"
+    },
+    {
+      "position": "B6",
+      "title": "Polythene Pam",
+      "duration": "1:13"
+    },
+    {
+      "position": "B7",
+      "title": "She Came In Through The Bathroom Window",
+      "duration": "1:57"
+    },
+    {
+      "position": "B8",
+      "title": "Golden Slumbers",
+      "duration": "1:32"
+    },
+    {
+      "position": "B9",
+      "title": "Carry That Weight",
+      "duration": "1:37"
+    },
+    {
+      "position": "B10",
+      "title": "The End",
+      "duration": "2:20"
+    },
+    {
+      "position": "B11",
+      "title": "Her Majesty",
+      "duration": "0:23"
+    }
+  ]
+}

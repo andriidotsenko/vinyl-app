@@ -1,0 +1,89 @@
+{
+  "id": 6095128,
+  "artist_id": 45,
+  "artist": "Aphex Twin",
+  "title": "Syro",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "Breakbeat",
+    "IDM",
+    "Downtempo",
+    "Abstract",
+    "Techno",
+    "Acid"
+  ],
+  "release_date": "2014-09-19",
+  "year": 2014,
+  "all_countries": [
+    "usa",
+    "europe"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/OR0_E68xulOh294COfGgB06Kny6CcxjV-VBS-UnkbSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTUx/MjgtMTQxMTQ1MDkw/OC02MDI3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/mSkugxhrYL4qYZsRIGLQdTyVuv2vWXoNsHVqromBAk0/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTUx/MjgtMTQxMTQ1MDkw/OC02MDI3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Minipops 67 (Source Field Mix)",
+      "duration": "4:41"
+    },
+    {
+      "position": "A2",
+      "title": "Xmas_Evet10 (Thanaton3 Mix)",
+      "duration": "10:24"
+    },
+    {
+      "position": "B1",
+      "title": "Produk 29",
+      "duration": "4:58"
+    },
+    {
+      "position": "B2",
+      "title": "4 Bit 9d Api+e+6",
+      "duration": "4:23"
+    },
+    {
+      "position": "C1",
+      "title": "180db_",
+      "duration": "3:06"
+    },
+    {
+      "position": "C2",
+      "title": "Circlont6a (Syrobonkus Mix)",
+      "duration": "5:50"
+    },
+    {
+      "position": "D1",
+      "title": "Fz Pseudotimestretch+e+3",
+      "duration": "0:52"
+    },
+    {
+      "position": "D2",
+      "title": "Circlont14 (Shrymoming Mix)",
+      "duration": "7:14"
+    },
+    {
+      "position": "E1",
+      "title": "Syro U473t8+e (Piezoluminescence Mix)",
+      "duration": "6:26"
+    },
+    {
+      "position": "E2",
+      "title": "Papat4 (Pineal Mix)",
+      "duration": "4:13"
+    },
+    {
+      "position": "F1",
+      "title": "S950tx16wasr10 (Earth Portal Mix)",
+      "duration": "5:52"
+    },
+    {
+      "position": "F2",
+      "title": "Aisatsana",
+      "duration": "5:12"
+    }
+  ]
+}

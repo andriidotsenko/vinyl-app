@@ -1,0 +1,80 @@
+{
+  "id": 3599039,
+  "artist_id": 592308,
+  "artist": "Beach House",
+  "title": "Bloom",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock",
+    "Ethereal",
+    "Dream Pop"
+  ],
+  "release_date": "2012-05-15",
+  "year": 2012,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/0WUGdiqjtwy258_50Ff8tR68gpVEWuRcqe9tFbe5T7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTkw/MzktMTQ5MzM0OTg0/Mi03NDg3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/ZwG8Jnwi9KctxtFWcOxP5hNmvSf3n-TD2OWlNPfVmCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTkw/MzktMTQ5MzM0OTg0/Mi03NDg3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Myth",
+      "duration": "4:19"
+    },
+    {
+      "position": "A2",
+      "title": "Wild",
+      "duration": "4:58"
+    },
+    {
+      "position": "A3",
+      "title": "Lazuli",
+      "duration": "5:02"
+    },
+    {
+      "position": "B1",
+      "title": "Other People",
+      "duration": "4:25"
+    },
+    {
+      "position": "B2",
+      "title": "The Hours",
+      "duration": "4:12"
+    },
+    {
+      "position": "B3",
+      "title": "Troublemaker",
+      "duration": "4:56"
+    },
+    {
+      "position": "C1",
+      "title": "New Year",
+      "duration": "5:26"
+    },
+    {
+      "position": "C2",
+      "title": "Wishes",
+      "duration": "4:47"
+    },
+    {
+      "position": "D1",
+      "title": "On The Sea",
+      "duration": "5:32"
+    },
+    {
+      "position": "D2",
+      "title": "Irene",
+      "duration": "6:45"
+    },
+    {
+      "position": "D3",
+      "title": "Wherever You Go",
+      "duration": "3:35"
+    }
+  ]
+}

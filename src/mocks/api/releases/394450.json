@@ -1,0 +1,75 @@
+{
+  "id": 394450,
+  "artist_id": 57103,
+  "artist": "Elton John",
+  "title": "Captain Fantastic And The Brown Dirt Cowboy",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Rock & Roll"
+  ],
+  "release_date": "1975",
+  "year": 1975,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Q3aRkN3chOD75sUY1IQXMnux-fgS3d-nVhjF5vksCDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQ1/MC0xMzI3NjQ5NjEw/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/fhKoy85m0xNKfcmPgPrClmM7GURK0a9K54D1vtQmf4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQ1/MC0xMzI3NjQ5NjEw/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Captain Fantastic And The Brown Dirt Cowboy",
+      "duration": "5:45"
+    },
+    {
+      "position": "A2",
+      "title": "Tower Of Babel",
+      "duration": "4:28"
+    },
+    {
+      "position": "A3",
+      "title": "Bitter Fingers",
+      "duration": "4:32"
+    },
+    {
+      "position": "A4",
+      "title": "Tell Me When The Whistle Blows",
+      "duration": "4:20"
+    },
+    {
+      "position": "A5",
+      "title": "Someone Saved My Life Tonight",
+      "duration": "6:45"
+    },
+    {
+      "position": "B1",
+      "title": "(Gotta Get A) Meal Ticket",
+      "duration": "4:00"
+    },
+    {
+      "position": "B2",
+      "title": "Better Off Dead",
+      "duration": "2:35"
+    },
+    {
+      "position": "B3",
+      "title": "Writing",
+      "duration": "3:38"
+    },
+    {
+      "position": "B4",
+      "title": "We All Fall In Love Sometimes",
+      "duration": "4:15"
+    },
+    {
+      "position": "B5",
+      "title": "Curtains",
+      "duration": "6:12"
+    }
+  ]
+}

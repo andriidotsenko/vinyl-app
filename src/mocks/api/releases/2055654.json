@@ -1,0 +1,92 @@
+{
+  "id": 2055654,
+  "artist_id": 251846,
+  "artist": "Alice In Chains",
+  "title": "Dirt",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Metal",
+    "Alternative Rock",
+    "Hard Rock",
+    "Grunge"
+  ],
+  "release_date": "2009-11-23",
+  "year": 2009,
+  "all_countries": [
+    "uk",
+    "europe"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/Zn6lKG-uajnIiLViPWWTP_ipg9kwXtuVZ57dnmFjyQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/NTQtMTY0NjA0Njgz/OC01NzQ1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/St9gxGy8wSbg5-iMbU9sQ_CalG-CJeZbQc4ZmBeGJxw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/NTQtMTY0NjA0Njgz/OC01NzQ1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Them Bones",
+      "duration": "2:29"
+    },
+    {
+      "position": "A2",
+      "title": "Dam That River",
+      "duration": "3:09"
+    },
+    {
+      "position": "A3",
+      "title": "Rain When I Die",
+      "duration": "6:02"
+    },
+    {
+      "position": "A4",
+      "title": "Down In A Hole",
+      "duration": "5:38"
+    },
+    {
+      "position": "A5",
+      "title": "Sickman",
+      "duration": "5:30"
+    },
+    {
+      "position": "A6",
+      "title": "Rooster",
+      "duration": "6:15"
+    },
+    {
+      "position": "B1",
+      "title": "Junkhead",
+      "duration": "5:09"
+    },
+    {
+      "position": "B2",
+      "title": "Dirt",
+      "duration": "5:17"
+    },
+    {
+      "position": "B3",
+      "title": "God Smack",
+      "duration": "3:51"
+    },
+    {
+      "position": "B4",
+      "title": "Iron Gland",
+      "duration": "0:43"
+    },
+    {
+      "position": "B5",
+      "title": "Hate To Feel",
+      "duration": "5:16"
+    },
+    {
+      "position": "B6",
+      "title": "Angry Chair",
+      "duration": "4:47"
+    },
+    {
+      "position": "B7",
+      "title": "Would?",
+      "duration": "3:28"
+    }
+  ]
+}

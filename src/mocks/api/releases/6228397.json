@@ -1,0 +1,63 @@
+{
+  "id": 6228397,
+  "artist_id": 251595,
+  "artist": "Iron Maiden",
+  "title": "Powerslave",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Heavy Metal"
+  ],
+  "release_date": "2014-10-27",
+  "year": 2014,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/ddWJNy2yvzU0AqUr9AQKyq6EQw62--XfHLSvHCqDx0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjgz/OTctMTYyOTc4NjAx/MS02NzQ4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/u5P4YMRbHsWAfAkGYq1UeyghwDnLyHZkXNXNDi67S-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjgz/OTctMTYyOTc4NjAx/MS02NzQ4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Aces High",
+      "duration": "4:31"
+    },
+    {
+      "position": "A2",
+      "title": "2 Minutes To Midnight",
+      "duration": "6:04"
+    },
+    {
+      "position": "A3",
+      "title": "Losfer Words (Big 'Orra)",
+      "duration": "4:15"
+    },
+    {
+      "position": "A4",
+      "title": "Flash Of The Blade",
+      "duration": "4:05"
+    },
+    {
+      "position": "A5",
+      "title": "The Duellists",
+      "duration": "6:18"
+    },
+    {
+      "position": "B1",
+      "title": "Back In The Village",
+      "duration": "5:02"
+    },
+    {
+      "position": "B2",
+      "title": "Powerslave",
+      "duration": "7:12"
+    },
+    {
+      "position": "B3",
+      "title": "Rime Of The Ancient Mariner",
+      "duration": "13:45"
+    }
+  ]
+}

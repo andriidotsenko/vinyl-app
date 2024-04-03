@@ -1,0 +1,77 @@
+{
+  "id": 116593,
+  "artist_id": 13911,
+  "artist": "Eurythmics",
+  "title": "Revenge",
+  "all_genres": [
+    1,
+    4,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Pop Rock",
+    "Synth-pop"
+  ],
+  "release_date": "1986",
+  "year": 1986,
+  "all_countries": [
+    "uk",
+    "europe"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/0BX6ERJgVHiHAHMFTPVD2VG3FE6lKs1sXoaxVNTePI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU5/My0xNjY1MzEyNDQ3/LTc3NzEuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/njbtGc2HZy_ueTPuoAdhfUcvqqfkrg4-jUf-iZlRB98/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU5/My0xNjY1MzEyNDQ3/LTc3NzEuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Missionary Man",
+      "duration": "4:40"
+    },
+    {
+      "position": "A2",
+      "title": "Thorn In My Side",
+      "duration": "4:45"
+    },
+    {
+      "position": "A3",
+      "title": "When Tomorrow Comes",
+      "duration": "4:28"
+    },
+    {
+      "position": "A4",
+      "title": "The Last Time",
+      "duration": "4:10"
+    },
+    {
+      "position": "A5",
+      "title": "The Miracle Of Love",
+      "duration": "5:04"
+    },
+    {
+      "position": "B1",
+      "title": "Let's Go",
+      "duration": "4:08"
+    },
+    {
+      "position": "B2",
+      "title": "Take Your Pain Away",
+      "duration": "4:30"
+    },
+    {
+      "position": "B3",
+      "title": "A Little Of You",
+      "duration": "3:53"
+    },
+    {
+      "position": "B4",
+      "title": "In This Town",
+      "duration": "3:44"
+    },
+    {
+      "position": "B5",
+      "title": "I Remember You",
+      "duration": "5:00"
+    }
+  ]
+}

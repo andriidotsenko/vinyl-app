@@ -1,0 +1,71 @@
+{
+  "id": 737224,
+  "artist_id": 30724,
+  "artist": "Santana",
+  "title": "Santana",
+  "all_genres": [
+    4,
+    12,
+    2
+  ],
+  "genre": 4,
+  "styles": [
+    "Afro-Cuban",
+    "Psychedelic Rock"
+  ],
+  "release_date": "1969-08-00",
+  "year": 1969,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/gsi8nTrgeEsOOQj68ZEtKS0m9C3-gtaI2-JP1a5q6oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzIy/NC0xMzc0MDc1NTU3/LTI3MjUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/_m5kIshyIsuT9OuQn_soL7pgKjxpHJSLrSiRtIpLyDI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzIy/NC0xMzc0MDc1NTU3/LTI3MjUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Waiting",
+      "duration": "4:07"
+    },
+    {
+      "position": "A2",
+      "title": "Evil Ways",
+      "duration": "4:00"
+    },
+    {
+      "position": "A3",
+      "title": "Shades Of Time",
+      "duration": "3:14"
+    },
+    {
+      "position": "A4",
+      "title": "Savor",
+      "duration": "2:46"
+    },
+    {
+      "position": "A5",
+      "title": "Jingo",
+      "duration": "4:23"
+    },
+    {
+      "position": "B1",
+      "title": "Persuasion",
+      "duration": "2:37"
+    },
+    {
+      "position": "B2",
+      "title": "Treat",
+      "duration": "4:46"
+    },
+    {
+      "position": "B3",
+      "title": "You Just Don't Care",
+      "duration": "4:37"
+    },
+    {
+      "position": "B4",
+      "title": "Soul Sacrifice",
+      "duration": "6:38"
+    }
+  ]
+}

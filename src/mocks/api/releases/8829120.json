@@ -1,0 +1,114 @@
+{
+  "id": 8829120,
+  "artist_id": 269534,
+  "artist": "Tom Petty And The Heartbreakers",
+  "title": "Greatest Hits",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Rock & Roll",
+    "Soft Rock"
+  ],
+  "release_date": "2016-07-29",
+  "year": 2016,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/rEJkIqPDyP-CFWZ1kuneAMVDjLlPOpv3M6771c5eURY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjkx/MjAtMTYzNDY1NzU3/OS05Mzk0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/w53knrRrTLFgEgYNx_BUGiY524R7wSyqpek3esXhBn8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjkx/MjAtMTYzNDY1NzU3/OS05Mzk0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "American Girl",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Breakdown",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Listen To Her Heart",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "I Need To Know",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Refugee",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Don't Do Me Like That",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Even The Losers",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Here Comes My Girl",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "The Waiting",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "You Got Lucky",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Don't Come Around Here No More",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "I Won't Back Down",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Runnin' Down A Dream",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Free Fallin'",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Learning To Fly",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Into The Great Wide Open",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Mary Jane's Last Dance",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Something In The Air",
+      "duration": ""
+    }
+  ]
+}

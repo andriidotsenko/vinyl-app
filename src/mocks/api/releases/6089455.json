@@ -1,0 +1,130 @@
+{
+  "id": 6089455,
+  "artist_id": 365248,
+  "artist": "Flying Lotus",
+  "title": "You're Dead!",
+  "all_genres": [
+    1,
+    5,
+    8
+  ],
+  "genre": 1,
+  "styles": [
+    "Future Jazz",
+    "Experimental",
+    "Drum n Bass",
+    "Jazzy Hip-Hop"
+  ],
+  "release_date": "2014-10-06",
+  "year": 2014,
+  "all_countries": [
+    "uk",
+    "europe",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/GKyWxcQ1umGz2iZKhE8DbdYrcJ859CoZwbbi9hP1YVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODk0/NTUtMTQxMzYyNzU5/OS0xMDA3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/XrfekJEejBwdWz_Ebatws3hOrVV-4qLhXuc1IGlkxX4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODk0/NTUtMTQxMzYyNzU5/OS0xMDA3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Theme",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Tesla",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Cold Dead",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Fkn Dead",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Never Catch Me",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Dead Man's Tetris",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Turkey Dog Coma",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Stirring",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Coronus, The Terminator",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Siren Song",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Turtles",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Ready Err Not",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Eyes Above",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Moment Of Hesitation",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Descent Into Madness",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "The Boys Who Died In Their Sleep",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Obligatory Cadence",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Your Potential / The Beyond",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "The Protest",
+      "duration": ""
+    },
+    {
+      "position": "D6",
+      "title": "Protector",
+      "duration": "2:11"
+    }
+  ]
+}

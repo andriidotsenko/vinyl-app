@@ -1,0 +1,93 @@
+{
+  "id": 515893,
+  "artist_id": 451329,
+  "artist": "John Lennon & Yoko Ono",
+  "title": "Double Fantasy",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1980-11-17",
+  "year": 1980,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/AY8SdPRKbftG_B80SIcpnAac8xCjYB8RP6xeLhEg4qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTg5/My0xMzYzNDQyNTYx/LTQ3MTkuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/5pVSNHhXU3i9LX0LOZc7PkcX2ME5NQr0LCMydhjaQZA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTg5/My0xMzYzNDQyNTYx/LTQ3MTkuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "(Just Like) Starting Over",
+      "duration": "3:55"
+    },
+    {
+      "position": "A2",
+      "title": "Kiss Kiss Kiss",
+      "duration": "2:41"
+    },
+    {
+      "position": "A3",
+      "title": "Cleanup Time",
+      "duration": "2:57"
+    },
+    {
+      "position": "A4",
+      "title": "Give Me Something",
+      "duration": "1:34"
+    },
+    {
+      "position": "A5",
+      "title": "I'm Losing You",
+      "duration": "3:58"
+    },
+    {
+      "position": "A6",
+      "title": "I'm Moving On",
+      "duration": "2:19"
+    },
+    {
+      "position": "A7",
+      "title": "Beautiful Boy (Darling Boy)",
+      "duration": "4:01"
+    },
+    {
+      "position": "B1",
+      "title": "Watching The Wheels",
+      "duration": "3:59"
+    },
+    {
+      "position": "B2",
+      "title": "I'm Your Angel",
+      "duration": "3:08"
+    },
+    {
+      "position": "B3",
+      "title": "Woman",
+      "duration": "3:32"
+    },
+    {
+      "position": "B4",
+      "title": "Beautiful Boys",
+      "duration": "2:54"
+    },
+    {
+      "position": "B5",
+      "title": "Dear Yoko",
+      "duration": "2:33"
+    },
+    {
+      "position": "B6",
+      "title": "Every Man Has A Woman Who Loves Him",
+      "duration": "4:02"
+    },
+    {
+      "position": "B7",
+      "title": "Hard Times Are Over",
+      "duration": "3:20"
+    }
+  ]
+}

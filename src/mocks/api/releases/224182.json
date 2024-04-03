@@ -1,0 +1,70 @@
+{
+  "id": 224182,
+  "artist_id": 22854,
+  "artist": "Talking Heads",
+  "title": "Little Creatures",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Pop Rock",
+    "New Wave"
+  ],
+  "release_date": "1985-06-10",
+  "year": 1985,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/raZnI8v3Le6edSlDu2CeGrr7YFBrqMD5JgPydkNnHAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDE4/Mi0xMzMxMDgwMzg2/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/epFqT9AhZD21HTI_iaXpYfVdYLwutr09FZeRL2IDdIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDE4/Mi0xMzMxMDgwMzg2/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "And She Was",
+      "duration": "3:36"
+    },
+    {
+      "position": "A2",
+      "title": "Give Me Back My Name",
+      "duration": "3:20"
+    },
+    {
+      "position": "A3",
+      "title": "Creatures Of Love",
+      "duration": "4:12"
+    },
+    {
+      "position": "A4",
+      "title": "The Lady Don't Mind",
+      "duration": "4:03"
+    },
+    {
+      "position": "A5",
+      "title": "Perfect World",
+      "duration": "4:26"
+    },
+    {
+      "position": "B1",
+      "title": "Stay Up Late",
+      "duration": "3:51"
+    },
+    {
+      "position": "B2",
+      "title": "Walk It Down",
+      "duration": "4:42"
+    },
+    {
+      "position": "B3",
+      "title": "Television Man",
+      "duration": "6:10"
+    },
+    {
+      "position": "B4",
+      "title": "Road To Nowhere",
+      "duration": "4:19"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1874253,
+  "artist_id": 219986,
+  "artist": "Bruce Springsteen",
+  "title": "Born To Run",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Rock & Roll"
+  ],
+  "release_date": "1975",
+  "year": 1975,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/hIMRiV5mWG3vbv15VN7bplJkAh1tQo7nk8vVIgoMB5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQy/NTMtMTU4ODE3NzA1/MS0zMzkwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/bQ8dPftmx4rRrHGMXi8i-Vx95cvOvRIzW_pOgqhxZdQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQy/NTMtMTU4ODE3NzA1/MS0zMzkwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Thunder Road",
+      "duration": "4:50"
+    },
+    {
+      "position": "A2",
+      "title": "Tenth Avenue Freeze-Out",
+      "duration": "3:11"
+    },
+    {
+      "position": "A3",
+      "title": "Night",
+      "duration": "3:01"
+    },
+    {
+      "position": "A4",
+      "title": "Backstreets",
+      "duration": "6:29"
+    },
+    {
+      "position": "B1",
+      "title": "Born To Run",
+      "duration": "4:30"
+    },
+    {
+      "position": "B2",
+      "title": "She's The One",
+      "duration": "4:30"
+    },
+    {
+      "position": "B3",
+      "title": "Meeting Across The River",
+      "duration": "3:16"
+    },
+    {
+      "position": "B4",
+      "title": "Jungleland",
+      "duration": "9:33"
+    }
+  ]
+}

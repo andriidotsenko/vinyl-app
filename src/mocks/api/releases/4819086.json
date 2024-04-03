@@ -1,0 +1,83 @@
+{
+  "id": 4819086,
+  "artist_id": 125246,
+  "artist": "Nirvana",
+  "title": "Nevermind",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Grunge"
+  ],
+  "release_date": "2013",
+  "year": 2013,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/pXprXsZ2IgQ8WBSTGidcGoM90Q5ev9f9BVgRjG6ouXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTkw/ODYtMTQxODAzNjU3/Mi02Nzk0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/IoiX34HSnAfuTiGNlBYfSlnhKqK7VjW_rbZZX4VlK3o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTkw/ODYtMTQxODAzNjU3/Mi02Nzk0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Smells Like Teen Spirit",
+      "duration": "5:00"
+    },
+    {
+      "position": "A2",
+      "title": "In Bloom",
+      "duration": "4:18"
+    },
+    {
+      "position": "A3",
+      "title": "Come As You Are",
+      "duration": "3:38"
+    },
+    {
+      "position": "A4",
+      "title": "Breed",
+      "duration": "3:03"
+    },
+    {
+      "position": "A5",
+      "title": "Lithium",
+      "duration": "4:16"
+    },
+    {
+      "position": "A6",
+      "title": "Polly",
+      "duration": "2:56"
+    },
+    {
+      "position": "B1",
+      "title": "Territorial Pissings",
+      "duration": "2:22"
+    },
+    {
+      "position": "B2",
+      "title": "Drain You",
+      "duration": "3:43"
+    },
+    {
+      "position": "B3",
+      "title": "Lounge Act",
+      "duration": "2:35"
+    },
+    {
+      "position": "B4",
+      "title": "Stay Away",
+      "duration": "3:30"
+    },
+    {
+      "position": "B5",
+      "title": "On A Plain",
+      "duration": "3:12"
+    },
+    {
+      "position": "B6",
+      "title": "Something In The Way",
+      "duration": "3:43"
+    }
+  ]
+}

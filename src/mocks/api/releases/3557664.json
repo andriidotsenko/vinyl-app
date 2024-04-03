@@ -1,0 +1,141 @@
+{
+  "id": 3557664,
+  "artist_id": 1677801,
+  "artist": "Andrew Lloyd Webber And Tim Rice",
+  "title": "Jesus Christ Superstar",
+  "all_genres": [
+    4,
+    6
+  ],
+  "genre": 4,
+  "styles": [
+    "Prog Rock",
+    "Classic Rock",
+    "Hard Rock"
+  ],
+  "release_date": "1970",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/BdxPMx__3J0jhdqLjvRJJ_PzPJFnSrsLSwfcdRoyGj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTc2/NjQtMTQxMTMzMzg4/OC0yODg5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/hAIJYwLJGye0wnyfySc8egr5VSl_Q09-KZ1iM5z6mVA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTc2/NjQtMTQxMTMzMzg4/OC0yODg5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Overture",
+      "duration": "3:59"
+    },
+    {
+      "position": "A2",
+      "title": "Heaven On Their Minds",
+      "duration": "4:23"
+    },
+    {
+      "position": "A3",
+      "title": "What's The Buzz / Strange Thing Mystifying",
+      "duration": "4:13"
+    },
+    {
+      "position": "A4",
+      "title": "Everything's Alright",
+      "duration": "5:15"
+    },
+    {
+      "position": "A5",
+      "title": "This Jesus Must Die",
+      "duration": "3:36"
+    },
+    {
+      "position": "B1",
+      "title": "Hosanna",
+      "duration": "2:07"
+    },
+    {
+      "position": "B2",
+      "title": "Simon Zealotes / Poor Jerusalem",
+      "duration": "4:49"
+    },
+    {
+      "position": "B3",
+      "title": "Pilate's Dream",
+      "duration": "1:28"
+    },
+    {
+      "position": "B4",
+      "title": "The Temple",
+      "duration": "4:43"
+    },
+    {
+      "position": "B5",
+      "title": "Everything's Alright",
+      "duration": "0:34"
+    },
+    {
+      "position": "B6",
+      "title": "I Don't Know How To Love Him",
+      "duration": "3:36"
+    },
+    {
+      "position": "B7",
+      "title": "Damned For All Time / Blood Money",
+      "duration": "5:11"
+    },
+    {
+      "position": "C1",
+      "title": "The Last Supper",
+      "duration": "7:10"
+    },
+    {
+      "position": "C2",
+      "title": "Gethsemane (I Only Want To Say)",
+      "duration": "5:33"
+    },
+    {
+      "position": "C3",
+      "title": "The Arrest",
+      "duration": "3:24"
+    },
+    {
+      "position": "C4",
+      "title": "Peter's Denial",
+      "duration": "1:27"
+    },
+    {
+      "position": "C5",
+      "title": "Pilate And Christ",
+      "duration": "2:46"
+    },
+    {
+      "position": "C6",
+      "title": "King Herod's Song (Try It And See)",
+      "duration": "3:02"
+    },
+    {
+      "position": "D1",
+      "title": "Judas' Death",
+      "duration": "4:17"
+    },
+    {
+      "position": "D2",
+      "title": "Trial Before Pilate (Including The 39 Lashes)",
+      "duration": "5:13"
+    },
+    {
+      "position": "D3",
+      "title": "Superstar",
+      "duration": "4:16"
+    },
+    {
+      "position": "D4",
+      "title": "Crucifixion",
+      "duration": "4:04"
+    },
+    {
+      "position": "D5",
+      "title": "John Nineteen: Forty One",
+      "duration": "2:10"
+    }
+  ]
+}

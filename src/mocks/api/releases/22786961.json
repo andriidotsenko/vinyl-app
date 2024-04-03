@@ -1,0 +1,106 @@
+{
+  "id": 22786961,
+  "artist_id": 1967268,
+  "artist": "Tyler, The Creator",
+  "title": "Call Me If You Get Lost",
+  "all_genres": [
+    5,
+    2
+  ],
+  "genre": 5,
+  "styles": [
+    "Trap",
+    "Jazzy Hip-Hop",
+    "Contemporary R&B"
+  ],
+  "release_date": "2022-04-15",
+  "year": 2022,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/6vqAXU7kCWW3aJNDncEQXSHPi1Mg8RXS41PrkXrB2nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg2/OTYxLTE2NDk5OTQ4/NTMtNzU1My5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/FV4pY--w-zYmB_K6riDf1C22sSRMxX76ApApTS0iZrU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg2/OTYxLTE2NDk5OTQ4/NTMtNzU1My5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Sir Baudelaire ",
+      "duration": "1:28"
+    },
+    {
+      "position": "A2",
+      "title": "Corso ",
+      "duration": "2:26"
+    },
+    {
+      "position": "A3",
+      "title": "Lemonhead  ",
+      "duration": "2:10"
+    },
+    {
+      "position": "A4",
+      "title": "Wusyaname  ",
+      "duration": "2:01"
+    },
+    {
+      "position": "A5",
+      "title": "Lumberjack ",
+      "duration": "2:18"
+    },
+    {
+      "position": "B1",
+      "title": "Hot Wind Blows ",
+      "duration": "2:35"
+    },
+    {
+      "position": "B2",
+      "title": "Massa",
+      "duration": "3:43"
+    },
+    {
+      "position": "B3",
+      "title": "Runitup ",
+      "duration": "3:49"
+    },
+    {
+      "position": "B4",
+      "title": "Manifesto ",
+      "duration": "2:55"
+    },
+    {
+      "position": "C1",
+      "title": "Sweet / I Thought You Wanted To Dance  ",
+      "duration": "9:48"
+    },
+    {
+      "position": "C2",
+      "title": "Momma Talk",
+      "duration": "1:10"
+    },
+    {
+      "position": "C3",
+      "title": "Rise!  ",
+      "duration": "3:23"
+    },
+    {
+      "position": "D1",
+      "title": "Blessed",
+      "duration": "0:57"
+    },
+    {
+      "position": "D2",
+      "title": "Juggernaut  ",
+      "duration": "2:56"
+    },
+    {
+      "position": "D3",
+      "title": "Wilshire",
+      "duration": "8:35"
+    },
+    {
+      "position": "D4",
+      "title": "Safari",
+      "duration": "2:57"
+    }
+  ]
+}

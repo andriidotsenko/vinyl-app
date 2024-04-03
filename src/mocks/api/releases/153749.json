@@ -1,0 +1,99 @@
+{
+  "id": 153749,
+  "artist_id": 11213,
+  "artist": "Wu-Tang Clan",
+  "title": "Enter The Wu-Tang (36 Chambers)",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Boom Bap",
+    "Hardcore Hip-Hop"
+  ],
+  "release_date": "1993-11-09",
+  "year": 1993,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/mVgiVg1mHJUgJ1rfmlnFsUheEG2I6Pk2reZ4LsWPzbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc0/OS0xMTg1MTM0MTM1/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/JVtYto3PpCrhttx7V3aR09GKcOlPw4SE8RYrdxaWPTk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc0/OS0xMTg1MTM0MTM1/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Shaolin Sword",
+      "duration": "29:19"
+    },
+    {
+      "position": "A1",
+      "title": "Bring Da Ruckus",
+      "duration": "4:10"
+    },
+    {
+      "position": "A2",
+      "title": "Shame On A Nigga",
+      "duration": "2:57"
+    },
+    {
+      "position": "A3",
+      "title": "Clan In Da Front",
+      "duration": "4:33"
+    },
+    {
+      "position": "A4",
+      "title": "Wu-Tang: 7th Chamber",
+      "duration": "6:05"
+    },
+    {
+      "position": "A5",
+      "title": "Can It Be All So Simple",
+      "duration": "4:46"
+    },
+    {
+      "position": "A6",
+      "title": "Protect Ya Neck (Intermission)",
+      "duration": "6:48"
+    },
+    {
+      "position": "",
+      "title": "Wu-Tang Sword",
+      "duration": "28:53"
+    },
+    {
+      "position": "B1",
+      "title": "Da Mystery Of Chessboxin'",
+      "duration": "4:48"
+    },
+    {
+      "position": "B2",
+      "title": "Wu-Tang Clan Ain't Nuthing Ta F' Wit",
+      "duration": "3:36"
+    },
+    {
+      "position": "B3",
+      "title": "C.R.E.A.M.",
+      "duration": "4:12"
+    },
+    {
+      "position": "B4",
+      "title": "Method Man",
+      "duration": "5:50"
+    },
+    {
+      "position": "B5",
+      "title": "Tearz",
+      "duration": "4:17"
+    },
+    {
+      "position": "B6.1",
+      "title": "Wu-Tang: 7th Chamber - Part II",
+      "duration": "5:08"
+    },
+    {
+      "position": "B6.2",
+      "title": "Conclusion",
+      "duration": "1:02"
+    }
+  ]
+}

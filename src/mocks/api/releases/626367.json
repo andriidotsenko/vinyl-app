@@ -1,0 +1,74 @@
+{
+  "id": 626367,
+  "artist_id": 249449,
+  "artist": "Willie Nelson",
+  "title": "Stardust",
+  "all_genres": [
+    3,
+    7
+  ],
+  "genre": 3,
+  "styles": [
+    "Vocal"
+  ],
+  "release_date": "1978-04-00",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/3coxDBzhvXtzRZc45Ztj8JgBGL8y5hNVxL-kM6Fmrq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjM2/Ny0xMzE1MTYwMzc1/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/RcECBxyUzHAnWg702tZN0ZrJESrShDD0NeJ778vXcjo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjM2/Ny0xMzE1MTYwMzc1/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Stardust",
+      "duration": "3:50"
+    },
+    {
+      "position": "A2",
+      "title": "Georgia On My Mind",
+      "duration": "4:19"
+    },
+    {
+      "position": "A3",
+      "title": "Blue Skies",
+      "duration": "3:32"
+    },
+    {
+      "position": "A4",
+      "title": "All Of Me",
+      "duration": "3:52"
+    },
+    {
+      "position": "A5",
+      "title": "Unchained Melody",
+      "duration": "3:48"
+    },
+    {
+      "position": "B1",
+      "title": "September Song",
+      "duration": "4:32"
+    },
+    {
+      "position": "B2",
+      "title": "On The Sunny Side Of The Street",
+      "duration": "2:35"
+    },
+    {
+      "position": "B3",
+      "title": "Moonlight In Vermont",
+      "duration": "3:23"
+    },
+    {
+      "position": "B4",
+      "title": "Don't Get Around Much Anymore",
+      "duration": "2:30"
+    },
+    {
+      "position": "B5",
+      "title": "Someone To Watch Over Me",
+      "duration": "4:01"
+    }
+  ]
+}

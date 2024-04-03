@@ -1,0 +1,74 @@
+{
+  "id": 27729,
+  "artist_id": 10383,
+  "artist": "The Human League",
+  "title": "Dare",
+  "all_genres": [
+    1,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Synth-pop"
+  ],
+  "release_date": "1981-10-16",
+  "year": 1981,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/AVlyucJUnxYJCw1u9SJvwJU5qVvc8wN3POBfKOMA8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI5/LTE2ODcxODc4MDgt/MzQ3Ny5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/kbaFQ0fqG_TF99Cn7IPM1tJYWiVL4cMp1M5s6UuTiww/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI5/LTE2ODcxODc4MDgt/MzQ3Ny5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Things That Dreams Are Made Of",
+      "duration": "4:14"
+    },
+    {
+      "position": "A2",
+      "title": "Open Your Heart",
+      "duration": "3:53"
+    },
+    {
+      "position": "A3",
+      "title": "The Sound Of The Crowd",
+      "duration": "3:56"
+    },
+    {
+      "position": "A4",
+      "title": "Darkness",
+      "duration": "3:56"
+    },
+    {
+      "position": "A5",
+      "title": "Do Or Die",
+      "duration": "5:23"
+    },
+    {
+      "position": "B1",
+      "title": "Get Carter",
+      "duration": "1:02"
+    },
+    {
+      "position": "B2",
+      "title": "I Am The Law",
+      "duration": "4:14"
+    },
+    {
+      "position": "B3",
+      "title": "Seconds",
+      "duration": "4:58"
+    },
+    {
+      "position": "B4",
+      "title": "Love Action (I Believe In Love)",
+      "duration": "4:58"
+    },
+    {
+      "position": "B5",
+      "title": "Don't You Want Me",
+      "duration": "3:56"
+    }
+  ]
+}

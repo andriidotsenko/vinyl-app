@@ -1,0 +1,114 @@
+{
+  "id": 26809709,
+  "artist_id": 1124645,
+  "artist": "Taylor Swift",
+  "title": "Folklore: The Long Pond Studio Sessions",
+  "all_genres": [
+    4,
+    3,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Vocal",
+    "Indie Pop",
+    "Indie Rock",
+    "Ballad",
+    "Acoustic"
+  ],
+  "release_date": "2023-04-22",
+  "year": 2023,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/tTmABYZ87hYLpfMbv9BHa3N_4BiMsfriWaJ2efirh-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODA5/NzA5LTE2ODIxNzg3/NDQtNTkwMi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/ahPcWjs3qLyJPc5tfGLGzT3iR6xpw2K07qUUIcvyO7M/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODA5/NzA5LTE2ODIxNzg3/NDQtNTkwMi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The 1 (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Cardigan (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "The Last Great American Dynasty (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Exile (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "My Tears Ricochet (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Mirrorball (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Seven (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "title": "August (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "B9",
+      "title": "This Is Me Trying (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "C10",
+      "title": "Illicit Affairs (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "C11",
+      "title": "Invisible String (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "C12",
+      "title": "Mad Woman (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "C13",
+      "title": "Epiphany (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "D14",
+      "title": "Betty (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "D15",
+      "title": "Peace (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "D16",
+      "title": "Hoax (The Long Pond Studio Sessions)",
+      "duration": ""
+    },
+    {
+      "position": "D17",
+      "title": "The Lakes (The Long Pond Studio Sessions)",
+      "duration": ""
+    }
+  ]
+}

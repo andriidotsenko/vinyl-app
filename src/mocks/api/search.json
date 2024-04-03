@@ -1,0 +1,5224 @@
+[
+  {
+    "id": 4570366,
+    "artist": "Daft Punk",
+    "title": "Random Access Memories",
+    "genre": 1,
+    "styles": [
+      "Disco",
+      "Funk",
+      "Synth-pop",
+      "Electro"
+    ],
+    "year": 2013,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/9yHWcIsR42F3E1h-du9w3wRlEnd8w5tSeLlGNjQ-so0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzAz/NjYtMTUzOTI5NTA5/Mi02MDg3LnBuZw.jpeg"
+  },
+  {
+    "id": 3975953,
+    "artist": "Kendrick Lamar",
+    "title": "Good Kid, M.A.A.d City",
+    "genre": 5,
+    "styles": [
+      "Conscious"
+    ],
+    "year": 2012,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/FYbfqDICdZZtEKNGw1-mf6zl-1VtO3indR3dRZZrDcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NzU5/NTMtMTU3MDQwNDUz/Ni01NDY1LmpwZWc.jpeg"
+  },
+  {
+    "id": 5077187,
+    "artist": "Massive Attack",
+    "title": "Mezzanine",
+    "genre": 1,
+    "styles": [
+      "Trip Hop",
+      "Downtempo"
+    ],
+    "year": 2013,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/o1H9nJlz4N1aV8x1k6esWgp6nu-XFbQTLfS5adS4iKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTYzMjgzNjky/OC01NTkzLmpwZWc.jpeg"
+  },
+  {
+    "id": 5764967,
+    "artist": "Jack White",
+    "title": "Lazaretto",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Blues Rock",
+      "Country Rock"
+    ],
+    "year": 2014,
+    "country": "worldwide",
+    "thumb_image": "https://i.discogs.com/a7JWTptwDe3POIHOJAW8i7HrKLPV41VoFJuMBAa4Bac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjQ5/NjctMTY1MjM3MTIw/NS0yNDgzLmpwZWc.jpeg"
+  },
+  {
+    "id": 1044287,
+    "artist": "Neil Young",
+    "title": "Harvest",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Country Rock"
+    ],
+    "year": 1972,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/y5YpQDGFxagrQmMwiI2ThRGCdXxoZxF046meBjNd3Tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQy/ODctMTQwMDMyNzM1/OS02OTM1LmpwZWc.jpeg"
+  },
+  {
+    "id": 14401235,
+    "artist": "Taylor Swift",
+    "title": "Lover",
+    "genre": 1,
+    "styles": [
+      "Synth-pop",
+      "Ballad",
+      "Vocal"
+    ],
+    "year": 2019,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/QoGw9KTi-RBYYn9ib_zyCeL1gXo4rR2k2tzWSi8XqJ4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDAx/MjM1LTE2ODI0NjY5/ODMtOTU5NC5qcGVn.jpeg"
+  },
+  {
+    "id": 1934367,
+    "artist": "Eagles",
+    "title": "Hotel California",
+    "genre": 4,
+    "styles": [
+      "Classic Rock",
+      "Pop Rock"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/4OEyQygeXaa3GUkAorgITC-zB9JCf51BCrP9a4EkJnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQz/NjctMTM4MzkwODQz/OC00MTc1LmpwZWc.jpeg"
+  },
+  {
+    "id": 2606952,
+    "artist": "Kanye West",
+    "title": "My Beautiful Dark Twisted Fantasy",
+    "genre": 5,
+    "styles": [
+      "Contemporary R&B",
+      "Pop Rap",
+      "Avantgarde"
+    ],
+    "year": 2010,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Pl9e-6rhwxl1tfvQHburhQ7nFFmLSZYh2zJ1deEhTaw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MDY5/NTItMTUyMTQ2ODE4/MC04NjMwLmpwZWc.jpeg"
+  },
+  {
+    "id": 1132195,
+    "artist": "Crosby, Stills, Nash & Young",
+    "title": "Déjà Vu",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Country Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/W6H_QWNOn2J01brPUoPOJprchU0SO9iAzy08WrK1lgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIx/OTUtMTU5ODkwNDE0/NC0zNzk0LmpwZWc.jpeg"
+  },
+  {
+    "id": 190219,
+    "artist": "The Cars",
+    "title": "The Cars",
+    "genre": 4,
+    "styles": [
+      "New Wave",
+      "Pop Rock",
+      "Power Pop"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/QcC25VHTg_DmOPorf8jcKM6shRcjMUHOn_N5GrdavW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg"
+  },
+  {
+    "id": 6127871,
+    "artist": "Oasis",
+    "title": "(What's The Story) Morning Glory?",
+    "genre": 4,
+    "styles": [
+      "Britpop"
+    ],
+    "year": 2014,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/Sj8bxyC-Ig21EaQpcK69kgz2Ecr0Vtt6RQFnA_6Eujk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjc4/NzEtMTQ5NDg2NzQz/OC0yNzAxLmpwZWc.jpeg"
+  },
+  {
+    "id": 6549215,
+    "artist": "Sufjan Stevens",
+    "title": "Carrie & Lowell",
+    "genre": 4,
+    "styles": [
+      "Folk",
+      "Folk Rock"
+    ],
+    "year": 2015,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/3wR4Ng02BPUKvgC2lfHjrL30CzK6O-jDV_MZ_xkwyFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDky/MTUtMTQyMTgxOTEw/Mi03NTY3LmpwZWc.jpeg"
+  },
+  {
+    "id": 605328,
+    "artist": "Simon & Garfunkel",
+    "title": "Bridge Over Troubled Water",
+    "genre": 3,
+    "styles": [
+      "Folk Rock",
+      "Pop Rock",
+      "Soft Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/z7_vGdMura9rYt35EpOJs3PNNfOYsPYYblQuU8LZYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTMy/OC0xNDM3NTUwNzI4/LTI0NDAuanBlZw.jpeg"
+  },
+  {
+    "id": 11256175,
+    "artist": "Taylor Swift",
+    "title": "Reputation",
+    "genre": 1,
+    "styles": [
+      "Europop",
+      "Dance-pop"
+    ],
+    "year": 2017,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/5xtGXYZv6WDgfMbOv7H0GZLrsEaJ9W-E1Ut5TTyOwT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjU2/MTc1LTE1MTMzNzc4/OTktODYyNC5qcGVn.jpeg"
+  },
+  {
+    "id": 1361007,
+    "artist": "Bon Iver",
+    "title": "For Emma, Forever Ago",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Acoustic",
+      "Indie Rock",
+      "Folk"
+    ],
+    "year": 2008,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/GWMQzEvOofzXylZ76nms2luiJsTq3iH9P2t9p9j7XoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEw/MDctMTIxMjgwNDk3/My5qcGVn.jpeg"
+  },
+  {
+    "id": 631721,
+    "artist": "Various",
+    "title": "Grease (The Original Soundtrack From The Motion Picture)",
+    "genre": 4,
+    "styles": [
+      "Soundtrack",
+      "Rock & Roll",
+      "Pop Rock"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/OJi2TaJzWE7E6g4H1XRmNeD020tY7SYzPcXg8OkOd6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTcy/MS0xMzY1NDYwNDM0/LTg1NjUuanBlZw.jpeg"
+  },
+  {
+    "id": 1359927,
+    "artist": "Fleet Foxes",
+    "title": "Fleet Foxes",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Indie Rock"
+    ],
+    "year": 2008,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/iwkZmmfp4ZDT2PSHNrB15I4gwktDPzYg9NIkB5iDXn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk5/MjctMTYyODYwNjgw/MS0xMzIwLmpwZWc.jpeg"
+  },
+  {
+    "id": 5507165,
+    "artist": "The War On Drugs",
+    "title": "Lost In The Dream",
+    "genre": 4,
+    "styles": [
+      "Indie Rock"
+    ],
+    "year": 2014,
+    "country": "worldwide",
+    "thumb_image": "https://i.discogs.com/m4n55bj8uDS5r_tk1u58friwmrrNLOX6pQRyKzZPl4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1MDcx/NjUtMTU4ODU1Mzc5/MS0yMjI3LmpwZWc.jpeg"
+  },
+  {
+    "id": 1395530,
+    "artist": "Carole King",
+    "title": "Tapestry",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Vocal"
+    ],
+    "year": 1971,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/WsjXJBuAnDSMt13nWk1nybrDXRtPv7-Co3-ScwO-d40/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTU1/MzAtMTM4OTk0Mzc1/NS01NjAzLmpwZWc.jpeg"
+  },
+  {
+    "id": 605246,
+    "artist": "Dr. Dre",
+    "title": "The Chronic",
+    "genre": 5,
+    "styles": [
+      "Gangsta",
+      "G-Funk"
+    ],
+    "year": 2001,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/UC1a-Vbjh18Ging4FCo8bZbFNtXq4SLAVpOwmzcoyYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTI0/Ni0xNDAzNDM5OTIz/LTEzMTMuanBlZw.jpeg"
+  },
+  {
+    "id": 4883505,
+    "artist": "Arctic Monkeys",
+    "title": "AM",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "year": 2013,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/-WYv-8-UoeSHAAC0qq5vPWDE2uoH1arFPatzP_voph8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM1/MDUtMTYxNjkyNTU1/OC0xMTY2LmpwZWc.jpeg"
+  },
+  {
+    "id": 1108650,
+    "artist": "Billy Joel",
+    "title": "The Stranger",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/aM8V3lij9F1rcoPUoxVZvncdv5Zi-wvJn9kv5_l3H4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg2/NTAtMTQ0MTI3MTQ2/Ni05ODc0LmpwZWc.jpeg"
+  },
+  {
+    "id": 1174296,
+    "artist": "Radiohead",
+    "title": "In Rainbows",
+    "genre": 1,
+    "styles": [
+      "Alternative Rock",
+      "Art Rock",
+      "Experimental",
+      "Indie Rock"
+    ],
+    "year": 2007,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/ZM4HZ3sCoE-EssX7kOSi9DEThQHPFrLPmanIJpRKzhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzQy/OTYtMTM2MzQzNDA3/My0yMjY1LmpwZWc.jpeg"
+  },
+  {
+    "id": 2848009,
+    "artist": "Amy Winehouse",
+    "title": "Back To Black",
+    "genre": 8,
+    "styles": [
+      "Contemporary R&B",
+      "Soul"
+    ],
+    "year": 2006,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/plEFCXKdVk1CS5v5U_x-wX8MQf_08uAywdToqHyqzf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDgw/MDktMTM5MDk5MDQ4/OS02OTc5LmpwZWc.jpeg"
+  },
+  {
+    "id": 3564656,
+    "artist": "The Smiths",
+    "title": "The Queen Is Dead",
+    "genre": 4,
+    "styles": [
+      "Jangle Pop",
+      "Post-Punk",
+      "Indie Rock",
+      "Alternative Rock"
+    ],
+    "year": 2012,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/DrVmgv7N80xdbys4BTMijTR7XAACwIa265-ee6HLwH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjQ2/NTYtMTU5ODMwNTg0/Ny0xMDQ3LmpwZWc.jpeg"
+  },
+  {
+    "id": 377554,
+    "artist": "The Beatles",
+    "title": "Let It Be",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/OvIE8N72KddyjOZXKki6-lWFWMQQIonTqfjIgbyS4ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xMzQwMzU1MTI2/LTE3MTQuanBlZw.jpeg"
+  },
+  {
+    "id": 10282465,
+    "artist": "Harry Styles",
+    "title": "Harry Styles",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Soft Rock",
+      "Vocal",
+      "Ballad"
+    ],
+    "year": 2017,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/4cQYMDT6DMEUNleErAQ2PZwl2SFNU5QhpyJsCIiwneA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgy/NDY1LTE1MTUxMDg5/NDgtNjM0MS5qcGVn.jpeg"
+  },
+  {
+    "id": 8162088,
+    "artist": "David Bowie",
+    "title": "Hunky Dory",
+    "genre": 4,
+    "styles": [
+      "Glam",
+      "Pop Rock"
+    ],
+    "year": 2016,
+    "country": "worldwide",
+    "thumb_image": "https://i.discogs.com/5E3Kw3H8cLvgIZtx_6T-Cey5PPxdvjyt3yiSEDBI3EQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgxNjIw/ODgtMTQ3MDc3NDI1/NS0yOTQ0LmpwZWc.jpeg"
+  },
+  {
+    "id": 11195697,
+    "artist": "Tyler, The Creator",
+    "title": "Scum Fuck Flower Boy",
+    "genre": 5,
+    "styles": [
+      "Jazzy Hip-Hop",
+      "Pop Rap",
+      "Neo Soul"
+    ],
+    "year": 2017,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/S4IiXeBQ8u99vfa517_P0RVzsYt1cYlnHVaJEjK80GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTk1/Njk3LTE1MTM5OTgz/ODktMjY2Ni5wbmc.jpeg"
+  },
+  {
+    "id": 513594,
+    "artist": "Tool",
+    "title": "Lateralus",
+    "genre": 4,
+    "styles": [
+      "Prog Rock",
+      "Heavy Metal"
+    ],
+    "year": 2005,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/-z8VoSBKA5mj5fr-UcZTZuNZUBKQzfYz5fsMkpu6yjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzU5/NC0xNjQwNzE0MDM4/LTY3NzcuanBlZw.jpeg"
+  },
+  {
+    "id": 1595647,
+    "artist": "Johnny Cash",
+    "title": "Johnny Cash At San Quentin",
+    "genre": 4,
+    "styles": [
+      "Country Rock",
+      "Country"
+    ],
+    "year": 1969,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/stqum-Rfdqy79kiZbvj1x42cCtvrSB96MO9lPQLiKUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU2/NDctMTQzMzgyOTk1/NC04MDMzLmpwZWc.jpeg"
+  },
+  {
+    "id": 8385645,
+    "artist": "Metallica",
+    "title": "Ride The Lightning",
+    "genre": 4,
+    "styles": [
+      "Thrash",
+      "Speed Metal"
+    ],
+    "year": 2016,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/MnfcErqzuAeveAKn5V5dehfnqbAqVkKykoQJUPxZhgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODU2/NDUtMTQ2MzU1MzE1/OS0zNTM3LmpwZWc.jpeg"
+  },
+  {
+    "id": 464292,
+    "artist": "The Beatles",
+    "title": "Magical Mystery Tour",
+    "genre": 4,
+    "styles": [
+      "Psychedelic Rock",
+      "Pop Rock"
+    ],
+    "year": 1967,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/rlBEW2_fnog2cAZTH_T4kMxM2TVjTQwUtu6vMEvOMhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NDI5/Mi0xNDM0NjY1MjM4/LTM3MDIuanBlZw.jpeg"
+  },
+  {
+    "id": 401466,
+    "artist": "Foreigner",
+    "title": "4",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1981,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/sFyEQ4JJb51Qf9LCjCPFNQItzMwkhfTrpPmGLxJfTgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTQ2/Ni0xNDQxNjc3MjE5/LTM5NzguanBlZw.jpeg"
+  },
+  {
+    "id": 242785,
+    "artist": "MF DOOM",
+    "title": "Madvillainy",
+    "genre": 5,
+    "styles": [
+      "Jazzy Hip-Hop",
+      "Experimental",
+      "Leftfield",
+      "Abstract"
+    ],
+    "year": 2004,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/jMkdYLC87TCcyCc-mbHKtrBeLWIOhfSNQvMSp51NJBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjc4/NS0xNjYyMjA3MDQx/LTc0NjcuanBlZw.jpeg"
+  },
+  {
+    "id": 2879,
+    "artist": "Daft Punk",
+    "title": "Discovery",
+    "genre": 1,
+    "styles": [
+      "House",
+      "Disco",
+      "French House"
+    ],
+    "year": 2001,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/WX97KU1dB5I9VvpH2lk6c5jQ2bc5c8onJgicxe28EMk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Nzkt/MTIzNjAzNTQ3Mi5q/cGVn.jpeg"
+  },
+  {
+    "id": 401512,
+    "artist": "Peter Frampton",
+    "title": "Frampton Comes Alive!",
+    "genre": 4,
+    "styles": [
+      "Rock & Roll",
+      "Pop Rock"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/-R-hDaoDJALQgVkmhYdkHeWuT2LSDd0Jldq3QLplSrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTUx/Mi0xMzIzNDcwMDAy/LmpwZWc.jpeg"
+  },
+  {
+    "id": 15492389,
+    "artist": "Phoebe Bridgers",
+    "title": "Punisher",
+    "genre": 4,
+    "styles": [
+      "Indie Rock",
+      "Folk"
+    ],
+    "year": 2020,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/pj_mf10a45K9znpY3sBFuVJirQlniKy7Gtilc-8Qdz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDky/Mzg5LTE2MDY5Njgy/MTItMzAwOC5qcGVn.jpeg"
+  },
+  {
+    "id": 153749,
+    "artist": "Wu-Tang Clan",
+    "title": "Enter The Wu-Tang (36 Chambers)",
+    "genre": 5,
+    "styles": [
+      "Boom Bap",
+      "Hardcore Hip-Hop"
+    ],
+    "year": 1993,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/mVgiVg1mHJUgJ1rfmlnFsUheEG2I6Pk2reZ4LsWPzbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzc0/OS0xMTg1MTM0MTM1/LmpwZWc.jpeg"
+  },
+  {
+    "id": 2173833,
+    "artist": "Neutral Milk Hotel",
+    "title": "In The Aeroplane Over The Sea",
+    "genre": 4,
+    "styles": [
+      "Indie Rock",
+      "Lo-Fi"
+    ],
+    "year": 2009,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/HGmtFu6iN-2TD1NPSo5-BcQdlPeqL73_NktnAS2Vi7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM4/MzMtMTY0MDYwNzUx/Mi0zNTAxLmpwZWc.jpeg"
+  },
+  {
+    "id": 4073023,
+    "artist": "Rage Against The Machine",
+    "title": "Rage Against The Machine",
+    "genre": 4,
+    "styles": [
+      "Funk Metal",
+      "Alternative Rock"
+    ],
+    "year": 2012,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/lsUNVAS85bWxPHRA7N8tJc6FoyREg28D6fBABx_D4qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzMw/MjMtMTM1NDMzODg5/Ni0yMjYzLmpwZWc.jpeg"
+  },
+  {
+    "id": 790310,
+    "artist": "Billy Joel",
+    "title": "Glass Houses",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Rock & Roll",
+      "Hard Rock",
+      "Soft Rock"
+    ],
+    "year": 1980,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Ye1ANFqE9sZyxGFoNM3eLfKIo_hZKm8_60amCXV4Y6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDMx/MC0xMTU5MzIxMjcy/LmpwZWc.jpeg"
+  },
+  {
+    "id": 528627,
+    "artist": "John Williams",
+    "title": "Star Wars",
+    "genre": 10,
+    "styles": [
+      "Soundtrack",
+      "Score",
+      "Neo-Romantic"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/xB_GBymi4XaIsgIgo4tXAy1PzR26UqDLthTQBDHs-vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODYy/Ny0xNDgwMjkzNTU5/LTI4ODMuanBlZw.jpeg"
+  },
+  {
+    "id": 120096,
+    "artist": "Michael Jackson",
+    "title": "Off The Wall",
+    "genre": 2,
+    "styles": [
+      "Disco",
+      "Soul",
+      "Ballad"
+    ],
+    "year": 1979,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/gFFPJRZd4BWUkml2WGlx2r6zO6eKEdm75bjMV42sjUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA5/Ni0xMDg1NjAwNjA3/LmpwZw.jpeg"
+  },
+  {
+    "id": 2496819,
+    "artist": "King Crimson",
+    "title": "In The Court Of The Crimson King",
+    "genre": 4,
+    "styles": [
+      "Prog Rock"
+    ],
+    "year": 2010,
+    "country": "worldwide",
+    "thumb_image": "https://i.discogs.com/J7rapC1s1ZrA7BHZcoGFXALAK7du3hlFGgSqlgwHhR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTY4/MTktMTI5MDM2NDE3/NC5qcGVn.jpeg"
+  },
+  {
+    "id": 497769,
+    "artist": "Huey Lewis & The News",
+    "title": "Sports",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1983,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/UjOjtZ35fKxNCewtROpMm9vd7b0SjdwG4cN3u0ybzRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Nzc2/OS0xMzY1NDQyNzI5/LTk1MTUuanBlZw.jpeg"
+  },
+  {
+    "id": 869077,
+    "artist": "Janis Joplin",
+    "title": "Pearl",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Classic Rock",
+      "Soul"
+    ],
+    "year": 1971,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/lAbGJu7LwxWzqIp_8Ssl5NZa7rd9kdcgM2lhAnkLYvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTA3/Ny0xMzA3ODgyOTc5/LmpwZWc.jpeg"
+  },
+  {
+    "id": 26809709,
+    "artist": "Taylor Swift",
+    "title": "Folklore: The Long Pond Studio Sessions",
+    "genre": 4,
+    "styles": [
+      "Vocal",
+      "Indie Pop",
+      "Indie Rock",
+      "Ballad",
+      "Acoustic"
+    ],
+    "year": 2023,
+    "country": "worldwide",
+    "thumb_image": "https://i.discogs.com/tTmABYZ87hYLpfMbv9BHa3N_4BiMsfriWaJ2efirh-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODA5/NzA5LTE2ODIxNzg3/NDQtNTkwMi5qcGVn.jpeg"
+  },
+  {
+    "id": 612780,
+    "artist": "Queen",
+    "title": "A Night At The Opera",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Classic Rock",
+      "Pop Rock",
+      "Arena Rock",
+      "Art Rock",
+      "Glam",
+      "Prog Rock"
+    ],
+    "year": 1975,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/iYlsg4ZaRjpN4q9Ayon-gX-_9rnSYBj12qTxSGaa4FE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjc4/MC0xNTQxMzY3MTQ1/LTIxMjcuanBlZw.jpeg"
+  },
+  {
+    "id": 3255473,
+    "artist": "The Smashing Pumpkins",
+    "title": "Siamese Dream",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock"
+    ],
+    "year": 2011,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Wzbcu2010BXK4Bof2bAuv3wPSTCkt8m3w_QIwI5Fzuo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU0/NzMtMTUxODgyNzk3/MS0xOTg3LmpwZWc.jpeg"
+  },
+  {
+    "id": 13414611,
+    "artist": "Billie Eilish",
+    "title": "When We All Fall Asleep, Where Do We Go?",
+    "genre": 1,
+    "styles": [
+      "Trap",
+      "Indie Pop"
+    ],
+    "year": 2019,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/jwFhB4ekksSJGQ7drMk-0APDiS7K_qwnojGkKGZVt10/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDE0/NjExLTE1NjMyOTUy/NzgtMjQyNi5qcGVn.jpeg"
+  },
+  {
+    "id": 9253620,
+    "artist": "Weezer",
+    "title": "Weezer",
+    "genre": 4,
+    "styles": [
+      "Power Pop",
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "year": 2016,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/dMV0GOJSV9dyp9sZhPXydxeEPHFrG3JYEdObn8iI8f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTM2/MjAtMTQ5MDg3NjA3/MC01MDU0LmpwZWc.jpeg"
+  },
+  {
+    "id": 233445,
+    "artist": "Kanye West",
+    "title": "The College Dropout",
+    "genre": 5,
+    "styles": [
+      "Pop Rap",
+      "Conscious",
+      "Contemporary R&B"
+    ],
+    "year": 2004,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/zkVrbwNN72h1RPhgSwSbaACjgCcdd5WTLj5OksgYrAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMzQ0/NS0xNDg5ODEwNDA0/LTk3MDEuanBlZw.jpeg"
+  },
+  {
+    "id": 7132498,
+    "artist": "Joy Division",
+    "title": "Unknown Pleasures",
+    "genre": 4,
+    "styles": [
+      "New Wave",
+      "Post-Punk"
+    ],
+    "year": 2015,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/ZSCneLpTtm3TBtXssGj4Ii8aS-UrYz11CwTUjYtYxBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzI0/OTgtMTQ0MDU4OTM2/OC00OTcyLmpwZWc.jpeg"
+  },
+  {
+    "id": 6149924,
+    "artist": "Various",
+    "title": "Guardians Of The Galaxy Awesome Mix Vol. 1",
+    "genre": 4,
+    "styles": [
+      "Classic Rock",
+      "Pop Rock",
+      "Soundtrack",
+      "Power Pop",
+      "Soul",
+      "Soft Rock"
+    ],
+    "year": 2014,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/b5IXq-CgMERcaNFbZGX5g7oehKDbhX6huRwnEUi-INo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNDk5/MjQtMTQxNjA5NDEw/OC01Nzg3LmpwZWc.jpeg"
+  },
+  {
+    "id": 1873013,
+    "artist": "Pink Floyd",
+    "title": "The Dark Side Of The Moon",
+    "genre": 4,
+    "styles": [
+      "Prog Rock",
+      "Psychedelic Rock"
+    ],
+    "year": 1973,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/r9Anyhs7ZGkP94yyij_JBYE-fgH7Cl4j6fG-OP1QLdc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzMw/MTMtMTY2NzIwODk0/MC01NTc3LmpwZWc.jpeg"
+  },
+  {
+    "id": 2940876,
+    "artist": "Bon Iver",
+    "title": "Bon Iver, Bon Iver",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Indie Rock"
+    ],
+    "year": 2011,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/5eqDac9dB-tQ-7QPIbamJzyQf-Tvs9YNfV1FL9r8VzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDA4/NzYtMTMwODMyMDky/Ni5qcGVn.jpeg"
+  },
+  {
+    "id": 2055654,
+    "artist": "Alice In Chains",
+    "title": "Dirt",
+    "genre": 4,
+    "styles": [
+      "Alternative Metal",
+      "Alternative Rock",
+      "Hard Rock",
+      "Grunge"
+    ],
+    "year": 2009,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/Zn6lKG-uajnIiLViPWWTP_ipg9kwXtuVZ57dnmFjyQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU2/NTQtMTY0NjA0Njgz/OC01NzQ1LmpwZWc.jpeg"
+  },
+  {
+    "id": 7345404,
+    "artist": "Kendrick Lamar",
+    "title": "Good Kid, m.A.A.d City",
+    "genre": 5,
+    "styles": [
+      "Conscious"
+    ],
+    "year": 2015,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/TrnyS4HmziYAZ_bYR1Cb3gW-t2isEhy-bp9NAKPPKO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU0/MDQtMTQzOTY2MTA1/Ny05NTI3LmpwZWc.jpeg"
+  },
+  {
+    "id": 2632748,
+    "artist": "Various",
+    "title": "Saturday Night Fever (The Original Movie Sound Track)",
+    "genre": 2,
+    "styles": [
+      "Soundtrack",
+      "Disco"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/-4ZZ8acu8RcrXtBV6Oaupqw4UIBgdhFV96Jiz7_cFqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzI3/NDgtMTI5NDE4NjA3/MS5qcGVn.jpeg"
+  },
+  {
+    "id": 1287354,
+    "artist": "Johnny Cash",
+    "title": "At Folsom Prison",
+    "genre": 7,
+    "styles": [
+      "Country"
+    ],
+    "year": 1968,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/pNlbGTim7CLy9BXjojyWJoD4e7vm7SRcfoccCDTb3ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcz/NTQtMTM0NTAwMDk4/Ny02NjYwLmpwZWc.jpeg"
+  },
+  {
+    "id": 1979157,
+    "artist": "Kid Cudi",
+    "title": "Man On The Moon: The End Of Day",
+    "genre": 1,
+    "styles": [
+      "Pop Rap",
+      "Soul",
+      "Synth-pop"
+    ],
+    "year": 2009,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/4PmERnUBbPXah63Qydd1Gs3qSlWYRQIosFlH9pU_tSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzkx/NTctMTYwNjE5NDI1/OS04NjY1LmpwZWc.jpeg"
+  },
+  {
+    "id": 587059,
+    "artist": "Men At Work",
+    "title": "Business As Usual",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Indie Rock"
+    ],
+    "year": 1982,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/qYgisDReR7Vl4NmLPAp8MXeSGcK0ojZ5z7n8wivQYJs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzA1/OS0xNDA3MzY5NzU4/LTcyMDkuanBlZw.jpeg"
+  },
+  {
+    "id": 543205,
+    "artist": "Journey",
+    "title": "Escape",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1981,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/lOifefjf6xe0T-XT-j3F0gX3xVL8NvWISWvF0STpPQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MzIw/NS0xNTc5NDE4NTY1/LTgxMjcuanBlZw.jpeg"
+  },
+  {
+    "id": 2825456,
+    "artist": "Miles Davis",
+    "title": "Kind Of Blue",
+    "genre": 8,
+    "styles": [
+      "Modal",
+      "Cool Jazz"
+    ],
+    "year": 2010,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/s-YATK9uK15skpOsnkP391Gxe2zBsNG_feNBrxjN3Ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjU0/NTYtMTQzMDc3MDE0/My0xMDU3LmpwZWc.jpeg"
+  },
+  {
+    "id": 7545132,
+    "artist": "Nirvana",
+    "title": "In Utero",
+    "genre": 4,
+    "styles": [
+      "Grunge",
+      "Alternative Rock"
+    ],
+    "year": 2015,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/5ZEZw2kpSY4KZF4cZpC5HeKsETCKBKuLly3-9zEGM-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDUx/MzItMTUyMjg4NzUz/Ny00MDI0LmpwZWc.jpeg"
+  },
+  {
+    "id": 3937552,
+    "artist": "Tame Impala",
+    "title": "Lonerism",
+    "genre": 4,
+    "styles": [
+      "Psychedelic Rock",
+      "Indie Rock"
+    ],
+    "year": 2012,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/UUXXYtYplR48l2LPX55fhT3GZgevkYZqzKgvLyIAYCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjEw/MS00NjUzLmpwZWc.jpeg"
+  },
+  {
+    "id": 10559651,
+    "artist": "Kendrick Lamar",
+    "title": "Damn.",
+    "genre": 5,
+    "styles": [
+      "Conscious"
+    ],
+    "year": 2017,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Yfr6N1yv57x1tMDxXZBvUCktorHfBog1-t7OP22VjKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU5/NjUxLTE1MDM2MTA4/MzQtNzIyOS5wbmc.jpeg"
+  },
+  {
+    "id": 6265576,
+    "artist": "Led Zeppelin",
+    "title": "Untitled",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Blues Rock"
+    ],
+    "year": 2014,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/sZ6waboitBAeDyH70q750oNZuwdh4s6VGgGS9zu_hC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjU1/NzYtMTY0Mzc0NjY5/NS0xMTc5LmpwZWc.jpeg"
+  },
+  {
+    "id": 2664589,
+    "artist": "Adele",
+    "title": "21",
+    "genre": 8,
+    "styles": [
+      "Acoustic",
+      "Piano Blues",
+      "Neo Soul"
+    ],
+    "year": 2011,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/Z_lzVdTzuJbktOx0mwqtKvSD6huBGEIi7cMdV6Z59kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjQ1/ODktMTQ1MjI2OTk5/NS03Mjk4LnBuZw.jpeg"
+  },
+  {
+    "id": 6392060,
+    "artist": "Taylor Swift",
+    "title": "1989",
+    "genre": 3,
+    "styles": [
+      "Synth-pop",
+      "Ballad"
+    ],
+    "year": 2014,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/XdsVDNpnYPUMcd1Ecfi6nc51aijGcCSzX5CjqxLHbhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTIw/NjAtMTQzMDU4MzM4/OC05NjQxLmpwZWc.jpeg"
+  },
+  {
+    "id": 12642678,
+    "artist": "System Of A Down",
+    "title": "Toxicity",
+    "genre": 4,
+    "styles": [
+      "Nu Metal"
+    ],
+    "year": 2018,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/S4x7_CuYnAotLkgKqsGNP-ga8hAfvwbSuo1LYr1rar8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjQy/Njc4LTE1Mzk5OTk3/ODEtMzE1My5qcGVn.jpeg"
+  },
+  {
+    "id": 1435384,
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Are You Experienced?",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock"
+    ],
+    "year": 1967,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/mnBpBdNhcopESbWwqJU8cRxrztg0fcQHIXKbm34b-Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUz/ODQtMTM0MDY3MTUz/OC04ODA4LmpwZWc.jpeg"
+  },
+  {
+    "id": 7932038,
+    "artist": "David Bowie",
+    "title": "★ (Blackstar)",
+    "genre": 1,
+    "styles": [
+      "Art Rock",
+      "Experimental",
+      "Jazz-Rock",
+      "Prog Rock",
+      "Glam"
+    ],
+    "year": 2016,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/bLmSLgf3E4fYK3-rheJce7e-Ob892zRzphpRMO3ogjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzIw/MzgtMTQ1MjQxNDQ5/Ni05NDIyLmpwZWc.jpeg"
+  },
+  {
+    "id": 707930,
+    "artist": "Simon & Garfunkel",
+    "title": "Bookends",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Soft Rock",
+      "Pop Rock",
+      "Vocal"
+    ],
+    "year": 1968,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/6S_7sMKkw74PIMngutnfYNU-bLwfOaR43swLafWFnzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwNzkz/MC0xNDk1NDM5Mjc4/LTc3MjAuanBlZw.jpeg"
+  },
+  {
+    "id": 8581636,
+    "artist": "Radiohead",
+    "title": "A Moon Shaped Pool",
+    "genre": 1,
+    "styles": [
+      "Art Rock",
+      "Indie Rock"
+    ],
+    "year": 2016,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/zcpBzWVa2twX_ZnjpUeFT9W0dv76T9KrKC-fN8JFr2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1ODE2/MzYtMTQ2NjExMDc1/Mi00NjM1LmpwZWc.jpeg"
+  },
+  {
+    "id": 372272,
+    "artist": "Supertramp",
+    "title": "Breakfast In America",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Art Rock"
+    ],
+    "year": 1979,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/o4nIfI3j3lHtOraumJFGCWDD7qVU1JaGXcv66MN9ukw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/Mi0xMzgwNzExOTk5/LTgxMTUuanBlZw.jpeg"
+  },
+  {
+    "id": 8626822,
+    "artist": "Fleetwood Mac",
+    "title": "Rumours",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/YasJjWFodUBSu2CkHX7idUGpl_YS9q8zzNJElRUQoFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgw/Mi00MzM1LmpwZWc.jpeg"
+  },
+  {
+    "id": 8829120,
+    "artist": "Tom Petty And The Heartbreakers",
+    "title": "Greatest Hits",
+    "genre": 4,
+    "styles": [
+      "Rock & Roll",
+      "Soft Rock"
+    ],
+    "year": 2016,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/rEJkIqPDyP-CFWZ1kuneAMVDjLlPOpv3M6771c5eURY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4Mjkx/MjAtMTYzNDY1NzU3/OS05Mzk0LmpwZWc.jpeg"
+  },
+  {
+    "id": 468054,
+    "artist": "The Rolling Stones",
+    "title": "Tattoo You",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Blues Rock",
+      "Rock & Roll"
+    ],
+    "year": 1981,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/-beA085D_hRY2GGvET1JWO1YTQ7U0rPaYE8d3Sk5LMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODA1/NC0xNjg3MDk5Njky/LTk0MjQuanBlZw.jpeg"
+  },
+  {
+    "id": 3259156,
+    "artist": "The Black Keys",
+    "title": "El Camino",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Alternative Rock",
+      "Garage Rock"
+    ],
+    "year": 2011,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/sN_UV4dtOBmEKsd1DRuKsKRWFGyKPrnHiUdsh405NBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTkx/NTYtMTY0NzI3ODg1/MS03NTUzLmpwZWc.jpeg"
+  },
+  {
+    "id": 380618,
+    "artist": "Aerosmith",
+    "title": "Toys In The Attic",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Classic Rock",
+      "Blues Rock"
+    ],
+    "year": 1975,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/4OA3T6Iz41KfTi71uMmtOlEUiYEuF0qOkmxhRyxz8nY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDYx/OC0xNDU5NDk5MDE2/LTEyNDcuanBlZw.jpeg"
+  },
+  {
+    "id": 5734419,
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Hard Rock"
+    ],
+    "year": 2014,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/mxIi0wSYLiuss62ZAUjm32tMa6k3SX7zIEdMkwOx_wU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/MTktMTQwOTIxMjIy/MS0yODM0LmpwZWc.jpeg"
+  },
+  {
+    "id": 1542309,
+    "artist": "Jackson Browne",
+    "title": "Running On Empty",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/AsGS-oVTC4Dw6vOWRZo_inhAnSknemBO3IiB3JCUNgU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDIz/MDktMTUzNzcyODU4/NC0yNDYzLmpwZWc.jpeg"
+  },
+  {
+    "id": 74260,
+    "artist": "Godspeed You Black Emperor!",
+    "title": "Lift Your Skinny Fists Like Antennas To Heaven",
+    "genre": 4,
+    "styles": [
+      "Post Rock",
+      "Experimental"
+    ],
+    "year": 2000,
+    "country": "canada",
+    "thumb_image": "https://i.discogs.com/InopuzEjuklPUJXblHhZPsHLv0I2D4Vik80WAq9qIX4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0MjYw/LTE2MDI0MTM5NTIt/OTc1Ni5qcGVn.jpeg"
+  },
+  {
+    "id": 2498807,
+    "artist": "The Beatles",
+    "title": "Abbey Road",
+    "genre": 4,
+    "styles": [
+      "Psychedelic Rock",
+      "Pop Rock",
+      "Acoustic"
+    ],
+    "year": 1969,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/qIMnIUeLe6EN6b6_TmmyqdwQ1vucBfCEGvr9ODxryUY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0OTg4/MDctMTQyNTI3OTI5/Ni0xMjM1LmpwZWc.jpeg"
+  },
+  {
+    "id": 926877,
+    "artist": "Paul Simon",
+    "title": "Still Crazy After All These Years",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Pop Rock"
+    ],
+    "year": 1975,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/a-Jg7xZVOz_htkw_-0zmW6oyaAHh8qbfBPFELQiWxoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNjg3/Ny0xNjgxNjQ2ODgw/LTc5MjUuanBlZw.jpeg"
+  },
+  {
+    "id": 1224331,
+    "artist": "Stevie Nicks",
+    "title": "Bella Donna",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1981,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/1At5RNT1oZ5d5cbQuqjuK0c0Vx-Kvv0UXzFJAbvQSC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQz/MzEtMTQwOTE4MTg5/Ny00ODQ3LmpwZWc.jpeg"
+  },
+  {
+    "id": 15724598,
+    "artist": "MF Doom",
+    "title": "MM..Food",
+    "genre": 5,
+    "styles": [
+      "Conscious"
+    ],
+    "year": 2020,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/woZC4wTICrZBIyp6cqxSzUodQhmiKHW8CXO58lzLX6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzI0/NTk4LTE2MjgyMzI3/NjAtOTIzMi5qcGVn.jpeg"
+  },
+  {
+    "id": 4819086,
+    "artist": "Nirvana",
+    "title": "Nevermind",
+    "genre": 4,
+    "styles": [
+      "Grunge"
+    ],
+    "year": 2013,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/pXprXsZ2IgQ8WBSTGidcGoM90Q5ev9f9BVgRjG6ouXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTkw/ODYtMTQxODAzNjU3/Mi02Nzk0LmpwZWc.jpeg"
+  },
+  {
+    "id": 612972,
+    "artist": "Arctic Monkeys",
+    "title": "Whatever People Say I Am, That's What I'm Not",
+    "genre": 4,
+    "styles": [
+      "Indie Rock"
+    ],
+    "year": 2006,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/P-dGTjhMh5-tL-T7vrhnr1DdVUKwLbOrKPSXhKyLdXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjk3/Mi0xNDAxMTgyOTYz/LTczMjIuanBlZw.jpeg"
+  },
+  {
+    "id": 2440818,
+    "artist": "Gorillaz",
+    "title": "Plastic Beach",
+    "genre": 1,
+    "styles": [
+      "Leftfield",
+      "Electro",
+      "Synth-pop"
+    ],
+    "year": 2010,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/gLtL9a_nOgOa_Ghah9IYTaNHi42nHlL476l-ULhOrpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDA4/MTgtMTQwMTM3MTA0/MC0yNjI0LmpwZWc.jpeg"
+  },
+  {
+    "id": 4418438,
+    "artist": "Bob Marley & The Wailers",
+    "title": "Legend - The Best Of Bob Marley And The Wailers",
+    "genre": 11,
+    "styles": [
+      "Reggae",
+      "Roots Reggae"
+    ],
+    "year": 2015,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/AQ-G7K7ZWx7YMwvhE3MbX4_dvewjNVSvCeTEIBLaMy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ1MDYxODc1/MS0xNTg0LmpwZWc.jpeg"
+  },
+  {
+    "id": 2237319,
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Axis: Bold As Love",
+    "genre": 4,
+    "styles": [
+      "Psychedelic Rock",
+      "Blues Rock"
+    ],
+    "year": 2010,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/ldsSRdW7H6U0-fYE3m2rREUUkpAy8MFOun-N4a0Oiww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcz/MTktMTY0MjQ1MDc5/My01MzcxLmpwZWc.jpeg"
+  },
+  {
+    "id": 6095128,
+    "artist": "Aphex Twin",
+    "title": "Syro",
+    "genre": 1,
+    "styles": [
+      "Breakbeat",
+      "IDM",
+      "Downtempo",
+      "Abstract",
+      "Techno",
+      "Acid"
+    ],
+    "year": 2014,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/OR0_E68xulOh294COfGgB06Kny6CcxjV-VBS-UnkbSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTUx/MjgtMTQxMTQ1MDkw/OC02MDI3LmpwZWc.jpeg"
+  },
+  {
+    "id": 737224,
+    "artist": "Santana",
+    "title": "Santana",
+    "genre": 4,
+    "styles": [
+      "Afro-Cuban",
+      "Psychedelic Rock"
+    ],
+    "year": 1969,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/gsi8nTrgeEsOOQj68ZEtKS0m9C3-gtaI2-JP1a5q6oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzIy/NC0xMzc0MDc1NTU3/LTI3MjUuanBlZw.jpeg"
+  },
+  {
+    "id": 667892,
+    "artist": "The Strokes",
+    "title": "Is This It",
+    "genre": 4,
+    "styles": [
+      "Indie Rock",
+      "Garage Rock",
+      "Post-Punk"
+    ],
+    "year": 2001,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/DK-fquXYo-B_CPpgQ3Xi3-If4-Ck7TEWA7fg0XWInCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg5/Mi0xMjQ5NTQ4OTc5/LmpwZWc.jpeg"
+  },
+  {
+    "id": 499497,
+    "artist": "The Beatles",
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "genre": 4,
+    "styles": [
+      "Rock & Roll",
+      "Psychedelic Rock",
+      "Pop Rock"
+    ],
+    "year": 1967,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/yMOquuo1pA3YPBLV0fWRthm3uh0cVUJGCKb6UElhbLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ5/Ny0xNDU2MDQ3Mzgz/LTk0ODkuanBlZw.jpeg"
+  },
+  {
+    "id": 6736792,
+    "artist": "J. Cole",
+    "title": "2014 Forest Hills Drive",
+    "genre": 5,
+    "styles": [
+      "Conscious"
+    ],
+    "year": 2015,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/NDcP8ndhaoNsHCpnKui3XVfjlsKLracarltbqNEN09s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzY3/OTItMTY3NzU1MTU4/My04ODAyLmpwZWc.jpeg"
+  },
+  {
+    "id": 9370710,
+    "artist": "Queen",
+    "title": "Greatest Hits II",
+    "genre": 4,
+    "styles": [
+      "Arena Rock",
+      "Pop Rock"
+    ],
+    "year": 2016,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/tbsRzQC1oZe0R6uMmb2UxhlKJmHLc0nerzmwYlg388g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzA3/MTAtMTQ4MzE4MTQ0/Ni00NTgxLmpwZWc.jpeg"
+  },
+  {
+    "id": 5697791,
+    "artist": "Oasis",
+    "title": "Definitely Maybe",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Britpop"
+    ],
+    "year": 2014,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/4Bb9zU7mPI5qX7u3AYM3GMsdfwCg-7AsYjSkKcxPL1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTc3/OTEtMTQxMTA0OTUy/Ni0zMjYwLmpwZWc.jpeg"
+  },
+  {
+    "id": 2365359,
+    "artist": "Mumford & Sons",
+    "title": "Sigh No More",
+    "genre": 7,
+    "styles": [
+      "Bluegrass",
+      "Folk"
+    ],
+    "year": 2009,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/dJDOTcl3prYkdTr8qsh1f9FVZhDBmbfVjsyl9sh6ZyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjUz/NTktMTI4ODQ0NDA3/My5qcGVn.jpeg"
+  },
+  {
+    "id": 5996578,
+    "artist": "Various",
+    "title": "Guardians Of The Galaxy",
+    "genre": 4,
+    "styles": [
+      "Soundtrack",
+      "Classic Rock",
+      "Pop Rock",
+      "Soul"
+    ],
+    "year": 2014,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/IpWuFCtBQoLyLi27ckIAhEXDwYp6lHcAE959xt8Em4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTY1/NzgtMTQzNjgyNjQ2/My00NDk5LmpwZWc.jpeg"
+  },
+  {
+    "id": 266650,
+    "artist": "Stevie Wonder",
+    "title": "Songs In The Key Of Life",
+    "genre": 8,
+    "styles": [
+      "Soul",
+      "Funk",
+      "Fusion",
+      "Jazz-Funk"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/xHMK9zdCHilL1GzWg2TKur_6Lr4CxPcvN8EAXz6GfYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY1/MC0xNDkxMDEwNTM4/LTcyNzUuanBlZw.jpeg"
+  },
+  {
+    "id": 1486272,
+    "artist": "Bob Dylan",
+    "title": "Nashville Skyline",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Country Rock"
+    ],
+    "year": 1969,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/O68AjbskEnFPVQV2W29y2yjJ7apM4_B9EKul7bP3Ot0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODYy/NzItMTIzNDUxOTQ0/Ny5qcGVn.jpeg"
+  },
+  {
+    "id": 793593,
+    "artist": "The Police",
+    "title": "Outlandos D'Amour",
+    "genre": 4,
+    "styles": [
+      "New Wave"
+    ],
+    "year": 1978,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/_LRrOrmz-8MUmKUvzS4REEmklqUvo44Rksm1pGbnWFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzU5/My0xMjAxMTI4NDMw/LmpwZWc.jpeg"
+  },
+  {
+    "id": 9917395,
+    "artist": "Ed Sheeran",
+    "title": "÷ (Divide)",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 2017,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/UFfF9YBiVdmymU1dvDzuliyrxyqewatQ_40Ds-FixlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTcz/OTUtMTQ4ODUxMzA0/MC02Nzg2LnBuZw.jpeg"
+  },
+  {
+    "id": 892971,
+    "artist": "Bruce Springsteen",
+    "title": "The River",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Pop Rock",
+      "Classic Rock"
+    ],
+    "year": 1980,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/pNOyeN2s_tBRxI8bOYD3qgUO8s91wF5ZwN4VtrbM0lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mjk3/MS0xNTE3MzUwMTEx/LTQxOTQuanBlZw.jpeg"
+  },
+  {
+    "id": 1587168,
+    "artist": "Radiohead",
+    "title": "OK Computer",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Experimental",
+      "Art Rock"
+    ],
+    "year": 2008,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/kR8i2ZRSUafJyLczI4VWHDwiCSxTuQa9xPsx0uCWwCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcx/NjgtMTY0NzQ0NTg0/My00ODU0LmpwZWc.jpeg"
+  },
+  {
+    "id": 4548231,
+    "artist": "Boards Of Canada",
+    "title": "Tomorrow's Harvest",
+    "genre": 1,
+    "styles": [
+      "Downtempo",
+      "Ambient",
+      "IDM"
+    ],
+    "year": 2013,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/Q76BS_rGNBG0KltRNJ_lQ9rYmpfIqIr1SOAsc9--QLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDgy/MzEtMTM3MDUzMzI5/Mi00MTA3LmpwZWc.jpeg"
+  },
+  {
+    "id": 5734489,
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin II",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Classic Rock",
+      "Hard Rock"
+    ],
+    "year": 2014,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/NX_NQLm16r_GIIRcW9Pl8DVuGmvsLvKf42C9-P3bg3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzQ0/ODktMTQxODM5NjY1/Ny04MzE1LmpwZWc.jpeg"
+  },
+  {
+    "id": 844094,
+    "artist": "Steely Dan",
+    "title": "Gaucho",
+    "genre": 8,
+    "styles": [
+      "Pop Rock",
+      "Jazz-Rock"
+    ],
+    "year": 1980,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/-xPN9LQ0hfu8xOUk5tKK_29tGzT3TyH0PlX4tjyM868/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0NDA5/NC0xNTI3MzMwMjk0/LTgyNTAuanBlZw.jpeg"
+  },
+  {
+    "id": 1842334,
+    "artist": "Steely Dan",
+    "title": "Aja",
+    "genre": 8,
+    "styles": [
+      "Jazz-Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/BM4FrhNKZNhF3d1uTsFa12PQeph9Z0bSOgjBiEXxfsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDIz/MzQtMTMxOTU5NTc4/NC5qcGVn.jpeg"
+  },
+  {
+    "id": 537047,
+    "artist": "Steve Miller Band",
+    "title": "Fly Like An Eagle",
+    "genre": 4,
+    "styles": [
+      "Classic Rock",
+      "Blues Rock",
+      "Pop Rock"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/8iNvNMiaAImfaSDjKvNE8mjp3pH6mHM8qaNCPEHiBo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xNDI3MDUzMDE3/LTYzNTMucG5n.jpeg"
+  },
+  {
+    "id": 230574,
+    "artist": "The Cars",
+    "title": "Heartbeat City",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "New Wave"
+    ],
+    "year": 1984,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/XfhpnwFMR7wGiR-Uc7K9MN8JGZ8QIZsUFrSL-2nrvH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU3/NC0xMjE5NDQzMzg0/LmpwZWc.jpeg"
+  },
+  {
+    "id": 1030796,
+    "artist": "Prince And The Revolution",
+    "title": "Around The World In A Day",
+    "genre": 4,
+    "styles": [
+      "Minneapolis Sound",
+      "Funk",
+      "Pop Rock"
+    ],
+    "year": 1985,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/dXafCZd-vP1CglNq64W4DJuYKS5e9SliViAjACSjC68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/OTYtMTIwNDYzNTc5/MC5qcGVn.jpeg"
+  },
+  {
+    "id": 2580199,
+    "artist": "Blondie",
+    "title": "Parallel Lines",
+    "genre": 4,
+    "styles": [
+      "New Wave",
+      "Pop Rock",
+      "Disco",
+      "Punk"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/rHid4ggC5FhJmxYYjbBR4PBG9GDuuGVUmB9pQMBfxAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODAx/OTktMTMyNzY0OTA2/NS5qcGVn.jpeg"
+  },
+  {
+    "id": 3566352,
+    "artist": "Jack White",
+    "title": "Blunderbuss",
+    "genre": 4,
+    "styles": [
+      "Blues Rock"
+    ],
+    "year": 2012,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/28l64wHOLkMzF4ONYn8YIrkKEZQCsTeuh3aM8tjsTFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjYz/NTItMTYzMDE2NDg1/Mi04MTUwLmpwZWc.jpeg"
+  },
+  {
+    "id": 8541806,
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Are You Experienced",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock"
+    ],
+    "year": 2014,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/J6miq_MOw4fr9j5SfFt2b8608m_SxQq_QyiREA0RmjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NDE4/MDYtMTQ3MTExMDU1/My02MzI1LmpwZWc.jpeg"
+  },
+  {
+    "id": 949843,
+    "artist": "Van Halen",
+    "title": "1984",
+    "genre": 4,
+    "styles": [
+      "Hard Rock"
+    ],
+    "year": 1984,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/l7xjpNG5098uAByNytK1BrDjON5JfAKPpGlRb7cupb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTg0/My0xMzUwOTU4NDY1/LTM4MjMuanBlZw.jpeg"
+  },
+  {
+    "id": 371546,
+    "artist": "The Police",
+    "title": "Zenyatta Mondatta",
+    "genre": 4,
+    "styles": [
+      "New Wave"
+    ],
+    "year": 1980,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/itbNNLQegB6IsJt8kPUNqjjQGEGosBP8am4mZCfqqaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTU0/Ni0xMTczNTM3MTQy/LmpwZWc.jpeg"
+  },
+  {
+    "id": 8385679,
+    "artist": "Metallica",
+    "title": "Kill 'Em All",
+    "genre": 4,
+    "styles": [
+      "Thrash",
+      "Speed Metal"
+    ],
+    "year": 2016,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/uzikxZ7hGGeCzhaU_taVGWEBKCieLuK_sqouWItf2Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODU2/NzktMTUxNjU2MTU2/NS04MDAzLmpwZWc.jpeg"
+  },
+  {
+    "id": 224182,
+    "artist": "Talking Heads",
+    "title": "Little Creatures",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Pop Rock",
+      "New Wave"
+    ],
+    "year": 1985,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/raZnI8v3Le6edSlDu2CeGrr7YFBrqMD5JgPydkNnHAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDE4/Mi0xMzMxMDgwMzg2/LmpwZWc.jpeg"
+  },
+  {
+    "id": 709484,
+    "artist": "Chicago",
+    "title": "Chicago IX Chicago's Greatest Hits",
+    "genre": 4,
+    "styles": [
+      "Soft Rock",
+      "Pop Rock"
+    ],
+    "year": 1975,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/0vZB53rGO7LZlu8mYIMehTNcO-dnA9WyG2PWPiOn26M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTQ4/NC0xMzY1Mzc0NjU3/LTQzMzAuanBlZw.jpeg"
+  },
+  {
+    "id": 2093841,
+    "artist": "Arcade Fire",
+    "title": "Funeral",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "year": 2009,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/8MpEGb5pZln4GmNDdQF2g7fHB2oTBlD7mjf6F7Ex-3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTQ4OTMzMTQ3/MC03Mzk0LmpwZWc.jpeg"
+  },
+  {
+    "id": 14510978,
+    "artist": "Harry Styles",
+    "title": "Fine Line",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 2019,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/ikhZ3hv4SHvaoGJE9bwDJZ8WbLyNHiHMbPRqZ0IvgO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/OTc4LTE2MTU0OTcz/NTAtMjgyMy5qcGVn.jpeg"
+  },
+  {
+    "id": 22786961,
+    "artist": "Tyler, The Creator",
+    "title": "Call Me If You Get Lost",
+    "genre": 5,
+    "styles": [
+      "Trap",
+      "Jazzy Hip-Hop",
+      "Contemporary R&B"
+    ],
+    "year": 2022,
+    "country": "worldwide",
+    "thumb_image": "https://i.discogs.com/6vqAXU7kCWW3aJNDncEQXSHPi1Mg8RXS41PrkXrB2nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzg2/OTYxLTE2NDk5OTQ4/NTMtNzU1My5qcGVn.jpeg"
+  },
+  {
+    "id": 944143,
+    "artist": "Neil Young",
+    "title": "Rust Never Sleeps",
+    "genre": 4,
+    "styles": [
+      "Acoustic",
+      "Folk Rock",
+      "Hard Rock",
+      "Classic Rock",
+      "Arena Rock"
+    ],
+    "year": 1979,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/b9zKEDWoGfMy4YUvC4kne0Rc9sTyd3stVMinoPmSbas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDE0/My0xNDk4Nzg3OTc4/LTY5NzcuanBlZw.jpeg"
+  },
+  {
+    "id": 1024257,
+    "artist": "Dire Straits",
+    "title": "Love Over Gold",
+    "genre": 4,
+    "styles": [
+      "Classic Rock"
+    ],
+    "year": 1982,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/DzTP_18M0OCRe7gkEoZas6zD5FhBxSOm5VaLUMnBESE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQy/NTctMTI3NTYzMjcy/MC5qcGVn.jpeg"
+  },
+  {
+    "id": 822425,
+    "artist": "Billy Joel",
+    "title": "An Innocent Man",
+    "genre": 4,
+    "styles": [
+      "Rock & Roll",
+      "Pop Rock"
+    ],
+    "year": 1983,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/PuSoxfAzfGjtACT3ts7hKayoGW_2S_jEKBvTIpZyL_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjQy/NS0xMzUyMzIwNTM2/LTE1ODIuanBlZw.jpeg"
+  },
+  {
+    "id": 7748058,
+    "artist": "Adele",
+    "title": "25",
+    "genre": 2,
+    "styles": [
+      "Ballad",
+      "Neo Soul",
+      "Piano Blues"
+    ],
+    "year": 2015,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/zojY18TCy6BSqoh-Mwt7MbjXv1s-x4cfvgwLcLPt90M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDgw/NTgtMTUwMDYzNjk4/Mi04Mjc5LmpwZWc.jpeg"
+  },
+  {
+    "id": 618952,
+    "artist": "David Bowie",
+    "title": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
+    "genre": 4,
+    "styles": [
+      "Glam"
+    ],
+    "year": 1972,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/NANnAgmfWKZlwnQQNaIZOAQVtlF_qu_QfhVfgtHK2-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODk1/Mi0xNDQzNDUxNDcz/LTc4ODkuanBlZw.jpeg"
+  },
+  {
+    "id": 11150838,
+    "artist": "SZA",
+    "title": "Ctrl",
+    "genre": 2,
+    "styles": [
+      "Contemporary R&B"
+    ],
+    "year": 2017,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/MsJdp9SVImXg3MOmkMC4Mff0DtUtCN1uHaUxXG61q_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTMtMzQ3NS5qcGVn.jpeg"
+  },
+  {
+    "id": 4814695,
+    "artist": "The Beach Boys",
+    "title": "Endless Summer",
+    "genre": 4,
+    "styles": [
+      "Surf",
+      "Pop Rock"
+    ],
+    "year": 1974,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/bPj8Gv5VBrNWdyivHqga2cUNR3cHZ84946Xa1dkr3YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTQ2/OTUtMTM3NjYyNDI2/Ny0zMTk3LmpwZWc.jpeg"
+  },
+  {
+    "id": 9442778,
+    "artist": "Massive Attack",
+    "title": "Blue Lines",
+    "genre": 1,
+    "styles": [
+      "Trip Hop",
+      "Downtempo"
+    ],
+    "year": 2016,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/ATJkPUE7hHJAlZolwubH7mPaLGIXSOBIGweq4rhghsE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDI3/NzgtMTQ5MjEyNjA4/OS02Nzk2LmpwZWc.jpeg"
+  },
+  {
+    "id": 4608497,
+    "artist": "Queens Of The Stone Age",
+    "title": "...Like Clockwork",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Stoner Rock",
+      "Hard Rock"
+    ],
+    "year": 2013,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/1GeV-6c51OF7t6egCxKPHv21Yh8RtCZM4-qmThiuUWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDg0/OTctMTM3MjA4Nzkz/MC00MjMzLmpwZWc.jpeg"
+  },
+  {
+    "id": 1120137,
+    "artist": "Elton John",
+    "title": "Greatest Hits",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Classic Rock"
+    ],
+    "year": 1974,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/8MaL8bNzvLF5IMXBiJjaj23Zp1YuF2iqoBIHkPdQr1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAx/MzctMTQyMzQwMjEz/My0xNjQ5LmpwZWc.jpeg"
+  },
+  {
+    "id": 1976385,
+    "artist": "The XX",
+    "title": "XX",
+    "genre": 1,
+    "styles": [
+      "Indie Rock"
+    ],
+    "year": 2009,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/_91NecB9o19pPq7Cnq47g-U-vYwGaTMb_zeAkrVOs5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYz/ODUtMTMwOTY3Nzk5/Ny5qcGVn.jpeg"
+  },
+  {
+    "id": 788029,
+    "artist": "Kansas",
+    "title": "Point Of Know Return",
+    "genre": 4,
+    "styles": [
+      "Prog Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/89fcaOO1kC9yCIkS4MqbEpSyxOOoCtrP70v5is6Bh6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4ODAy/OS0xNDE2MDIwODYx/LTg3MzIuanBlZw.jpeg"
+  },
+  {
+    "id": 170719,
+    "artist": "Talking Heads",
+    "title": "Speaking In Tongues",
+    "genre": 4,
+    "styles": [
+      "New Wave",
+      "Pop Rock",
+      "Funk"
+    ],
+    "year": 1983,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/7_0Fq27p_8Ed79-niTKKrKRSsPJHDuu0AfE1odFoLWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcx/OS0xNDM3NDU0NzA4/LTQ4OTQuanBlZw.jpeg"
+  },
+  {
+    "id": 2068953,
+    "artist": "Various",
+    "title": "Pulp Fiction (Music From The Motion Picture)",
+    "genre": 4,
+    "styles": [
+      "Surf",
+      "Rock & Roll",
+      "Dialogue",
+      "Soul",
+      "Soundtrack",
+      "Funk"
+    ],
+    "year": 2008,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/KbppDgf2B9CLS-j2DF8hb9hm9RcgkWX7QczOOC3k5zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjg5/NTMtMTY0MTA1OTc5/MC00MDAzLmpwZWc.jpeg"
+  },
+  {
+    "id": 3020121,
+    "artist": "The Allman Brothers Band",
+    "title": "Brothers And Sisters",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Southern Rock"
+    ],
+    "year": 1973,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/FzH0ZUpFXSkdBrRUKKzJvMO_i_wtGkHRx6QrB6X9Cqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAx/MjEtMTYxNzk5OTYw/OS01ODMyLmpwZWc.jpeg"
+  },
+  {
+    "id": 947850,
+    "artist": "Sade",
+    "title": "Diamond Life",
+    "genre": 8,
+    "styles": [
+      "Soul",
+      "Smooth Jazz"
+    ],
+    "year": 1984,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/a3oIR4pFHG54gzy8ooJ6ds4J0tnuSW57citfL1kVxVw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzg1/MC0xMzc5MTc4MjQ0/LTk1MjguanBlZw.jpeg"
+  },
+  {
+    "id": 515893,
+    "artist": "John Lennon & Yoko Ono",
+    "title": "Double Fantasy",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1980,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/AY8SdPRKbftG_B80SIcpnAac8xCjYB8RP6xeLhEg4qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTg5/My0xMzYzNDQyNTYx/LTQ3MTkuanBlZw.jpeg"
+  },
+  {
+    "id": 3354383,
+    "artist": "Lana Del Rey",
+    "title": "Born To Die",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Baroque Pop",
+      "Dream Pop",
+      "Indie Pop",
+      "Trip Hop"
+    ],
+    "year": 2012,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/LX6NKKpgIW7t11cAd04w_WIFmtQHpVL-msvd5wHaFy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTQz/ODMtMTQwMTE4NDA5/MC0xNDgxLmpwZWc.jpeg"
+  },
+  {
+    "id": 11116099,
+    "artist": "Childish Gambino",
+    "title": "Awaken, My Love!",
+    "genre": 2,
+    "styles": [
+      "Contemporary R&B",
+      "Funk",
+      "Neo Soul",
+      "Psychedelic"
+    ],
+    "year": 2017,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/ygdMnljqDzikauwCCi5GCh0SKnKxkIBT97AgOuCPFOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE2/MDk5LTE1MTU4NDU4/ODYtNTA4My5qcGVn.jpeg"
+  },
+  {
+    "id": 7631931,
+    "artist": "Buena Vista Social Club",
+    "title": "Buena Vista Social Club",
+    "genre": 12,
+    "styles": [
+      "Afro-Cuban",
+      "Son",
+      "Danzon",
+      "Bolero",
+      "Trova",
+      "Guajira",
+      "Ballad"
+    ],
+    "year": 2015,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/5VclDbnjzXS6kvLlbtUMuCxE9uXmD4rt0qvzvcAuiC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE5/MzEtMTQ4MTA1NTk5/Ny02ODg3LmpwZWc.jpeg"
+  },
+  {
+    "id": 2665875,
+    "artist": "Eagles",
+    "title": "Their Greatest Hits 1971-1975",
+    "genre": 4,
+    "styles": [
+      "Classic Rock"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/6Uk2lUr5VxfBqCDiTfd6s0JuZ_dJjqMwkPZjLxVsmmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU4/NzUtMTM2NTM4NDEx/Ny01NjM5LmpwZWc.jpeg"
+  },
+  {
+    "id": 16038490,
+    "artist": "Tom Petty",
+    "title": "Wildflowers & All The Rest",
+    "genre": 4,
+    "styles": [
+      "Classic Rock",
+      "Folk Rock",
+      "Rock & Roll",
+      "Pop Rock"
+    ],
+    "year": 2020,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/-XAzpDbqVGT7uQo8Ewjx1kmLAc5Mh5xnwR_cda4imN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NDkwLTE2MDQ4MDI1/ODYtNTAxOS5qcGVn.jpeg"
+  },
+  {
+    "id": 495664,
+    "artist": "Pink Floyd",
+    "title": "Animals",
+    "genre": 4,
+    "styles": [
+      "Prog Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/T_lhMehc5G9bP85V6P46h5l_CRN5rFuMEZkh0CyIysc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xNDQ5Mjc5Mzc4/LTk5OTUuanBlZw.jpeg"
+  },
+  {
+    "id": 2306941,
+    "artist": "Bob Dylan",
+    "title": "Blood On The Tracks",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Acoustic",
+      "Ballad"
+    ],
+    "year": 1975,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/v0Qvf7c2n4MJaPeVOcQ4Lku_gqtkekXBOFvBJrA_P_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY5/NDEtMTMzNzQzMzg5/MS01MTc2LmpwZWc.jpeg"
+  },
+  {
+    "id": 204021,
+    "artist": "Gorillaz",
+    "title": "Gorillaz",
+    "genre": 1,
+    "styles": [
+      "Leftfield",
+      "Trip Hop",
+      "Lo-Fi",
+      "Experimental",
+      "UK Garage",
+      "Punk",
+      "Dub"
+    ],
+    "year": 2001,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/ILD5t3nfkk9_yNQPF93yd3pHxn7PEsKyRClZPel4yCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDAy/MS0xMzM2OTI1NjI1/LTIzOTEuanBlZw.jpeg"
+  },
+  {
+    "id": 372275,
+    "artist": "Supertramp",
+    "title": "\"...Famous Last Words...\"",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1982,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/hIkXCtDWBE2RE1GoPSn35GJ8gyrpE4hcr7iKjNij-zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NS0xNjUwMzgxODA0/LTUzOTAuanBlZw.jpeg"
+  },
+  {
+    "id": 749903,
+    "artist": "Bob Seger And The Silver Bullet Band",
+    "title": "Stranger In Town",
+    "genre": 4,
+    "styles": [
+      "Rock & Roll",
+      "Soft Rock",
+      "Classic Rock"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Y3pZ7J_pWOmraML6hVpz9ewo6P_RXvQHtbAl6njIctE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTkw/My0xNTE2NTk2MzE0/LTYxMzIuanBlZw.jpeg"
+  },
+  {
+    "id": 10781508,
+    "artist": "Beyoncé",
+    "title": "Lemonade",
+    "genre": 1,
+    "styles": [
+      "Soul",
+      "Neo Soul",
+      "Electro",
+      "Contemporary R&B"
+    ],
+    "year": 2017,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/QdFEkQuQzM76b081TC4jke5UHhZ_kBTAhXEG87wB5og/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNzgx/NTA4LTE1MDgyNzk1/MTItOTY4MS5qcGVn.jpeg"
+  },
+  {
+    "id": 605307,
+    "artist": "The Doors",
+    "title": "L.A. Woman",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Classic Rock"
+    ],
+    "year": 1971,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/XkarND0CC6rK43RzOOrHzZm-MXAbgtQ57gHORDul1Y8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTMw/Ny0xNTIwOTYxNTAw/LTI3MDcuanBlZw.jpeg"
+  },
+  {
+    "id": 7383499,
+    "artist": "Kamasi Washington",
+    "title": "The Epic",
+    "genre": 8,
+    "styles": [
+      "Fusion",
+      "Contemporary Jazz",
+      "Psychedelic",
+      "Soul-Jazz"
+    ],
+    "year": 2015,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/N8AIVtUKGagpfgH5R2mN_Y15X0so2R_sQ_EDkMucM2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTU0MzE1NjU0/Ny01MTc3LmpwZWc.jpeg"
+  },
+  {
+    "id": 7250491,
+    "artist": "Tame Impala",
+    "title": "Currents",
+    "genre": 4,
+    "styles": [
+      "Psychedelic Rock",
+      "Indie Rock",
+      "Indie Pop",
+      "Synth-pop"
+    ],
+    "year": 2015,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/nYT3LJUeAb9h-5cKtpLKg3Jfi44O1msEFbI6tneY_2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/NS0xNjUxLmpwZWc.jpeg"
+  },
+  {
+    "id": 530085,
+    "artist": "Kanye West",
+    "title": "Late Registration",
+    "genre": 5,
+    "styles": [
+      "Conscious",
+      "Pop Rap"
+    ],
+    "year": 2005,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/EPXBwIP33cO6bomhZUGRYKBHTroC_R0WfSzp1LleX_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDA4/NS0xMzk5NDUzOTk4/LTg4NTguanBlZw.jpeg"
+  },
+  {
+    "id": 499511,
+    "artist": "Phil Collins",
+    "title": "...But Seriously",
+    "genre": 4,
+    "styles": [
+      "Soft Rock",
+      "Pop Rock",
+      "Ballad"
+    ],
+    "year": 1989,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/xcpNlyfr5MYvkPTh5Kuy8NCIMlayLgHDKgLVQwh_kLo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTUx/MS0xNTE2NjA4NTky/LTMyODIuanBlZw.jpeg"
+  },
+  {
+    "id": 13581613,
+    "artist": "Ariana Grande",
+    "title": "Thank U, Next",
+    "genre": 5,
+    "styles": [
+      "Trap",
+      "Contemporary R&B"
+    ],
+    "year": 2019,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/cOVXuP7-xUiDRdWbWR8NKSbu139pcb1wBfUs7_8qr8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjEzLTE2ODA5Nzc3/OTUtNjk2OS5qcGVn.jpeg"
+  },
+  {
+    "id": 2856645,
+    "artist": "Fleet Foxes",
+    "title": "Helplessness Blues",
+    "genre": 4,
+    "styles": [
+      "Indie Rock",
+      "Folk"
+    ],
+    "year": 2011,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/qpyh6SK-tzirierN1nVOjXzywbYVFpeTORpcL1AdH_Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTY2/NDUtMTMyMTg2Mzc2/MC5qcGVn.jpeg"
+  },
+  {
+    "id": 7037917,
+    "artist": "Bruce Springsteen",
+    "title": "Born In The U.S.A.",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1984,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/dGrPFIWleiOfEoHvD-Jz602MwXJSRbBUwC91ZOwepDI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzc5/MTctMTQ0MDk4NjY2/MS0zNzI3LmpwZWc.jpeg"
+  },
+  {
+    "id": 936664,
+    "artist": "The Beatles",
+    "title": "1962-1966",
+    "genre": 4,
+    "styles": [
+      "Beat",
+      "Pop Rock",
+      "Rock & Roll"
+    ],
+    "year": 1973,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/6SuoNAJ947Lh4rtA2a30BuylCU-KGPsYpUT7Rgi2Ug8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjY2/NC0xMzU3MjgyNjA1/LTMzOTUuanBlZw.jpeg"
+  },
+  {
+    "id": 1456515,
+    "artist": "Blood, Sweat And Tears",
+    "title": "Blood, Sweat And Tears",
+    "genre": 8,
+    "styles": [
+      "Blues Rock",
+      "Jazz-Funk",
+      "Jazz-Rock"
+    ],
+    "year": 1968,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/8ocUFXTnmw4rkdnd1EfhAYoDnjSS0n-gY6QcI84knVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTY1/MTUtMTI5NzI2Mzk3/OS5qcGVn.jpeg"
+  },
+  {
+    "id": 860579,
+    "artist": "Bob Seger And The Silver Bullet Band",
+    "title": "Night Moves",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "AOR"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/U9LE2IYJtB9qjHXmHHNNrjtndhONoQ3m-TqZcrx7t6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDU3/OS0xNDA5OTQ0MDcx/LTY2MDMuanBlZw.jpeg"
+  },
+  {
+    "id": 2380004,
+    "artist": "Arcade Fire",
+    "title": "The Suburbs",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "year": 2010,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/w7tp8cPOB7b9AJ7BvnJqHatER5LW2ap1Qr34sKEck_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODAw/MDQtMTU3OTQ3ODg0/Mi01NTAzLmpwZWc.jpeg"
+  },
+  {
+    "id": 459334,
+    "artist": "The Rolling Stones",
+    "title": "Let It Bleed",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Rock & Roll",
+      "Country Rock"
+    ],
+    "year": 2003,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/dEBozyG8iJvbSZRkFHXyERpPAEdhASTzra07M7OLjb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTMz/NC0xNDIxOTY0ODMx/LTU0NzQuanBlZw.jpeg"
+  },
+  {
+    "id": 3884453,
+    "artist": "Michael Jackson",
+    "title": "Thriller",
+    "genre": 2,
+    "styles": [
+      "Funk",
+      "Disco",
+      "Soul"
+    ],
+    "year": 1982,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/ffBVEcM6YA0I-vWByHlmHygdOgKiJXc3DhIUNDvr4QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODQ0/NTMtMTU3OTQ3MTY0/My04NDkxLmpwZWc.jpeg"
+  },
+  {
+    "id": 559560,
+    "artist": "Big Brother & The Holding Company",
+    "title": "Cheap Thrills",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock"
+    ],
+    "year": 1968,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/0vNwNZRCIekEKJ4rsC-QWUh4Cw2ngED0BRi0NMy9H0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTU2/MC0xNDQxNzc5NDcx/LTI4MjMuanBlZw.jpeg"
+  },
+  {
+    "id": 6191421,
+    "artist": "Iron Maiden",
+    "title": "The Number Of The Beast",
+    "genre": 4,
+    "styles": [
+      "Heavy Metal"
+    ],
+    "year": 2014,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/thSa475vgvtoepMTbUovIt2rNAGNeFY30t6qFuFbaso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxOTE0/MjEtMTQyODg1MDc0/OC0xNTA2LmpwZWc.jpeg"
+  },
+  {
+    "id": 5552990,
+    "artist": "Mac DeMarco",
+    "title": "Salad Days",
+    "genre": 4,
+    "styles": [
+      "Indie Rock"
+    ],
+    "year": 2014,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/foDnyboRtFJN-7E2kIzwU72gzqIfYnaN9o-R4WCs4bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI5/OTAtMTM5NjQwNjY1/OC02OTA1LmpwZWc.jpeg"
+  },
+  {
+    "id": 20414812,
+    "artist": "Taylor Swift",
+    "title": "Fearless (Taylor's Version)",
+    "genre": 3,
+    "styles": [
+      "Country",
+      "Vocal"
+    ],
+    "year": 2021,
+    "country": "worldwide",
+    "thumb_image": "https://i.discogs.com/74xkLSu_WH7IYXRWrTeJVRfzn9brFwUODJ8DEIvyW34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE0/ODEyLTE2NDUzNzQ4/NTctNTg3Ni5qcGVn.jpeg"
+  },
+  {
+    "id": 6224441,
+    "artist": "Led Zeppelin",
+    "title": "Houses Of The Holy",
+    "genre": 4,
+    "styles": [
+      "Classic Rock"
+    ],
+    "year": 2014,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/D1tQq21Iyp0OLcyumit_UTynBovZ3FkNBOdwsFgAhps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ0/NDEtMTQxNzAxNTI2/MS0yNzk1LmpwZWc.jpeg"
+  },
+  {
+    "id": 1704831,
+    "artist": "Pearl Jam",
+    "title": "Ten",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Grunge"
+    ],
+    "year": 2009,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/nrK93p21Uhj9maEBgIX1n7gLQAcDY-pSbQn2pj0o0h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ4/MzEtMTM5NjYwMjkx/OC01ODU2LmpwZWc.jpeg"
+  },
+  {
+    "id": 3375961,
+    "artist": "Green Day",
+    "title": "Dookie",
+    "genre": 4,
+    "styles": [
+      "Pop Punk",
+      "Punk"
+    ],
+    "year": 2008,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/1WtC84Pl9atfU6VN11Bekm6iGSkbuGh3eWHg432Ic1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzU5/NjEtMTU0NDg3MjAx/Ny03MjcwLmpwZWc.jpeg"
+  },
+  {
+    "id": 653009,
+    "artist": "The Blues Brothers",
+    "title": "Briefcase Full Of Blues",
+    "genre": 9,
+    "styles": [
+      "Chicago Blues"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/L5XMUfzrhwgJf4Pn8lsReReRkIZPAkgFeOPOkswr0Rc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzAw/OS0xNTA1OTMxOTYx/LTgyNDUuanBlZw.jpeg"
+  },
+  {
+    "id": 236605,
+    "artist": "Daft Punk",
+    "title": "Homework",
+    "genre": 1,
+    "styles": [
+      "House",
+      "Techno",
+      "Disco",
+      "Electro",
+      "French House"
+    ],
+    "year": 2001,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/CvsIXopUZLVUTuWb1DKDzgDSOOwFoROPcnlaulKrmXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYw/NS0xNDkyODUzODYy/LTI1MjguanBlZw.jpeg"
+  },
+  {
+    "id": 998281,
+    "artist": "Justice",
+    "title": "†",
+    "genre": 1,
+    "styles": [
+      "Electro House",
+      "French House"
+    ],
+    "year": 2007,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/CImwpMWDE3vZEUVufMgCeY5D5VcwdI_1EXH8-IWbrDM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5ODI4/MS0xMTgyMzgwODEw/LmpwZWc.jpeg"
+  },
+  {
+    "id": 1436445,
+    "artist": "The Beatles",
+    "title": "The Beatles",
+    "genre": 4,
+    "styles": [
+      "Psychedelic Rock",
+      "Pop Rock"
+    ],
+    "year": 1968,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/4zlNs4yfuqu23zZf0TSE_zd3GzDmpPpqaGDDwIKl0_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzY0/NDUtMTIzMzY5Nzgx/Ny5qcGVn.jpeg"
+  },
+  {
+    "id": 530930,
+    "artist": "Daryl Hall & John Oates",
+    "title": "Private Eyes",
+    "genre": 1,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1981,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/3xwX4x5a9gX4VAaTZcmRCHz9-UZz9ijhzkaGZT2VdPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDkz/MC0xMzgxODA2MzUy/LTk4MTIuanBlZw.jpeg"
+  },
+  {
+    "id": 162682,
+    "artist": "Madonna",
+    "title": "True Blue",
+    "genre": 3,
+    "styles": [
+      "Dance-pop",
+      "Pop Rock"
+    ],
+    "year": 1986,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/FOlmM7TYtU9d-SBIdln_25EDEUPlhmI-vKb6m4udA1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY4/Mi0xNTI2MTI0NjUy/LTc0NzUuanBlZw.jpeg"
+  },
+  {
+    "id": 1224493,
+    "artist": "Billy Joel",
+    "title": "52nd Street",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Soft Rock"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/NDTVFW2uH-yScQQ5w2q8xhGVCvINi0Audn6TcnKCLqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQ0/OTMtMTM2NTM2NDU5/NS01OTQ5LmpwZWc.jpeg"
+  },
+  {
+    "id": 626367,
+    "artist": "Willie Nelson",
+    "title": "Stardust",
+    "genre": 3,
+    "styles": [
+      "Vocal"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/3coxDBzhvXtzRZc45Ztj8JgBGL8y5hNVxL-kM6Fmrq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNjM2/Ny0xMzE1MTYwMzc1/LmpwZWc.jpeg"
+  },
+  {
+    "id": 556030,
+    "artist": "AC/DC",
+    "title": "Back In Black",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Classic Rock"
+    ],
+    "year": 1980,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/0w01Akzs-Leq1zeqoi90W0fUFjyMEdGDgRol8RwnCu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjAz/MC0xNTkyNzc2Njk4/LTM3NDMuanBlZw.jpeg"
+  },
+  {
+    "id": 371951,
+    "artist": "Tracy Chapman",
+    "title": "Tracy Chapman",
+    "genre": 4,
+    "styles": [
+      "Folk Rock"
+    ],
+    "year": 1988,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/Da2amrq4MoRwtaATDcP-s8NFQ4htsyrIB05835wneOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTk1/MS0xMjUzMTE3Mzgw/LmpwZWc.jpeg"
+  },
+  {
+    "id": 7568442,
+    "artist": "Kendrick Lamar",
+    "title": "To Pimp A Butterfly",
+    "genre": 5,
+    "styles": [
+      "Conscious",
+      "Jazzy Hip-Hop"
+    ],
+    "year": 2015,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/qReGPRFvpLPMnidpfOI_uN3HnlnuUQkWBgkvE7yah-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1Njg0/NDItMTQ0NDIxMjgw/Ny03MzMxLmpwZWc.jpeg"
+  },
+  {
+    "id": 380484,
+    "artist": "Aerosmith",
+    "title": "\"Rocks\"",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Blues Rock"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/F396dK7CR-bBgW-MnjaUhxjZsyAfRzuNSdPMdLhyoOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDQ4/NC0xNTU3NjAzMzE3/LTU4MDMuanBlZw.jpeg"
+  },
+  {
+    "id": 7146187,
+    "artist": "Leon Bridges",
+    "title": "Coming Home",
+    "genre": 2,
+    "styles": [
+      "Soul",
+      "Funk",
+      "Rhythm & Blues"
+    ],
+    "year": 2015,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/9W9sN5pFCyII9CWt74m_xvPR4yO9tp3GSUEq1QBnx34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ5NTE2MDY3/NC0zMTM1LmpwZWc.jpeg"
+  },
+  {
+    "id": 436642,
+    "artist": "Fleetwood Mac",
+    "title": "Tango In The Night",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Classic Rock"
+    ],
+    "year": 1987,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/cRWlpoKKTDUql_3R0-sJeju8YUgGivZ_cY_cUjGGZR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjY0/Mi0xMzgyOTAxMzAw/LTIyMjIuanBlZw.jpeg"
+  },
+  {
+    "id": 18907846,
+    "artist": "Taylor Swift",
+    "title": "Evermore",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 2021,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/BAAhZiD6NC-tQZO_EtkCKasKI5SeEjztdm2PDrLX3gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTA3/ODQ2LTE2MjIxOTky/ODAtNDExNy5qcGVn.jpeg"
+  },
+  {
+    "id": 1271962,
+    "artist": "Styx",
+    "title": "The Grand Illusion",
+    "genre": 4,
+    "styles": [
+      "Classic Rock",
+      "Pop Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/nJypZPq8x5TZAwWtL8aDGaWPjcJ7zZWsmSpWj-tIhpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE5/NjItMTMyODU2NDg4/NC5qcGVn.jpeg"
+  },
+  {
+    "id": 3555784,
+    "artist": "Death Grips",
+    "title": "The Money Store",
+    "genre": 1,
+    "styles": [
+      "Experimental",
+      "Hardcore Hip-Hop"
+    ],
+    "year": 2012,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/oyOdtxNQEhYj5sTgRgODEa88iQe2NxxP_zFe-YR_iBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTU3/ODQtMTMzODIzMTc2/Mi03NDQ4LmpwZWc.jpeg"
+  },
+  {
+    "id": 894184,
+    "artist": "Van Halen",
+    "title": "Van Halen II",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Classic Rock",
+      "Heavy Metal"
+    ],
+    "year": 1979,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/P2bjgBrEHcHgI1IEJ4SUQSwFC74kL5QD0Qd39CE3Og8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDE4/NC0xMzI5Nzg2Njk5/LmpwZWc.jpeg"
+  },
+  {
+    "id": 8645720,
+    "artist": "The Beach Boys",
+    "title": "Pet Sounds",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Art Rock",
+      "Surf",
+      "Psychedelic Rock"
+    ],
+    "year": 2016,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/KtBfEcuBIh6mCeyKYi2T0su4w50ZapgAwYJcVZXf8q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDU3/MjAtMTUwNTQxMTQ1/My03MTM3LmpwZWc.jpeg"
+  },
+  {
+    "id": 380609,
+    "artist": "Pink Floyd",
+    "title": "Wish You Were Here",
+    "genre": 4,
+    "styles": [
+      "Classic Rock"
+    ],
+    "year": 1975,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/TKHR735_sliOiBAm6NUrWS2GoM3ehioQqJIy0W4DNHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDYw/OS0xNDI0OTU2MTA2/LTU1NzQuanBlZw.jpeg"
+  },
+  {
+    "id": 4037430,
+    "artist": "Lana Del Rey",
+    "title": "Paradise",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Baroque Pop",
+      "Dream Pop",
+      "Indie Pop",
+      "Trip Hop",
+      "Slowcore"
+    ],
+    "year": 2012,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/SBGj49ZTlfjAPZZqm8w66FJq_d82cuc2CQRIOsNKd2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc0/MzAtMTY0MTgzMDc3/Mi00MTY5LmpwZWc.jpeg"
+  },
+  {
+    "id": 4572816,
+    "artist": "The National",
+    "title": "Trouble Will Find Me",
+    "genre": 4,
+    "styles": [
+      "Indie Rock"
+    ],
+    "year": 2013,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/B7vcVc8pEjaEJfGbgtm9ina4Db4L2K8_lpfuNWG7Hug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzI4/MTYtMTUzMTgwMDIz/MC01Mzc5LmpwZWc.jpeg"
+  },
+  {
+    "id": 9653096,
+    "artist": "Run The Jewels",
+    "title": "Run The Jewels 3",
+    "genre": 5,
+    "styles": [
+      "Hardcore Hip-Hop",
+      "Conscious"
+    ],
+    "year": 2017,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/g2CUdfiYyPfT7e8bxX6ybd_XJJBHbt7fPnvrbCTF71k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NTMw/OTYtMTQ4NTk2ODA3/NC0yNjIwLnBuZw.jpeg"
+  },
+  {
+    "id": 881492,
+    "artist": "REO Speedwagon",
+    "title": "Hi Infidelity",
+    "genre": 4,
+    "styles": [
+      "AOR"
+    ],
+    "year": 1980,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Tzk_3LxSWkLNt6gocu9CiDhiqDkMukdlMGWdZelSNBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTQ5/Mi0xNTYxMzMxMjYw/LTI0MzUuanBlZw.jpeg"
+  },
+  {
+    "id": 1337919,
+    "artist": "Simon & Garfunkel",
+    "title": "Simon And Garfunkel's Greatest Hits",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Pop Rock"
+    ],
+    "year": 1972,
+    "country": "netherlands",
+    "thumb_image": "https://i.discogs.com/I3JVS7aablTwgsProKqDiOeP3Q-ltsbSMD7A_bxPpls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc5/MTktMTI0ODUzNDcy/OS5qcGVn.jpeg"
+  },
+  {
+    "id": 596032,
+    "artist": "Peter Gabriel",
+    "title": "So",
+    "genre": 1,
+    "styles": [
+      "Pop Rock",
+      "Synth-pop",
+      "Art Rock"
+    ],
+    "year": 1986,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/XGDYkseOvi0auaf4NRgEpN9IcxtOk1qHaWnI-VM87KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjAz/Mi0xNDY1OTA5MTIw/LTU5MDYuanBlZw.jpeg"
+  },
+  {
+    "id": 5041370,
+    "artist": "Arcade Fire",
+    "title": "Reflektor",
+    "genre": 4,
+    "styles": [
+      "Indie Rock"
+    ],
+    "year": 2013,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/b4kht22POZ-Oixj4b0GRWoo4eSyZ2SklUQ045BtivAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDEz/NzAtMTYzMjEwMDQw/OC0zMTA5LmpwZWc.jpeg"
+  },
+  {
+    "id": 382417,
+    "artist": "Dire Straits",
+    "title": "Brothers In Arms",
+    "genre": 4,
+    "styles": [
+      "AOR",
+      "Classic Rock"
+    ],
+    "year": 1985,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/zBbILIA9igXR4JOJliphsylgmBhfVioQB6afBOzhtic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjQx/Ny0xNTc2NzU5OTAw/LTc4NjMuanBlZw.jpeg"
+  },
+  {
+    "id": 526319,
+    "artist": "The Doors",
+    "title": "The Doors",
+    "genre": 4,
+    "styles": [
+      "Psychedelic Rock"
+    ],
+    "year": 1967,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/LhmaCwzT5BtJGBCtEpdHLRPDFroy1J3NJ9Ph2c8VBBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjMx/OS0xMjU4ODMyMTcx/LmpwZWc.jpeg"
+  },
+  {
+    "id": 2315842,
+    "artist": "Quiet Riot",
+    "title": "Metal Health",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Arena Rock",
+      "Heavy Metal",
+      "Glam"
+    ],
+    "year": 1983,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/32NpZgMJR7Di1CHnmyzsaZKmwN-zRholMVhMaK-ajKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU4/NDItMTY0NDIxMjIw/NS04ODE3LmpwZWc.jpeg"
+  },
+  {
+    "id": 413315,
+    "artist": "George Michael",
+    "title": "Faith",
+    "genre": 1,
+    "styles": [
+      "Soft Rock",
+      "Pop Rock"
+    ],
+    "year": 1987,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/WkcVxqUPTzttTdLCiceuqyc8pJeBItdsdzYglQ-XgF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzMx/NS0xNTE0NDY2NjUx/LTQ0ODQuanBlZw.jpeg"
+  },
+  {
+    "id": 3020028,
+    "artist": "Slowdive",
+    "title": "Souvlaki",
+    "genre": 4,
+    "styles": [
+      "Indie Rock",
+      "Shoegaze",
+      "Dream Pop"
+    ],
+    "year": 2011,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/eNYSLp_RbAgJaToUx89PLn9wpUIYcdRY4R7rNKoLSZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAw/MjgtMTM5NDU2ODQy/MC01MzMwLmpwZWc.jpeg"
+  },
+  {
+    "id": 10950316,
+    "artist": "Lana Del Rey",
+    "title": "Lust For Life",
+    "genre": 4,
+    "styles": [
+      "Indie Rock",
+      "Alternative Rock"
+    ],
+    "year": 2017,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/mEIYns4BpkLwU9uy-T4UON0FS9sfzZJyCML5fSBP-0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTUw/MzE2LTE1MDkwNTM0/OTctMjUyMi5qcGVn.jpeg"
+  },
+  {
+    "id": 1024395,
+    "artist": "Tom Petty And The Heartbreakers",
+    "title": "Damn The Torpedoes",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Pop Rock",
+      "Classic Rock"
+    ],
+    "year": 1979,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/SwVq0PGqPPWjo2lr-B3-jmhxJ89QZ6QrxchnLUMpJPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/OTUtMTMxOTc4MDYy/Ni5qcGVn.jpeg"
+  },
+  {
+    "id": 4037034,
+    "artist": "The Beatles",
+    "title": "Revolver",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Psychedelic Rock"
+    ],
+    "year": 2012,
+    "country": "worldwide",
+    "thumb_image": "https://i.discogs.com/yo4YGgVVGOlDNZW1OUEO2YL6KWA28vjxQUEQ3isI5js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzcw/MzQtMTYzMTk1Nzg3/Mi02NzY4LmpwZWc.jpeg"
+  },
+  {
+    "id": 12292679,
+    "artist": "Kanye West",
+    "title": "Ye",
+    "genre": 5,
+    "styles": [
+      "Pop Rap",
+      "Contemporary R&B"
+    ],
+    "year": 2018,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/klaC9CoKngdOUi-cRsoRV3PQ_hIS1vh7S_yn_2rER0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjky/Njc5LTE1MzM5ODYx/MTMtNzUxOC5qcGVn.jpeg"
+  },
+  {
+    "id": 712084,
+    "artist": "David Bowie",
+    "title": "Let's Dance",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Dance-pop",
+      "New Wave"
+    ],
+    "year": 1983,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/8cD1BQNM6TcevQ7EElPjx4dDYSEOmqsEDMeJUQiM8pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjA4/NC0xMjc1NjI1MTky/LmpwZWc.jpeg"
+  },
+  {
+    "id": 10175557,
+    "artist": "Gorillaz",
+    "title": "Humanz",
+    "genre": 1,
+    "styles": [
+      "Pop Rap",
+      "Dance-pop",
+      "Trip Hop"
+    ],
+    "year": 2017,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/rSjlDWykD6UclL9w6wJ6PDKL2Er6GhLpNlr8keFDcK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/NTU3LTE0OTYwNzY4/MjAtNzAzNS5qcGVn.jpeg"
+  },
+  {
+    "id": 459606,
+    "artist": "Michael Jackson",
+    "title": "Bad",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Funk",
+      "Soul"
+    ],
+    "year": 1987,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Ef_7JJ2A9pZYlTUfG9kq2rIvGmQ7YD9RLoCGR41V37g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1OTYw/Ni0xNDUwMzg5NDI1/LTg4NTIuanBlZw.jpeg"
+  },
+  {
+    "id": 2449546,
+    "artist": "Pixies",
+    "title": "Doolittle",
+    "genre": 4,
+    "styles": [
+      "Indie Rock"
+    ],
+    "year": 2004,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/7NpI9GG1K0krLDXKj-hbpyzyroyqtcZu7K1oNydnB00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDk1/NDYtMTQ4NTYxNDY3/OS02NTkxLmpwZWc.jpeg"
+  },
+  {
+    "id": 423056,
+    "artist": "David Bowie",
+    "title": "Scary Monsters",
+    "genre": 4,
+    "styles": [
+      "Art Rock",
+      "Pop Rock"
+    ],
+    "year": 1980,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/gEPu1mKWWJQSwtB5criLHjUfHPLpKvSHMAa2pN2F-W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMzA1/Ni0xNDc5NjM4MTMx/LTgwNTkuanBlZw.jpeg"
+  },
+  {
+    "id": 9173990,
+    "artist": "Beastie Boys",
+    "title": "Licensed To Ill",
+    "genre": 5,
+    "styles": [
+      "Cut-up/DJ",
+      "Hard Rock"
+    ],
+    "year": 2016,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/hVdiF1EbHiq3OQ_wBX2iz4m0CwnoLCWy98P8rjer0Xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/My02MDAxLmpwZWc.jpeg"
+  },
+  {
+    "id": 713519,
+    "artist": "Boz Scaggs",
+    "title": "Silk Degrees",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Soul"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Eq1Ft0HZvm0vic5xLDsXurMIK2ttcM_irfqs07OVIRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzUx/OS0xNDM2MTk5MjMy/LTc4MDAuanBlZw.jpeg"
+  },
+  {
+    "id": 209358,
+    "artist": "The Alan Parsons Project",
+    "title": "I Robot",
+    "genre": 4,
+    "styles": [
+      "Prog Rock",
+      "Art Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/4uM949MSelpRUDrLdHqONLFMwz7s1WysVivJ7_cXt7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM1/OC0xNjY3MjYwNTAx/LTI1MzcuanBlZw.jpeg"
+  },
+  {
+    "id": 382415,
+    "artist": "Dire Straits",
+    "title": "Making Movies",
+    "genre": 4,
+    "styles": [
+      "Blues Rock"
+    ],
+    "year": 1980,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/9aGbPCzVoFNbkMrO-WbnErv_0ruknApWiyPNbzp-P2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjQx/NS0xMTcxMTM4MzEx/LmpwZWc.jpeg"
+  },
+  {
+    "id": 509488,
+    "artist": "The Doors",
+    "title": "Waiting For The Sun",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock"
+    ],
+    "year": 1968,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/6b7YlTT6v7rfRVinYJhN6JYr8aAZh61VjPpAuO7zsq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQ4/OC0xNjAxODM4OTE2/LTU1OTQuanBlZw.jpeg"
+  },
+  {
+    "id": 8564231,
+    "artist": "The Killers",
+    "title": "Hot Fuss",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Indie Rock",
+      "New Wave",
+      "Post-Punk"
+    ],
+    "year": 2016,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/rH-mnpM9Jg5sDTRgwggi353oh1Attt3XCc18PbhnB58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjQy/MzEtMTU0NTYzODc4/MC0yNTQ4LmpwZWc.jpeg"
+  },
+  {
+    "id": 4676923,
+    "artist": "The Jimi Hendrix Experience",
+    "title": "Electric Ladyland",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock"
+    ],
+    "year": 2010,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/GH-lvfSvaNnRTKLuyPqGAHn3bMDeiKM2JHON_gjp2gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY5/MjMtMTUyMjUyNzk2/Ny02MDYzLmpwZWc.jpeg"
+  },
+  {
+    "id": 4289639,
+    "artist": "Nick Cave & The Bad Seeds",
+    "title": "Push The Sky Away",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Blues Rock"
+    ],
+    "year": 2013,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/qM713E0Rnaw4MxY2CPGZEaelnHj5LWqtZpGhsfwVsz4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODk2/MzktMTM2MDgxODYw/MC04ODc4LmpwZWc.jpeg"
+  },
+  {
+    "id": 778278,
+    "artist": "Wings",
+    "title": "Band On The Run",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1973,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/6fp__Uu5b-DA80T7QBrBKLM_yQ0VrJdLqzyW8gPqNek/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3ODI3/OC0xNjc0ODE1Njk3/LTcwMzcuanBlZw.jpeg"
+  },
+  {
+    "id": 3207332,
+    "artist": "Nas",
+    "title": "Illmatic",
+    "genre": 5,
+    "styles": [
+      "Conscious",
+      "Boom Bap"
+    ],
+    "year": 2006,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/gL1C7w4nfnf6rjhTeBpE_RCKrx6dpHzDpNgSEYeMNYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDcz/MzItMTMyMDUxMDYz/MS5qcGVn.jpeg"
+  },
+  {
+    "id": 6963308,
+    "artist": "Brand New",
+    "title": "Deja Entendu",
+    "genre": 4,
+    "styles": [
+      "Punk",
+      "Emo"
+    ],
+    "year": 2015,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/qkkBpM0Cw5hHJqV6A6rDfo7q8WQbZtqUTMghuBl0Imo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjMz/MDgtMTUwMzQ0NTE2/My01NTIzLmpwZWc.jpeg"
+  },
+  {
+    "id": 621110,
+    "artist": "Dire Straits",
+    "title": "Dire Straits",
+    "genre": 4,
+    "styles": [
+      "AOR",
+      "Rock & Roll"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/A8Vtc5XJ8I5BZehCR2P355JbB7dsx-hau_s_PKoilXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk0/LTU1MzEuanBlZw.jpeg"
+  },
+  {
+    "id": 873439,
+    "artist": "Fleetwood Mac",
+    "title": "Mirage",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1982,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/SzFh92TLnqUh9oaCA_-gblcs8iXEB1o27oQpb7VJOok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzQz/OS0xNDQxNzc4NDkz/LTgwNjUuanBlZw.jpeg"
+  },
+  {
+    "id": 394450,
+    "artist": "Elton John",
+    "title": "Captain Fantastic And The Brown Dirt Cowboy",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Rock & Roll"
+    ],
+    "year": 1975,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Q3aRkN3chOD75sUY1IQXMnux-fgS3d-nVhjF5vksCDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQ1/MC0xMzI3NjQ5NjEw/LmpwZWc.jpeg"
+  },
+  {
+    "id": 412419,
+    "artist": "Tom Petty And The Heartbreakers",
+    "title": "Hard Promises",
+    "genre": 4,
+    "styles": [
+      "Rock & Roll"
+    ],
+    "year": 1981,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/vV8hZ47TyQQH7FZnEkKmLvL_tzQA2VTp_aSADiuA2G0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjQx/OS0xNTU4OTk5MTE5/LTU2ODQuanBlZw.jpeg"
+  },
+  {
+    "id": 509235,
+    "artist": "Bob Marley & The Wailers",
+    "title": "Legend (The Best Of Bob Marley And The Wailers)",
+    "genre": 11,
+    "styles": [
+      "Reggae",
+      "Roots Reggae"
+    ],
+    "year": 1984,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/IhXFVQTS2CBeQVg7XAuxJIkOVlm_JLuA3zNGCVtAJfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTIz/NS0xMjE2MTY4MTgz/LmpwZWc.jpeg"
+  },
+  {
+    "id": 458939,
+    "artist": "Led Zeppelin",
+    "title": "Physical Graffiti",
+    "genre": 4,
+    "styles": [
+      "Classic Rock",
+      "Hard Rock"
+    ],
+    "year": 1975,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/SKw1lnsi-H8T26-SH3yWg3sJxGdh0RrEcOnWHrTFL3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODkz/OS0xNTg4ODgxMTUx/LTE5OTUuanBlZw.jpeg"
+  },
+  {
+    "id": 555810,
+    "artist": "Bob Dylan",
+    "title": "Desire",
+    "genre": 4,
+    "styles": [
+      "Folk Rock"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/uGs9fPZ8Q3SlkPKPAw4OoU-OrtR1vMh1dLQ6L8Enoso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTgx/MC0xMzgzNzAwNjA5/LTczNzIuanBlZw.jpeg"
+  },
+  {
+    "id": 541912,
+    "artist": "Paul Simon",
+    "title": "The Graduate (Original Sound Track Recording)",
+    "genre": 8,
+    "styles": [
+      "Folk Rock",
+      "Acoustic",
+      "Soundtrack"
+    ],
+    "year": 1968,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/IXu4FoxdDECbU9u0TC2CyKo3DZuO5kl8fGmgBygOLC0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MTkx/Mi0xNTgxNzQ1MjU0/LTkyNzYuanBlZw.jpeg"
+  },
+  {
+    "id": 5423437,
+    "artist": "Beck",
+    "title": "Morning Phase",
+    "genre": 4,
+    "styles": [
+      "Folk",
+      "Alternative Rock"
+    ],
+    "year": 2014,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/ydPArfBXjO8y24_jvxO4KyCdPOiccvgHXTE05lREv1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM0/MzctMTY3MTkwNTM2/OS02NzI3LmpwZWc.jpeg"
+  },
+  {
+    "id": 7445961,
+    "artist": "Nirvana",
+    "title": "Nirvana",
+    "genre": 4,
+    "styles": [
+      "Grunge",
+      "Alternative Rock"
+    ],
+    "year": 2015,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/TfPpJNPIepQ8epILsWDf46gIu50blu_mNyYvq8i21FE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0NDU5/NjEtMTU3MjI3NDgy/My02OTg5LmpwZWc.jpeg"
+  },
+  {
+    "id": 4331747,
+    "artist": "My Bloody Valentine",
+    "title": "m b v",
+    "genre": 4,
+    "styles": [
+      "Shoegaze"
+    ],
+    "year": 2013,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/dlBeaOGKjR-1QlU-OdzAE8FPAQDeALEtvJX_8xEB2qM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzE3/NDctMTM2ODM4MjMz/NC02OTIyLmpwZWc.jpeg"
+  },
+  {
+    "id": 14210644,
+    "artist": "Tyler, The Creator",
+    "title": "Igor",
+    "genre": 5,
+    "styles": [
+      "Contemporary R&B",
+      "Neo Soul"
+    ],
+    "year": 2019,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/KJeVPXVlardGZKVRpNOOCwwfdzK_4uohSk0-SUHAPlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEw/NjQ0LTE1NzQ1MDY3/NzItMTgzNi5qcGVn.jpeg"
+  },
+  {
+    "id": 3030024,
+    "artist": "The Rolling Stones",
+    "title": "Some Girls",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Rock & Roll",
+      "Classic Rock",
+      "Disco"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/CJqloBF2HItPnWpEgabE_WrAasjiBRWjCPy3OJ0RsgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAw/MjQtMTQzMjMwNDIz/OC0xNDIxLmpwZWc.jpeg"
+  },
+  {
+    "id": 1313001,
+    "artist": "America",
+    "title": "History - America's Greatest Hits",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1975,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/JwlgkfXtQQGV18eSJVTF0IwFMozxSR8963cp9lN77v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMw/MDEtMTQxMjg3NDE3/Ni00NTU1LmpwZWc.jpeg"
+  },
+  {
+    "id": 3599039,
+    "artist": "Beach House",
+    "title": "Bloom",
+    "genre": 4,
+    "styles": [
+      "Indie Rock",
+      "Ethereal",
+      "Dream Pop"
+    ],
+    "year": 2012,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/0WUGdiqjtwy258_50Ff8tR68gpVEWuRcqe9tFbe5T7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTkw/MzktMTQ5MzM0OTg0/Mi03NDg3LmpwZWc.jpeg"
+  },
+  {
+    "id": 13636246,
+    "artist": "Rammstein",
+    "title": "Untitled",
+    "genre": 1,
+    "styles": [
+      "Industrial Metal"
+    ],
+    "year": 2019,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/qHtf325CQS3HxxsS2bGA0Xgt7fV5lRTFEmcjgbrdPj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM2/MjQ2LTE1OTM0MTAw/MTYtNzk2Ni5qcGVn.jpeg"
+  },
+  {
+    "id": 5006908,
+    "artist": "Boards Of Canada",
+    "title": "Music Has The Right To Children",
+    "genre": 1,
+    "styles": [
+      "IDM",
+      "Ambient"
+    ],
+    "year": 2013,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/8V4WR2n5bMQ0A2_QF8OytxPKI3nv_NxrcqvPOZuH8tU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMDY5/MDgtMTUwMzkzNzYy/Ny0xNzgwLmpwZWc.jpeg"
+  },
+  {
+    "id": 395838,
+    "artist": "The Doobie Brothers",
+    "title": "Minute By Minute",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/PLNhTq2f-w8pjxwSngbGGaP5RLkJ_BUnWNVpfSojwxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTgz/OC0xMzMxODU0NDgw/LmpwZWc.jpeg"
+  },
+  {
+    "id": 20755,
+    "artist": "New Order",
+    "title": "Blue Monday",
+    "genre": 1,
+    "styles": [
+      "Electro",
+      "Synth-pop"
+    ],
+    "year": 1983,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/T8KW1HEw23pS-aaB2p4-xlszAgiyanwRnDldli4f4f8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzU1/LTEyNDY5NzA1NDUu/anBlZw.jpeg"
+  },
+  {
+    "id": 1651542,
+    "artist": "Beastie Boys",
+    "title": "Paul's Boutique",
+    "genre": 5,
+    "styles": [
+      "Hardcore Hip-Hop",
+      "Boom Bap"
+    ],
+    "year": 2009,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/xYBdTBrrbz1jY4oH4dvo8s_Y9UwhhxDqDAkYt_V7vEI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NTE1/NDItMTQ2NzgxMTg1/OS0zNTI0LmpwZWc.jpeg"
+  },
+  {
+    "id": 724556,
+    "artist": "Band Of Horses",
+    "title": "Everything All The Time",
+    "genre": 4,
+    "styles": [
+      "Indie Rock"
+    ],
+    "year": 2006,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/tGGNY9eNQYhBQaJZE611IA3j53khc-B605-h0cRMaj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNDU1/Ni0xMjQ5MzE2NDIx/LnBuZw.jpeg"
+  },
+  {
+    "id": 1592118,
+    "artist": "Animal Collective",
+    "title": "Merriweather Post Pavilion",
+    "genre": 1,
+    "styles": [
+      "Indie Rock",
+      "Experimental",
+      "Psychedelic"
+    ],
+    "year": 2009,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/0-f7TEOgGIVzjzlut9F2HkcLVTqV5JUDOZDjmXSHcAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIx/MTgtMTIzMDc5OTk5/Ny5qcGVn.jpeg"
+  },
+  {
+    "id": 116491,
+    "artist": "Talking Heads",
+    "title": "Remain In Light",
+    "genre": 1,
+    "styles": [
+      "New Wave",
+      "Art Rock"
+    ],
+    "year": 1980,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/zDMEFMBLb9j8gqtksqWBkib83fxR20okzOTesKtUCQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ5/MS0xNTQxOTQ1NDcy/LTQ3OTUuanBlZw.jpeg"
+  },
+  {
+    "id": 7396928,
+    "artist": "Beach House",
+    "title": "Depression Cherry",
+    "genre": 4,
+    "styles": [
+      "Indie Pop",
+      "Indie Rock",
+      "Dream Pop",
+      "Ethereal"
+    ],
+    "year": 2015,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/4EjbQGfp9TYghuMKkR8iz2FaY_DM2IT2NNvklKPsQ3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTY5/MjgtMTYzMTA2MzIy/OC04NDgzLmpwZWc.jpeg"
+  },
+  {
+    "id": 376152,
+    "artist": "Queen",
+    "title": "Greatest Hits",
+    "genre": 4,
+    "styles": [
+      "Arena Rock",
+      "Hard Rock",
+      "Pop Rock",
+      "Classic Rock",
+      "Rock & Roll",
+      "Glam"
+    ],
+    "year": 1981,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/UlRg_UT8ZkWvg2EkoAnyTa9nbkFMkzc1laPog1wtPYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjE1/Mi0xNjM4MjA1OTM1/LTE5NTMuanBlZw.jpeg"
+  },
+  {
+    "id": 1901246,
+    "artist": "Nirvana",
+    "title": "MTV Unplugged In New York",
+    "genre": 4,
+    "styles": [
+      "Acoustic",
+      "Grunge"
+    ],
+    "year": 2008,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/mpL1HyOKwWAnjRhBDlqrpW_sGItD8EOo3Qkb2SFXWqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTQ1MTE1Nzg3/Ny01MTEyLmpwZWc.jpeg"
+  },
+  {
+    "id": 266652,
+    "artist": "Talking Heads",
+    "title": "Stop Making Sense",
+    "genre": 4,
+    "styles": [
+      "Funk",
+      "New Wave",
+      "Soundtrack",
+      "Post-Punk",
+      "Art Rock"
+    ],
+    "year": 1984,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/ui18nP4qimvpsnljPhqbA4WYNHdTAxMkswcrrCl4zXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY1/Mi0xNTczNzA1MjYx/LTM3MTcuanBlZw.jpeg"
+  },
+  {
+    "id": 73458,
+    "artist": "Frankie Goes To Hollywood",
+    "title": "Welcome To The Pleasuredome",
+    "genre": 1,
+    "styles": [
+      "Pop Rock",
+      "Synth-pop",
+      "Ballad"
+    ],
+    "year": 1984,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/MmWLRl32aLBq_lNNUobccuod90z5GT_cUxvUP39S9Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU4/LTE0MjI1MTgwNTQt/NTg2OS5qcGVn.jpeg"
+  },
+  {
+    "id": 12729473,
+    "artist": "Metallica",
+    "title": "...And Justice For All",
+    "genre": 4,
+    "styles": [
+      "Heavy Metal",
+      "Thrash"
+    ],
+    "year": 2018,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/xIbyrSUBicOtxxm1e8EBg-CJD_UH0U-wXpmRYGLNncY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzI5/NDczLTE1NDA4NDIw/MTQtODM3NS5qcGVn.jpeg"
+  },
+  {
+    "id": 1238431,
+    "artist": "Guns N' Roses",
+    "title": "Appetite For Destruction",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Rock & Roll"
+    ],
+    "year": 1987,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/INFB5FOn4208EXbzp9ggR22ufKHqJpKPLb3v4zh9NXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzEtMTUwNjg3NjU3/My05NTQ5LmpwZWc.jpeg"
+  },
+  {
+    "id": 373375,
+    "artist": "Paul Simon",
+    "title": "Graceland",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Ethno-pop"
+    ],
+    "year": 1986,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/E4YiTSbh38PzKJI7-_wbgGga8ay5ZFgZndQeaCAnaDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzM3/NS0xNjY2ODkwODA3/LTM1NjkuanBlZw.jpeg"
+  },
+  {
+    "id": 606718,
+    "artist": "Wham!",
+    "title": "Make It Big",
+    "genre": 1,
+    "styles": [
+      "Synth-pop",
+      "Soul"
+    ],
+    "year": 1984,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Jf8fvm9Lso6YIqWPsaj6Kb52um6_bnkNKVamtpA5oK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcx/OC0xMzg1MjMwMTky/LTMwMjEuanBlZw.jpeg"
+  },
+  {
+    "id": 435931,
+    "artist": "U2",
+    "title": "The Joshua Tree",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Pop Rock"
+    ],
+    "year": 1987,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/AX1auuf7YFpPwCImoUEcUjPSaFLZ-2_v32YnDl30rZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTkz/MS0xMTczNDYwNzQy/LmpwZWc.jpeg"
+  },
+  {
+    "id": 1874253,
+    "artist": "Bruce Springsteen",
+    "title": "Born To Run",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Rock & Roll"
+    ],
+    "year": 1975,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/hIMRiV5mWG3vbv15VN7bplJkAh1tQo7nk8vVIgoMB5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQy/NTMtMTU4ODE3NzA1/MS0zMzkwLmpwZWc.jpeg"
+  },
+  {
+    "id": 1018597,
+    "artist": "Creedence Clearwater Revival",
+    "title": "Cosmo's Factory",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Rock & Roll",
+      "Southern Rock",
+      "Classic Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/M-3sN5Fsjua09jsKhu-oS7xTbM0T0dD8uIZB59VcBLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg1/OTctMTIxMTk4MjMy/My5qcGVn.jpeg"
+  },
+  {
+    "id": 383094,
+    "artist": "Whitesnake",
+    "title": "Whitesnake",
+    "genre": 4,
+    "styles": [
+      "Hard Rock"
+    ],
+    "year": 1987,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/yCLxYUw7ZVF8TY9FLsA77Iuv7YL8xuwWFut3KoKAixo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzA5/NC0xMjk0NTE5MjQ0/LmpwZWc.jpeg"
+  },
+  {
+    "id": 31381,
+    "artist": "Herbie Hancock",
+    "title": "Head Hunters",
+    "genre": 8,
+    "styles": [
+      "Jazz-Funk"
+    ],
+    "year": 1973,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/hNhSZVdUZjUKO3ST78dt9TQ-muc62zOH9CWVk7z4WYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/LTE0MzMyNTkxNDMt/ODUyMi5qcGVn.jpeg"
+  },
+  {
+    "id": 4137493,
+    "artist": "Pink Floyd",
+    "title": "Meddle",
+    "genre": 4,
+    "styles": [
+      "Psychedelic Rock",
+      "Prog Rock"
+    ],
+    "year": 1971,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/c2vW3od8n_1yt77HQmyHC08A1DaxKY6MliCKXIXxusQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMzc0/OTMtMTUzNzIxNjkz/NS05NzUzLmpwZWc.jpeg"
+  },
+  {
+    "id": 3012371,
+    "artist": "Bruce Springsteen",
+    "title": "Darkness On The Edge Of Town",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/XD28n-fwOFnA9VYfnJHgyZ8hJCjHMmlCS-hHXqvikxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMTIz/NzEtMTMxMTY3Nzk2/MS5qcGVn.jpeg"
+  },
+  {
+    "id": 5528785,
+    "artist": "Freddie Gibbs",
+    "title": "Piñata",
+    "genre": 5,
+    "styles": [
+      "Gangsta"
+    ],
+    "year": 2014,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/CAU62X6P3Ig4iX8Lklhdwmya2CU3gG2Lcx3JSjS6PQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjg3/ODUtMTYyNDQxNDI5/MS0zNjUyLmpwZWc.jpeg"
+  },
+  {
+    "id": 12775821,
+    "artist": "The Beatles",
+    "title": "The Beatles And Esher Demos",
+    "genre": 4,
+    "styles": [
+      "Rock & Roll",
+      "Pop Rock",
+      "Soft Rock",
+      "Psychedelic Rock",
+      "Experimental",
+      "Country Rock",
+      "Blues Rock",
+      "Avantgarde"
+    ],
+    "year": 2018,
+    "country": "worldwide",
+    "thumb_image": "https://i.discogs.com/84NuSy4HCVkrkqj83kot90h48K2ZUrbey0Q34tYADN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc1/ODIxLTE1NDIxODIw/MTQtMTg0Ni5qcGVn.jpeg"
+  },
+  {
+    "id": 676588,
+    "artist": "The Knack",
+    "title": "Get The Knack",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Power Pop"
+    ],
+    "year": 1979,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/gwJ1KgAjLbQFVe7y70gB1AskDreIaHOEjY5lXNqbq78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjU4/OC0xMjg0Njk0MjQ4/LmpwZWc.jpeg"
+  },
+  {
+    "id": 382135,
+    "artist": "The Smiths",
+    "title": "Hatful Of Hollow",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "year": 1984,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/loiGnaRNkhy9V791RiYThTLYEGlblxcYmb-39VLyQWQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MjEz/NS0xNjY4MTM5NDE5/LTk5NjguanBlZw.jpeg"
+  },
+  {
+    "id": 442490,
+    "artist": "The Police",
+    "title": "Synchronicity",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock"
+    ],
+    "year": 1983,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/m0dh-YjmQzWvunwSsopsX0zlk3g9Hf1XwP7Q0e8OhN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MjQ5/MC0xMzMyNTYxOTE1/LmpwZWc.jpeg"
+  },
+  {
+    "id": 611451,
+    "artist": "Carpenters",
+    "title": "The Singles 1969-1973",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Easy Listening"
+    ],
+    "year": 1973,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/IEv7ab527SgZxRLoNqEXCzqNsWtsQBsoQT2jMpxa08U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQ1/MS0xMjIyNjkxNzMw/LmpwZWc.jpeg"
+  },
+  {
+    "id": 2072210,
+    "artist": "The Doobie Brothers",
+    "title": "Best Of The Doobies",
+    "genre": 4,
+    "styles": [
+      "Southern Rock"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/_SQQAMKxmlKgCPBBzGqDB7tVzc8DQ4vQsfTJnKt7Tqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzIy/MTAtMTUyNTYyNDQw/OC03Nzg1LmpwZWc.jpeg"
+  },
+  {
+    "id": 676961,
+    "artist": "Daryl Hall & John Oates",
+    "title": "H₂O",
+    "genre": 1,
+    "styles": [
+      "Pop Rock",
+      "Synth-pop"
+    ],
+    "year": 1982,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/RtQnw80AMJHpweL-t-nazi7zSO-uY8gxrKBesQhyjdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Njk2/MS0xMzA0NDc2NTYw/LmpwZWc.jpeg"
+  },
+  {
+    "id": 11781019,
+    "artist": "Kacey Musgraves",
+    "title": "Golden Hour",
+    "genre": 3,
+    "styles": [
+      "Country"
+    ],
+    "year": 2018,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/OwfmTplknJSp7XmglrXkVEYvfl4Eu3Z9E47bYoeaCkI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzgx/MDE5LTE1MjQ4NzM3/NjMtNjE4Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 1485752,
+    "artist": "George Harrison",
+    "title": "All Things Must Pass",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/uvaPgicermcXqp_3TZPy4PSgGQ2gn_dnQBtcku0lr6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU3/NTItMTM2Mjk1ODk5/OC04NjE4LmpwZWc.jpeg"
+  },
+  {
+    "id": 2838469,
+    "artist": "Pearl Jam",
+    "title": "Vs.",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Grunge"
+    ],
+    "year": 2011,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/dKYJZbniO6Z4PZau2y0PmOhmjIEhhNFej8NgEz1mL9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4Mzg0/NjktMTMzODI5NzQ4/Ny03MTkwLmpwZWc.jpeg"
+  },
+  {
+    "id": 9632340,
+    "artist": "The Beatles",
+    "title": "The Beatles 1962-1966",
+    "genre": 4,
+    "styles": [
+      "Beat",
+      "Pop Rock"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/AV4LZNtl8pgk9P3mbggn0j80qLtW-wCmIqy9ViZK9wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzIz/NDAtMTQ5Nzc5MDUz/Ni01OTUwLmpwZWc.jpeg"
+  },
+  {
+    "id": 2585905,
+    "artist": "Foreigner",
+    "title": "Double Vision",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/HwlKBwFJQ1pZUH6zem4CkQOPFXcYylt3-___qdp7zM8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODU5/MDUtMTI5MTgwNTMw/OC5qcGVn.jpeg"
+  },
+  {
+    "id": 559555,
+    "artist": "John Denver",
+    "title": "John Denver's Greatest Hits",
+    "genre": 4,
+    "styles": [
+      "Country Rock"
+    ],
+    "year": 1973,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Q1EjPt2pkTlKkJr0VfLShhzU8o0xcRAaYGM5G258DTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTU1/NS0xNTkzNTQwMzQ1/LTM2NDEuanBlZw.jpeg"
+  },
+  {
+    "id": 3266516,
+    "artist": "The Smashing Pumpkins",
+    "title": "Gish",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Grunge",
+      "Indie Rock"
+    ],
+    "year": 2011,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/ja-qnsipZf4qpTdVKbx3eqZehSBSMmYjouCmFN0gOic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Mi00MzIwLmpwZWc.jpeg"
+  },
+  {
+    "id": 6089455,
+    "artist": "Flying Lotus",
+    "title": "You're Dead!",
+    "genre": 1,
+    "styles": [
+      "Future Jazz",
+      "Experimental",
+      "Drum n Bass",
+      "Jazzy Hip-Hop"
+    ],
+    "year": 2014,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/GKyWxcQ1umGz2iZKhE8DbdYrcJ859CoZwbbi9hP1YVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODk0/NTUtMTQxMzYyNzU5/OS0xMDA3LmpwZWc.jpeg"
+  },
+  {
+    "id": 665695,
+    "artist": "Pat Benatar",
+    "title": "Crimes Of Passion",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Pop Rock"
+    ],
+    "year": 1980,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/o4oDFYq1MeQWKHsiscPXp0TYhm6GwoWDrtxMRDmbLiM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2NTY5/NS0xNDU0ODc4MzA5/LTI3NzguanBlZw.jpeg"
+  },
+  {
+    "id": 1606397,
+    "artist": "The Police",
+    "title": "Ghost In The Machine",
+    "genre": 4,
+    "styles": [
+      "New Wave",
+      "Pop Rock"
+    ],
+    "year": 1981,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/X0FMHWOz9lTC80yxqqGSs3pMPmLLmT5HM78kWTPtF4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDYz/OTctMTYxMDU0NDQ3/NC03ODQxLmpwZWc.jpeg"
+  },
+  {
+    "id": 2276858,
+    "artist": "The Black Keys",
+    "title": "Brothers",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Indie Rock"
+    ],
+    "year": 2010,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Kl1DrsWId9LAczQlePPrJ2NDo7Fku3-z0eqw9hjPGvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY4/NTgtMTM5MTQxODE0/NS04NzUyLmpwZWc.jpeg"
+  },
+  {
+    "id": 518397,
+    "artist": "Jim Croce",
+    "title": "Photographs & Memories (His Greatest Hits)",
+    "genre": 4,
+    "styles": [
+      "Country Rock",
+      "Pop Rock"
+    ],
+    "year": 1974,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/VfNsAVOxd2F0ENGJXI8cPMVse_gq_1pDNpG86t06qiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM5/Ny0xNDA3MTMwMjA0/LTcyNDMuanBlZw.jpeg"
+  },
+  {
+    "id": 400788,
+    "artist": "R.E.M.",
+    "title": "Out Of Time",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock"
+    ],
+    "year": 1991,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/YH4TmQT3_NswyUxbeJpxy51yjsnnasCYxsJxclFK7RM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDc4/OC0xNjUwNTcyODY4/LTkwMTMuanBlZw.jpeg"
+  },
+  {
+    "id": 1058605,
+    "artist": "2Pac",
+    "title": "All Eyez On Me",
+    "genre": 5,
+    "styles": [
+      "Gangsta",
+      "G-Funk"
+    ],
+    "year": 2001,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/FcqNuNfRfjOuMG19v_SMA7WISHQzhEOqEhm-GqQ-3vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/MDUtMTYzOTA0MjY5/Ni01NDIxLmpwZWc.jpeg"
+  },
+  {
+    "id": 1130364,
+    "artist": "Blondie",
+    "title": "Eat To The Beat",
+    "genre": 4,
+    "styles": [
+      "New Wave"
+    ],
+    "year": 1979,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/JYmX-PY6BP5JSE_mTAvcqDYM0u7EEt4xvrQrBVLvXAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/NjQtMTMxMTcyNjE5/OC5qcGVn.jpeg"
+  },
+  {
+    "id": 4825085,
+    "artist": "ZZ Top",
+    "title": "Eliminator",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Hard Rock",
+      "Blues Rock",
+      "AOR"
+    ],
+    "year": 1983,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/VVaxrkEPphLTKKdhBXQq_7tmkXsZG8-uinRbnaWEXbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjUw/ODUtMTM3NjY3NTA3/NS01MzI1LmpwZWc.jpeg"
+  },
+  {
+    "id": 2067455,
+    "artist": "Foo Fighters",
+    "title": "Greatest Hits",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Hard Rock"
+    ],
+    "year": 2009,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/l5GcjDYnV-2g7KPd6qPZvIonXohMB0DZZOjodTW0EvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc0/NTUtMTQ4OTY2MzUz/Ni04NzE2LmpwZWc.jpeg"
+  },
+  {
+    "id": 502621,
+    "artist": "Boston",
+    "title": "Boston",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Pop Rock",
+      "Arena Rock"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/H4N2021OXZvyXFKy0Jz6AlvQsNwYWubDAgrrNSprF2Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwMjYy/MS0xMzI2OTg3Mjgz/LmpwZWc.jpeg"
+  },
+  {
+    "id": 1284784,
+    "artist": "The Allman Brothers Band",
+    "title": "Eat A Peach",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Southern Rock"
+    ],
+    "year": 1972,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/UEjgZ0c6ygYKrvBECQmx1hBELZ4Mt9RSg5WLt_Ew2Kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ3/ODQtMTY3ODM3MDQw/NS02ODE4LmpwZWc.jpeg"
+  },
+  {
+    "id": 1491291,
+    "artist": "ZZ Top",
+    "title": "Afterburner",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Pop Rock"
+    ],
+    "year": 1985,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/FmKTp245sxZ0U29m5TWftnxiks7MxCzcXAxkn8pM5pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEy/OTEtMTU4ODY2MTAy/My0yMDUxLmpwZWc.jpeg"
+  },
+  {
+    "id": 2289504,
+    "artist": "The Cure",
+    "title": "Disintegration",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "New Wave"
+    ],
+    "year": 2010,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/Qt3AmbCNTr6PHPMIvlHu4aZZKbi5LujXR1dh2xaOveA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/MDQtMTI3NDcxNTkw/NS5qcGVn.jpeg"
+  },
+  {
+    "id": 475599,
+    "artist": "Queen",
+    "title": "News Of The World",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Pop Rock"
+    ],
+    "year": 1977,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/LEHlg7s7vrSNaqYJ4F3SR_ace8BrmvbzdlE8ic7-OGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU5/OS0xNDU0NzE1MjY1/LTc4NDIuanBlZw.jpeg"
+  },
+  {
+    "id": 14423243,
+    "artist": "Queens Of The Stone Age",
+    "title": "Songs For The Deaf",
+    "genre": 4,
+    "styles": [
+      "Stoner Rock",
+      "Hard Rock"
+    ],
+    "year": 2019,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/1XaX9KD2xY6rzlvnzspuefgixjVlK_yPNzu4TX-rueA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDIz/MjQzLTE2NDA2MjMw/NjktOTEzOC5qcGVn.jpeg"
+  },
+  {
+    "id": 899603,
+    "artist": "Steve Miller Band",
+    "title": "Book Of Dreams",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Classic Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/_7HJTdrDhuDHsb4dz_z82reTxGvUviD_Wv_pY0T0uyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5OTYw/My0xNDA3Mjc1MjQ4/LTIzMTMuanBlZw.jpeg"
+  },
+  {
+    "id": 1450555,
+    "artist": "Radiohead",
+    "title": "Kid A",
+    "genre": 1,
+    "styles": [
+      "Alternative Rock",
+      "IDM",
+      "Experimental"
+    ],
+    "year": 2008,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/udGBjRyeBLMi-vqkXOsgJ1KgSlj77CJVBPGVjLs55sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTA1/NTUtMTQwODI5OTIw/MC04ODg1LmpwZWc.jpeg"
+  },
+  {
+    "id": 416831,
+    "artist": "Simply Red",
+    "title": "Picture Book",
+    "genre": 4,
+    "styles": [
+      "Rhythm & Blues",
+      "Soul",
+      "Ballad"
+    ],
+    "year": 1985,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/M6gqIn9BytnJOrECkOGgRuS1XP6q6PboUOmzZZ_-xYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjgz/MS0xMzc2NjgyMDgz/LTE1ODYuanBlZw.jpeg"
+  },
+  {
+    "id": 1856276,
+    "artist": "Beastie Boys",
+    "title": "Ill Communication",
+    "genre": 5,
+    "styles": [
+      "Boom Bap",
+      "Jazzy Hip-Hop",
+      "Punk"
+    ],
+    "year": 2009,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/DQOE5sEILEvmGGNafhSy8ZnNSrXUDpHyLU-KsHhDwS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTYy/NzYtMTM3NzY5MDQx/OC0yODIzLmpwZWc.jpeg"
+  },
+  {
+    "id": 6228397,
+    "artist": "Iron Maiden",
+    "title": "Powerslave",
+    "genre": 4,
+    "styles": [
+      "Heavy Metal"
+    ],
+    "year": 2014,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/ddWJNy2yvzU0AqUr9AQKyq6EQw62--XfHLSvHCqDx0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjgz/OTctMTYyOTc4NjAx/MS02NzQ4LmpwZWc.jpeg"
+  },
+  {
+    "id": 700507,
+    "artist": "Jefferson Starship",
+    "title": "Red Octopus",
+    "genre": 4,
+    "styles": [
+      "Classic Rock"
+    ],
+    "year": 1975,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/dxXTrCl3r7sNWQwFpTipfBED-5sVYGz2Wz2xYjlECew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMDUw/Ny0xNDgxODQwMDQ3/LTk1OTAuZ2lm.jpeg"
+  },
+  {
+    "id": 12802262,
+    "artist": "Travis Scott",
+    "title": "Astroworld",
+    "genre": 5,
+    "styles": [
+      "Trap",
+      "Pop Rap",
+      "Psychedelic"
+    ],
+    "year": 2018,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/OWDYzmrv5Pq3TKnpCZrg3mZ7gidwkdYzpVxO1qF3vR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MjYyLTE1NDIzMTg0/MzQtMzc5Ni5qcGVn.jpeg"
+  },
+  {
+    "id": 1765376,
+    "artist": "Meat Loaf",
+    "title": "Bat Out Of Hell",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/q65sw8PJD-_SJbaBsJeWClOPqb6QPJIIGDhXIBp7OZw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NjUz/NzYtMTMyMzAzNjgw/Ni5wbmc.jpeg"
+  },
+  {
+    "id": 1606550,
+    "artist": "Cyndi Lauper",
+    "title": "She's So Unusual",
+    "genre": 1,
+    "styles": [
+      "Pop Rock",
+      "Synth-pop"
+    ],
+    "year": 1983,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/wG3s4JP5T8crWSquxN3Rrp9KKQDSlXebkw3wah8ds9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY1/NTAtMTI3NDY3OTcy/Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 27729,
+    "artist": "The Human League",
+    "title": "Dare",
+    "genre": 1,
+    "styles": [
+      "Synth-pop"
+    ],
+    "year": 1981,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/AVlyucJUnxYJCw1u9SJvwJU5qVvc8wN3POBfKOMA8zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NzI5/LTE2ODcxODc4MDgt/MzQ3Ny5qcGVn.jpeg"
+  },
+  {
+    "id": 438865,
+    "artist": "Led Zeppelin",
+    "title": "Led Zeppelin III",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Folk Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/NVyuODmMQHrz_yitAdfypYFpZI7d5Nj14HJ6lheEK_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzODg2/NS0xNTc5NDE3NTYy/LTY1MTUuanBlZw.jpeg"
+  },
+  {
+    "id": 382877,
+    "artist": "John Lennon",
+    "title": "Imagine",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1971,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/a_0yGUCg5M0BzYbhNsEBHVkJ5WOAY-_-FUVx8UnvYts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mjg3/Ny0xNjc0Mjk0MjE5/LTQ5MjAuanBlZw.jpeg"
+  },
+  {
+    "id": 11118447,
+    "artist": "Metallica",
+    "title": "Master Of Puppets",
+    "genre": 4,
+    "styles": [
+      "Thrash",
+      "Heavy Metal"
+    ],
+    "year": 2017,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/5jZOACMUgbv-Sx_xUPuwPWO07pCrfo7ZwOWXx0H_CYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE4/NDQ3LTE1MTAxNzc5/NDMtNjE2Ni5qcGVn.jpeg"
+  },
+  {
+    "id": 16242480,
+    "artist": "Taylor Swift",
+    "title": "Folklore",
+    "genre": 4,
+    "styles": [
+      "Vocal",
+      "Indie Pop",
+      "Indie Rock",
+      "Ballad"
+    ],
+    "year": 2020,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/-klny1qhJUf6q62EIlOrZVwbVKX1ARNqZ25nz7nnXBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQy/NDgwLTE2MDk2OTc3/MTAtMTU5Ny5qcGVn.jpeg"
+  },
+  {
+    "id": 10672744,
+    "artist": "Nine Inch Nails",
+    "title": "The Downward Spiral",
+    "genre": 1,
+    "styles": [
+      "Industrial Metal",
+      "Industrial",
+      "Alternative Rock"
+    ],
+    "year": 2017,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/v9nr_TZzOJ7nQmhGnkxG4CQSiAQcXw_AJoYBdIuX6gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcy/NzQ0LTE2Mzk1OTAy/MTMtNzc4My5wbmc.jpeg"
+  },
+  {
+    "id": 9437902,
+    "artist": "A Tribe Called Quest",
+    "title": "We Got It From Here…Thank You 4 Your Service",
+    "genre": 5,
+    "styles": [
+      "Conscious"
+    ],
+    "year": 2016,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/k_rpftchLuzLx3AaEU4d0Copsb6PQjJ1ENfElVWvO0o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Mzc5/MDItMTQ4MjYwNzcz/NS05NzUzLnBuZw.jpeg"
+  },
+  {
+    "id": 380961,
+    "artist": "Boston",
+    "title": "Don't Look Back",
+    "genre": 4,
+    "styles": [
+      "Hard Rock"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/JtnV9Beuf9oAWJpSLn7GC2hociSxK9jL15XjZ7mZtzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDk2/MS0xMzM1MzI2ODgy/LmpwZWc.jpeg"
+  },
+  {
+    "id": 1333395,
+    "artist": "Bruce Springsteen & The E-Street Band",
+    "title": "Live / 1975-85",
+    "genre": 4,
+    "styles": [
+      "Soft Rock",
+      "Pop Rock",
+      "Classic Rock"
+    ],
+    "year": 1986,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/jzw6ht6kpJ7nvZAcyH6DtC7GQNb3TsEFCpkdc4Bxu_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMz/OTUtMTM4MTEwMTYz/OS05Njk0LmpwZWc.jpeg"
+  },
+  {
+    "id": 3917263,
+    "artist": "Godspeed You Black Emperor!",
+    "title": "'Allelujah! Don't Bend Ascend",
+    "genre": 1,
+    "styles": [
+      "Post Rock",
+      "Drone"
+    ],
+    "year": 2012,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/EtZnS6S_HpmY5zpV9d9mrNSF5_H1rhaN-W53nwhVQNI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTcy/NjMtMTM0OTI3NDIy/My0yNDgwLmpwZWc.jpeg"
+  },
+  {
+    "id": 190216,
+    "artist": "The Cars",
+    "title": "Candy-O",
+    "genre": 4,
+    "styles": [
+      "New Wave",
+      "Pop Rock"
+    ],
+    "year": 1979,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/jRnwA5ZvZlPpFoeUcirM7FNRwPIiJWznKVJGAXY3y_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/Ni0xNDAwNzkzMjQ1/LTczNjEuanBlZw.jpeg"
+  },
+  {
+    "id": 4083204,
+    "artist": "Taylor Swift",
+    "title": "Red",
+    "genre": 3,
+    "styles": [
+      "Country"
+    ],
+    "year": 2012,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/LKXsgnJ3ZtlAsaLUgTUa9rUgTL7pAkztmgVYk8nmAOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODMy/MDQtMTQ4Mzg1Njg4/OS00NTE0LmpwZWc.jpeg"
+  },
+  {
+    "id": 1132211,
+    "artist": "Creedence Clearwater Revival",
+    "title": "Green River",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Country Rock"
+    ],
+    "year": 1969,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/pZRM6pXmPlOdVy12irAG_1Hfn_lrVXqdc0CEhaYb7rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIy/MTEtMTE5NDY0NTU3/OC5qcGVn.jpeg"
+  },
+  {
+    "id": 1594061,
+    "artist": "Radiohead",
+    "title": "The Bends",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock"
+    ],
+    "year": 2008,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/7nmAchEfomfOwVnFe2LvxNdZOvmBOjn6IbFHI7rJ8go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQw/NjEtMTQyOTIzNzM1/NS03MDQ1LmpwZWc.jpeg"
+  },
+  {
+    "id": 4174124,
+    "artist": "The Doors",
+    "title": "Greatest Hits",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock"
+    ],
+    "year": 1980,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/fVdbReU1Ayq2QnP7ZDFaqoP1hENSQP9hn_fspFwYUdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzQx/MjQtMTM1NzY4NDUw/Mi03ODgxLmpwZWc.jpeg"
+  },
+  {
+    "id": 2438726,
+    "artist": "Iron Butterfly",
+    "title": "In-A-Gadda-Da-Vida",
+    "genre": 4,
+    "styles": [
+      "Psychedelic Rock",
+      "Experimental",
+      "Classic Rock"
+    ],
+    "year": 1968,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Kh9ugiiXMEy64QBB62vodcCwK78-Mg45BLAP7aMyYWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg3/MjYtMTM5NjQ1Mzgz/Ny02ODAyLmpwZWc.jpeg"
+  },
+  {
+    "id": 4330457,
+    "artist": "Nick Drake",
+    "title": "Pink Moon",
+    "genre": 4,
+    "styles": [
+      "Acoustic",
+      "Folk",
+      "Folk Rock"
+    ],
+    "year": 2013,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/IKDaD7DR-yJAfLOfpxGyAS4vue7if67dbaAb3Erwwl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzA0/NTctMTYzNDY0ODg4/Ni02OTEzLmpwZWc.jpeg"
+  },
+  {
+    "id": 5735339,
+    "artist": "Twenty One Pilots",
+    "title": "Vessel",
+    "genre": 1,
+    "styles": [
+      "Synth-pop",
+      "Indie Rock",
+      "Alternative Rock"
+    ],
+    "year": 2014,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/gavsFnJbVLimyZOQJZ5XE81agTlC-zsAByfkTF5Xy0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzUz/MzktMTQ3MjE0MzA2/OS05NDAxLmpwZWc.jpeg"
+  },
+  {
+    "id": 125874,
+    "artist": "Prince And The Revolution",
+    "title": "Purple Rain",
+    "genre": 4,
+    "styles": [
+      "Soundtrack",
+      "Pop Rock",
+      "Funk",
+      "Minneapolis Sound"
+    ],
+    "year": 1984,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/JR9KDY4XlSsujJI8K3uSXWDFN-N0SnrQz8taUPx0PHk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTg3/NC0xMTU2NTg1NTQy/LmpwZWc.jpeg"
+  },
+  {
+    "id": 12186161,
+    "artist": "Gorillaz",
+    "title": "The Now Now",
+    "genre": 1,
+    "styles": [
+      "Alternative Rock",
+      "Electro",
+      "Trip Hop"
+    ],
+    "year": 2018,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/Hd-UxKvjYGdR_gHoiL2JCaTU0Ct0ByXdqMET4BknF7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg2/MTYxLTE1MzAyNTAz/MjAtNTM1MC5qcGVn.jpeg"
+  },
+  {
+    "id": 592674,
+    "artist": "Snoop Dogg",
+    "title": "Doggystyle",
+    "genre": 5,
+    "styles": [
+      "Gangsta",
+      "G-Funk"
+    ],
+    "year": 2001,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/jsp69ByLqQcwIM3ve10ZnaZmpbW2xpEZk_hSx5e4ncc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjY3/NC0xNDMyNTUzMjQx/LTI1OTcuanBlZw.jpeg"
+  },
+  {
+    "id": 4087,
+    "artist": "Stardust",
+    "title": "Music Sounds Better With You",
+    "genre": 1,
+    "styles": [
+      "House",
+      "French House"
+    ],
+    "year": 1998,
+    "country": "france",
+    "thumb_image": "https://i.discogs.com/lqVoOMWuLoJjK3ygnQ_XqFWjqAxJ_5k79LgP2Q9vu4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODct/MTIzMDA1NzQ4NC5q/cGVn.jpeg"
+  },
+  {
+    "id": 6256253,
+    "artist": "Van Halen",
+    "title": "Van Halen",
+    "genre": 4,
+    "styles": [
+      "Hard Rock"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Ng7opjG9VZZZ12behttTFTFkKNR1AhPp5w9Tq3JhhFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTYy/NTMtMTQzNzU0OTE0/MS03OTIwLmpwZWc.jpeg"
+  },
+  {
+    "id": 2445087,
+    "artist": "Alice In Chains",
+    "title": "MTV Unplugged",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Acoustic",
+      "Grunge"
+    ],
+    "year": 2010,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/0i92bvZ_Q1TpWfKHjBy9wo4UmKlOnm5Vf-Eqxof3F9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUw/ODctMTQzMTY5NzU2/Mi0xODE3LmpwZWc.jpeg"
+  },
+  {
+    "id": 354906,
+    "artist": "David Bowie",
+    "title": "Aladdin Sane",
+    "genre": 4,
+    "styles": [
+      "Glam"
+    ],
+    "year": 1973,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/sR88m_06W3r-ke-o0A-5DjnX25n23vthG8f1ggTgAoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NDkw/Ni0xNDEyNzc1NzU1/LTQwMTIuanBlZw.jpeg"
+  },
+  {
+    "id": 22840,
+    "artist": "Portishead",
+    "title": "Dummy",
+    "genre": 1,
+    "styles": [
+      "Trip Hop",
+      "Downtempo"
+    ],
+    "year": 1994,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/XW0P0RnHiLKeqEShQMkfQ8uClNLJzEFUSNA8EcTgCMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/LTE1NTMyMjk0MDQt/OTA0OS5qcGVn.jpeg"
+  },
+  {
+    "id": 10882729,
+    "artist": "Billie Eilish",
+    "title": "Dont Smile At Me",
+    "genre": 1,
+    "styles": [
+      "Indie Pop"
+    ],
+    "year": 2017,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/mQHd01FYljeQFcca4BOMOZl6PpD06KNdflkFGxkBAIY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODgy/NzI5LTE2NDQ0MTEy/NTYtNjQwMi5qcGVn.jpeg"
+  },
+  {
+    "id": 3892004,
+    "artist": "Mumford & Sons",
+    "title": "Babel",
+    "genre": 3,
+    "styles": [
+      "Bluegrass",
+      "Folk"
+    ],
+    "year": 2012,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/d7StklyUscAkhQRn6Lbthn6ILahBbQvDCv6ss_OgOCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4OTIw/MDQtMTQ3MTMxNTM1/MS02MTA3LmpwZWc.jpeg"
+  },
+  {
+    "id": 512366,
+    "artist": "Steely Dan",
+    "title": "Pretzel Logic",
+    "genre": 8,
+    "styles": [
+      "Jazz-Rock",
+      "Pop Rock",
+      "Classic Rock"
+    ],
+    "year": 1974,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/ewyhrsUM8sGUMO4tZawmNP3iodgZITrhXwhvcnhAANE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjM2/Ni0xMzU2OTcwNzkz/LTg0MDAuanBlZw.jpeg"
+  },
+  {
+    "id": 8989572,
+    "artist": "Nick Cave & The Bad Seeds",
+    "title": "Skeleton Tree",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock"
+    ],
+    "year": 2016,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/RI5KUS8wH9goQVZUc2EOY9fsOS-fdIf2cHrjLBQg6oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODk1/NzItMTUxOTA1ODM2/OC02NTI1LmpwZWc.jpeg"
+  },
+  {
+    "id": 759699,
+    "artist": "Cheap Trick",
+    "title": "Cheap Trick At Budokan",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Power Pop",
+      "Hard Rock"
+    ],
+    "year": 1979,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/5usutWrIjvA4VDOYLcWbozb0IDKOizZpKrW8yWGDwbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTY5/OS0xMjgwNjY2MDcw/LmpwZWc.jpeg"
+  },
+  {
+    "id": 492498,
+    "artist": "John Cougar Mellencamp",
+    "title": "American Fool",
+    "genre": 4,
+    "styles": [
+      "Southern Rock"
+    ],
+    "year": 1982,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/DYRuZukPXidJbOAFPJmTTqkuTzR8nGqcX6BE7OWhXYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjQ5/OC0xMzYwNzIyNDY5/LTkxNTAuanBlZw.jpeg"
+  },
+  {
+    "id": 5607022,
+    "artist": "Metallica",
+    "title": "Metallica",
+    "genre": 4,
+    "styles": [
+      "Heavy Metal"
+    ],
+    "year": 1991,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/qxN_BaNganjOtKlp4Bzef0liaNWLflIxyTsAJTd_X04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDcw/MjItMTUxOTU4NzMy/Ni01OTk0LnBuZw.jpeg"
+  },
+  {
+    "id": 19929817,
+    "artist": "Olivia Rodrigo",
+    "title": "Sour",
+    "genre": 4,
+    "styles": [
+      "Power Pop",
+      "Pop Punk",
+      "Acoustic",
+      "Ballad"
+    ],
+    "year": 2021,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/Z_ZnmEQplwVBUXQdjpe3vtsPIzt8CjXa2Ot66DEOo0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI5/ODE3LTE2Mjk0OTQz/ODItNDE5My5qcGVn.jpeg"
+  },
+  {
+    "id": 5801778,
+    "artist": "Lana Del Rey",
+    "title": "Ultraviolence",
+    "genre": 4,
+    "styles": [
+      "Dream Pop",
+      "Indie Pop"
+    ],
+    "year": 2014,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/POgcVB14sLAR7EYfSBEFey0n7Rt6n9PGFJVevskkRvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDE3/NzgtMTY4NDM0MzEw/OS05OTIxLmpwZWc.jpeg"
+  },
+  {
+    "id": 192870,
+    "artist": "Talking Heads",
+    "title": "Talking Heads: 77",
+    "genre": 4,
+    "styles": [
+      "New Wave",
+      "Art Rock"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/KM5Y-jh1NdHuQlttTsNE8RHEVMXtiiqZtCvIcT0zOOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjg3/MC0xMjA5NzY1NDk4/LmpwZWc.jpeg"
+  },
+  {
+    "id": 2485033,
+    "artist": "Eddie Vedder",
+    "title": "Into The Wild",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Acoustic",
+      "Soundtrack"
+    ],
+    "year": 2010,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/JTLLWAx3l_w4u42LwnB_up-Vp6CvfiFrz1T4pCey9EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODUw/MzMtMTY0NzI2NzQy/OC00MDg2LmpwZWc.jpeg"
+  },
+  {
+    "id": 653078,
+    "artist": "Rodgers & Hammerstein",
+    "title": "The Sound Of Music (An Original Soundtrack Recording)",
+    "genre": 3,
+    "styles": [
+      "Soundtrack",
+      "Vocal"
+    ],
+    "year": 1965,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/KM77c3OwA4yudxlWSqM8ChsEpTVQzj_HiqsjXqeZF7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA3/OC0xNDM1NDYxMTA0/LTI5MTguanBlZw.jpeg"
+  },
+  {
+    "id": 448759,
+    "artist": "Chicago",
+    "title": "Chicago",
+    "genre": 8,
+    "styles": [
+      "Jazz-Rock",
+      "Classic Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/M3bgm43wVs2wspxl08pYYZ52mJLhxVAf6wASOv4QMIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODc1/OS0xNjQwNjEwODQ3/LTUzMjEuanBlZw.jpeg"
+  },
+  {
+    "id": 5677322,
+    "artist": "The Black Keys",
+    "title": "Turn Blue",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock"
+    ],
+    "year": 2014,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/R3qTscq6T7tWxeuK52AYwoUPoKJJ2b219AHi-wecc_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzcz/MjItMTQ4ODk5NjI2/NS00ODE0LmpwZWc.jpeg"
+  },
+  {
+    "id": 10008497,
+    "artist": "Gorillaz",
+    "title": "Demon Days",
+    "genre": 1,
+    "styles": [
+      "Leftfield",
+      "Trip Hop",
+      "Lo-Fi",
+      "Pop Rap",
+      "Downtempo"
+    ],
+    "year": 2017,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/1ZQ_ytFBknL8g4IuSRpzeFxLemJ-8WNGR7dCwgg_4Js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA4/NDk3LTE1NzM0ODY3/NTItNjE3OS5qcGVn.jpeg"
+  },
+  {
+    "id": 495681,
+    "artist": "Pink Floyd",
+    "title": "The Wall",
+    "genre": 4,
+    "styles": [
+      "Prog Rock"
+    ],
+    "year": 1979,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/SmXrlSCPOQSQvwLqhzksrdB0sw5vhGyPvbNEJa1bc-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY4/MS0xNjA2MzEzMDc3/LTM0MTcuanBlZw.jpeg"
+  },
+  {
+    "id": 19676596,
+    "artist": "Billie Eilish",
+    "title": "Happier Than Ever",
+    "genre": 3,
+    "styles": [
+      "Indie Pop"
+    ],
+    "year": 2021,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/wJUjEDYwgCTcnp4SFN7EjbEI88MZ_VBKXYmuu5exL3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc2/NTk2LTE2Mjc2Mzgy/NTQtNTAyNS5qcGVn.jpeg"
+  },
+  {
+    "id": 475596,
+    "artist": "Queen",
+    "title": "A Day At The Races",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Pop Rock",
+      "Art Rock",
+      "Glam",
+      "Arena Rock",
+      "Prog Rock"
+    ],
+    "year": 1976,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/bKZLWlkrNGQprMOBXUNB96p8NLX4GhbiCKViHOSa7AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU5/Ni0xNDU0NzA3NDM5/LTYzMzcuanBlZw.jpeg"
+  },
+  {
+    "id": 24894053,
+    "artist": "Taylor Swift",
+    "title": "Midnights",
+    "genre": 1,
+    "styles": [
+      "Synth-pop",
+      "Vocal",
+      "Indie Pop"
+    ],
+    "year": 2022,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/NmtF62FUWot2UcFKNhL1heH9GYyep_SeP7sW1FUKsn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk0/MDUzLTE2Nzg4MDM3/ODQtNjA3Mi5qcGVn.jpeg"
+  },
+  {
+    "id": 8888892,
+    "artist": "Angelo Badalamenti",
+    "title": "Twin Peaks",
+    "genre": 1,
+    "styles": [
+      "Soundtrack",
+      "Score",
+      "Ambient"
+    ],
+    "year": 2016,
+    "country": "usa",
+    "thumb_image": "https://i.discogs.com/R_q1wXsT8qxHt8wkaRh-aC7AYOflMWzDgcm1bZdOQQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTYyNjc4ODEw/Ni03NTQ4LmpwZWc.jpeg"
+  },
+  {
+    "id": 670301,
+    "artist": "Earth, Wind & Fire",
+    "title": "The Best Of Earth Wind & Fire Vol. I",
+    "genre": 2,
+    "styles": [
+      "Soul",
+      "Funk",
+      "Disco"
+    ],
+    "year": 1978,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/ayC3lH5SmzLB9nCu1sEVJFA7o6zZuHeDoKghJOI0Tig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MDMw/MS0xNDEyNzQ3NjA1/LTg1MTcuanBlZw.jpeg"
+  },
+  {
+    "id": 174477,
+    "artist": "Stevie Wonder",
+    "title": "Talking Book",
+    "genre": 2,
+    "styles": [
+      "Soul",
+      "Funk"
+    ],
+    "year": 1972,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/v-d1D51jzhtAOhOcEk-DfCQslMeybgw6iTRlumzqMfg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDQ3/Ny0xMzE0NDgwMzA1/LmpwZWc.jpeg"
+  },
+  {
+    "id": 2111843,
+    "artist": "Beach House",
+    "title": "Teen Dream",
+    "genre": 4,
+    "styles": [
+      "Indie Rock",
+      "Dream Pop"
+    ],
+    "year": 2010,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/lfA441c0YJPbtQiEW4-cc60flcs4LZdmfw_iKOyLcPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NDMtMTQzMDM5NjE3/NS00MzU5LnBuZw.jpeg"
+  },
+  {
+    "id": 116593,
+    "artist": "Eurythmics",
+    "title": "Revenge",
+    "genre": 1,
+    "styles": [
+      "Pop Rock",
+      "Synth-pop"
+    ],
+    "year": 1986,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/0BX6ERJgVHiHAHMFTPVD2VG3FE6lKs1sXoaxVNTePI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjU5/My0xNjY1MzEyNDQ3/LTc3NzEuanBlZw.jpeg"
+  },
+  {
+    "id": 375491,
+    "artist": "Red Hot Chili Peppers",
+    "title": "Blood Sugar Sex Magik",
+    "genre": 4,
+    "styles": [
+      "Alternative Rock",
+      "Funk Metal"
+    ],
+    "year": 1991,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/vUiGyauzeFcen48ImrRkuqPovb3RxEtYmHxju9BWmhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NTQ5/MS0xNTA3MjkyNTg2/LTE5NDIuanBlZw.jpeg"
+  },
+  {
+    "id": 3742283,
+    "artist": "Nirvana",
+    "title": "Bleach",
+    "genre": 4,
+    "styles": [
+      "Grunge",
+      "Alternative Rock"
+    ],
+    "year": 2011,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/4Mu1CcP2-527BuZtKPCMtiUAkOq5jMOoemJzFTWu8_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIy/ODMtMTY0MzM4NjQy/My0yODI2LmpwZWc.jpeg"
+  },
+  {
+    "id": 3557664,
+    "artist": "Andrew Lloyd Webber And Tim Rice",
+    "title": "Jesus Christ Superstar",
+    "genre": 4,
+    "styles": [
+      "Prog Rock",
+      "Classic Rock",
+      "Hard Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/BdxPMx__3J0jhdqLjvRJJ_PzPJFnSrsLSwfcdRoyGj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTc2/NjQtMTQxMTMzMzg4/OC0yODg5LmpwZWc.jpeg"
+  },
+  {
+    "id": 216166,
+    "artist": "David Bowie",
+    "title": "Low",
+    "genre": 1,
+    "styles": [
+      "Art Rock",
+      "Ambient",
+      "Experimental"
+    ],
+    "year": 1977,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/-AwMz27hG5XohosCpCf2UttrbxrAOEhlJ8_TxayLhtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjE2/Ni0xMjc1NjI1NjQ5/LmpwZWc.jpeg"
+  },
+  {
+    "id": 5581078,
+    "artist": "The Stone Roses",
+    "title": "The Stone Roses",
+    "genre": 4,
+    "styles": [
+      "Indie Rock"
+    ],
+    "year": 2014,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/RjN32nMixkR5APTZDmDY7o1vZfNhx63KUJZgFJan2II/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODEw/NzgtMTQyMTE2ODY3/NS04NzkxLmpwZWc.jpeg"
+  },
+  {
+    "id": 1849291,
+    "artist": "Deep Purple",
+    "title": "Deep Purple In Rock",
+    "genre": 4,
+    "styles": [
+      "Hard Rock"
+    ],
+    "year": 1970,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/VFy3dtRMPBrQw5MsmmxXihtIq2yI2euWanc6nj6-oPc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDky/OTEtMTM0MDg4NzY3/MC02ODQ4LmpwZWc.jpeg"
+  },
+  {
+    "id": 755258,
+    "artist": "Cat Stevens",
+    "title": "Tea For The Tillerman",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Acoustic",
+      "Pop Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/q10JZynCO0nNIm12o_M3ghP6rk7wjNH7uZb6aBsDumY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTI1/OC0xMTk2MTk0MDA0/LmpwZWc.jpeg"
+  },
+  {
+    "id": 12795892,
+    "artist": "Kate Bush",
+    "title": "Hounds Of Love",
+    "genre": 1,
+    "styles": [
+      "Art Rock",
+      "Pop Rock"
+    ],
+    "year": 2018,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/tc4uLICYUHS3go7-9R1cOKXXSw0KkHCNwAotXRKUVSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzk1/ODkyLTE1NDIxMzQw/MDEtMjA5Ny5qcGVn.jpeg"
+  },
+  {
+    "id": 508563,
+    "artist": "Blue Öyster Cult",
+    "title": "Agents Of Fortune",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Classic Rock",
+      "Pop Rock"
+    ],
+    "year": 1976,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/HROOQqDhlepWGzjg7w5yWAetjqus2ND1I3Shco19uFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODU2/My0xNDIzMzc1MTMx/LTI3NDkuanBlZw.jpeg"
+  },
+  {
+    "id": 3961216,
+    "artist": "Vince Guaraldi Trio",
+    "title": "A Charlie Brown Christmas",
+    "genre": 8,
+    "styles": [
+      "Contemporary Jazz",
+      "Holiday"
+    ],
+    "year": 2012,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/ioWGvTrzphqD0X4YQUpsEVEwyPBfX9t6KLg06kowvlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NjEy/MTYtMTY2NjU4MTA4/Ny03NzQ1LmpwZWc.jpeg"
+  },
+  {
+    "id": 1153244,
+    "artist": "Bob Dylan",
+    "title": "Bob Dylan's Greatest Hits Volume II",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Country Rock",
+      "Classic Rock",
+      "Pop Rock",
+      "Acoustic"
+    ],
+    "year": 1971,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/7kgemMGkJCoQjCYvSaWdVwKYQt4rK7VUWzNSxwxb4Vk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMy/NDQtMTIxNTE4MDgz/NS5qcGVn.jpeg"
+  },
+  {
+    "id": 470912,
+    "artist": "The Clash",
+    "title": "London Calling",
+    "genre": 4,
+    "styles": [
+      "Punk",
+      "New Wave"
+    ],
+    "year": 1979,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/O-KA3B6HBYOoy8DohltOuwxXW1EL_52p5dldyT1IOiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDkx/Mi0xNjA3NzYxMTgy/LTU4MjQuanBlZw.jpeg"
+  },
+  {
+    "id": 448302,
+    "artist": "Supertramp",
+    "title": "Paris",
+    "genre": 4,
+    "styles": [
+      "Art Rock",
+      "Pop Rock",
+      "Prog Rock"
+    ],
+    "year": 1980,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/wrePzq1iE_vmcwg5J0h8D_OCuTy2ipen_KqnUdY_ofg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODMw/Mi0xNjQ5MDcxMDYx/LTM4MzMuanBlZw.jpeg"
+  },
+  {
+    "id": 630617,
+    "artist": "Elton John",
+    "title": "Goodbye Yellow Brick Road",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Classic Rock"
+    ],
+    "year": 1973,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/9bWdzb0DM-A2nLQ9OJUcJpLHu0yud7bHE47-Th6PS70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDYx/Ny0xMjEyMjgzMzAz/LmpwZWc.jpeg"
+  },
+  {
+    "id": 7097828,
+    "artist": "Vangelis",
+    "title": "Blade Runner",
+    "genre": 1,
+    "styles": [
+      "Ambient",
+      "Soundtrack",
+      "Score"
+    ],
+    "year": 2015,
+    "country": "worldwide",
+    "thumb_image": "https://i.discogs.com/zBXGm4lpf_evGNz6Mol-nN1zWuXePja6xuFco9vWgKg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTc4/MjgtMTU2Mjg5MDc4/NC04Nzk1LmpwZWc.jpeg"
+  },
+  {
+    "id": 4881115,
+    "artist": "The White Stripes",
+    "title": "Elephant",
+    "genre": 4,
+    "styles": [
+      "Rock & Roll",
+      "Indie Rock",
+      "Garage Rock",
+      "Punk"
+    ],
+    "year": 2013,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/0pd3JE8jHjjYRKgsaie-WsGPMuUXpjuGp7Fih9rb2Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODEx/MTUtMTU2OTI1ODg2/Mi0xMzE3LmpwZWc.jpeg"
+  },
+  {
+    "id": 2944827,
+    "artist": "Cat Stevens",
+    "title": "Teaser And The Firecat",
+    "genre": 4,
+    "styles": [
+      "Soft Rock"
+    ],
+    "year": 1971,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/trbO1SSHjLuAVLeo6VD9lfCikXyLWjVF1sxpw7SstUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDQ4/MjctMTM5NTYzODk1/OS0yNDI4LmpwZWc.jpeg"
+  },
+  {
+    "id": 723633,
+    "artist": "Toto",
+    "title": "Toto IV",
+    "genre": 4,
+    "styles": [
+      "Classic Rock"
+    ],
+    "year": 1982,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/sZ0j3ewgy7GCzXjx3QsUsjxu6hhuobBOSlEXWHf9v9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk3/LTUwNjIuanBlZw.jpeg"
+  },
+  {
+    "id": 3345290,
+    "artist": "Neil Young",
+    "title": "After The Gold Rush",
+    "genre": 4,
+    "styles": [
+      "Rock & Roll",
+      "Country Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/qOkq0WUvLaXo2uh3JPRoCz27VYyyHPaGQmAcwi7jxpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDUy/OTAtMTQxNTEyMjQy/NC00MDU3LmpwZWc.jpeg"
+  },
+  {
+    "id": 851518,
+    "artist": "The Beatles",
+    "title": "1967-1970",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "Psychedelic Rock"
+    ],
+    "year": 1973,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/j8gKTaoInUEbHYNHjY8EhFdU3pGjllJo7Rl4z71kNHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MTUx/OC0xMjYzMzkzODcy/LmpwZWc.jpeg"
+  },
+  {
+    "id": 20950468,
+    "artist": "Taylor Swift",
+    "title": "Red (Taylor's Version)",
+    "genre": 4,
+    "styles": [
+      "Ballad",
+      "Country",
+      "Pop Rock"
+    ],
+    "year": 2021,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/APYQaoyzDOdr-G1FPBLz_QpI8DGMtVXmjwlBGG9mtpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTUw/NDY4LTE2ODI0Njcy/OTYtMTcxOC5qcGVn.jpeg"
+  },
+  {
+    "id": 9118910,
+    "artist": "Bon Iver",
+    "title": "22, A Million",
+    "genre": 1,
+    "styles": [
+      "Indie Rock"
+    ],
+    "year": 2016,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/MnMPudwtJKSBuOeMjyO_1-WWQAsYwA9mwgdDXUxdTmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTg5/MTAtMTUxMjg0MzQx/MC0yMzc0LmpwZWc.jpeg"
+  },
+  {
+    "id": 680968,
+    "artist": "Creedence Clearwater Revival",
+    "title": "Bayou Country",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Blues Rock",
+      "Hard Rock"
+    ],
+    "year": 1969,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/wx6DAnUQWHNWAh3NzgQO6qoQ1VumSXfOzOYD86IfcCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MDk2/OC0xMjI1MDU1MTUw/LmpwZWc.jpeg"
+  },
+  {
+    "id": 3653591,
+    "artist": "alt-J",
+    "title": "An Awesome Wave",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Experimental"
+    ],
+    "year": 2012,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/ypvcCyaK97ZlmI6X4Y97yfZOqqBvg7YHcxO8lCdv9Hg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTM1/OTEtMTQwMTM2OTk3/OC04MzIyLmpwZWc.jpeg"
+  },
+  {
+    "id": 4289876,
+    "artist": "The Doors",
+    "title": "Morrison Hotel",
+    "genre": 4,
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/U_HGsbpCb9jWbJINDLD9dOffpD9YWY4iuUnMz03Fm68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODk4/NzYtMTM2MDg0MzE1/NC0yODYxLmpwZWc.jpeg"
+  },
+  {
+    "id": 5595031,
+    "artist": "Childish Gambino",
+    "title": "Because The Internet",
+    "genre": 1,
+    "styles": [
+      "Abstract",
+      "Conscious",
+      "Contemporary R&B",
+      "Experimental",
+      "Pop Rap",
+      "Neo Soul"
+    ],
+    "year": 2014,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/RgqASE5SbW7bXhSNF6yVWiSseRqpkhWTQzNtmTB8iCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1OTUw/MzEtMTQ0NjkyOTkw/Ny01NjYxLmpwZWc.jpeg"
+  },
+  {
+    "id": 681945,
+    "artist": "The Grateful Dead",
+    "title": "American Beauty",
+    "genre": 4,
+    "styles": [
+      "Folk Rock"
+    ],
+    "year": 1970,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/oXYqAYtvTumA-TPuTmhPOeuUEvdOm3QXrynmI2M5Lzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTk0/NS0xMTk5NDAzMzIz/LmpwZWc.jpeg"
+  },
+  {
+    "id": 1709195,
+    "artist": "Bruce Springsteen",
+    "title": "Tunnel Of Love",
+    "genre": 4,
+    "styles": [
+      "Pop Rock"
+    ],
+    "year": 1987,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Ordl18ln9UklE1OcixYYnOb5M5AxPQyPA_5NBGma-yE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDkx/OTUtMTYyMDU1OTky/MC0zNDY1LmpwZWc.jpeg"
+  },
+  {
+    "id": 1157598,
+    "artist": "Tool",
+    "title": "Undertow",
+    "genre": 4,
+    "styles": [
+      "Hard Rock",
+      "Prog Rock"
+    ],
+    "year": 2006,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Sn7LvDTDA52ujGWGLAv72MfTX0Eb4UxgpLN-L9vc_NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/OTgtMTM4NzEwNzE3/Mi0xNzI0LmpwZWc.jpeg"
+  },
+  {
+    "id": 5820814,
+    "artist": "Ed Sheeran",
+    "title": "X",
+    "genre": 5,
+    "styles": [
+      "Acoustic",
+      "Pop Rock",
+      "Folk Rock"
+    ],
+    "year": 2014,
+    "country": "uk",
+    "thumb_image": "https://i.discogs.com/dwrBM_GykMarMGQy0MmK7MgPJNmnZtUe4qfYH2FUnhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjA4/MTQtMTU5NjMxOTE4/MC00MjM1LmpwZWc.jpeg"
+  },
+  {
+    "id": 5057494,
+    "artist": "Lorde",
+    "title": "Pure Heroine",
+    "genre": 3,
+    "styles": [
+      "Indie Pop",
+      "Synth-pop"
+    ],
+    "year": 2013,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/HmrMVAUQss3cuBv8nWcm3PKYnJ5QYMgYF5xKteWV6JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTc0/OTQtMTUzODUzNDUz/MS04ODc2LmpwZWc.jpeg"
+  },
+  {
+    "id": 1349112,
+    "artist": "The Beatles",
+    "title": "Meet The Beatles!",
+    "genre": 4,
+    "styles": [
+      "Beat",
+      "Rock & Roll"
+    ],
+    "year": 1964,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/EupTDcDBSQ4wioxZ52e2NIwjkBmpUKwB0C5McBr0ZjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkx/MTItMTUxNzA1MzAw/NC02MTMxLmpwZWc.jpeg"
+  },
+  {
+    "id": 412741,
+    "artist": "Heart",
+    "title": "Little Queen",
+    "genre": 4,
+    "styles": [
+      "Folk Rock",
+      "Rock & Roll"
+    ],
+    "year": 1977,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/vWrq6saS9CDtC_c9rh3nM1vW-SGpQwrsFSOTpGHEFpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjc0/MS0xMzY4OTA5NzQ3/LTkzNTkuanBlZw.jpeg"
+  },
+  {
+    "id": 1203470,
+    "artist": "Green Day",
+    "title": "American Idiot",
+    "genre": 4,
+    "styles": [
+      "Punk",
+      "Pop Rock",
+      "Pop Punk"
+    ],
+    "year": 2004,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/8ViyqmNrr0fjlbaG643ovkiTAQ-tKY0bPdm_Oq982xY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM0/NzAtMTU3NDI2ODI2/Ni05MDM2LmpwZWc.jpeg"
+  },
+  {
+    "id": 774248,
+    "artist": "Fleetwood Mac",
+    "title": "Tusk",
+    "genre": 4,
+    "styles": [
+      "Pop Rock",
+      "AOR"
+    ],
+    "year": 1979,
+    "country": "us",
+    "thumb_image": "https://i.discogs.com/Z02cTHqH87SQqsToOuC24h7ht30I4TVvCM1s5kgzSfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDI0/OC0xMjE2OTc4MjEw/LmpwZWc.jpeg"
+  },
+  {
+    "id": 2191572,
+    "artist": "Bonobo",
+    "title": "Black Sands",
+    "genre": 1,
+    "styles": [
+      "Downtempo",
+      "Ambient"
+    ],
+    "year": 2010,
+    "country": "europe",
+    "thumb_image": "https://i.discogs.com/YJnS2B9XUJT1EH7vy-3NewNoR3eT_4swHf75xKXvu7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTE1/NzItMTQxMzg5MDIy/NC05Njc4LmpwZWc.jpeg"
+  }
+]

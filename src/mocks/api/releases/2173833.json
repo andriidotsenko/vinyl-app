@@ -1,0 +1,79 @@
+{
+  "id": 2173833,
+  "artist_id": 252434,
+  "artist": "Neutral Milk Hotel",
+  "title": "In The Aeroplane Over The Sea",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock",
+    "Lo-Fi"
+  ],
+  "release_date": "2009-11-03",
+  "year": 2009,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/HGmtFu6iN-2TD1NPSo5-BcQdlPeqL73_NktnAS2Vi7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM4/MzMtMTY0MDYwNzUx/Mi0zNTAxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/WoR2D9WPuRKT6IlKYFQjKWOsV_Jiakk2J2zUV5bsyoI/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM4/MzMtMTY0MDYwNzUx/Mi0zNTAxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The King Of Carrot Flowers, Pt. One",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "The King Of Carrot Flowers, Pts. Two & Three",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "In The Aeroplane Over The Sea",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Two-Headed Boy",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "The Fool",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Holland, 1945",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "Communist Daughter",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Oh Comely",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Ghost",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Untitled",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Two-Headed Boy, Pt. Two",
+      "duration": ""
+    }
+  ]
+}

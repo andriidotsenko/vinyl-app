@@ -1,0 +1,105 @@
+{
+  "id": 10008497,
+  "artist_id": 6378,
+  "artist": "Gorillaz",
+  "title": "Demon Days",
+  "all_genres": [
+    1,
+    5,
+    4,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Leftfield",
+    "Trip Hop",
+    "Lo-Fi",
+    "Pop Rap",
+    "Downtempo"
+  ],
+  "release_date": "2017-04-00",
+  "year": 2017,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/1ZQ_ytFBknL8g4IuSRpzeFxLemJ-8WNGR7dCwgg_4Js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA4/NDk3LTE1NzM0ODY3/NTItNjE3OS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/A8_1p83ilefrZKlIga1mcwnGU7Fxa3p4wo0eVUO5zRo/rs:fit/g:sm/q:90/h:613/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDA4/NDk3LTE1NzM0ODY3/NTItNjE3OS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Intro",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Last Living Souls",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Kids With Guns",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "O Green World",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Dirty Harry",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Feel Good Inc.",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "El Mañana",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Every Planet We Reach Is Dead",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "November Has Come",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "All Alone",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "White Light",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Dare",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Fire Coming Out Of The Monkey's Head",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Don't Get Lost In Heaven",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Demon Days",
+      "duration": ""
+    }
+  ]
+}

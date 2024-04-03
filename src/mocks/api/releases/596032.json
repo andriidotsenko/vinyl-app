@@ -1,0 +1,67 @@
+{
+  "id": 596032,
+  "artist_id": 11136,
+  "artist": "Peter Gabriel",
+  "title": "So",
+  "all_genres": [
+    1,
+    4,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Pop Rock",
+    "Synth-pop",
+    "Art Rock"
+  ],
+  "release_date": "1986",
+  "year": 1986,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/XGDYkseOvi0auaf4NRgEpN9IcxtOk1qHaWnI-VM87KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjAz/Mi0xNDY1OTA5MTIw/LTU5MDYuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/Op1iGkeUJqRVJFBBl9VdrtQl5SehXFKipHT_GXJMfkA/rs:fit/g:sm/q:90/h:584/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjAz/Mi0xNDY1OTA5MTIw/LTU5MDYuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Red Rain",
+      "duration": "5:35"
+    },
+    {
+      "position": "A2",
+      "title": "Sledgehammer",
+      "duration": "5:09"
+    },
+    {
+      "position": "A3",
+      "title": "Don't Give Up",
+      "duration": "6:27"
+    },
+    {
+      "position": "A4",
+      "title": "That Voice Again",
+      "duration": "4:50"
+    },
+    {
+      "position": "B1",
+      "title": "In Your Eyes",
+      "duration": "5:26"
+    },
+    {
+      "position": "B2",
+      "title": "Mercy Street (For Anne Sexton)",
+      "duration": "6:18"
+    },
+    {
+      "position": "B3",
+      "title": "Big Time (Suc Cess)",
+      "duration": "4:25"
+    },
+    {
+      "position": "B4",
+      "title": "We Do What We're Told (Milgram's 37)",
+      "duration": "3:18"
+    }
+  ]
+}

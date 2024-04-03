@@ -1,0 +1,99 @@
+{
+  "id": 5041370,
+  "artist_id": 281232,
+  "artist": "Arcade Fire",
+  "title": "Reflektor",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock"
+  ],
+  "release_date": "2013-10-29",
+  "year": 2013,
+  "all_countries": [
+    "usa",
+    "canada"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/b4kht22POZ-Oixj4b0GRWoo4eSyZ2SklUQ045BtivAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDEz/NzAtMTYzMjEwMDQw/OC0zMTA5LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/5rUtiKEeEzNWvJt4IaainJR33ocOUyqLg5b-Oed-P8M/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNDEz/NzAtMTYzMjEwMDQw/OC0zMTA5LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "The Reflektors Vol. 1",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Reflektor",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Flashbulb Eyes",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Here Comes The Night Time",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "We Exist",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Normal Person",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "You Already Know",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Joan Of Arc",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "The Reflektors Vol. 2",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Here Comes The Night Time II",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Awful Sound (Oh Eurydice)",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "It's Never Over (Hey Orpheus)",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Porno",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "Afterlife",
+      "duration": ""
+    },
+    {
+      "position": "D6",
+      "title": "Supersymmetry",
+      "duration": ""
+    }
+  ]
+}

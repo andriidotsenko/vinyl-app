@@ -1,0 +1,93 @@
+{
+  "id": 11150838,
+  "artist_id": 3272791,
+  "artist": "SZA",
+  "title": "Ctrl",
+  "all_genres": [
+    2
+  ],
+  "genre": 2,
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "release_date": "2017-11-17",
+  "year": 2017,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/MsJdp9SVImXg3MOmkMC4Mff0DtUtCN1uHaUxXG61q_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTMtMzQ3NS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/hR5dMnSuucmoGS4S5UL-J3sKSCMeTLiRVArI-MZTWdw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTMtMzQ3NS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Supermodel",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Love Galore",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Doves In the Wind",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Drew Barrymore",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Prom",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "The Weekend",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Go Gina",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Garden (Say It Like Dat)",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Broken Clocks",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Anything",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Wavy (Interlude)",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Normal Girl",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Pretty Little Birds ",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "20 Something",
+      "duration": ""
+    }
+  ]
+}

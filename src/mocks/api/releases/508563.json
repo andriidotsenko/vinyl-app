@@ -1,0 +1,75 @@
+{
+  "id": 508563,
+  "artist_id": 251884,
+  "artist": "Blue Öyster Cult",
+  "title": "Agents Of Fortune",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Classic Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1976",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/HROOQqDhlepWGzjg7w5yWAetjqus2ND1I3Shco19uFE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODU2/My0xNDIzMzc1MTMx/LTI3NDkuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/0qiUGuVR_Ya8hPrhRbYgZINoVCrbc46wYIWcCifsc-w/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwODU2/My0xNDIzMzc1MTMx/LTI3NDkuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "This Ain't The Summer Of Love",
+      "duration": "2:20"
+    },
+    {
+      "position": "A2",
+      "title": "True Confessions",
+      "duration": "2:55"
+    },
+    {
+      "position": "A3",
+      "title": "(Don't Fear) The Reaper",
+      "duration": "5:05"
+    },
+    {
+      "position": "A4",
+      "title": "E.T.I. (Extra Terrestrial Intelligence)",
+      "duration": "3:43"
+    },
+    {
+      "position": "A5",
+      "title": "The Revenge Of Vera Gemini",
+      "duration": "3:48"
+    },
+    {
+      "position": "B1",
+      "title": "Sinful Love",
+      "duration": "3:28"
+    },
+    {
+      "position": "B2",
+      "title": "Tattoo Vampire",
+      "duration": "2:40"
+    },
+    {
+      "position": "B3",
+      "title": "Morning Final",
+      "duration": "4:14"
+    },
+    {
+      "position": "B4",
+      "title": "Tenderloin",
+      "duration": "3:53"
+    },
+    {
+      "position": "B5",
+      "title": "Debbie Denise",
+      "duration": "4:12"
+    }
+  ]
+}

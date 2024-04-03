@@ -1,0 +1,94 @@
+{
+  "id": 4418438,
+  "artist_id": 21764,
+  "artist": "Bob Marley & The Wailers",
+  "title": "Legend - The Best Of Bob Marley And The Wailers",
+  "all_genres": [
+    11
+  ],
+  "genre": 11,
+  "styles": [
+    "Reggae",
+    "Roots Reggae"
+  ],
+  "release_date": "2015",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/AQ-G7K7ZWx7YMwvhE3MbX4_dvewjNVSvCeTEIBLaMy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ1MDYxODc1/MS0xNTg0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/-teIDTwLB0xFhk2esn3K6wR4f84w6ChtOF7ONi0jRx4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ1MDYxODc1/MS0xNTg0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Is This Love",
+      "duration": "3:52"
+    },
+    {
+      "position": "A2",
+      "title": "No Woman No Cry",
+      "duration": "4:02"
+    },
+    {
+      "position": "A3",
+      "title": "Could You Be Loved",
+      "duration": "3:35"
+    },
+    {
+      "position": "A4",
+      "title": "Three Little Birds",
+      "duration": "2:58"
+    },
+    {
+      "position": "A5",
+      "title": "Buffalo Soldier",
+      "duration": "2:43"
+    },
+    {
+      "position": "A6",
+      "title": "Get Up Stand Up",
+      "duration": "3:14"
+    },
+    {
+      "position": "A7",
+      "title": "Stir It Up",
+      "duration": "3:38"
+    },
+    {
+      "position": "B1",
+      "title": "One Love / People Get Ready",
+      "duration": "2:53"
+    },
+    {
+      "position": "B2",
+      "title": "I Shot The Sheriff",
+      "duration": "3:46"
+    },
+    {
+      "position": "B3",
+      "title": "Waiting In Vain",
+      "duration": "4:06"
+    },
+    {
+      "position": "B4",
+      "title": "Redemption Song",
+      "duration": "3:46"
+    },
+    {
+      "position": "B5",
+      "title": "Satisfy My Soul",
+      "duration": "3:49"
+    },
+    {
+      "position": "B6",
+      "title": "Exodus",
+      "duration": "4:16"
+    },
+    {
+      "position": "B7",
+      "title": "Jamming",
+      "duration": "3:17"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 395838,
+  "artist_id": 37223,
+  "artist": "The Doobie Brothers",
+  "title": "Minute By Minute",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1978-12-00",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/PLNhTq2f-w8pjxwSngbGGaP5RLkJ_BUnWNVpfSojwxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTgz/OC0xMzMxODU0NDgw/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/mvGINrc71r1ZvhDUYHLp4zCreS6F6j3eeRtYdsRSJo4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTgz/OC0xMzMxODU0NDgw/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Here To Love You",
+      "duration": "3:58"
+    },
+    {
+      "position": "A2",
+      "title": "What A Fool Believes",
+      "duration": "3:41"
+    },
+    {
+      "position": "A3",
+      "title": "Minute By Minute",
+      "duration": "3:26"
+    },
+    {
+      "position": "A4",
+      "title": "Dependin' On You",
+      "duration": "3:44"
+    },
+    {
+      "position": "A5",
+      "title": "Don't Stop To Watch The Wheels",
+      "duration": "3:26"
+    },
+    {
+      "position": "B1",
+      "title": "Open Your Eyes",
+      "duration": "3:18"
+    },
+    {
+      "position": "B2",
+      "title": "Sweet Feelin'",
+      "duration": "2:41"
+    },
+    {
+      "position": "B3",
+      "title": "Steamer Lane Breakdown",
+      "duration": "3:24"
+    },
+    {
+      "position": "B4",
+      "title": "You Never Change",
+      "duration": "3:26"
+    },
+    {
+      "position": "B5",
+      "title": "How Do The Fools Survive?",
+      "duration": "5:12"
+    }
+  ]
+}

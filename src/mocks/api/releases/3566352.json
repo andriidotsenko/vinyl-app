@@ -1,0 +1,88 @@
+{
+  "id": 3566352,
+  "artist_id": 278763,
+  "artist": "Jack White",
+  "title": "Blunderbuss",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock"
+  ],
+  "release_date": "2012-04-26",
+  "year": 2012,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/28l64wHOLkMzF4ONYn8YIrkKEZQCsTeuh3aM8tjsTFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjYz/NTItMTYzMDE2NDg1/Mi04MTUwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/45flnvgMvxYhlTO5Ec1Om6UAXQsDK-71Wmdw9xlWvvc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NjYz/NTItMTYzMDE2NDg1/Mi04MTUwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Missing Pieces",
+      "duration": "3:27"
+    },
+    {
+      "position": "A2",
+      "title": "Sixteen Saltines",
+      "duration": "2:37"
+    },
+    {
+      "position": "A3",
+      "title": "Freedom At 21",
+      "duration": "2:52"
+    },
+    {
+      "position": "A4",
+      "title": "Love Interruption",
+      "duration": "2:38"
+    },
+    {
+      "position": "A5",
+      "title": "Blunderbuss",
+      "duration": "3:07"
+    },
+    {
+      "position": "A6",
+      "title": "Hypocritical Kiss",
+      "duration": "2:50"
+    },
+    {
+      "position": "A7",
+      "title": "Weep Themselves To Sleep",
+      "duration": "4:19"
+    },
+    {
+      "position": "B1",
+      "title": "I'm Shakin'",
+      "duration": "3:00"
+    },
+    {
+      "position": "B2",
+      "title": "Trash Tongue Talker",
+      "duration": "3:20"
+    },
+    {
+      "position": "B3",
+      "title": "Hip (Eponymous) Poor Boy",
+      "duration": "3:04"
+    },
+    {
+      "position": "B4",
+      "title": "I Guess I Should Go To Sleep",
+      "duration": "2:39"
+    },
+    {
+      "position": "B5",
+      "title": "On And On And On",
+      "duration": "3:56"
+    },
+    {
+      "position": "B6",
+      "title": "Take Me With You When You Go",
+      "duration": "4:08"
+    }
+  ]
+}

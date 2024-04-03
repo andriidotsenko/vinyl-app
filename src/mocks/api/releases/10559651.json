@@ -1,0 +1,93 @@
+{
+  "id": 10559651,
+  "artist_id": 1778977,
+  "artist": "Kendrick Lamar",
+  "title": "Damn.",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Conscious"
+  ],
+  "release_date": "2017-07-14",
+  "year": 2017,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Yfr6N1yv57x1tMDxXZBvUCktorHfBog1-t7OP22VjKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU5/NjUxLTE1MDM2MTA4/MzQtNzIyOS5wbmc.jpeg",
+  "cover_image": "https://i.discogs.com/GpKKvCvX4NB3M7KCwKBmrE9CXNH9ugMvCpe_Abco2yQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTU5/NjUxLTE1MDM2MTA4/MzQtNzIyOS5wbmc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Blood.",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "DNA.",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Yah.",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Element.",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Feel.",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Loyalty.",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Pride.",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Humble.",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Lust.",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Love.",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "XXX.",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Fear.",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "God.",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Duckworth.",
+      "duration": ""
+    }
+  ]
+}

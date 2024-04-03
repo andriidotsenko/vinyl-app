@@ -1,0 +1,79 @@
+{
+  "id": 11112928,
+  "artist_id": 175395,
+  "artist": "Pearl Jam",
+  "title": "Ten",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Grunge"
+  ],
+  "release_date": "2017-11-10",
+  "year": 2017,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/Xups1YLQ-UBR_G1Nm4uS-VFAqnurkobkALQI-ktQVok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MTctMjY0Mi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/Gs5ge0VKnvKSmba15wtKHcNYcivyxfokHFbpeBFtVIk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTEy/OTI4LTE1MTA5NDgy/MTctMjY0Mi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Once",
+      "duration": "3:51"
+    },
+    {
+      "position": "A2",
+      "title": "Even Flow",
+      "duration": "4:53"
+    },
+    {
+      "position": "A3",
+      "title": "Alive",
+      "duration": "5:40"
+    },
+    {
+      "position": "A4",
+      "title": "Why Go",
+      "duration": "3:19"
+    },
+    {
+      "position": "A5",
+      "title": "Black",
+      "duration": "5:43"
+    },
+    {
+      "position": "A6",
+      "title": "Jeremy",
+      "duration": "5:18"
+    },
+    {
+      "position": "B1",
+      "title": "Oceans",
+      "duration": "2:41"
+    },
+    {
+      "position": "B2",
+      "title": "Porch",
+      "duration": "3:30"
+    },
+    {
+      "position": "B3",
+      "title": "Garden",
+      "duration": "4:58"
+    },
+    {
+      "position": "B4",
+      "title": "Deep",
+      "duration": "4:13"
+    },
+    {
+      "position": "B5",
+      "title": "Release",
+      "duration": "6:36"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 31381,
+  "artist_id": 3865,
+  "artist": "Herbie Hancock",
+  "title": "Head Hunters",
+  "all_genres": [
+    8
+  ],
+  "genre": 8,
+  "styles": [
+    "Jazz-Funk"
+  ],
+  "release_date": "1973-10-26",
+  "year": 1973,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/hNhSZVdUZjUKO3ST78dt9TQ-muc62zOH9CWVk7z4WYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/LTE0MzMyNTkxNDMt/ODUyMi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/PzhEnDeEy-u3foEvF-q1mPZDeTGt__d6k4j9XUZ7q_c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzgx/LTE0MzMyNTkxNDMt/ODUyMi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Chameleon",
+      "duration": "15:41"
+    },
+    {
+      "position": "A2",
+      "title": "Watermelon Man",
+      "duration": "6:29"
+    },
+    {
+      "position": "B1",
+      "title": "Sly",
+      "duration": "10:18"
+    },
+    {
+      "position": "B2",
+      "title": "Vein Melter",
+      "duration": "9:10"
+    }
+  ]
+}

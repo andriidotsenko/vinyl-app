@@ -1,0 +1,92 @@
+{
+  "id": 7250491,
+  "artist_id": 1245513,
+  "artist": "Tame Impala",
+  "title": "Currents",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Psychedelic Rock",
+    "Indie Rock",
+    "Indie Pop",
+    "Synth-pop"
+  ],
+  "release_date": "2015-07-17",
+  "year": 2015,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/nYT3LJUeAb9h-5cKtpLKg3Jfi44O1msEFbI6tneY_2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/NS0xNjUxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/RujXpx7IDYkQweZsmv6Ju5tZn8bm9YjZWGRHMV3UTyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/NS0xNjUxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Let It Happen",
+      "duration": "7:47"
+    },
+    {
+      "position": "A2",
+      "title": "Nangs",
+      "duration": "1:48"
+    },
+    {
+      "position": "A3",
+      "title": "The Moment",
+      "duration": "4:16"
+    },
+    {
+      "position": "B1",
+      "title": "Yes I'm Changing",
+      "duration": "4:31"
+    },
+    {
+      "position": "B2",
+      "title": "Eventually",
+      "duration": "5:19"
+    },
+    {
+      "position": "B3",
+      "title": "Gossip",
+      "duration": "0:55"
+    },
+    {
+      "position": "C1",
+      "title": "The Less I Know The Better",
+      "duration": "3:39"
+    },
+    {
+      "position": "C2",
+      "title": "Past Life",
+      "duration": "3:48"
+    },
+    {
+      "position": "C3",
+      "title": "Disciples",
+      "duration": "1:49"
+    },
+    {
+      "position": "C4",
+      "title": "Cause I'm A Man",
+      "duration": "4:02"
+    },
+    {
+      "position": "D1",
+      "title": "Reality In Motion",
+      "duration": "4:13"
+    },
+    {
+      "position": "D2",
+      "title": "Love / Paranoia",
+      "duration": "3:07"
+    },
+    {
+      "position": "D3",
+      "title": "New Person, Same Old Mistakes",
+      "duration": "6:02"
+    }
+  ]
+}

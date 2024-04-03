@@ -1,0 +1,50 @@
+{
+  "id": 9431705,
+  "artist_id": 45467,
+  "artist": "Pink Floyd",
+  "title": "Animals",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Prog Rock",
+    "Psychedelic Rock",
+    "Classic Rock"
+  ],
+  "release_date": "2016-12-02",
+  "year": 2016,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/xlf6cEZyVx0XX25BilPPeI88IJCdkxvjlmZKwjY2XpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzE3/MDUtMTQ4MDQ1OTcw/NS05NTA2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/T3dHh5EMgqD8zKGg2Viern-Oaba7xj89tAj76PXhOTw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MzE3/MDUtMTQ4MDQ1OTcw/NS05NTA2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Pigs On The Wing (Part One)",
+      "duration": "1:24"
+    },
+    {
+      "position": "A2",
+      "title": "Dogs",
+      "duration": "17:05"
+    },
+    {
+      "position": "B1",
+      "title": "Pigs (Three Different Ones)",
+      "duration": "11:26"
+    },
+    {
+      "position": "B2",
+      "title": "Sheep",
+      "duration": "10:19"
+    },
+    {
+      "position": "B3",
+      "title": "Pigs On The Wing (Part Two)",
+      "duration": "1:27"
+    }
+  ]
+}

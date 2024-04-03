@@ -1,0 +1,48 @@
+{
+  "id": 7606066,
+  "artist_id": 23755,
+  "artist": "Miles Davis",
+  "title": "Kind Of Blue",
+  "all_genres": [
+    8
+  ],
+  "genre": 8,
+  "styles": [
+    "Modal"
+  ],
+  "release_date": "2015-10-16",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/KL9UZRRlr8ePHIDPfgAmvEnMw8a138qSwph-Cl5fTGs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDYw/NjYtMTYzMjM0NDQ5/MS0zODU4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/ws0srp03LpJHzSZobGsomlc4AHn20D9VbLVmpkIKD_k/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MDYw/NjYtMTYzMjM0NDQ5/MS0zODU4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "So What",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Freddie Freeloader",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Blue In Green",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "All Blues",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Flamenco Sketches",
+      "duration": ""
+    }
+  ]
+}

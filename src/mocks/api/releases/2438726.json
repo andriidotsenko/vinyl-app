@@ -1,0 +1,55 @@
+{
+  "id": 2438726,
+  "artist_id": 48412,
+  "artist": "Iron Butterfly",
+  "title": "In-A-Gadda-Da-Vida",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Psychedelic Rock",
+    "Experimental",
+    "Classic Rock"
+  ],
+  "release_date": "1968",
+  "year": 1968,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Kh9ugiiXMEy64QBB62vodcCwK78-Mg45BLAP7aMyYWU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg3/MjYtMTM5NjQ1Mzgz/Ny02ODAyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/r6lCKVSWUxY4WJei0m81BssdPuULJLCRyQqH0f95i8o/rs:fit/g:sm/q:90/h:607/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg3/MjYtMTM5NjQ1Mzgz/Ny02ODAyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Most Anything You Want",
+      "duration": "3:41"
+    },
+    {
+      "position": "A2",
+      "title": "Flowers And Beads",
+      "duration": "3:05"
+    },
+    {
+      "position": "A3",
+      "title": "My Mirage",
+      "duration": "4:51"
+    },
+    {
+      "position": "A4",
+      "title": "Termination",
+      "duration": "2:50"
+    },
+    {
+      "position": "A5",
+      "title": "Are You Happy",
+      "duration": "4:28"
+    },
+    {
+      "position": "B",
+      "title": "In-A-Gadda-Da-Vida",
+      "duration": "17:05"
+    }
+  ]
+}

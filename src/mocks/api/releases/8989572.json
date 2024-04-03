@@ -1,0 +1,63 @@
+{
+  "id": 8989572,
+  "artist_id": 36665,
+  "artist": "Nick Cave & The Bad Seeds",
+  "title": "Skeleton Tree",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock"
+  ],
+  "release_date": "2016-09-09",
+  "year": 2016,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/RI5KUS8wH9goQVZUc2EOY9fsOS-fdIf2cHrjLBQg6oo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODk1/NzItMTUxOTA1ODM2/OC02NTI1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/OFogpKQ8d5SFoWOcjGvr2YP2tHra0PnqRdjxbG4EUNk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5ODk1/NzItMTUxOTA1ODM2/OC02NTI1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Jesus Alone",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Rings Of Saturn",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Girl In Amber",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Magneto",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Anthrocene",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "I Need You",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Distant Sky",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Skeleton Tree",
+      "duration": ""
+    }
+  ]
+}

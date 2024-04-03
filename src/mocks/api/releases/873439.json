@@ -1,0 +1,83 @@
+{
+  "id": 873439,
+  "artist_id": 47333,
+  "artist": "Fleetwood Mac",
+  "title": "Mirage",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1982",
+  "year": 1982,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/SzFh92TLnqUh9oaCA_-gblcs8iXEB1o27oQpb7VJOok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzQz/OS0xNDQxNzc4NDkz/LTgwNjUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/kGjx8HQZtrtr3yxe7OgsKgMDQ31eoh9Kw9g0S0XA4GY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3MzQz/OS0xNDQxNzc4NDkz/LTgwNjUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Love In Store",
+      "duration": "3:14"
+    },
+    {
+      "position": "A2",
+      "title": "Can't Go Back",
+      "duration": "2:42"
+    },
+    {
+      "position": "A3",
+      "title": "That's Alright",
+      "duration": "3:09"
+    },
+    {
+      "position": "A4",
+      "title": "Book Of Love",
+      "duration": "3:21"
+    },
+    {
+      "position": "A5",
+      "title": "Gypsy",
+      "duration": "4:24"
+    },
+    {
+      "position": "A6",
+      "title": "Only Over You",
+      "duration": "4:08"
+    },
+    {
+      "position": "B1",
+      "title": "Empire State",
+      "duration": "2:51"
+    },
+    {
+      "position": "B2",
+      "title": "Straight Back",
+      "duration": "4:17"
+    },
+    {
+      "position": "B3",
+      "title": "Hold Me",
+      "duration": "3:44"
+    },
+    {
+      "position": "B4",
+      "title": "Oh Diane",
+      "duration": "2:33"
+    },
+    {
+      "position": "B5",
+      "title": "Eyes Of The World",
+      "duration": "3:44"
+    },
+    {
+      "position": "B6",
+      "title": "Wish You Were Here",
+      "duration": "4:45"
+    }
+  ]
+}

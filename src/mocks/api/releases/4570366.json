@@ -1,0 +1,95 @@
+{
+  "id": 4570366,
+  "artist_id": 1289,
+  "artist": "Daft Punk",
+  "title": "Random Access Memories",
+  "all_genres": [
+    1,
+    2,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Disco",
+    "Funk",
+    "Synth-pop",
+    "Electro"
+  ],
+  "release_date": "2013-05-17",
+  "year": 2013,
+  "all_countries": [
+    "uk",
+    "europe",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/9yHWcIsR42F3E1h-du9w3wRlEnd8w5tSeLlGNjQ-so0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzAz/NjYtMTUzOTI5NTA5/Mi02MDg3LnBuZw.jpeg",
+  "cover_image": "https://i.discogs.com/zFVZE4s0zSXUIM7OMl2UDckSq0zlopdHBHRz23zqMJk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzAz/NjYtMTUzOTI5NTA5/Mi02MDg3LnBuZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Give Life Back To Music",
+      "duration": "4:35"
+    },
+    {
+      "position": "A2",
+      "title": "The Game Of Love",
+      "duration": "5:22"
+    },
+    {
+      "position": "A3",
+      "title": "Giorgio By Moroder",
+      "duration": "9:04"
+    },
+    {
+      "position": "B1",
+      "title": "Within",
+      "duration": "3:48"
+    },
+    {
+      "position": "B2",
+      "title": "Instant Crush",
+      "duration": "5:37"
+    },
+    {
+      "position": "B3",
+      "title": "Lose Yourself To Dance",
+      "duration": "5:53"
+    },
+    {
+      "position": "C1",
+      "title": "Touch",
+      "duration": "8:18"
+    },
+    {
+      "position": "C2",
+      "title": "Get Lucky",
+      "duration": "6:09"
+    },
+    {
+      "position": "C3",
+      "title": "Beyond",
+      "duration": "4:50"
+    },
+    {
+      "position": "D1",
+      "title": "Motherboard",
+      "duration": "5:41"
+    },
+    {
+      "position": "D2",
+      "title": "Fragments Of Time",
+      "duration": "4:39"
+    },
+    {
+      "position": "D3",
+      "title": "Doin' It Right",
+      "duration": "4:11"
+    },
+    {
+      "position": "D4",
+      "title": "Contact",
+      "duration": "6:23"
+    }
+  ]
+}

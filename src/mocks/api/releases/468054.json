@@ -1,0 +1,80 @@
+{
+  "id": 468054,
+  "artist_id": 20991,
+  "artist": "The Rolling Stones",
+  "title": "Tattoo You",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Blues Rock",
+    "Rock & Roll"
+  ],
+  "release_date": "1981-08-24",
+  "year": 1981,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/-beA085D_hRY2GGvET1JWO1YTQ7U0rPaYE8d3Sk5LMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODA1/NC0xNjg3MDk5Njky/LTk0MjQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/tquWOQI8Em10Jdw6XBKKgXTD7kQQjd_B2-JlTqkPuVk/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2ODA1/NC0xNjg3MDk5Njky/LTk0MjQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Start Me Up",
+      "duration": "3:32"
+    },
+    {
+      "position": "A2",
+      "title": "Hang Fire",
+      "duration": "2:22"
+    },
+    {
+      "position": "A3",
+      "title": "Slave",
+      "duration": "4:59"
+    },
+    {
+      "position": "A4",
+      "title": "Little T & A",
+      "duration": "3:24"
+    },
+    {
+      "position": "A5",
+      "title": "Black Limousine",
+      "duration": "3:31"
+    },
+    {
+      "position": "A6",
+      "title": "Neighbours",
+      "duration": "3:38"
+    },
+    {
+      "position": "B1",
+      "title": "Worried About You",
+      "duration": "5:18"
+    },
+    {
+      "position": "B2",
+      "title": "Tops",
+      "duration": "3:47"
+    },
+    {
+      "position": "B3",
+      "title": "Heaven",
+      "duration": "4:22"
+    },
+    {
+      "position": "B4",
+      "title": "No Use In Crying",
+      "duration": "3:28"
+    },
+    {
+      "position": "B5",
+      "title": "Waiting On A Friend",
+      "duration": "4:45"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 14510978,
+  "artist_id": 2508414,
+  "artist": "Harry Styles",
+  "title": "Fine Line",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "2019-12-13",
+  "year": 2019,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/ikhZ3hv4SHvaoGJE9bwDJZ8WbLyNHiHMbPRqZ0IvgO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/OTc4LTE2MTU0OTcz/NTAtMjgyMy5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/kommzwVkXGWGIbMnlcb1WlN-q_MFOtB16UvL7Zu92xI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTEw/OTc4LTE2MTU0OTcz/NTAtMjgyMy5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Golden",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Watermelon Sugar",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Adore You",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Lights Up",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Cherry",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Falling ",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "To Be So Lonely",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "She",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Sunflower, Vol. 6",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Canyon Moon",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Treat People With Kindness",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Fine Line",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1108650,
+  "artist_id": 137418,
+  "artist": "Billy Joel",
+  "title": "The Stranger",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1977",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/aM8V3lij9F1rcoPUoxVZvncdv5Zi-wvJn9kv5_l3H4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg2/NTAtMTQ0MTI3MTQ2/Ni05ODc0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/oi49eCmaVseMdfmm9xcBDeuich-TCr_yn2AOU7Ax4AM/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg2/NTAtMTQ0MTI3MTQ2/Ni05ODc0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Movin' Out (Anthony's Song)",
+      "duration": "3:30"
+    },
+    {
+      "position": "A2",
+      "title": "The Stranger",
+      "duration": "5:08"
+    },
+    {
+      "position": "A3",
+      "title": "Just The Way You Are",
+      "duration": "4:50"
+    },
+    {
+      "position": "A4",
+      "title": "Scenes From An Italian Restaurant",
+      "duration": "7:35"
+    },
+    {
+      "position": "B1",
+      "title": "Vienna",
+      "duration": "3:32"
+    },
+    {
+      "position": "B2",
+      "title": "Only The Good Die Young",
+      "duration": "3:54"
+    },
+    {
+      "position": "B3",
+      "title": "She's Always A Woman",
+      "duration": "3:19"
+    },
+    {
+      "position": "B4",
+      "title": "Get It Right The First Time",
+      "duration": "3:54"
+    },
+    {
+      "position": "B5",
+      "title": "Everybody Has A Dream",
+      "duration": "4:35"
+    },
+    {
+      "position": "B6",
+      "title": "Untitled",
+      "duration": "1:57"
+    }
+  ]
+}

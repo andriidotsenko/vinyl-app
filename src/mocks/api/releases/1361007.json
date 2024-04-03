@@ -1,0 +1,72 @@
+{
+  "id": 1361007,
+  "artist_id": 1042739,
+  "artist": "Bon Iver",
+  "title": "For Emma, Forever Ago",
+  "all_genres": [
+    4,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Acoustic",
+    "Indie Rock",
+    "Folk"
+  ],
+  "release_date": "2008-02-19",
+  "year": 2008,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/GWMQzEvOofzXylZ76nms2luiJsTq3iH9P2t9p9j7XoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEw/MDctMTIxMjgwNDk3/My5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/PdpA5o2n31ijOV9lQFgIKqXpiAzj7IB7leNqmMoE2-M/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjEw/MDctMTIxMjgwNDk3/My5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Flume",
+      "duration": "3:39"
+    },
+    {
+      "position": "A2",
+      "title": "Lump Sum",
+      "duration": "3:21"
+    },
+    {
+      "position": "A3",
+      "title": "Skinny Love",
+      "duration": "3:58"
+    },
+    {
+      "position": "A4",
+      "title": "The Wolves (Act I And II)",
+      "duration": "5:22"
+    },
+    {
+      "position": "B1",
+      "title": "Blindsided",
+      "duration": "5:29"
+    },
+    {
+      "position": "B2",
+      "title": "Creature Fear",
+      "duration": "3:06"
+    },
+    {
+      "position": "B3",
+      "title": "Team",
+      "duration": "1:56"
+    },
+    {
+      "position": "B4",
+      "title": "For Emma",
+      "duration": "3:40"
+    },
+    {
+      "position": "B5",
+      "title": "Re: Stacks",
+      "duration": "6:40"
+    }
+  ]
+}

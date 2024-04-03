@@ -1,0 +1,74 @@
+{
+  "id": 8385679,
+  "artist_id": 18839,
+  "artist": "Metallica",
+  "title": "Kill 'Em All",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Thrash",
+    "Speed Metal"
+  ],
+  "release_date": "2016-04-15",
+  "year": 2016,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/uzikxZ7hGGeCzhaU_taVGWEBKCieLuK_sqouWItf2Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODU2/NzktMTUxNjU2MTU2/NS04MDAzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/fjmCHEdjfD_KFpyRLHk2tcMYahUFzUny3sZ92Li38HQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODU2/NzktMTUxNjU2MTU2/NS04MDAzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hit The Lights",
+      "duration": "4:17"
+    },
+    {
+      "position": "A2",
+      "title": "The Four Horsemen",
+      "duration": "7:08"
+    },
+    {
+      "position": "A3",
+      "title": "Motorbreath",
+      "duration": "3:03"
+    },
+    {
+      "position": "A4",
+      "title": "Jump In The Fire",
+      "duration": "4:50"
+    },
+    {
+      "position": "A5",
+      "title": "(Anesthesia)-Pulling Teeth",
+      "duration": "3:27"
+    },
+    {
+      "position": "A6",
+      "title": "Whiplash",
+      "duration": "4:06"
+    },
+    {
+      "position": "B1",
+      "title": "Phantom Lord",
+      "duration": "4:52"
+    },
+    {
+      "position": "B2",
+      "title": "No Remorse",
+      "duration": "6:24"
+    },
+    {
+      "position": "B3",
+      "title": "Seek & Destroy",
+      "duration": "6:50"
+    },
+    {
+      "position": "B4",
+      "title": "Metal Militia",
+      "duration": "6:06"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1587168,
+  "artist_id": 3840,
+  "artist": "Radiohead",
+  "title": "OK Computer",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Experimental",
+    "Art Rock"
+  ],
+  "release_date": "2008",
+  "year": 2008,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/kR8i2ZRSUafJyLczI4VWHDwiCSxTuQa9xPsx0uCWwCI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcx/NjgtMTY0NzQ0NTg0/My00ODU0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/VnYA9gk2yWIQtPwljiI9I4_d_lXODBY582RquPzs_sg/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1ODcx/NjgtMTY0NzQ0NTg0/My00ODU0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Eeny",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Airbag",
+      "duration": "4:44"
+    },
+    {
+      "position": "A2",
+      "title": "Paranoid Android",
+      "duration": "6:23"
+    },
+    {
+      "position": "A3",
+      "title": "Subterranean Homesick Alien",
+      "duration": "4:27"
+    },
+    {
+      "position": "",
+      "title": "Meeny",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Exit Music (For A Film)",
+      "duration": "4:24"
+    },
+    {
+      "position": "B5",
+      "title": "Let Down",
+      "duration": "4:59"
+    },
+    {
+      "position": "B6",
+      "title": "Karma Police",
+      "duration": "4:21"
+    },
+    {
+      "position": "",
+      "title": "Miney",
+      "duration": ""
+    },
+    {
+      "position": "C7",
+      "title": "Fitter Happier",
+      "duration": "1:57"
+    },
+    {
+      "position": "C8",
+      "title": "Electioneering",
+      "duration": "3:50"
+    },
+    {
+      "position": "C9",
+      "title": "Climbing Up The Walls",
+      "duration": "4:45"
+    },
+    {
+      "position": "C10",
+      "title": "No Surprises",
+      "duration": "3:48"
+    },
+    {
+      "position": "",
+      "title": "Mo",
+      "duration": ""
+    },
+    {
+      "position": "D11",
+      "title": "Lucky",
+      "duration": "4:19"
+    },
+    {
+      "position": "D12",
+      "title": "The Tourist",
+      "duration": "5:24"
+    }
+  ]
+}

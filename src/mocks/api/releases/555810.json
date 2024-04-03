@@ -1,0 +1,68 @@
+{
+  "id": 555810,
+  "artist_id": 59792,
+  "artist": "Bob Dylan",
+  "title": "Desire",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock"
+  ],
+  "release_date": "1976-01-05",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/uGs9fPZ8Q3SlkPKPAw4OoU-OrtR1vMh1dLQ6L8Enoso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTgx/MC0xMzgzNzAwNjA5/LTczNzIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/u7pvZ8gqWzPR8yX_2FVM4EonfU_4dgyuIhIsEouPWL0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTgx/MC0xMzgzNzAwNjA5/LTczNzIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hurricane",
+      "duration": "8:33"
+    },
+    {
+      "position": "A2",
+      "title": "Isis",
+      "duration": "6:58"
+    },
+    {
+      "position": "A3",
+      "title": "Mozambique",
+      "duration": "3:00"
+    },
+    {
+      "position": "A4",
+      "title": "One More Cup Of Coffee",
+      "duration": "3:43"
+    },
+    {
+      "position": "A5",
+      "title": "Oh, Sister",
+      "duration": "4:05"
+    },
+    {
+      "position": "B1",
+      "title": "Joey",
+      "duration": "11:05"
+    },
+    {
+      "position": "B2",
+      "title": "Romance In Durango",
+      "duration": "5:50"
+    },
+    {
+      "position": "B3",
+      "title": "Black Diamond Bay",
+      "duration": "7:30"
+    },
+    {
+      "position": "B4",
+      "title": "Sara",
+      "duration": "5:29"
+    }
+  ]
+}

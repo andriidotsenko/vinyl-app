@@ -1,0 +1,163 @@
+{
+  "id": 16038490,
+  "artist_id": 260575,
+  "artist": "Tom Petty",
+  "title": "Wildflowers & All The Rest",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock",
+    "Folk Rock",
+    "Rock & Roll",
+    "Pop Rock"
+  ],
+  "release_date": "2020-10-16",
+  "year": 2020,
+  "all_countries": [
+    "uk",
+    "europe",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/-XAzpDbqVGT7uQo8Ewjx1kmLAc5Mh5xnwR_cda4imN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NDkwLTE2MDQ4MDI1/ODYtNTAxOS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/7oHOdHjM1EmkuDGiKSr5tvQz4c0VzoPmka_KI46tKF4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NDkwLTE2MDQ4MDI1/ODYtNTAxOS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "Wildflowers",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Wildflowers",
+      "duration": "3:12"
+    },
+    {
+      "position": "A2",
+      "title": "You Don't Know How It Feels",
+      "duration": "4:49"
+    },
+    {
+      "position": "A3",
+      "title": "Time To Move On",
+      "duration": "3:15"
+    },
+    {
+      "position": "A4",
+      "title": "You Wreck Me",
+      "duration": "3:23"
+    },
+    {
+      "position": "B1",
+      "title": "It's Good To Be King",
+      "duration": "5:11"
+    },
+    {
+      "position": "B2",
+      "title": "Only A Broken Heart",
+      "duration": "4:31"
+    },
+    {
+      "position": "B3",
+      "title": "Honey Bee",
+      "duration": "4:59"
+    },
+    {
+      "position": "B4",
+      "title": "Don't Fade On Me",
+      "duration": "3:32"
+    },
+    {
+      "position": "C1",
+      "title": "Hard On Me",
+      "duration": "3:49"
+    },
+    {
+      "position": "C2",
+      "title": "Cabin Down Below",
+      "duration": "2:51"
+    },
+    {
+      "position": "C3",
+      "title": "To Find A Friend",
+      "duration": "3:24"
+    },
+    {
+      "position": "C4",
+      "title": "A Higher Place",
+      "duration": "3:56"
+    },
+    {
+      "position": "D1",
+      "title": "House In The Woods",
+      "duration": "5:32"
+    },
+    {
+      "position": "D2",
+      "title": "Crawling Back To You",
+      "duration": "5:06"
+    },
+    {
+      "position": "D3",
+      "title": "Wake Up Time",
+      "duration": "5:19"
+    },
+    {
+      "position": "",
+      "title": "All The Rest",
+      "duration": ""
+    },
+    {
+      "position": "E1",
+      "title": "Something Could Happen",
+      "duration": "4:34"
+    },
+    {
+      "position": "E2",
+      "title": "Leave Virginia Alone",
+      "duration": "4:15"
+    },
+    {
+      "position": "E3",
+      "title": "Climb That Hill Blues",
+      "duration": "2:33"
+    },
+    {
+      "position": "E4",
+      "title": "Confusion Wheel",
+      "duration": "4:20"
+    },
+    {
+      "position": "E5",
+      "title": "California",
+      "duration": "2:37"
+    },
+    {
+      "position": "F1",
+      "title": "Harry Green",
+      "duration": "3:53"
+    },
+    {
+      "position": "F2",
+      "title": "Hope You Never",
+      "duration": "3:02"
+    },
+    {
+      "position": "F3",
+      "title": "Somewhere Under Heaven",
+      "duration": "4:38"
+    },
+    {
+      "position": "F4",
+      "title": "Climb That Hill",
+      "duration": "3:33"
+    },
+    {
+      "position": "F5",
+      "title": "Hung Up And Overdue",
+      "duration": "6:02"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 681945,
+  "artist_id": 246650,
+  "artist": "The Grateful Dead",
+  "title": "American Beauty",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock"
+  ],
+  "release_date": "1970-11-00",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/oXYqAYtvTumA-TPuTmhPOeuUEvdOm3QXrynmI2M5Lzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTk0/NS0xMTk5NDAzMzIz/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/CFcbNgcfVEO4kx_FHmw0tyVIeMPlxLmYoOHNTnIOTV4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTk0/NS0xMTk5NDAzMzIz/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Box Of Rain",
+      "duration": "5:16"
+    },
+    {
+      "position": "A2",
+      "title": "Friend Of The Devil",
+      "duration": "3:20"
+    },
+    {
+      "position": "A3",
+      "title": "Sugar Magnolia",
+      "duration": "3:15"
+    },
+    {
+      "position": "A4",
+      "title": "Operator",
+      "duration": "2:21"
+    },
+    {
+      "position": "A5",
+      "title": "Candyman",
+      "duration": "6:12"
+    },
+    {
+      "position": "B1",
+      "title": "Ripple",
+      "duration": "4:10"
+    },
+    {
+      "position": "B2",
+      "title": "Brokedown Palace",
+      "duration": "4:18"
+    },
+    {
+      "position": "B3",
+      "title": "Till The Morning Comes",
+      "duration": "3:13"
+    },
+    {
+      "position": "B4",
+      "title": "Attics Of My Life",
+      "duration": "5:09"
+    },
+    {
+      "position": "B5",
+      "title": "Truckin",
+      "duration": "5:09"
+    }
+  ]
+}

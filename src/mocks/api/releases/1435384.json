@@ -1,0 +1,79 @@
+{
+  "id": 1435384,
+  "artist_id": 255672,
+  "artist": "The Jimi Hendrix Experience",
+  "title": "Are You Experienced?",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Psychedelic Rock"
+  ],
+  "release_date": "1967-08-23",
+  "year": 1967,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/mnBpBdNhcopESbWwqJU8cRxrztg0fcQHIXKbm34b-Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUz/ODQtMTM0MDY3MTUz/OC04ODA4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/euujDFoDVeRYRF1V0Ce913ce-vA4HR-r0mJYqbTSDLE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUz/ODQtMTM0MDY3MTUz/OC04ODA4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Purple Haze",
+      "duration": "2:46"
+    },
+    {
+      "position": "A2",
+      "title": "Manic Depression",
+      "duration": "3:30"
+    },
+    {
+      "position": "A3",
+      "title": "Hey Joe",
+      "duration": "3:23"
+    },
+    {
+      "position": "A4",
+      "title": "Love Or Confusion",
+      "duration": "3:15"
+    },
+    {
+      "position": "A5",
+      "title": "May This Be Love",
+      "duration": "2:55"
+    },
+    {
+      "position": "A6",
+      "title": "I Don't Live Today",
+      "duration": "3:55"
+    },
+    {
+      "position": "B1",
+      "title": "The Wind Cries Mary",
+      "duration": "3:21"
+    },
+    {
+      "position": "B2",
+      "title": "Fire",
+      "duration": "2:34"
+    },
+    {
+      "position": "B3",
+      "title": "Third Stone From The Sun",
+      "duration": "6:40"
+    },
+    {
+      "position": "B4",
+      "title": "Foxey Lady",
+      "duration": "3:15"
+    },
+    {
+      "position": "B5",
+      "title": "Are You Experienced?",
+      "duration": "3:55"
+    }
+  ]
+}

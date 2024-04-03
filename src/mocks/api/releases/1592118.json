@@ -1,0 +1,82 @@
+{
+  "id": 1592118,
+  "artist_id": 207958,
+  "artist": "Animal Collective",
+  "title": "Merriweather Post Pavilion",
+  "all_genres": [
+    1,
+    4,
+    2
+  ],
+  "genre": 1,
+  "styles": [
+    "Indie Rock",
+    "Experimental",
+    "Psychedelic"
+  ],
+  "release_date": "2009-01-06",
+  "year": 2009,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/0-f7TEOgGIVzjzlut9F2HkcLVTqV5JUDOZDjmXSHcAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIx/MTgtMTIzMDc5OTk5/Ny5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/7PO58jL3ee8ev8st01DxesiJ41FeFkDXyZyR0R3ghdE/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIx/MTgtMTIzMDc5OTk5/Ny5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "In The Flowers",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "My Girls",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Also Frightened",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Summertime Clothes",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Daily Routine",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Bluish",
+      "duration": ""
+    },
+    {
+      "position": "C7",
+      "title": "Guys Eyes",
+      "duration": ""
+    },
+    {
+      "position": "C8",
+      "title": "Taste",
+      "duration": ""
+    },
+    {
+      "position": "C9",
+      "title": "Lion In A Coma",
+      "duration": ""
+    },
+    {
+      "position": "D10",
+      "title": "No More Runnin",
+      "duration": ""
+    },
+    {
+      "position": "D11",
+      "title": "Brother Sport",
+      "duration": ""
+    }
+  ]
+}

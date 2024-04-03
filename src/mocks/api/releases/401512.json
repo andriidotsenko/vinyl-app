@@ -1,0 +1,94 @@
+{
+  "id": 401512,
+  "artist_id": 228859,
+  "artist": "Peter Frampton",
+  "title": "Frampton Comes Alive!",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Rock & Roll",
+    "Pop Rock"
+  ],
+  "release_date": "1976",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/-R-hDaoDJALQgVkmhYdkHeWuT2LSDd0Jldq3QLplSrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTUx/Mi0xMzIzNDcwMDAy/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/PqwUWOr1fHTqQvVIkBCu-cnzQmf11R_NhO_CWperqYg/rs:fit/g:sm/q:90/h:590/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTUx/Mi0xMzIzNDcwMDAy/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Something's Happening",
+      "duration": "5:54"
+    },
+    {
+      "position": "A2",
+      "title": "Doobie Wah",
+      "duration": "5:28"
+    },
+    {
+      "position": "A3",
+      "title": "Show Me The Way",
+      "duration": "4:42"
+    },
+    {
+      "position": "A4",
+      "title": "It's A Plain Shame",
+      "duration": "4:21"
+    },
+    {
+      "position": "B1",
+      "title": "All I Want To Be (Is By Your Side)",
+      "duration": "3:27"
+    },
+    {
+      "position": "B2",
+      "title": "Wind Of Change",
+      "duration": "2:47"
+    },
+    {
+      "position": "B3",
+      "title": "Baby, I Love Your Way",
+      "duration": "4:43"
+    },
+    {
+      "position": "B4",
+      "title": "I Wanna Go To The Sun",
+      "duration": "7:02"
+    },
+    {
+      "position": "C1",
+      "title": "Penny For Your Thoughts",
+      "duration": "1:23"
+    },
+    {
+      "position": "C2",
+      "title": "(I'll Give You) Money",
+      "duration": "5:39"
+    },
+    {
+      "position": "C3",
+      "title": "Shine On",
+      "duration": "3:35"
+    },
+    {
+      "position": "C4",
+      "title": "Jumping Jack Flash",
+      "duration": "7:45"
+    },
+    {
+      "position": "D1",
+      "title": "Lines On My Face",
+      "duration": "7:06"
+    },
+    {
+      "position": "D2",
+      "title": "Do You Feel Like We Do",
+      "duration": "14:15"
+    }
+  ]
+}

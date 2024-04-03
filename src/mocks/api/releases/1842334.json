@@ -1,0 +1,59 @@
+{
+  "id": 1842334,
+  "artist_id": 160906,
+  "artist": "Steely Dan",
+  "title": "Aja",
+  "all_genres": [
+    8,
+    4
+  ],
+  "genre": 8,
+  "styles": [
+    "Jazz-Rock"
+  ],
+  "release_date": "1977",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/BM4FrhNKZNhF3d1uTsFa12PQeph9Z0bSOgjBiEXxfsM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDIz/MzQtMTMxOTU5NTc4/NC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/3Pxzvua2yABfdbcOVeiTdXiLvIYxULvquQzSG6Cj-ak/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NDIz/MzQtMTMxOTU5NTc4/NC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Black Cow",
+      "duration": "5:07"
+    },
+    {
+      "position": "A2",
+      "title": "Aja",
+      "duration": "7:56"
+    },
+    {
+      "position": "A3",
+      "title": "Deacon Blues",
+      "duration": "7:26"
+    },
+    {
+      "position": "B1",
+      "title": "Peg",
+      "duration": "3:58"
+    },
+    {
+      "position": "B2",
+      "title": "Home At Last",
+      "duration": "5:31"
+    },
+    {
+      "position": "B3",
+      "title": "I Got The News",
+      "duration": "5:03"
+    },
+    {
+      "position": "B4",
+      "title": "Josie",
+      "duration": "4:30"
+    }
+  ]
+}

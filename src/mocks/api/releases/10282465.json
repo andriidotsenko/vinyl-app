@@ -1,0 +1,77 @@
+{
+  "id": 10282465,
+  "artist_id": 2508414,
+  "artist": "Harry Styles",
+  "title": "Harry Styles",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Soft Rock",
+    "Vocal",
+    "Ballad"
+  ],
+  "release_date": "2017-05-12",
+  "year": 2017,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/4cQYMDT6DMEUNleErAQ2PZwl2SFNU5QhpyJsCIiwneA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgy/NDY1LTE1MTUxMDg5/NDgtNjM0MS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/azYJPGrO9DN5dlg8Y18whBuuCYEgnqi8aoNaGiSkjqw/rs:fit/g:sm/q:90/h:450/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgy/NDY1LTE1MTUxMDg5/NDgtNjM0MS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Meet Me In The Hallway",
+      "duration": "3:47"
+    },
+    {
+      "position": "A2",
+      "title": "Sign Of The Times",
+      "duration": "5:40"
+    },
+    {
+      "position": "A3",
+      "title": "Carolina",
+      "duration": "3:09"
+    },
+    {
+      "position": "A4",
+      "title": "Two Ghosts",
+      "duration": "3:49"
+    },
+    {
+      "position": "A5",
+      "title": "Sweet Creature",
+      "duration": "3:44"
+    },
+    {
+      "position": "B1",
+      "title": "Only Angel",
+      "duration": "4:51"
+    },
+    {
+      "position": "B2",
+      "title": "Kiwi",
+      "duration": "2:56"
+    },
+    {
+      "position": "B3",
+      "title": "Ever Since New York",
+      "duration": "4:13"
+    },
+    {
+      "position": "B4",
+      "title": "Woman",
+      "duration": "4:38"
+    },
+    {
+      "position": "B5",
+      "title": "From The Dining Table",
+      "duration": "3:31"
+    }
+  ]
+}

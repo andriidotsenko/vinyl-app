@@ -1,0 +1,105 @@
+{
+  "id": 448302,
+  "artist_id": 251517,
+  "artist": "Supertramp",
+  "title": "Paris",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Art Rock",
+    "Pop Rock",
+    "Prog Rock"
+  ],
+  "release_date": "1980",
+  "year": 1980,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/wrePzq1iE_vmcwg5J0h8D_OCuTy2ipen_KqnUdY_ofg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODMw/Mi0xNjQ5MDcxMDYx/LTM4MzMuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/F2kqTgHRInb2D5cypabNg3WFqdkVblvjMaC-rMFhOP4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODMw/Mi0xNjQ5MDcxMDYx/LTM4MzMuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "School",
+      "duration": "5:20"
+    },
+    {
+      "position": "A2",
+      "title": "Ain't Nobody But Me",
+      "duration": "4:53"
+    },
+    {
+      "position": "A3",
+      "title": "The Logical Song",
+      "duration": "3:41"
+    },
+    {
+      "position": "A4",
+      "title": "Bloody Well Right",
+      "duration": "6:11"
+    },
+    {
+      "position": "B1",
+      "title": "Breakfast In America",
+      "duration": "2:36"
+    },
+    {
+      "position": "B2",
+      "title": "You Started Laughing",
+      "duration": "3:50"
+    },
+    {
+      "position": "B3",
+      "title": "Hide In Your Shell",
+      "duration": "6:36"
+    },
+    {
+      "position": "B4",
+      "title": "From Now On",
+      "duration": "6:44"
+    },
+    {
+      "position": "C1",
+      "title": "Dreamer",
+      "duration": "3:15"
+    },
+    {
+      "position": "C2",
+      "title": "Rudy",
+      "duration": "6:51"
+    },
+    {
+      "position": "C3",
+      "title": "A Soapbox Opera",
+      "duration": "4:33"
+    },
+    {
+      "position": "C4",
+      "title": "Asylum",
+      "duration": "6:41"
+    },
+    {
+      "position": "D1",
+      "title": "Take The Long Way Home",
+      "duration": "4:35"
+    },
+    {
+      "position": "D2",
+      "title": "Fool's Overture",
+      "duration": "10:14"
+    },
+    {
+      "position": "D3",
+      "title": "Two Of Us",
+      "duration": "1:23"
+    },
+    {
+      "position": "D4",
+      "title": "Crime Of The Century",
+      "duration": "6:14"
+    }
+  ]
+}

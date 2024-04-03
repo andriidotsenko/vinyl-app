@@ -1,0 +1,74 @@
+{
+  "id": 22840,
+  "artist_id": 2774,
+  "artist": "Portishead",
+  "title": "Dummy",
+  "all_genres": [
+    1
+  ],
+  "genre": 1,
+  "styles": [
+    "Trip Hop",
+    "Downtempo"
+  ],
+  "release_date": "1994-10-00",
+  "year": 1994,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/XW0P0RnHiLKeqEShQMkfQ8uClNLJzEFUSNA8EcTgCMA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/LTE1NTMyMjk0MDQt/OTA0OS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/f6bScEsfOE_hOH8MZV2W95wd5VjDTwy41z_H5jRpbBM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODQw/LTE1NTMyMjk0MDQt/OTA0OS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Mysterons",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Sour Times",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Strangers",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "It Could Be Sweet",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Wandering Star",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Numb",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Roads",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Pedestal",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Biscuit",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Glory Box",
+      "duration": ""
+    }
+  ]
+}

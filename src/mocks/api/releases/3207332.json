@@ -1,0 +1,84 @@
+{
+  "id": 3207332,
+  "artist_id": 50997,
+  "artist": "Nas",
+  "title": "Illmatic",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Conscious",
+    "Boom Bap"
+  ],
+  "release_date": "2006",
+  "year": 2006,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/gL1C7w4nfnf6rjhTeBpE_RCKrx6dpHzDpNgSEYeMNYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDcz/MzItMTMyMDUxMDYz/MS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/Lg0UC0z5cu0rudtKY22BKu91Wn_1D-PbxHKYXXnovmA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMDcz/MzItMTMyMDUxMDYz/MS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "40 Side North",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "The Genesis",
+      "duration": "1:45"
+    },
+    {
+      "position": "A2",
+      "title": "N.Y. State Of Mind",
+      "duration": "4:53"
+    },
+    {
+      "position": "A3",
+      "title": "Life's A Bitch",
+      "duration": "3:29"
+    },
+    {
+      "position": "A4",
+      "title": "The World Is Yours",
+      "duration": "4:50"
+    },
+    {
+      "position": "A5",
+      "title": "Halftime",
+      "duration": "4:20"
+    },
+    {
+      "position": "",
+      "title": "41st Side South",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Memory Lane (Sittin' In Da Park)",
+      "duration": "4:07"
+    },
+    {
+      "position": "B2",
+      "title": "One Love",
+      "duration": "5:24"
+    },
+    {
+      "position": "B3",
+      "title": "One Time 4 Your Mind",
+      "duration": "3:18"
+    },
+    {
+      "position": "B4",
+      "title": "Represent",
+      "duration": "4:13"
+    },
+    {
+      "position": "B5",
+      "title": "It Ain't Hard To Tell",
+      "duration": "3:22"
+    }
+  ]
+}

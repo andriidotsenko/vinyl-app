@@ -1,0 +1,84 @@
+{
+  "id": 7545132,
+  "artist_id": 125246,
+  "artist": "Nirvana",
+  "title": "In Utero",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Grunge",
+    "Alternative Rock"
+  ],
+  "release_date": "2015",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/5ZEZw2kpSY4KZF4cZpC5HeKsETCKBKuLly3-9zEGM-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDUx/MzItMTUyMjg4NzUz/Ny00MDI0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/mdd2-7WsEbwZGxlIWOIUJWroyNA1weZInDmXomqJLxk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDUx/MzItMTUyMjg4NzUz/Ny00MDI0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Serve The Servants",
+      "duration": "3:34"
+    },
+    {
+      "position": "A2",
+      "title": "Scentless Apprentice",
+      "duration": "3:47"
+    },
+    {
+      "position": "A3",
+      "title": "Heart-Shaped Box",
+      "duration": "4:39"
+    },
+    {
+      "position": "A4",
+      "title": "Rape Me",
+      "duration": "2:49"
+    },
+    {
+      "position": "A5",
+      "title": "Frances Farmer Will Have Her Revenge On Seattle",
+      "duration": "4:07"
+    },
+    {
+      "position": "A6",
+      "title": "Dumb",
+      "duration": "2:29"
+    },
+    {
+      "position": "B1",
+      "title": "Very Ape",
+      "duration": "1:55"
+    },
+    {
+      "position": "B2",
+      "title": "Milk It",
+      "duration": "3:52"
+    },
+    {
+      "position": "B3",
+      "title": "Pennyroyal Tea",
+      "duration": "3:36"
+    },
+    {
+      "position": "B4",
+      "title": "Radio Friendly Unit Shifter",
+      "duration": "4:49"
+    },
+    {
+      "position": "B5",
+      "title": "Tourette's",
+      "duration": "1:33"
+    },
+    {
+      "position": "B6",
+      "title": "All Apologies",
+      "duration": "3:50"
+    }
+  ]
+}

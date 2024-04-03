@@ -1,0 +1,72 @@
+{
+  "id": 7396928,
+  "artist_id": 592308,
+  "artist": "Beach House",
+  "title": "Depression Cherry",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Pop",
+    "Indie Rock",
+    "Dream Pop",
+    "Ethereal"
+  ],
+  "release_date": "2015-08-28",
+  "year": 2015,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/4EjbQGfp9TYghuMKkR8iz2FaY_DM2IT2NNvklKPsQ3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTY5/MjgtMTYzMTA2MzIy/OC04NDgzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/dme_u6eexgyWfo9LrBH6y1MHk8RRsDCBYuJrY5puT5Y/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczOTY5/MjgtMTYzMTA2MzIy/OC04NDgzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Levitation",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Sparks",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Space Song",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Beyond Love",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "10:37",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "PPP",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Wildflower",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Bluebird",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Days Of Candy",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": 13636246,
+  "artist_id": 11771,
+  "artist": "Rammstein",
+  "title": "Untitled",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Industrial Metal"
+  ],
+  "release_date": "2019-05-17",
+  "year": 2019,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/qHtf325CQS3HxxsS2bGA0Xgt7fV5lRTFEmcjgbrdPj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM2/MjQ2LTE1OTM0MTAw/MTYtNzk2Ni5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/hVrGAL-B_oAyZLz4pzP4gSth5_vzKk_TuDKpm48cox8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM2/MjQ2LTE1OTM0MTAw/MTYtNzk2Ni5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Deutschland",
+      "duration": "5:18"
+    },
+    {
+      "position": "A2",
+      "title": "Radio",
+      "duration": "4:34"
+    },
+    {
+      "position": "A3",
+      "title": "Zeig Dich",
+      "duration": "4:12"
+    },
+    {
+      "position": "B1",
+      "title": "Ausländer",
+      "duration": "3:48"
+    },
+    {
+      "position": "B2",
+      "title": "Sex",
+      "duration": "3:53"
+    },
+    {
+      "position": "B3",
+      "title": "Puppe",
+      "duration": "4:30"
+    },
+    {
+      "position": "C1",
+      "title": "Was Ich Liebe",
+      "duration": "4:25"
+    },
+    {
+      "position": "C2",
+      "title": "Diamant",
+      "duration": "2:32"
+    },
+    {
+      "position": "C3",
+      "title": "Weit Weg",
+      "duration": "4:17"
+    },
+    {
+      "position": "D1",
+      "title": "Tattoo",
+      "duration": "4:08"
+    },
+    {
+      "position": "D2",
+      "title": "Hallomann",
+      "duration": "4:06"
+    }
+  ]
+}

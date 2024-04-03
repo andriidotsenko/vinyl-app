@@ -1,0 +1,81 @@
+{
+  "id": 530930,
+  "artist_id": 95886,
+  "artist": "Daryl Hall & John Oates",
+  "title": "Private Eyes",
+  "all_genres": [
+    1,
+    4,
+    2,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1981",
+  "year": 1981,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/3xwX4x5a9gX4VAaTZcmRCHz9-UZz9ijhzkaGZT2VdPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDkz/MC0xMzgxODA2MzUy/LTk4MTIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/GS9Cjvy0e_65F88UFkXXOaYYoX4x4IUEiLQJeNXQ658/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDkz/MC0xMzgxODA2MzUy/LTk4MTIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Private Eyes",
+      "duration": "3:29"
+    },
+    {
+      "position": "A2",
+      "title": "Looking For A Good Sign",
+      "duration": "3:55"
+    },
+    {
+      "position": "A3",
+      "title": "I Can't Go For That (No Can Do)",
+      "duration": "5:07"
+    },
+    {
+      "position": "A4",
+      "title": "Mano A Mano",
+      "duration": "3:53"
+    },
+    {
+      "position": "A5",
+      "title": "Did It In A Minute",
+      "duration": "3:37"
+    },
+    {
+      "position": "B1",
+      "title": "Head Above Water",
+      "duration": "3:34"
+    },
+    {
+      "position": "B2",
+      "title": "Tell Me What You Want",
+      "duration": "3:50"
+    },
+    {
+      "position": "B3",
+      "title": "Friday Let Me Down",
+      "duration": "3:33"
+    },
+    {
+      "position": "B4",
+      "title": "Unguarded Minute",
+      "duration": "4:08"
+    },
+    {
+      "position": "B5",
+      "title": "Your Imagination",
+      "duration": "3:32"
+    },
+    {
+      "position": "B6",
+      "title": "Some Men",
+      "duration": "4:15"
+    }
+  ]
+}

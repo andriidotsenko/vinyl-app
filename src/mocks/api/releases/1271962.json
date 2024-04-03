@@ -1,0 +1,64 @@
+{
+  "id": 1271962,
+  "artist_id": 218605,
+  "artist": "Styx",
+  "title": "The Grand Illusion",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1977-07-07",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/nJypZPq8x5TZAwWtL8aDGaWPjcJ7zZWsmSpWj-tIhpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE5/NjItMTMyODU2NDg4/NC5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/UTgVkH0h95EqsbGxkc6NdtQEBzQ7pSeJQoe5ea7IOTE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzE5/NjItMTMyODU2NDg4/NC5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Grand Illusion",
+      "duration": "4:36"
+    },
+    {
+      "position": "A2",
+      "title": "Fooling Yourself (The Angry Young Man)",
+      "duration": "5:29"
+    },
+    {
+      "position": "A3",
+      "title": "Superstars",
+      "duration": "3:59"
+    },
+    {
+      "position": "A4",
+      "title": "Come Sail Away",
+      "duration": "6:07"
+    },
+    {
+      "position": "B1",
+      "title": "Miss America",
+      "duration": "5:01"
+    },
+    {
+      "position": "B2",
+      "title": "Man In The Wilderness",
+      "duration": "5:49"
+    },
+    {
+      "position": "B3",
+      "title": "Castle Walls",
+      "duration": "6:00"
+    },
+    {
+      "position": "B4",
+      "title": "The Grand Finale",
+      "duration": "1:58"
+    }
+  ]
+}

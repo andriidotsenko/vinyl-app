@@ -1,0 +1,92 @@
+{
+  "id": 24894053,
+  "artist_id": 1124645,
+  "artist": "Taylor Swift",
+  "title": "Midnights",
+  "all_genres": [
+    1,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Synth-pop",
+    "Vocal",
+    "Indie Pop"
+  ],
+  "release_date": "2022-10-21",
+  "year": 2022,
+  "all_countries": [
+    "usa",
+    "europe"
+  ],
+  "country": "usa",
+  "thumb_image": "https://i.discogs.com/NmtF62FUWot2UcFKNhL1heH9GYyep_SeP7sW1FUKsn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk0/MDUzLTE2Nzg4MDM3/ODQtNjA3Mi5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/Tt0SxklOsJwiKL7GGQDpFUURzRUn8txREAnOP2NzReA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODk0/MDUzLTE2Nzg4MDM3/ODQtNjA3Mi5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Lavender Haze",
+      "duration": "3:22"
+    },
+    {
+      "position": "A2",
+      "title": "Maroon",
+      "duration": "3:38"
+    },
+    {
+      "position": "A3",
+      "title": "Anti-Hero",
+      "duration": "3:21"
+    },
+    {
+      "position": "A4",
+      "title": "Snow On The Beach",
+      "duration": "4:16"
+    },
+    {
+      "position": "A5",
+      "title": "You're On Your Own, Kid",
+      "duration": "3:14"
+    },
+    {
+      "position": "A6",
+      "title": "Midnight Rain",
+      "duration": "2:55"
+    },
+    {
+      "position": "B7",
+      "title": "Question...?",
+      "duration": "3:31"
+    },
+    {
+      "position": "B8",
+      "title": "Vigilante Shit",
+      "duration": "2:45"
+    },
+    {
+      "position": "B9",
+      "title": "Bejeweled",
+      "duration": "3:14"
+    },
+    {
+      "position": "B10",
+      "title": "Labyrinth",
+      "duration": "4:08"
+    },
+    {
+      "position": "B11",
+      "title": "Karma",
+      "duration": "3:25"
+    },
+    {
+      "position": "B12",
+      "title": "Sweet Nothing",
+      "duration": "3:08"
+    },
+    {
+      "position": "B13",
+      "title": "Mastermind",
+      "duration": "3:11"
+    }
+  ]
+}

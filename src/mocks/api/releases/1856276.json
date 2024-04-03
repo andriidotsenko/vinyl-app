@@ -1,0 +1,126 @@
+{
+  "id": 1856276,
+  "artist_id": 10783,
+  "artist": "Beastie Boys",
+  "title": "Ill Communication",
+  "all_genres": [
+    5,
+    4
+  ],
+  "genre": 5,
+  "styles": [
+    "Boom Bap",
+    "Jazzy Hip-Hop",
+    "Punk"
+  ],
+  "release_date": "2009",
+  "year": 2009,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/DQOE5sEILEvmGGNafhSy8ZnNSrXUDpHyLU-KsHhDwS4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTYy/NzYtMTM3NzY5MDQx/OC0yODIzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/pxMsQf5GRXWKC_nv0EjGvOFbUBkA_CclwhtflrsIj_Q/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTYy/NzYtMTM3NzY5MDQx/OC0yODIzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Sure Shot",
+      "duration": "3:20"
+    },
+    {
+      "position": "A2",
+      "title": "Tough Guy",
+      "duration": "0:58"
+    },
+    {
+      "position": "A3",
+      "title": "B-Boys Makin' With The Freak Freak",
+      "duration": "3:54"
+    },
+    {
+      "position": "A4",
+      "title": "Bobo On The Corner",
+      "duration": "1:13"
+    },
+    {
+      "position": "A5",
+      "title": "Root Down",
+      "duration": "3:32"
+    },
+    {
+      "position": "B1",
+      "title": "Sabotage",
+      "duration": "2:59"
+    },
+    {
+      "position": "B2",
+      "title": "Get It Together",
+      "duration": "4:06"
+    },
+    {
+      "position": "B3",
+      "title": "Sabrosa",
+      "duration": "3:30"
+    },
+    {
+      "position": "B4",
+      "title": "The Update",
+      "duration": "3:16"
+    },
+    {
+      "position": "B5",
+      "title": "Futterman's Rule",
+      "duration": "3:42"
+    },
+    {
+      "position": "C1",
+      "title": "Alright Hear This",
+      "duration": "3:07"
+    },
+    {
+      "position": "C2",
+      "title": "Eugene's Lament",
+      "duration": "2:13"
+    },
+    {
+      "position": "C3",
+      "title": "Flute Loop",
+      "duration": "1:55"
+    },
+    {
+      "position": "C4",
+      "title": "Do It",
+      "duration": "3:17"
+    },
+    {
+      "position": "C5",
+      "title": "Ricky's Theme",
+      "duration": "3:44"
+    },
+    {
+      "position": "D1",
+      "title": "Heart Attack Man",
+      "duration": "2:15"
+    },
+    {
+      "position": "D2",
+      "title": "The Scoop",
+      "duration": "3:36"
+    },
+    {
+      "position": "D3",
+      "title": "Shambala",
+      "duration": "3:41"
+    },
+    {
+      "position": "D4",
+      "title": "Bodhisattva Vow",
+      "duration": "3:09"
+    },
+    {
+      "position": "D5",
+      "title": "Transitions",
+      "duration": "3:32"
+    }
+  ]
+}

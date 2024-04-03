@@ -1,0 +1,119 @@
+{
+  "id": 530085,
+  "artist_id": 137880,
+  "artist": "Kanye West",
+  "title": "Late Registration",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Conscious",
+    "Pop Rap"
+  ],
+  "release_date": "2005-08-30",
+  "year": 2005,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/EPXBwIP33cO6bomhZUGRYKBHTroC_R0WfSzp1LleX_I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDA4/NS0xMzk5NDUzOTk4/LTg4NTguanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/RBO5O5c5jOGxYY7C3w9ZSzqyiz3iV3YB2QK_qYTEG8w/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzMDA4/NS0xMzk5NDUzOTk4/LTg4NTguanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Wake Up Mr. West",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Heard 'Em Say",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Touch The Sky",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Gold Digger",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Skit #1",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Drive Slow",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "My Way Home",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Crack Music",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Roses",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Bring Me Down",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Addiction",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Skit #2",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Diamonds From Sierra Leone (Remix)",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "We Major",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Skit #3",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Hey Mama",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Celebration",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Skit #4",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "Gone",
+      "duration": ""
+    }
+  ]
+}

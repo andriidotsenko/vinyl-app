@@ -1,0 +1,76 @@
+{
+  "id": 2315842,
+  "artist_id": 261370,
+  "artist": "Quiet Riot",
+  "title": "Metal Health",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock",
+    "Arena Rock",
+    "Heavy Metal",
+    "Glam"
+  ],
+  "release_date": "1983-03-11",
+  "year": 1983,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/32NpZgMJR7Di1CHnmyzsaZKmwN-zRholMVhMaK-ajKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU4/NDItMTY0NDIxMjIw/NS04ODE3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/_UKxZybZtRkx7Gu-0I6-VeoI7z-zCdNs-n_IfP9EqSE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU4/NDItMTY0NDIxMjIw/NS04ODE3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Metal Health",
+      "duration": "5:16"
+    },
+    {
+      "position": "A2",
+      "title": "Cum On Feel The Noize",
+      "duration": "4:49"
+    },
+    {
+      "position": "A3",
+      "title": "Don't Wanna Let You Go",
+      "duration": "4:39"
+    },
+    {
+      "position": "A4",
+      "title": "Slick Black Cadillac",
+      "duration": "4:17"
+    },
+    {
+      "position": "A5",
+      "title": "Love's A Bitch",
+      "duration": "4:06"
+    },
+    {
+      "position": "B1",
+      "title": "Breathless",
+      "duration": "3:49"
+    },
+    {
+      "position": "B2",
+      "title": "Run For Cover",
+      "duration": "3:38"
+    },
+    {
+      "position": "B3",
+      "title": "Battle Axe",
+      "duration": "1:34"
+    },
+    {
+      "position": "B4",
+      "title": "Let's Get Crazy",
+      "duration": "4:06"
+    },
+    {
+      "position": "B5",
+      "title": "Thunderbird",
+      "duration": "4:43"
+    }
+  ]
+}

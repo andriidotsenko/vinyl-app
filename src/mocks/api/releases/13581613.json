@@ -1,0 +1,86 @@
+{
+  "id": 13581613,
+  "artist_id": 3310737,
+  "artist": "Ariana Grande",
+  "title": "Thank U, Next",
+  "all_genres": [
+    5,
+    2,
+    3
+  ],
+  "genre": 5,
+  "styles": [
+    "Trap",
+    "Contemporary R&B"
+  ],
+  "release_date": "2019-05-03",
+  "year": 2019,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/cOVXuP7-xUiDRdWbWR8NKSbu139pcb1wBfUs7_8qr8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjEzLTE2ODA5Nzc3/OTUtNjk2OS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/VYqnZkHihDKug8QMF663KaP4auN53KYnCnKFpnSNydo/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTgx/NjEzLTE2ODA5Nzc3/OTUtNjk2OS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Imagine",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Needy",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "NASA",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Bloodline",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Fake Smile",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Bad Idea",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Make Up",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Ghostin",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "In My Head",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "7 Rings",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Thank U, Next",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Break Up With Your Girlfriend, I’m Bored",
+      "duration": ""
+    }
+  ]
+}

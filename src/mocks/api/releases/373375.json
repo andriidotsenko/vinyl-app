@@ -1,0 +1,81 @@
+{
+  "id": 373375,
+  "artist_id": 106474,
+  "artist": "Paul Simon",
+  "title": "Graceland",
+  "all_genres": [
+    4,
+    3,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock",
+    "Ethno-pop"
+  ],
+  "release_date": "1986-08-25",
+  "year": 1986,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/E4YiTSbh38PzKJI7-_wbgGga8ay5ZFgZndQeaCAnaDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzM3/NS0xNjY2ODkwODA3/LTM1NjkuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/ZnYB5oQe4cMCJHxV-SJr0xW1ArZZpN_HI2op69fqacs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzM3/NS0xNjY2ODkwODA3/LTM1NjkuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Boy In The Bubble",
+      "duration": "3:59"
+    },
+    {
+      "position": "A2",
+      "title": "Graceland",
+      "duration": "4:48"
+    },
+    {
+      "position": "A3",
+      "title": "I Know What I Know",
+      "duration": "3:13"
+    },
+    {
+      "position": "A4",
+      "title": "Gumboots",
+      "duration": "2:42"
+    },
+    {
+      "position": "A5",
+      "title": "Diamonds On The Soles Of Her Shoes",
+      "duration": "5:34"
+    },
+    {
+      "position": "B1",
+      "title": "You Can Call Me Al",
+      "duration": "4:39"
+    },
+    {
+      "position": "B2",
+      "title": "Under African Skies",
+      "duration": "3:34"
+    },
+    {
+      "position": "B3",
+      "title": "Homeless",
+      "duration": "3:45"
+    },
+    {
+      "position": "B4",
+      "title": "Crazy Love, Vol II",
+      "duration": "4:17"
+    },
+    {
+      "position": "B5",
+      "title": "That Was Your Mother",
+      "duration": "2:51"
+    },
+    {
+      "position": "B6",
+      "title": "All Around The World Or The Myth Of Fingerprints",
+      "duration": "3:15"
+    }
+  ]
+}

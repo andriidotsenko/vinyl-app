@@ -1,0 +1,68 @@
+{
+  "id": 383094,
+  "artist_id": 139982,
+  "artist": "Whitesnake",
+  "title": "Whitesnake",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock"
+  ],
+  "release_date": "1987",
+  "year": 1987,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/yCLxYUw7ZVF8TY9FLsA77Iuv7YL8xuwWFut3KoKAixo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzA5/NC0xMjk0NTE5MjQ0/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/VYKqPqet_zdcJ1iVjhi6J_GihLx_yJuqp1VkZ82JJPA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MzA5/NC0xMjk0NTE5MjQ0/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Crying In The Rain",
+      "duration": "5:35"
+    },
+    {
+      "position": "A2",
+      "title": "Bad Boys",
+      "duration": "4:07"
+    },
+    {
+      "position": "A3",
+      "title": "Still Of The Night",
+      "duration": "6:38"
+    },
+    {
+      "position": "A4",
+      "title": "Here I Go Again",
+      "duration": "4:36"
+    },
+    {
+      "position": "B1",
+      "title": "Give Me All Your Love",
+      "duration": "3:30"
+    },
+    {
+      "position": "B2",
+      "title": "Is This Love",
+      "duration": "4:42"
+    },
+    {
+      "position": "B3",
+      "title": "Children Of The Night",
+      "duration": "4:22"
+    },
+    {
+      "position": "B4",
+      "title": "Straight For The Heart",
+      "duration": "3:37"
+    },
+    {
+      "position": "B5",
+      "title": "Don't Turn Away",
+      "duration": "5:08"
+    }
+  ]
+}

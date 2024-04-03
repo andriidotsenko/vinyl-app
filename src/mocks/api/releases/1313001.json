@@ -1,0 +1,83 @@
+{
+  "id": 1313001,
+  "artist_id": 249829,
+  "artist": "America",
+  "title": "History - America's Greatest Hits",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1975",
+  "year": 1975,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/JwlgkfXtQQGV18eSJVTF0IwFMozxSR8963cp9lN77v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMw/MDEtMTQxMjg3NDE3/Ni00NTU1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/95U6rLIjBNLV8KPUCPOra3-Jy6TIzWFIssLNhXRFwGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMw/MDEtMTQxMjg3NDE3/Ni00NTU1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "A Horse With No Name",
+      "duration": "4:10"
+    },
+    {
+      "position": "A2",
+      "title": "I Need You",
+      "duration": "3:04"
+    },
+    {
+      "position": "A3",
+      "title": "Sandman",
+      "duration": "5:03"
+    },
+    {
+      "position": "A4",
+      "title": "Ventura Highway",
+      "duration": "3:32"
+    },
+    {
+      "position": "A5",
+      "title": "Don't Cross The River",
+      "duration": "2:30"
+    },
+    {
+      "position": "A6",
+      "title": "Only In Your Heart",
+      "duration": "3:16"
+    },
+    {
+      "position": "B1",
+      "title": "Muskrat Love",
+      "duration": "3:02"
+    },
+    {
+      "position": "B2",
+      "title": "Tin Man",
+      "duration": "3:25"
+    },
+    {
+      "position": "B3",
+      "title": "Lonely People",
+      "duration": "2:27"
+    },
+    {
+      "position": "B4",
+      "title": "Sister Golden Hair",
+      "duration": "3:16"
+    },
+    {
+      "position": "B5",
+      "title": "Daisy Jane",
+      "duration": "3:07"
+    },
+    {
+      "position": "B6",
+      "title": "Woman Tonight",
+      "duration": "2:19"
+    }
+  ]
+}

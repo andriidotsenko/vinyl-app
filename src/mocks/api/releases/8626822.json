@@ -1,0 +1,78 @@
+{
+  "id": 8626822,
+  "artist_id": 47333,
+  "artist": "Fleetwood Mac",
+  "title": "Rumours",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1977-02-04",
+  "year": 1977,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/YasJjWFodUBSu2CkHX7idUGpl_YS9q8zzNJElRUQoFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgw/Mi00MzM1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/YDNVTjKwem96ixY8BWeBZQVUsmQJNcp6simGcVyXeE8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjY4/MjItMTQ2NTQyNDgw/Mi00MzM1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Second Hand News",
+      "duration": "2:43"
+    },
+    {
+      "position": "A2",
+      "title": "Dreams",
+      "duration": "4:14"
+    },
+    {
+      "position": "A3",
+      "title": "Never Going Back Again",
+      "duration": "2:02"
+    },
+    {
+      "position": "A4",
+      "title": "Don't Stop",
+      "duration": "3:11"
+    },
+    {
+      "position": "A5",
+      "title": "Go Your Own Way",
+      "duration": "3:38"
+    },
+    {
+      "position": "A6",
+      "title": "Songbird",
+      "duration": "3:20"
+    },
+    {
+      "position": "B1",
+      "title": "The Chain",
+      "duration": "4:28"
+    },
+    {
+      "position": "B2",
+      "title": "You Make Loving Fun",
+      "duration": "3:31"
+    },
+    {
+      "position": "B3",
+      "title": "I Don't Want To Know",
+      "duration": "3:11"
+    },
+    {
+      "position": "B4",
+      "title": "Oh Daddy",
+      "duration": "3:54"
+    },
+    {
+      "position": "B5",
+      "title": "Gold Dust Woman",
+      "duration": "4:51"
+    }
+  ]
+}

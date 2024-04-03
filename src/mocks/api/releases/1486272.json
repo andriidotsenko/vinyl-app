@@ -1,0 +1,74 @@
+{
+  "id": 1486272,
+  "artist_id": 59792,
+  "artist": "Bob Dylan",
+  "title": "Nashville Skyline",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Country Rock"
+  ],
+  "release_date": "1969-04-09",
+  "year": 1969,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/O68AjbskEnFPVQV2W29y2yjJ7apM4_B9EKul7bP3Ot0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODYy/NzItMTIzNDUxOTQ0/Ny5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/uAFc-3IEkFstC7ya1TxrjVOlLE77glfmCcdbs0Vt8BY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODYy/NzItMTIzNDUxOTQ0/Ny5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Girl From The North Country",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Nashville Skyline Rag",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "To Be Alone With You",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "I Threw It All Away",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Peggy Day",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Lay Lady Lay",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "One More Night",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Tell Me That It Isn't True",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Country Pie",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Tonight I'll Be Staying Here With You",
+      "duration": ""
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 4608497,
+  "artist_id": 56168,
+  "artist": "Queens Of The Stone Age",
+  "title": "...Like Clockwork",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Stoner Rock",
+    "Hard Rock"
+  ],
+  "release_date": "2013-05-31",
+  "year": 2013,
+  "all_countries": [
+    "uk",
+    "europe",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/1GeV-6c51OF7t6egCxKPHv21Yh8RtCZM4-qmThiuUWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDg0/OTctMTM3MjA4Nzkz/MC00MjMzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/q6Tfcuh0vrxceLmuZMGPVDthm5R-MX_azvfYWM0h-qk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDg0/OTctMTM3MjA4Nzkz/MC00MjMzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Keep Your Eyes Peeled",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "I Sat By The Ocean",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "The Vampyre Of Time And Memory",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "If I Had A Tail",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "My God Is The Sun",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Kalopsia",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Fairweather Friends",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Smooth Sailing",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "I Appear Missing",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "...Like Clockwork",
+      "duration": ""
+    }
+  ]
+}

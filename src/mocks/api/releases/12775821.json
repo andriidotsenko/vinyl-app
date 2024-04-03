@@ -1,0 +1,326 @@
+{
+  "id": 12775821,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "The Beatles And Esher Demos",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Rock & Roll",
+    "Pop Rock",
+    "Soft Rock",
+    "Psychedelic Rock",
+    "Experimental",
+    "Country Rock",
+    "Blues Rock",
+    "Avantgarde"
+  ],
+  "release_date": "2018-11-09",
+  "year": 2018,
+  "all_countries": [
+    "worldwide"
+  ],
+  "country": "worldwide",
+  "thumb_image": "https://i.discogs.com/84NuSy4HCVkrkqj83kot90h48K2ZUrbey0Q34tYADN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc1/ODIxLTE1NDIxODIw/MTQtMTg0Ni5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/8FDLemdNLoUnj8jBGiEZGYaG0kVB1LUBGPZZcbxOLHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc1/ODIxLTE1NDIxODIw/MTQtMTg0Ni5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "",
+      "title": "The Beatles",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "title": "Back In The U.S.S.R.",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Dear Prudence",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Glass Onion",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Ob-La-Di, Ob-La-Da",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Wild Honey Pie",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "The Continuing Story Of Bungalow Bill",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "While My Guitar Gently Weeps",
+      "duration": ""
+    },
+    {
+      "position": "A8",
+      "title": "Happiness Is A Warm Gun",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Martha My Dear",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "I'm So Tired",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Blackbird",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Piggies",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Rocky Raccoon",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Don't Pass Me By",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Why Don't We Do It In The Road?",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "title": "I Will",
+      "duration": ""
+    },
+    {
+      "position": "B9",
+      "title": "Julia",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Birthday",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Yer Blues",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Mother Nature's Son",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Everybody's Got Something To Hide Except Me And My Monkey",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "title": "Sexy Sadie",
+      "duration": ""
+    },
+    {
+      "position": "C6",
+      "title": "Helter Skelter",
+      "duration": ""
+    },
+    {
+      "position": "C7",
+      "title": "Long, Long, Long",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Revolution 1",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Honey Pie",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Savoy Truffle",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Cry Baby Cry",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "Revolution 9",
+      "duration": ""
+    },
+    {
+      "position": "D6",
+      "title": "Good Night",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "title": "Esher Demos",
+      "duration": ""
+    },
+    {
+      "position": "E1",
+      "title": "Back In The U.S.S.R.",
+      "duration": ""
+    },
+    {
+      "position": "E2",
+      "title": "Dear Prudence",
+      "duration": ""
+    },
+    {
+      "position": "E3",
+      "title": "Glass Onion",
+      "duration": ""
+    },
+    {
+      "position": "E4",
+      "title": "Ob-La-Di, Ob-La-Da",
+      "duration": ""
+    },
+    {
+      "position": "E5",
+      "title": "The Continuing Story Of Bungalow Bill",
+      "duration": ""
+    },
+    {
+      "position": "E6",
+      "title": "While My Guitar Gently Weeps",
+      "duration": ""
+    },
+    {
+      "position": "F1",
+      "title": "Happiness Is A Warm Gun",
+      "duration": ""
+    },
+    {
+      "position": "F2",
+      "title": "I'm So Tired",
+      "duration": ""
+    },
+    {
+      "position": "F3",
+      "title": "Blackbird",
+      "duration": ""
+    },
+    {
+      "position": "F4",
+      "title": "Piggies",
+      "duration": ""
+    },
+    {
+      "position": "F5",
+      "title": "Rocky Raccoon",
+      "duration": ""
+    },
+    {
+      "position": "F6",
+      "title": "Julia",
+      "duration": ""
+    },
+    {
+      "position": "F7",
+      "title": "Yer Blues",
+      "duration": ""
+    },
+    {
+      "position": "G1",
+      "title": "Mother Nature's Son",
+      "duration": ""
+    },
+    {
+      "position": "G2",
+      "title": "Everybody's Got Something To Hide Except Me And My Monkey",
+      "duration": ""
+    },
+    {
+      "position": "G3",
+      "title": "Sexy Sadie",
+      "duration": ""
+    },
+    {
+      "position": "G4",
+      "title": "Revolution",
+      "duration": ""
+    },
+    {
+      "position": "G5",
+      "title": "Honey Pie",
+      "duration": ""
+    },
+    {
+      "position": "G6",
+      "title": "Cry Baby Cry",
+      "duration": ""
+    },
+    {
+      "position": "G7",
+      "title": "Sour Milk Sea",
+      "duration": ""
+    },
+    {
+      "position": "H1",
+      "title": "Junk",
+      "duration": ""
+    },
+    {
+      "position": "H2",
+      "title": "Child Of Nature",
+      "duration": ""
+    },
+    {
+      "position": "H3",
+      "title": "Circles",
+      "duration": ""
+    },
+    {
+      "position": "H4",
+      "title": "Mean Mr. Mustard",
+      "duration": ""
+    },
+    {
+      "position": "H5",
+      "title": "Polythene Pam",
+      "duration": ""
+    },
+    {
+      "position": "H6",
+      "title": "Not Guilty",
+      "duration": ""
+    },
+    {
+      "position": "H7",
+      "title": "What's The New Mary Jane",
+      "duration": ""
+    }
+  ]
+}

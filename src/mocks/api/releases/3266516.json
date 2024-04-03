@@ -1,0 +1,82 @@
+{
+  "id": 3266516,
+  "artist_id": 28970,
+  "artist": "The Smashing Pumpkins",
+  "title": "Gish",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Grunge",
+    "Indie Rock"
+  ],
+  "release_date": "2011-11-29",
+  "year": 2011,
+  "all_countries": [
+    "uk",
+    "europe",
+    "us"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/ja-qnsipZf4qpTdVKbx3eqZehSBSMmYjouCmFN0gOic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Mi00MzIwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/fZT4xdW49akR9aWGx4fAj0W8TS5DiSSWgXhmT7W53Eo/rs:fit/g:sm/q:90/h:615/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNjY1/MTYtMTU4NDc2OTIx/Mi00MzIwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "I Am One",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Siva",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Rhinoceros",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Bury Me",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Crush",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Suffer",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Snail",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Tristessa",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Window Paine",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Daydream",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "I'm Going Crazy",
+      "duration": ""
+    }
+  ]
+}

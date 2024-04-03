@@ -1,0 +1,83 @@
+{
+  "id": 5552990,
+  "artist_id": 2568722,
+  "artist": "Mac DeMarco",
+  "title": "Salad Days",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock"
+  ],
+  "release_date": "2014-04-01",
+  "year": 2014,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/foDnyboRtFJN-7E2kIzwU72gzqIfYnaN9o-R4WCs4bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI5/OTAtMTM5NjQwNjY1/OC02OTA1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/EcAj2s7ZyIeRTfsVZRCkIAZhZKL_t45YOAsfWPEMIFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTI5/OTAtMTM5NjQwNjY1/OC02OTA1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Salad Days",
+      "duration": "2:25"
+    },
+    {
+      "position": "A2",
+      "title": "Blue Boy",
+      "duration": "2:06"
+    },
+    {
+      "position": "A3",
+      "title": "Brother",
+      "duration": "3:32"
+    },
+    {
+      "position": "A4",
+      "title": "Let Her Go",
+      "duration": "3:02"
+    },
+    {
+      "position": "A5",
+      "title": "Goodbye Weekend",
+      "duration": "2:59"
+    },
+    {
+      "position": "A6",
+      "title": "Let My Baby Stay",
+      "duration": "4:08"
+    },
+    {
+      "position": "B1",
+      "title": "Passing Out Pieces",
+      "duration": "2:47"
+    },
+    {
+      "position": "B2",
+      "title": "Treat Her Better",
+      "duration": "3:49"
+    },
+    {
+      "position": "B3",
+      "title": "Chamber Of Reflection",
+      "duration": "3:51"
+    },
+    {
+      "position": "B4",
+      "title": "Go Easy",
+      "duration": "3:24"
+    },
+    {
+      "position": "B5.1",
+      "title": "Jonny's Odyssey",
+      "duration": "2:38"
+    },
+    {
+      "position": "B5.2",
+      "title": "Mac's Outro",
+      "duration": "0:10"
+    }
+  ]
+}

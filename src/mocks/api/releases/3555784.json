@@ -1,0 +1,90 @@
+{
+  "id": 3555784,
+  "artist_id": 2225756,
+  "artist": "Death Grips",
+  "title": "The Money Store",
+  "all_genres": [
+    1,
+    5
+  ],
+  "genre": 1,
+  "styles": [
+    "Experimental",
+    "Hardcore Hip-Hop"
+  ],
+  "release_date": "2012-04-21",
+  "year": 2012,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/oyOdtxNQEhYj5sTgRgODEa88iQe2NxxP_zFe-YR_iBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTU3/ODQtMTMzODIzMTc2/Mi03NDQ4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/90Hnk7URkBYFS2v2v1aTvxY5vSjjlRC25AappjcaEsQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTU3/ODQtMTMzODIzMTc2/Mi03NDQ4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Get Got",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "The Fever (Aye Aye)",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Lost Boys",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Black Jack",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Hustle Bones",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "I've Seen Footage",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "Double Helix",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "System Blower",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "The Cage",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Punk Weight",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Fuck That",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Bitch Please",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Hacker",
+      "duration": ""
+    }
+  ]
+}

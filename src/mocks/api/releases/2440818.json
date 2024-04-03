@@ -1,0 +1,107 @@
+{
+  "id": 2440818,
+  "artist_id": 6378,
+  "artist": "Gorillaz",
+  "title": "Plastic Beach",
+  "all_genres": [
+    1,
+    5,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Leftfield",
+    "Electro",
+    "Synth-pop"
+  ],
+  "release_date": "2010-09-13",
+  "year": 2010,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/gLtL9a_nOgOa_Ghah9IYTaNHi42nHlL476l-ULhOrpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDA4/MTgtMTQwMTM3MTA0/MC0yNjI0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/MuLrvRctIA1_1pS9REPh1l9FnwmWY2iDPAMNtdthEl0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDA4/MTgtMTQwMTM3MTA0/MC0yNjI0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Orchestral Intro",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Welcome To The World Of The Plastic Beach",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "White Flag",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Rhinestone Eyes",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Stylo",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Superfast Jellyfish",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Empire Ants",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Glitter Freeze",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Some Kind Of Nature",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "On Melancholy Hill",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Broken",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Sweepstakes",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Plastic Beach",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "To Binge",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Cloud Of Unknowing",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Pirate Jet",
+      "duration": ""
+    }
+  ]
+}

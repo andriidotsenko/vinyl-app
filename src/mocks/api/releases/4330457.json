@@ -1,0 +1,81 @@
+{
+  "id": 4330457,
+  "artist_id": 28085,
+  "artist": "Nick Drake",
+  "title": "Pink Moon",
+  "all_genres": [
+    4,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Acoustic",
+    "Folk",
+    "Folk Rock"
+  ],
+  "release_date": "2013",
+  "year": 2013,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/IKDaD7DR-yJAfLOfpxGyAS4vue7if67dbaAb3Erwwl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzA0/NTctMTYzNDY0ODg4/Ni02OTEzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/u3hTaqbdI0CZRJPPa_k7xL3oUtjUP2tsbO7iAvSMnl0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMzA0/NTctMTYzNDY0ODg4/Ni02OTEzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Pink Moon",
+      "duration": "2:06"
+    },
+    {
+      "position": "A2",
+      "title": "Place To Be",
+      "duration": "2:42"
+    },
+    {
+      "position": "A3",
+      "title": "Road",
+      "duration": "2:04"
+    },
+    {
+      "position": "A4",
+      "title": "Which Will",
+      "duration": "2:58"
+    },
+    {
+      "position": "A5",
+      "title": "Horn",
+      "duration": "1:24"
+    },
+    {
+      "position": "A6",
+      "title": "Things Behind The Sun",
+      "duration": "3:57"
+    },
+    {
+      "position": "B1",
+      "title": "Know",
+      "duration": "2:25"
+    },
+    {
+      "position": "B2",
+      "title": "Parasite",
+      "duration": "3:36"
+    },
+    {
+      "position": "B3",
+      "title": "Free Ride",
+      "duration": "3:04"
+    },
+    {
+      "position": "B4",
+      "title": "Harvest Breed",
+      "duration": "1:38"
+    },
+    {
+      "position": "B5",
+      "title": "From The Morning",
+      "duration": "2:31"
+    }
+  ]
+}

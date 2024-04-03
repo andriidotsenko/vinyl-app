@@ -1,0 +1,88 @@
+{
+  "id": 6736792,
+  "artist_id": 750828,
+  "artist": "J. Cole",
+  "title": "2014 Forest Hills Drive",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Conscious"
+  ],
+  "release_date": "2015-03-16",
+  "year": 2015,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/NDcP8ndhaoNsHCpnKui3XVfjlsKLracarltbqNEN09s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzY3/OTItMTY3NzU1MTU4/My04ODAyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/n4zBVlKQ99ivn3LIBPXGvlvcdbo_Q6DH6W6ozLEJ5K0/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzY3/OTItMTY3NzU1MTU4/My04ODAyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Intro",
+      "duration": "2:09"
+    },
+    {
+      "position": "A2",
+      "title": "January 28th",
+      "duration": "4:02"
+    },
+    {
+      "position": "A3",
+      "title": "Wet Dreamz",
+      "duration": "3:59"
+    },
+    {
+      "position": "A4",
+      "title": "03' Adolescence",
+      "duration": "4:24"
+    },
+    {
+      "position": "B1",
+      "title": "A Tale Of 2 Citiez",
+      "duration": "4:29"
+    },
+    {
+      "position": "B2",
+      "title": "Fire Squad",
+      "duration": "4:48"
+    },
+    {
+      "position": "B3",
+      "title": "St. Tropez",
+      "duration": "4:17"
+    },
+    {
+      "position": "C1",
+      "title": "G.O.M.D.",
+      "duration": "5:01"
+    },
+    {
+      "position": "C2",
+      "title": "No Role Modelz",
+      "duration": "4:52"
+    },
+    {
+      "position": "C3",
+      "title": "Hello",
+      "duration": "3:39"
+    },
+    {
+      "position": "C4",
+      "title": "Apparently",
+      "duration": "4:53"
+    },
+    {
+      "position": "D1",
+      "title": "Love Yourz",
+      "duration": "3:31"
+    },
+    {
+      "position": "D2",
+      "title": "Note To Self",
+      "duration": "14:35"
+    }
+  ]
+}

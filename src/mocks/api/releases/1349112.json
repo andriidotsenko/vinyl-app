@@ -1,0 +1,84 @@
+{
+  "id": 1349112,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "Meet The Beatles!",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Beat",
+    "Rock & Roll"
+  ],
+  "release_date": "1964-01-20",
+  "year": 1964,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/EupTDcDBSQ4wioxZ52e2NIwjkBmpUKwB0C5McBr0ZjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkx/MTItMTUxNzA1MzAw/NC02MTMxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/e-75dxjz5qCXwTDZP-c5emwN2jutbL-ty4zIFRwv-Vc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkx/MTItMTUxNzA1MzAw/NC02MTMxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "I Want To Hold Your Hand",
+      "duration": "2:24"
+    },
+    {
+      "position": "A2",
+      "title": "I Saw Her Standing There",
+      "duration": "2:50"
+    },
+    {
+      "position": "A3",
+      "title": "This Boy",
+      "duration": "2:11"
+    },
+    {
+      "position": "A4",
+      "title": "It Won't Be Long",
+      "duration": "2:11"
+    },
+    {
+      "position": "A5",
+      "title": "All I've Got To Do",
+      "duration": "2:05"
+    },
+    {
+      "position": "A6",
+      "title": "All My Loving",
+      "duration": "2:04"
+    },
+    {
+      "position": "B1",
+      "title": "Don't Bother Me",
+      "duration": "2:28"
+    },
+    {
+      "position": "B2",
+      "title": "Little Child",
+      "duration": "1:46"
+    },
+    {
+      "position": "B3",
+      "title": "Till There Was You",
+      "duration": "2:12"
+    },
+    {
+      "position": "B4",
+      "title": "Hold Me Tight",
+      "duration": "2:30"
+    },
+    {
+      "position": "B5",
+      "title": "I Wanna Be Your Man",
+      "duration": "1:59"
+    },
+    {
+      "position": "B6",
+      "title": "Not A Second Time",
+      "duration": "2:03"
+    }
+  ]
+}

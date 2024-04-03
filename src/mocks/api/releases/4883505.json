@@ -1,0 +1,84 @@
+{
+  "id": 4883505,
+  "artist_id": 391170,
+  "artist": "Arctic Monkeys",
+  "title": "AM",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Indie Rock"
+  ],
+  "release_date": "2013-09-09",
+  "year": 2013,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/-WYv-8-UoeSHAAC0qq5vPWDE2uoH1arFPatzP_voph8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM1/MDUtMTYxNjkyNTU1/OC0xMTY2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/-5VP_faWPuZm-_4156UfRx0a_Wh8c5YKFS-GYgmeN_Y/rs:fit/g:sm/q:90/h:566/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODM1/MDUtMTYxNjkyNTU1/OC0xMTY2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Do I Wanna Know?",
+      "duration": "4:32"
+    },
+    {
+      "position": "A2",
+      "title": "R U Mine?",
+      "duration": "3:21"
+    },
+    {
+      "position": "A3",
+      "title": "One For The Road",
+      "duration": "3:26"
+    },
+    {
+      "position": "A4",
+      "title": "Arabella",
+      "duration": "3:27"
+    },
+    {
+      "position": "A5",
+      "title": "I Want It All",
+      "duration": "3:05"
+    },
+    {
+      "position": "A6",
+      "title": "No.1 Party Anthem",
+      "duration": "4:03"
+    },
+    {
+      "position": "B1",
+      "title": "Mad Sounds",
+      "duration": "3:25"
+    },
+    {
+      "position": "B2",
+      "title": "Fireside",
+      "duration": "3:01"
+    },
+    {
+      "position": "B3",
+      "title": "Why'd You Only Call Me When You're High?",
+      "duration": "2:41"
+    },
+    {
+      "position": "B4",
+      "title": "Snap Out Of It ",
+      "duration": "3:13"
+    },
+    {
+      "position": "B5",
+      "title": "Knee Socks",
+      "duration": "4:17"
+    },
+    {
+      "position": "B6",
+      "title": "I Wanna Be Yours",
+      "duration": "3:04"
+    }
+  ]
+}

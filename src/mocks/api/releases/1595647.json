@@ -1,0 +1,75 @@
+{
+  "id": 1595647,
+  "artist_id": 135946,
+  "artist": "Johnny Cash",
+  "title": "Johnny Cash At San Quentin",
+  "all_genres": [
+    4,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Country Rock",
+    "Country"
+  ],
+  "release_date": "1969",
+  "year": 1969,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/stqum-Rfdqy79kiZbvj1x42cCtvrSB96MO9lPQLiKUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU2/NDctMTQzMzgyOTk1/NC04MDMzLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/gHMYRm47NTP8aJ8g45AnWTz9yxsTHa5SazhBo9h_mE8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTU2/NDctMTQzMzgyOTk1/NC04MDMzLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Wanted Man",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Wreck Of The Old 97",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "I Walk The Line",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Darling Companion",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Starkville City Jail",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "San Quentin",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "San Quentin",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "A Boy Named Sue",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "(There'll Be) Peace In The Valley",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Folsom Prison Blues",
+      "duration": ""
+    }
+  ]
+}

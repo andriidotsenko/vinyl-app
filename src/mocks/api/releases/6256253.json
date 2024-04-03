@@ -1,0 +1,78 @@
+{
+  "id": 6256253,
+  "artist_id": 94066,
+  "artist": "Van Halen",
+  "title": "Van Halen",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Hard Rock"
+  ],
+  "release_date": "1978-04-00",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Ng7opjG9VZZZ12behttTFTFkKNR1AhPp5w9Tq3JhhFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTYy/NTMtMTQzNzU0OTE0/MS03OTIwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/DlmU3WD0segVxg8NZUexEh3_QRXaz_NuXJCQGAVWsIY/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNTYy/NTMtMTQzNzU0OTE0/MS03OTIwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Runnin' With The Devil",
+      "duration": "3:32"
+    },
+    {
+      "position": "A2",
+      "title": "Eruption",
+      "duration": "1:42"
+    },
+    {
+      "position": "A3",
+      "title": "You Really Got Me",
+      "duration": "2:37"
+    },
+    {
+      "position": "A4",
+      "title": "Ain't Talkin' 'Bout Love",
+      "duration": "3:47"
+    },
+    {
+      "position": "A5",
+      "title": "I'm The One",
+      "duration": "3:44"
+    },
+    {
+      "position": "B1",
+      "title": "Jamie's Cryin'",
+      "duration": "3:30"
+    },
+    {
+      "position": "B2",
+      "title": "Atomic Punk",
+      "duration": "3:00"
+    },
+    {
+      "position": "B3",
+      "title": "Feel Your Love Tonight",
+      "duration": "3:40"
+    },
+    {
+      "position": "B4",
+      "title": "Little Dreamer",
+      "duration": "3:22"
+    },
+    {
+      "position": "B5",
+      "title": "Ice Cream Man",
+      "duration": "3:18"
+    },
+    {
+      "position": "B6",
+      "title": "On Fire",
+      "duration": "3:01"
+    }
+  ]
+}

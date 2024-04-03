@@ -1,0 +1,80 @@
+{
+  "id": 6549215,
+  "artist_id": 202598,
+  "artist": "Sufjan Stevens",
+  "title": "Carrie & Lowell",
+  "all_genres": [
+    4,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk",
+    "Folk Rock"
+  ],
+  "release_date": "2015-03-31",
+  "year": 2015,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/3wR4Ng02BPUKvgC2lfHjrL30CzK6O-jDV_MZ_xkwyFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDky/MTUtMTQyMTgxOTEw/Mi03NTY3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/DyTCyEM7sRXTthLJiuetK74spU7LJWsGhroZtfovc-I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDky/MTUtMTQyMTgxOTEw/Mi03NTY3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Death With Dignity",
+      "duration": "3:59"
+    },
+    {
+      "position": "A2",
+      "title": "Should Have Known Better",
+      "duration": "5:05"
+    },
+    {
+      "position": "A3",
+      "title": "All Of Me Wants All Of You",
+      "duration": "3:41"
+    },
+    {
+      "position": "A4",
+      "title": "Drawn To The Blood",
+      "duration": "3:16"
+    },
+    {
+      "position": "A5",
+      "title": "Fourth of July",
+      "duration": "4:38"
+    },
+    {
+      "position": "B1",
+      "title": "The Only Thing",
+      "duration": "4:41"
+    },
+    {
+      "position": "B2",
+      "title": "Carrie & Lowell",
+      "duration": "3:14"
+    },
+    {
+      "position": "B3",
+      "title": "Eugene",
+      "duration": "2:26"
+    },
+    {
+      "position": "B4",
+      "title": "John My Beloved",
+      "duration": "5:06"
+    },
+    {
+      "position": "B5",
+      "title": "No Shade In The Shadow Of The Cross",
+      "duration": "2:38"
+    },
+    {
+      "position": "B6",
+      "title": "Blue Bucket Of Gold",
+      "duration": "4:43"
+    }
+  ]
+}

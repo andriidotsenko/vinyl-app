@@ -1,0 +1,80 @@
+{
+  "id": 605328,
+  "artist_id": 232157,
+  "artist": "Simon & Garfunkel",
+  "title": "Bridge Over Troubled Water",
+  "all_genres": [
+    3
+  ],
+  "genre": 3,
+  "styles": [
+    "Folk Rock",
+    "Pop Rock",
+    "Soft Rock"
+  ],
+  "release_date": "1970-01-26",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/z7_vGdMura9rYt35EpOJs3PNNfOYsPYYblQuU8LZYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTMy/OC0xNDM3NTUwNzI4/LTI0NDAuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/61Q3XhLDIxrT9iP9hFkEew-X32b9rLThkRbNOOKApGk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTMy/OC0xNDM3NTUwNzI4/LTI0NDAuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Bridge Over Troubled Water",
+      "duration": "4:52"
+    },
+    {
+      "position": "A2",
+      "title": "El Condor Pasa",
+      "duration": "3:06"
+    },
+    {
+      "position": "A3",
+      "title": "Cecilia",
+      "duration": "2:55"
+    },
+    {
+      "position": "A4",
+      "title": "Keep The Customer Satisfied",
+      "duration": "2:33"
+    },
+    {
+      "position": "A5",
+      "title": "So Long, Frank Lloyd Wright",
+      "duration": "3:41"
+    },
+    {
+      "position": "B1",
+      "title": "The Boxer",
+      "duration": "5:08"
+    },
+    {
+      "position": "B2",
+      "title": "Baby Driver",
+      "duration": "3:15"
+    },
+    {
+      "position": "B3",
+      "title": "The Only Living Boy In New York",
+      "duration": "3:57"
+    },
+    {
+      "position": "B4",
+      "title": "Why Don't You Write Me",
+      "duration": "2:45"
+    },
+    {
+      "position": "B5",
+      "title": "Bye Bye Love",
+      "duration": "2:55"
+    },
+    {
+      "position": "B6",
+      "title": "Song For The Asking",
+      "duration": "1:39"
+    }
+  ]
+}

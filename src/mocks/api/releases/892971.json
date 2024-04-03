@@ -1,0 +1,125 @@
+{
+  "id": 892971,
+  "artist_id": 219986,
+  "artist": "Bruce Springsteen",
+  "title": "The River",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Pop Rock",
+    "Classic Rock"
+  ],
+  "release_date": "1980-10-17",
+  "year": 1980,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/pNOyeN2s_tBRxI8bOYD3qgUO8s91wF5ZwN4VtrbM0lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mjk3/MS0xNTE3MzUwMTEx/LTQxOTQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/35mYMEqlPXsfgIsf30wWPzNMplX1fQPzAnre_rTz-k4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Mjk3/MS0xNTE3MzUwMTEx/LTQxOTQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Ties That Bind",
+      "duration": "3:33"
+    },
+    {
+      "position": "A2",
+      "title": "Sherry Darling",
+      "duration": "4:02"
+    },
+    {
+      "position": "A3",
+      "title": "Jackson Cage",
+      "duration": "3:04"
+    },
+    {
+      "position": "A4",
+      "title": "Two Hearts",
+      "duration": "2:42"
+    },
+    {
+      "position": "A5",
+      "title": "Independence Day",
+      "duration": "4:46"
+    },
+    {
+      "position": "B1",
+      "title": "Hungry Heart",
+      "duration": "3:19"
+    },
+    {
+      "position": "B2",
+      "title": "Out In The Street",
+      "duration": "4:17"
+    },
+    {
+      "position": "B3",
+      "title": "Crush On You",
+      "duration": "3:10"
+    },
+    {
+      "position": "B4",
+      "title": "You Can Look (But You Better Not Touch)",
+      "duration": "2:36"
+    },
+    {
+      "position": "B5",
+      "title": "I Wanna Marry You",
+      "duration": "3:26"
+    },
+    {
+      "position": "B6",
+      "title": "The River",
+      "duration": "4:59"
+    },
+    {
+      "position": "C1",
+      "title": "Point Blank",
+      "duration": "6:05"
+    },
+    {
+      "position": "C2",
+      "title": "Cadillac Ranch",
+      "duration": "3:02"
+    },
+    {
+      "position": "C3",
+      "title": "I'm A Rocker",
+      "duration": "3:34"
+    },
+    {
+      "position": "C4",
+      "title": "Fade Away",
+      "duration": "4:40"
+    },
+    {
+      "position": "C5",
+      "title": "Stolen Car",
+      "duration": "3:53"
+    },
+    {
+      "position": "D1",
+      "title": "Ramrod",
+      "duration": "4:04"
+    },
+    {
+      "position": "D2",
+      "title": "The Price You Pay",
+      "duration": "5:27"
+    },
+    {
+      "position": "D3",
+      "title": "Drive All Night",
+      "duration": "8:26"
+    },
+    {
+      "position": "D4",
+      "title": "Wreck On The Highway",
+      "duration": "3:53"
+    }
+  ]
+}

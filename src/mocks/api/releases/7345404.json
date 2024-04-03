@@ -1,0 +1,98 @@
+{
+  "id": 7345404,
+  "artist_id": 1778977,
+  "artist": "Kendrick Lamar",
+  "title": "Good Kid, m.A.A.d City",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Conscious"
+  ],
+  "release_date": "2015",
+  "year": 2015,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/TrnyS4HmziYAZ_bYR1Cb3gW-t2isEhy-bp9NAKPPKO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU0/MDQtMTQzOTY2MTA1/Ny05NTI3LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/GJAH_i20e25DLP9uaK5g7J55PgabwCRB-xLkfo5ZQ6U/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU0/MDQtMTQzOTY2MTA1/Ny05NTI3LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Sherane a.k.a Master Splinter's Daughter",
+      "duration": "4:33"
+    },
+    {
+      "position": "A2",
+      "title": "Bitch, Don't Kill My Vibe",
+      "duration": "5:10"
+    },
+    {
+      "position": "A3",
+      "title": "Backseat Freestyle",
+      "duration": "3:32"
+    },
+    {
+      "position": "A4",
+      "title": "The Art Of Peer Pressure",
+      "duration": "5:24"
+    },
+    {
+      "position": "B1",
+      "title": "Money Trees",
+      "duration": "6:26"
+    },
+    {
+      "position": "B2",
+      "title": "Poetic Justice",
+      "duration": "5:00"
+    },
+    {
+      "position": "B3",
+      "title": "Good Kid",
+      "duration": "3:34"
+    },
+    {
+      "position": "B4",
+      "title": "m.A.A.d City",
+      "duration": "5:50"
+    },
+    {
+      "position": "C1",
+      "title": "Swimming Pools (Drank) (Extended Version)",
+      "duration": "5:13"
+    },
+    {
+      "position": "C2",
+      "title": "Sing About Me, I'm Dying Of Thirst",
+      "duration": "12:03"
+    },
+    {
+      "position": "C3",
+      "title": "Real",
+      "duration": "7:23"
+    },
+    {
+      "position": "D1",
+      "title": "Compton",
+      "duration": "4:08"
+    },
+    {
+      "position": "D2",
+      "title": "The Recipe",
+      "duration": "5:52"
+    },
+    {
+      "position": "D3",
+      "title": "Black Boy Fly",
+      "duration": "4:39"
+    },
+    {
+      "position": "D4",
+      "title": "Now Or Never",
+      "duration": "4:16"
+    }
+  ]
+}

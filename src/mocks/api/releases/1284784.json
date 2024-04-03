@@ -1,0 +1,75 @@
+{
+  "id": 1284784,
+  "artist_id": 110253,
+  "artist": "The Allman Brothers Band",
+  "title": "Eat A Peach",
+  "all_genres": [
+    4,
+    9
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Southern Rock"
+  ],
+  "release_date": "1972",
+  "year": 1972,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/UEjgZ0c6ygYKrvBECQmx1hBELZ4Mt9RSg5WLt_Ew2Kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ3/ODQtMTY3ODM3MDQw/NS02ODE4LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/XpKJutYlsYqjQqV5KQ4RyuhySNee8JSPi_ZFKcSggZ8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ3/ODQtMTY3ODM3MDQw/NS02ODE4LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Ain't Wastin' Time No More",
+      "duration": "3:40"
+    },
+    {
+      "position": "A2",
+      "title": "Les Brers In A Minor",
+      "duration": "9:03"
+    },
+    {
+      "position": "A3",
+      "title": "Melissa",
+      "duration": "3:54"
+    },
+    {
+      "position": "B",
+      "title": "Mountain Jam",
+      "duration": "19:37"
+    },
+    {
+      "position": "C1",
+      "title": "One Way Out",
+      "duration": "4:58"
+    },
+    {
+      "position": "C2",
+      "title": "Trouble No More",
+      "duration": "3:43"
+    },
+    {
+      "position": "C3",
+      "title": "Stand Back",
+      "duration": "3:24"
+    },
+    {
+      "position": "C4",
+      "title": "Blue Sky",
+      "duration": "5:09"
+    },
+    {
+      "position": "C5",
+      "title": "Little Martha",
+      "duration": "2:07"
+    },
+    {
+      "position": "D",
+      "title": "Mountain Jam Cont'd.",
+      "duration": "15:06"
+    }
+  ]
+}

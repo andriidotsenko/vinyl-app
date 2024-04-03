@@ -1,0 +1,96 @@
+{
+  "id": 10672744,
+  "artist_id": 3857,
+  "artist": "Nine Inch Nails",
+  "title": "The Downward Spiral",
+  "all_genres": [
+    1,
+    4
+  ],
+  "genre": 1,
+  "styles": [
+    "Industrial Metal",
+    "Industrial",
+    "Alternative Rock"
+  ],
+  "release_date": "2017-08-04",
+  "year": 2017,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/v9nr_TZzOJ7nQmhGnkxG4CQSiAQcXw_AJoYBdIuX6gE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcy/NzQ0LTE2Mzk1OTAy/MTMtNzc4My5wbmc.jpeg",
+  "cover_image": "https://i.discogs.com/wF5-GfAWNtHksUqmCIJi2ZOsc4bX0hUl078zn9uU8_M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjcy/NzQ0LTE2Mzk1OTAy/MTMtNzc4My5wbmc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Mr. Self Destruct",
+      "duration": "4:31"
+    },
+    {
+      "position": "A2",
+      "title": "Piggy",
+      "duration": "4:24"
+    },
+    {
+      "position": "A3",
+      "title": "Heresy",
+      "duration": "3:54"
+    },
+    {
+      "position": "A4",
+      "title": "March Of The Pigs",
+      "duration": "2:59"
+    },
+    {
+      "position": "B1",
+      "title": "Closer",
+      "duration": "6:14"
+    },
+    {
+      "position": "B2",
+      "title": "Ruiner",
+      "duration": "4:58"
+    },
+    {
+      "position": "B3",
+      "title": "The Becoming",
+      "duration": "5:31"
+    },
+    {
+      "position": "C1",
+      "title": "I Do Not Want This",
+      "duration": "5:41"
+    },
+    {
+      "position": "C2",
+      "title": "Big Man With A Gun",
+      "duration": "1:36"
+    },
+    {
+      "position": "C3",
+      "title": "A Warm Place",
+      "duration": "3:23"
+    },
+    {
+      "position": "C4",
+      "title": "Eraser",
+      "duration": "4:53"
+    },
+    {
+      "position": "D1",
+      "title": "Reptile",
+      "duration": "6:52"
+    },
+    {
+      "position": "D2",
+      "title": "The Downward Spiral",
+      "duration": "3:58"
+    },
+    {
+      "position": "D3",
+      "title": "Hurt",
+      "duration": "6:16"
+    }
+  ]
+}

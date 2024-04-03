@@ -1,0 +1,86 @@
+{
+  "id": 2580199,
+  "artist_id": 16655,
+  "artist": "Blondie",
+  "title": "Parallel Lines",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "New Wave",
+    "Pop Rock",
+    "Disco",
+    "Punk"
+  ],
+  "release_date": "1978-09-00",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/rHid4ggC5FhJmxYYjbBR4PBG9GDuuGVUmB9pQMBfxAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODAx/OTktMTMyNzY0OTA2/NS5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/YrPi-9qDsleOuFgWWjciKH9LzPdvcpVcejlXMhUbO04/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODAx/OTktMTMyNzY0OTA2/NS5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hanging On The Telephone",
+      "duration": "2:17"
+    },
+    {
+      "position": "A2",
+      "title": "One Way Or Another",
+      "duration": "3:31"
+    },
+    {
+      "position": "A3",
+      "title": "Picture This",
+      "duration": "2:53"
+    },
+    {
+      "position": "A4",
+      "title": "Fade Away And Radiate",
+      "duration": "3:57"
+    },
+    {
+      "position": "A5",
+      "title": "Pretty Baby",
+      "duration": "3:16"
+    },
+    {
+      "position": "A6",
+      "title": "I Know But I Don't Know",
+      "duration": "3:53"
+    },
+    {
+      "position": "B1",
+      "title": "11:59",
+      "duration": "3:19"
+    },
+    {
+      "position": "B2",
+      "title": "Will Anything Happen",
+      "duration": "2:55"
+    },
+    {
+      "position": "B3",
+      "title": "Sunday Girl",
+      "duration": "3:01"
+    },
+    {
+      "position": "B4",
+      "title": "Heart Of Glass",
+      "duration": "3:54"
+    },
+    {
+      "position": "B5",
+      "title": "I'm Gonna Love You Too",
+      "duration": "2:03"
+    },
+    {
+      "position": "B6",
+      "title": "Just Go Away",
+      "duration": "3:21"
+    }
+  ]
+}

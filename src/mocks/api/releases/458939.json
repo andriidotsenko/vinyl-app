@@ -1,0 +1,99 @@
+{
+  "id": 458939,
+  "artist_id": 34278,
+  "artist": "Led Zeppelin",
+  "title": "Physical Graffiti",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock",
+    "Hard Rock"
+  ],
+  "release_date": "1975-02-24",
+  "year": 1975,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/SKw1lnsi-H8T26-SH3yWg3sJxGdh0RrEcOnWHrTFL3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODkz/OS0xNTg4ODgxMTUx/LTE5OTUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/x3ZpnVYVFbxLgfbyGkI5YJd8ySOeh9uUaHxOHr9uaZ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODkz/OS0xNTg4ODgxMTUx/LTE5OTUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Custard Pie",
+      "duration": "4:20"
+    },
+    {
+      "position": "A2",
+      "title": "The Rover",
+      "duration": "5:54"
+    },
+    {
+      "position": "A3",
+      "title": "In My Time Of Dying",
+      "duration": "11:08"
+    },
+    {
+      "position": "B1",
+      "title": "Houses Of The Holy",
+      "duration": "4:01"
+    },
+    {
+      "position": "B2",
+      "title": "Trampled Under Foot",
+      "duration": "5:38"
+    },
+    {
+      "position": "B3",
+      "title": "Kashmir",
+      "duration": "9:41"
+    },
+    {
+      "position": "C1",
+      "title": "In The Light",
+      "duration": "8:46"
+    },
+    {
+      "position": "C2",
+      "title": "Bron-Yr-Aur",
+      "duration": "2:07"
+    },
+    {
+      "position": "C3",
+      "title": "Down By The Seaside",
+      "duration": "5:15"
+    },
+    {
+      "position": "C4",
+      "title": "Ten Years Gone",
+      "duration": "6:55"
+    },
+    {
+      "position": "D1",
+      "title": "Night Flight",
+      "duration": "3:37"
+    },
+    {
+      "position": "D2",
+      "title": "The Wanton Song",
+      "duration": "4:10"
+    },
+    {
+      "position": "D3",
+      "title": "Boogie With Stu",
+      "duration": "3:45"
+    },
+    {
+      "position": "D4",
+      "title": "Black Country Woman",
+      "duration": "4:30"
+    },
+    {
+      "position": "D5",
+      "title": "Sick Again",
+      "duration": "4:40"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": 2485033,
+  "artist_id": 262214,
+  "artist": "Eddie Vedder",
+  "title": "Into The Wild",
+  "all_genres": [
+    4,
+    6
+  ],
+  "genre": 4,
+  "styles": [
+    "Folk Rock",
+    "Acoustic",
+    "Soundtrack"
+  ],
+  "release_date": "2010-10-07",
+  "year": 2010,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/JTLLWAx3l_w4u42LwnB_up-Vp6CvfiFrz1T4pCey9EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODUw/MzMtMTY0NzI2NzQy/OC00MDg2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/5uDOPTbR3l65-PzQtaii5xJeFE8ybn4ooFlh3zhKsFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODUw/MzMtMTY0NzI2NzQy/OC00MDg2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Setting Forth",
+      "duration": "1:37"
+    },
+    {
+      "position": "A2",
+      "title": "No Ceiling",
+      "duration": "1:34"
+    },
+    {
+      "position": "A3",
+      "title": "Far Behind",
+      "duration": "2:15"
+    },
+    {
+      "position": "A4",
+      "title": "Rise",
+      "duration": "2:36"
+    },
+    {
+      "position": "A5",
+      "title": "Tuolumne",
+      "duration": "1:00"
+    },
+    {
+      "position": "A6",
+      "title": "Long Nights",
+      "duration": "2:32"
+    },
+    {
+      "position": "A7",
+      "title": "Guaranteed (Humming Version)",
+      "duration": "2:43"
+    },
+    {
+      "position": "B1",
+      "title": "Hard Sun",
+      "duration": "5:22"
+    },
+    {
+      "position": "B2",
+      "title": "Society",
+      "duration": "3:56"
+    },
+    {
+      "position": "B3",
+      "title": "The Wolf",
+      "duration": "2:18"
+    },
+    {
+      "position": "B4",
+      "title": "End Of The Road",
+      "duration": "3:19"
+    },
+    {
+      "position": "B5",
+      "title": "Guaranteed",
+      "duration": "2:40"
+    }
+  ]
+}

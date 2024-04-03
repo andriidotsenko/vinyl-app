@@ -1,0 +1,74 @@
+{
+  "id": 5057494,
+  "artist_id": 3317315,
+  "artist": "Lorde",
+  "title": "Pure Heroine",
+  "all_genres": [
+    3
+  ],
+  "genre": 3,
+  "styles": [
+    "Indie Pop",
+    "Synth-pop"
+  ],
+  "release_date": "2013-10-31",
+  "year": 2013,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/HmrMVAUQss3cuBv8nWcm3PKYnJ5QYMgYF5xKteWV6JE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTc0/OTQtMTUzODUzNDUz/MS04ODc2LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/oWyeC1tRp-HLv0T6GOpSu1Coad-1uLANkSx5DOMLcUY/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTc0/OTQtMTUzODUzNDUz/MS04ODc2LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Tennis Court",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "400 Lux",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Royals",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Ribs",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Buzzcut Season",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Team",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Glory And Gore",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Still Sane",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "White Teeth Teens",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "A World Alone",
+      "duration": ""
+    }
+  ]
+}

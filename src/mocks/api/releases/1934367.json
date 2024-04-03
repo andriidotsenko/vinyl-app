@@ -1,0 +1,69 @@
+{
+  "id": 1934367,
+  "artist_id": 255680,
+  "artist": "Eagles",
+  "title": "Hotel California",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1976",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/4OEyQygeXaa3GUkAorgITC-zB9JCf51BCrP9a4EkJnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQz/NjctMTM4MzkwODQz/OC00MTc1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/2JRfmUxxKRn1L1g5bJQ3Z7urblnqF2K17zg2SrBzON0/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MzQz/NjctMTM4MzkwODQz/OC00MTc1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hotel California",
+      "duration": "6:30"
+    },
+    {
+      "position": "A2",
+      "title": "New Kid In Town",
+      "duration": "5:04"
+    },
+    {
+      "position": "A3",
+      "title": "Life In The Fast Lane",
+      "duration": "4:46"
+    },
+    {
+      "position": "A4",
+      "title": "Wasted Time",
+      "duration": "4:55"
+    },
+    {
+      "position": "B1",
+      "title": "Wasted Time (Reprise)",
+      "duration": "1:22"
+    },
+    {
+      "position": "B2",
+      "title": "Victim Of Love",
+      "duration": "4:11"
+    },
+    {
+      "position": "B3",
+      "title": "Pretty Maids All In A Row",
+      "duration": "4:05"
+    },
+    {
+      "position": "B4",
+      "title": "Try And Love Again",
+      "duration": "5:10"
+    },
+    {
+      "position": "B5",
+      "title": "The Last Resort",
+      "duration": "7:25"
+    }
+  ]
+}

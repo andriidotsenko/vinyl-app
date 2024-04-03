@@ -1,0 +1,83 @@
+{
+  "id": 377554,
+  "artist_id": 82730,
+  "artist": "The Beatles",
+  "title": "Let It Be",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1970-05-18",
+  "year": 1970,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/OvIE8N72KddyjOZXKki6-lWFWMQQIonTqfjIgbyS4ho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xMzQwMzU1MTI2/LTE3MTQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/9POZAj3Ktee5aTazNVCdvoS6CBxYJhkAhv2Kmacfmu8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xMzQwMzU1MTI2/LTE3MTQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Two Of Us",
+      "duration": "3:33"
+    },
+    {
+      "position": "A2",
+      "title": "I Dig A Pony",
+      "duration": "3:55"
+    },
+    {
+      "position": "A3",
+      "title": "Across The Universe",
+      "duration": "3:51"
+    },
+    {
+      "position": "A4",
+      "title": "I Me Mine",
+      "duration": "2:25"
+    },
+    {
+      "position": "A5",
+      "title": "Dig It",
+      "duration": "0:51"
+    },
+    {
+      "position": "A6",
+      "title": "Let It Be",
+      "duration": "4:01"
+    },
+    {
+      "position": "A7",
+      "title": "Maggie Mae",
+      "duration": "0:39"
+    },
+    {
+      "position": "B1",
+      "title": "I've Got A Feeling",
+      "duration": "3:38"
+    },
+    {
+      "position": "B2",
+      "title": "One After 909",
+      "duration": "2:52"
+    },
+    {
+      "position": "B3",
+      "title": "The Long And Winding Road",
+      "duration": "3:40"
+    },
+    {
+      "position": "B4",
+      "title": "For You Blue",
+      "duration": "2:33"
+    },
+    {
+      "position": "B5",
+      "title": "Get Back",
+      "duration": "3:09"
+    }
+  ]
+}

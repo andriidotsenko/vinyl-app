@@ -1,0 +1,176 @@
+{
+  "id": 2276858,
+  "artist_id": 258372,
+  "artist": "The Black Keys",
+  "title": "Brothers",
+  "all_genres": [
+    4,
+    9,
+    7
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Indie Rock"
+  ],
+  "release_date": "2010-05-18",
+  "year": 2010,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Kl1DrsWId9LAczQlePPrJ2NDo7Fku3-z0eqw9hjPGvg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY4/NTgtMTM5MTQxODE0/NS04NzUyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/hwURIhZ_223bTjAjWRVGfubL1WkSdJis_uyZun9Pv6o/rs:fit/g:sm/q:90/h:595/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzY4/NTgtMTM5MTQxODE0/NS04NzUyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Everlasting Light",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Next Girl",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Tighten Up",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Howlin' For You",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "She's Long Gone",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Black Mud",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "The Only One",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Too Afraid To Love You",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Ten Cent Pistol",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Sinister Kid",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "The Go Getter",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "I'm Not The One",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Unknown Brother",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Never Gonna Give You Up",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "These Days",
+      "duration": ""
+    },
+    {
+      "position": "CD-1",
+      "title": "Everlasting Light",
+      "duration": "3:23"
+    },
+    {
+      "position": "CD-2",
+      "title": "Next Girl",
+      "duration": "3:18"
+    },
+    {
+      "position": "CD-3",
+      "title": "Tighten Up",
+      "duration": "3:31"
+    },
+    {
+      "position": "CD-4",
+      "title": "Howlin' For You",
+      "duration": "3:11"
+    },
+    {
+      "position": "CD-5",
+      "title": "She's Long Gone",
+      "duration": "3:06"
+    },
+    {
+      "position": "CD-6",
+      "title": "Black Mud",
+      "duration": "2:09"
+    },
+    {
+      "position": "CD-7",
+      "title": "The Only One",
+      "duration": "5:00"
+    },
+    {
+      "position": "CD-8",
+      "title": "Too Afraid To Love You",
+      "duration": "3:24"
+    },
+    {
+      "position": "CD-9",
+      "title": "Ten Cent Pistol",
+      "duration": "4:29"
+    },
+    {
+      "position": "CD-10",
+      "title": "Sinister Kid",
+      "duration": "3:44"
+    },
+    {
+      "position": "CD-11",
+      "title": "The Go Getter",
+      "duration": "3:36"
+    },
+    {
+      "position": "CD-12",
+      "title": "I'm Not The One",
+      "duration": "3:49"
+    },
+    {
+      "position": "CD-13",
+      "title": "Unknown Brother",
+      "duration": "3:59"
+    },
+    {
+      "position": "CD-14",
+      "title": "Never Gonna Give You Up",
+      "duration": "3:38"
+    },
+    {
+      "position": "CD-15",
+      "title": "These Days",
+      "duration": "5:11"
+    }
+  ]
+}

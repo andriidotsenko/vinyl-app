@@ -1,0 +1,134 @@
+{
+  "id": 5677322,
+  "artist_id": 258372,
+  "artist": "The Black Keys",
+  "title": "Turn Blue",
+  "all_genres": [
+    4,
+    9
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock"
+  ],
+  "release_date": "2014-05-09",
+  "year": 2014,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/R3qTscq6T7tWxeuK52AYwoUPoKJJ2b219AHi-wecc_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzcz/MjItMTQ4ODk5NjI2/NS00ODE0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/x9VYx5YZr_RNBOFuDfaU5oidheAn4eboyB00hP8U6wM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzcz/MjItMTQ4ODk5NjI2/NS00ODE0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Weight Of Love",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "In Time",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Turn Blue",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Fever",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Year In Review",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Bullet In The Brain",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "It's Up To You Now",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Waiting On Words",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "10 Lovers",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "In Our Prime",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Gotta Get Away",
+      "duration": ""
+    },
+    {
+      "position": "CD-1",
+      "title": "Weight Of Love",
+      "duration": "6:50"
+    },
+    {
+      "position": "CD-2",
+      "title": "In Time",
+      "duration": "4:28"
+    },
+    {
+      "position": "CD-3",
+      "title": "Turn Blue",
+      "duration": "3:43"
+    },
+    {
+      "position": "CD-4",
+      "title": "Fever",
+      "duration": "4:06"
+    },
+    {
+      "position": "CD-5",
+      "title": "Year In Review",
+      "duration": "3:48"
+    },
+    {
+      "position": "CD-6",
+      "title": "Bullet In The Brain",
+      "duration": "4:16"
+    },
+    {
+      "position": "CD-7",
+      "title": "It's Up To You Now",
+      "duration": "3:11"
+    },
+    {
+      "position": "CD-8",
+      "title": "Waiting On Words",
+      "duration": "3:37"
+    },
+    {
+      "position": "CD-9",
+      "title": "10 Lovers",
+      "duration": "3:33"
+    },
+    {
+      "position": "CD-10",
+      "title": "In Our Prime",
+      "duration": "4:38"
+    },
+    {
+      "position": "CD-11",
+      "title": "Gotta Get Away",
+      "duration": "3:02"
+    }
+  ]
+}

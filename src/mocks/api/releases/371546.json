@@ -1,0 +1,78 @@
+{
+  "id": 371546,
+  "artist_id": 7987,
+  "artist": "The Police",
+  "title": "Zenyatta Mondatta",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "New Wave"
+  ],
+  "release_date": "1980-10-03",
+  "year": 1980,
+  "all_countries": [
+    "uk"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/itbNNLQegB6IsJt8kPUNqjjQGEGosBP8am4mZCfqqaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTU0/Ni0xMTczNTM3MTQy/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/WWEVpAVLoVAm_3rwhuEsUjV_Ifi0CKwbXTNLoRyHyfs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTU0/Ni0xMTczNTM3MTQy/LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Don't Stand So Close To Me",
+      "duration": "4:03"
+    },
+    {
+      "position": "A2",
+      "title": "Driven To Tears",
+      "duration": "3:21"
+    },
+    {
+      "position": "A3",
+      "title": "When The World Is Running Down, You Make The Best Of What's Still Around",
+      "duration": "3:33"
+    },
+    {
+      "position": "A4",
+      "title": "Canary In A Coalmine",
+      "duration": "2:24"
+    },
+    {
+      "position": "A5",
+      "title": "Voices Inside My Head",
+      "duration": "3:51"
+    },
+    {
+      "position": "A6",
+      "title": "Bombs Away",
+      "duration": "3:07"
+    },
+    {
+      "position": "B1",
+      "title": "De Do Do Do, De Da Da Da",
+      "duration": "4:09"
+    },
+    {
+      "position": "B2",
+      "title": "Behind My Camel",
+      "duration": "2:53"
+    },
+    {
+      "position": "B3",
+      "title": "Man In A Suitcase",
+      "duration": "2:15"
+    },
+    {
+      "position": "B4",
+      "title": "Shadows In The Rain",
+      "duration": "5:09"
+    },
+    {
+      "position": "B5",
+      "title": "The Other Way Of Stopping",
+      "duration": "3:21"
+    }
+  ]
+}

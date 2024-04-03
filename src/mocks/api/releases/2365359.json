@@ -1,0 +1,84 @@
+{
+  "id": 2365359,
+  "artist_id": 1567405,
+  "artist": "Mumford & Sons",
+  "title": "Sigh No More",
+  "all_genres": [
+    7
+  ],
+  "genre": 7,
+  "styles": [
+    "Bluegrass",
+    "Folk"
+  ],
+  "release_date": "2009",
+  "year": 2009,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/dJDOTcl3prYkdTr8qsh1f9FVZhDBmbfVjsyl9sh6ZyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjUz/NTktMTI4ODQ0NDA3/My5qcGVn.jpeg",
+  "cover_image": "https://i.discogs.com/owDmA1HhID9HEnAVti5M3MyKuZE5z7CNGRV5tyGQ0BE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjUz/NTktMTI4ODQ0NDA3/My5qcGVn.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Sigh No More",
+      "duration": "3:28"
+    },
+    {
+      "position": "A2",
+      "title": "The Cave",
+      "duration": "3:38"
+    },
+    {
+      "position": "A3",
+      "title": "Winter Winds",
+      "duration": "3:40"
+    },
+    {
+      "position": "A4",
+      "title": "Roll Away Your Stone",
+      "duration": "4:24"
+    },
+    {
+      "position": "A5",
+      "title": "White Blank Page",
+      "duration": "4:14"
+    },
+    {
+      "position": "A6",
+      "title": "I Gave You All",
+      "duration": "4:20"
+    },
+    {
+      "position": "B1",
+      "title": "Little Lion Man",
+      "duration": "4:07"
+    },
+    {
+      "position": "B2",
+      "title": "Timshel",
+      "duration": "2:53"
+    },
+    {
+      "position": "B3",
+      "title": "Thistle & Weeds",
+      "duration": "4:50"
+    },
+    {
+      "position": "B4",
+      "title": "Awake My Soul",
+      "duration": "4:16"
+    },
+    {
+      "position": "B5",
+      "title": "Dust Bowl Dance",
+      "duration": "4:43"
+    },
+    {
+      "position": "B6",
+      "title": "After The Storm",
+      "duration": "4:08"
+    }
+  ]
+}

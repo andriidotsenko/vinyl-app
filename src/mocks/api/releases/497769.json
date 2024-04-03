@@ -1,0 +1,68 @@
+{
+  "id": 497769,
+  "artist_id": 178572,
+  "artist": "Huey Lewis & The News",
+  "title": "Sports",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1983-09-15",
+  "year": 1983,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/UjOjtZ35fKxNCewtROpMm9vd7b0SjdwG4cN3u0ybzRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Nzc2/OS0xMzY1NDQyNzI5/LTk1MTUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/0m36yCKiMRYX1Xq1OglzoNvoAHIBZLnTNOrcOR-VJc8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5Nzc2/OS0xMzY1NDQyNzI5/LTk1MTUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Heart Of Rock & Roll",
+      "duration": "5:01"
+    },
+    {
+      "position": "A2",
+      "title": "Heart And Soul",
+      "duration": "4:10"
+    },
+    {
+      "position": "A3",
+      "title": "Bad Is Bad",
+      "duration": "3:46"
+    },
+    {
+      "position": "A4",
+      "title": "I Want A New Drug",
+      "duration": "4:46"
+    },
+    {
+      "position": "B1",
+      "title": "Walking On A Thin Line",
+      "duration": "5:08"
+    },
+    {
+      "position": "B2",
+      "title": "Finally Found A Home",
+      "duration": "3:42"
+    },
+    {
+      "position": "B3",
+      "title": "If This Is It",
+      "duration": "3:46"
+    },
+    {
+      "position": "B4",
+      "title": "You Crack Me Up",
+      "duration": "3:39"
+    },
+    {
+      "position": "B5",
+      "title": "Honky Tonk Blues",
+      "duration": "3:16"
+    }
+  ]
+}

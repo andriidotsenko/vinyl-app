@@ -1,0 +1,87 @@
+{
+  "id": 5820814,
+  "artist_id": 2184482,
+  "artist": "Ed Sheeran",
+  "title": "X",
+  "all_genres": [
+    5,
+    4
+  ],
+  "genre": 5,
+  "styles": [
+    "Acoustic",
+    "Pop Rock",
+    "Folk Rock"
+  ],
+  "release_date": "2014-06-23",
+  "year": 2014,
+  "all_countries": [
+    "uk",
+    "europe"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/dwrBM_GykMarMGQy0MmK7MgPJNmnZtUe4qfYH2FUnhY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjA4/MTQtMTU5NjMxOTE4/MC00MjM1LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/9fYcsdGQCnoyV9wTqbssFOPMdm7I1EaF_MYtrnYNMjk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MjA4/MTQtMTU5NjMxOTE4/MC00MjM1LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "One",
+      "duration": "4:13"
+    },
+    {
+      "position": "A2",
+      "title": "I'm A Mess",
+      "duration": "4:05"
+    },
+    {
+      "position": "A3",
+      "title": "Sing",
+      "duration": "3:55"
+    },
+    {
+      "position": "B1",
+      "title": "Don't",
+      "duration": "3:40"
+    },
+    {
+      "position": "B2",
+      "title": "Nina",
+      "duration": "3:46"
+    },
+    {
+      "position": "B3",
+      "title": "Photograph",
+      "duration": "4:19"
+    },
+    {
+      "position": "C1",
+      "title": "Bloodstream",
+      "duration": "5:00"
+    },
+    {
+      "position": "C2",
+      "title": "Tenerife Sea",
+      "duration": "4:01"
+    },
+    {
+      "position": "C3",
+      "title": "Runaway",
+      "duration": "3:25"
+    },
+    {
+      "position": "D1",
+      "title": "The Man",
+      "duration": "4:10"
+    },
+    {
+      "position": "D2",
+      "title": "Thinking Out Loud",
+      "duration": "4:42"
+    },
+    {
+      "position": "D3",
+      "title": "Afire Love",
+      "duration": "5:14"
+    }
+  ]
+}

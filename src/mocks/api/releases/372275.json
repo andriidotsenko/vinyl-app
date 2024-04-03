@@ -1,0 +1,68 @@
+{
+  "id": 372275,
+  "artist_id": 251517,
+  "artist": "Supertramp",
+  "title": "\"...Famous Last Words...\"",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Pop Rock"
+  ],
+  "release_date": "1982",
+  "year": 1982,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/hIkXCtDWBE2RE1GoPSn35GJ8gyrpE4hcr7iKjNij-zA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NS0xNjUwMzgxODA0/LTUzOTAuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/okcliqNG6eTzu0NKnsErpRB60PPG19hqZtmGxdglABQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MjI3/NS0xNjUwMzgxODA0/LTUzOTAuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Crazy",
+      "duration": "4:32"
+    },
+    {
+      "position": "A2",
+      "title": "Put On Your Old Brown Shoes",
+      "duration": "4:20"
+    },
+    {
+      "position": "A3",
+      "title": "It's Raining Again",
+      "duration": "4:25"
+    },
+    {
+      "position": "A4",
+      "title": "Bonnie",
+      "duration": "5:37"
+    },
+    {
+      "position": "A5",
+      "title": "Know Who You Are",
+      "duration": "4:58"
+    },
+    {
+      "position": "B1",
+      "title": "My Kind Of Lady",
+      "duration": "5:12"
+    },
+    {
+      "position": "B2",
+      "title": "C'est Le Bon",
+      "duration": "5:32"
+    },
+    {
+      "position": "B3",
+      "title": "Waiting So Long",
+      "duration": "6:32"
+    },
+    {
+      "position": "B4",
+      "title": "Don't Leave Me Now",
+      "duration": "6:25"
+    }
+  ]
+}

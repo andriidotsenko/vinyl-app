@@ -1,0 +1,74 @@
+{
+  "id": 4174124,
+  "artist_id": 56798,
+  "artist": "The Doors",
+  "title": "Greatest Hits",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Psychedelic Rock"
+  ],
+  "release_date": "1980",
+  "year": 1980,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/fVdbReU1Ayq2QnP7ZDFaqoP1hENSQP9hn_fspFwYUdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzQx/MjQtMTM1NzY4NDUw/Mi03ODgxLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/f6l7A-2_sTEO4xenV3AizbPkZzhnnPONNYfptvRyt4o/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNzQx/MjQtMTM1NzY4NDUw/Mi03ODgxLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hello, I Love You",
+      "duration": "2:16"
+    },
+    {
+      "position": "A2",
+      "title": "Light My Fire",
+      "duration": "7:05"
+    },
+    {
+      "position": "A3",
+      "title": "People Are Strange",
+      "duration": "2:10"
+    },
+    {
+      "position": "A4",
+      "title": "Love Me Two Times",
+      "duration": "3:14"
+    },
+    {
+      "position": "A5",
+      "title": "Riders On The Storm",
+      "duration": "7:11"
+    },
+    {
+      "position": "B1",
+      "title": "Break On Through",
+      "duration": "2:26"
+    },
+    {
+      "position": "B2",
+      "title": "Roadhouse Blues",
+      "duration": "4:04"
+    },
+    {
+      "position": "B3",
+      "title": "Not To Touch The Earth",
+      "duration": "3:55"
+    },
+    {
+      "position": "B4",
+      "title": "Touch Me",
+      "duration": "3:11"
+    },
+    {
+      "position": "B5",
+      "title": "L.A. Woman",
+      "duration": "7:49"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "id": 242785,
+  "artist_id": 25058,
+  "artist": "MF DOOM",
+  "title": "Madvillainy",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Jazzy Hip-Hop",
+    "Experimental",
+    "Leftfield",
+    "Abstract"
+  ],
+  "release_date": "2004-03-19",
+  "year": 2004,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/jMkdYLC87TCcyCc-mbHKtrBeLWIOhfSNQvMSp51NJBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjc4/NS0xNjYyMjA3MDQx/LTc0NjcuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/nqGrV-wr5XpxWHm39LPr164FSBTgRDMDDpkNzGpEv-Q/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mjc4/NS0xNjYyMjA3MDQx/LTc0NjcuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "1A",
+      "title": "The Illest Villains",
+      "duration": "1:55"
+    },
+    {
+      "position": "2A",
+      "title": "Accordion",
+      "duration": "1:58"
+    },
+    {
+      "position": "3A",
+      "title": "Meat Grinder",
+      "duration": "2:11"
+    },
+    {
+      "position": "4A",
+      "title": "Bistro",
+      "duration": "1:08"
+    },
+    {
+      "position": "5A",
+      "title": "Raid",
+      "duration": "2:35"
+    },
+    {
+      "position": "1B",
+      "title": "America's Most Blunted",
+      "duration": "3:54"
+    },
+    {
+      "position": "2B",
+      "title": "Sickfit (Inst.)",
+      "duration": "1:21"
+    },
+    {
+      "position": "3B",
+      "title": "Rainbows",
+      "duration": "2:51"
+    },
+    {
+      "position": "4B",
+      "title": "Curls",
+      "duration": "1:33"
+    },
+    {
+      "position": "5B",
+      "title": "Do Not Fire! (Inst.)",
+      "duration": "0:52"
+    },
+    {
+      "position": "6B",
+      "title": "Money Folder",
+      "duration": "2:41"
+    },
+    {
+      "position": "1C",
+      "title": "Scene Two (Voice Skit)",
+      "duration": "0:20"
+    },
+    {
+      "position": "2C",
+      "title": "Shadows Of Tomorrow",
+      "duration": "2:36"
+    },
+    {
+      "position": "3C",
+      "title": "Operation Lifesaver AKA Mint Test",
+      "duration": "1:30"
+    },
+    {
+      "position": "4C",
+      "title": "Figaro",
+      "duration": "2:25"
+    },
+    {
+      "position": "5C",
+      "title": "Hardcore Hustle",
+      "duration": "1:21"
+    },
+    {
+      "position": "6C",
+      "title": "Strange Ways",
+      "duration": "1:23"
+    },
+    {
+      "position": "1D",
+      "title": "(Intro)",
+      "duration": "0:29"
+    },
+    {
+      "position": "2D",
+      "title": "Fancy Clown",
+      "duration": "1:55"
+    },
+    {
+      "position": "3D",
+      "title": "Eye",
+      "duration": "1:57"
+    },
+    {
+      "position": "4D",
+      "title": "Supervillain Theme (Inst.)",
+      "duration": "0:52"
+    },
+    {
+      "position": "5D",
+      "title": "All Caps",
+      "duration": "2:10"
+    },
+    {
+      "position": "6D",
+      "title": "Great Day",
+      "duration": "2:16"
+    },
+    {
+      "position": "7D",
+      "title": "Rhinestone Cowboy",
+      "duration": "4:00"
+    }
+  ]
+}

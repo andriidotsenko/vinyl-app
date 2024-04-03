@@ -1,0 +1,70 @@
+{
+  "id": 749903,
+  "artist_id": 268911,
+  "artist": "Bob Seger And The Silver Bullet Band",
+  "title": "Stranger In Town",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Rock & Roll",
+    "Soft Rock",
+    "Classic Rock"
+  ],
+  "release_date": "1978-05-15",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/Y3pZ7J_pWOmraML6hVpz9ewo6P_RXvQHtbAl6njIctE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTkw/My0xNTE2NTk2MzE0/LTYxMzIuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/82BH1H7Hfta8xANV5nYdr4qkNtudMCzQ7TEQbTbrwHA/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTkw/My0xNTE2NTk2MzE0/LTYxMzIuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hollywood Nights",
+      "duration": "5:00"
+    },
+    {
+      "position": "A2",
+      "title": "Still The Same",
+      "duration": "3:21"
+    },
+    {
+      "position": "A3",
+      "title": "Old Time Rock & Roll",
+      "duration": "3:13"
+    },
+    {
+      "position": "A4",
+      "title": "Till It Shines",
+      "duration": "3:53"
+    },
+    {
+      "position": "A5",
+      "title": "Feel Like A Number",
+      "duration": "3:42"
+    },
+    {
+      "position": "B1",
+      "title": "Ain't Got No Money",
+      "duration": "4:12"
+    },
+    {
+      "position": "B2",
+      "title": "We've Got Tonite",
+      "duration": "4:39"
+    },
+    {
+      "position": "B3",
+      "title": "Brave Strangers",
+      "duration": "6:21"
+    },
+    {
+      "position": "B4",
+      "title": "The Famous Final Scene",
+      "duration": "5:08"
+    }
+  ]
+}

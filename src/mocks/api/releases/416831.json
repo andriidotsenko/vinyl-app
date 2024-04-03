@@ -1,0 +1,77 @@
+{
+  "id": 416831,
+  "artist_id": 6518,
+  "artist": "Simply Red",
+  "title": "Picture Book",
+  "all_genres": [
+    4,
+    2,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Rhythm & Blues",
+    "Soul",
+    "Ballad"
+  ],
+  "release_date": "1985-10-14",
+  "year": 1985,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/M6gqIn9BytnJOrECkOGgRuS1XP6q6PboUOmzZZ_-xYM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjgz/MS0xMzc2NjgyMDgz/LTE1ODYuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/ceMi3-9XSYMO6rWU3b7wLbfKt2z9SEV2cZ7QTEARVVc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxNjgz/MS0xMzc2NjgyMDgz/LTE1ODYuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Come To My Aid",
+      "duration": "4:04"
+    },
+    {
+      "position": "A2",
+      "title": "Sad Old Red",
+      "duration": "4:32"
+    },
+    {
+      "position": "A3",
+      "title": "Look At You Now",
+      "duration": "3:02"
+    },
+    {
+      "position": "A4",
+      "title": "Heaven",
+      "duration": "4:33"
+    },
+    {
+      "position": "A5",
+      "title": "Jericho",
+      "duration": "6:04"
+    },
+    {
+      "position": "B1",
+      "title": "Money's Too Tight (To Mention)",
+      "duration": "4:14"
+    },
+    {
+      "position": "B2",
+      "title": "Holding Back The Years",
+      "duration": "4:28"
+    },
+    {
+      "position": "B3",
+      "title": "Red Box",
+      "duration": "3:55"
+    },
+    {
+      "position": "B4",
+      "title": "No Direction",
+      "duration": "3:40"
+    },
+    {
+      "position": "B5",
+      "title": "Picture Book",
+      "duration": "5:48"
+    }
+  ]
+}

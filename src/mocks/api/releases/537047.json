@@ -1,0 +1,86 @@
+{
+  "id": 537047,
+  "artist_id": 29815,
+  "artist": "Steve Miller Band",
+  "title": "Fly Like An Eagle",
+  "all_genres": [
+    4,
+    3
+  ],
+  "genre": 4,
+  "styles": [
+    "Classic Rock",
+    "Blues Rock",
+    "Pop Rock"
+  ],
+  "release_date": "1976",
+  "year": 1976,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/8iNvNMiaAImfaSDjKvNE8mjp3pH6mHM8qaNCPEHiBo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xNDI3MDUzMDE3/LTYzNTMucG5n.jpeg",
+  "cover_image": "https://i.discogs.com/-g5_7QhSIOfgkYuVyDj6W7cmlprY2GA-wFs9LSElJL0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNzA0/Ny0xNDI3MDUzMDE3/LTYzNTMucG5n.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Space Intro",
+      "duration": "1:15"
+    },
+    {
+      "position": "A2",
+      "title": "Fly Like An Eagle",
+      "duration": "4:42"
+    },
+    {
+      "position": "A3",
+      "title": "Wild Mountain Honey",
+      "duration": "4:50"
+    },
+    {
+      "position": "A4",
+      "title": "Serenade",
+      "duration": "3:10"
+    },
+    {
+      "position": "A5",
+      "title": "Dance, Dance, Dance",
+      "duration": "2:16"
+    },
+    {
+      "position": "A6",
+      "title": "Mercury Blues",
+      "duration": "3:43"
+    },
+    {
+      "position": "B1",
+      "title": "Take The Money And Run",
+      "duration": "2:48"
+    },
+    {
+      "position": "B2",
+      "title": "Rock 'N Me",
+      "duration": "3:05"
+    },
+    {
+      "position": "B3",
+      "title": "You Send Me",
+      "duration": "2:40"
+    },
+    {
+      "position": "B4",
+      "title": "Blue Odyssey",
+      "duration": "1:00"
+    },
+    {
+      "position": "B5",
+      "title": "Sweet Maree",
+      "duration": "4:16"
+    },
+    {
+      "position": "B6",
+      "title": "The Window",
+      "duration": "4:19"
+    }
+  ]
+}

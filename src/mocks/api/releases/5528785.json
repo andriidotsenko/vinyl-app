@@ -1,0 +1,108 @@
+{
+  "id": 5528785,
+  "artist_id": 1638200,
+  "artist": "Freddie Gibbs",
+  "title": "Piñata",
+  "all_genres": [
+    5
+  ],
+  "genre": 5,
+  "styles": [
+    "Gangsta"
+  ],
+  "release_date": "2014-03-18",
+  "year": 2014,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/CAU62X6P3Ig4iX8Lklhdwmya2CU3gG2Lcx3JSjS6PQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjg3/ODUtMTYyNDQxNDI5/MS0zNjUyLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/1NtoCx5M3thGb59-OohGG-pfdh9MjQSt8gnDYwzRRd4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjg3/ODUtMTYyNDQxNDI5/MS0zNjUyLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Supplier",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Scarface",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Deeper",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "High",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Harold's",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Bomb",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Shitsville",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Thuggin'",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Real",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Uno",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Robes",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Broken",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Lakers",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Knicks",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Shame",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Watts",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Piñata",
+      "duration": ""
+    }
+  ]
+}

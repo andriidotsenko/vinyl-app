@@ -1,0 +1,75 @@
+{
+  "id": 3020028,
+  "artist_id": 26494,
+  "artist": "Slowdive",
+  "title": "Souvlaki",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Indie Rock",
+    "Shoegaze",
+    "Dream Pop"
+  ],
+  "release_date": "2011-07-21",
+  "year": 2011,
+  "all_countries": [
+    "europe"
+  ],
+  "country": "europe",
+  "thumb_image": "https://i.discogs.com/eNYSLp_RbAgJaToUx89PLn9wpUIYcdRY4R7rNKoLSZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAw/MjgtMTM5NDU2ODQy/MC01MzMwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/FMy3IrKVVC-PN9TeWz23u500lmHTXOWioO-2aDaGg1w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAw/MjgtMTM5NDU2ODQy/MC01MzMwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Alison",
+      "duration": "3:52"
+    },
+    {
+      "position": "A2",
+      "title": "Machine Gun",
+      "duration": "4:28"
+    },
+    {
+      "position": "A3",
+      "title": "40 Days",
+      "duration": "3:17"
+    },
+    {
+      "position": "A4",
+      "title": "Sing",
+      "duration": "4:50"
+    },
+    {
+      "position": "A5",
+      "title": "Here She Comes",
+      "duration": "2:19"
+    },
+    {
+      "position": "B1",
+      "title": "Souvlaki Space Station",
+      "duration": "5:59"
+    },
+    {
+      "position": "B2",
+      "title": "When The Sun Hits",
+      "duration": "4:48"
+    },
+    {
+      "position": "B3",
+      "title": "Altogether",
+      "duration": "3:43"
+    },
+    {
+      "position": "B4",
+      "title": "Melon Yellow",
+      "duration": "3:54"
+    },
+    {
+      "position": "B5",
+      "title": "Dagger",
+      "duration": "3:33"
+    }
+  ]
+}

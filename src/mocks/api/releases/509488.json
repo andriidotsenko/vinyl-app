@@ -1,0 +1,79 @@
+{
+  "id": 509488,
+  "artist_id": 56798,
+  "artist": "The Doors",
+  "title": "Waiting For The Sun",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Blues Rock",
+    "Psychedelic Rock"
+  ],
+  "release_date": "1968-07-00",
+  "year": 1968,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/6b7YlTT6v7rfRVinYJhN6JYr8aAZh61VjPpAuO7zsq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQ4/OC0xNjAxODM4OTE2/LTU1OTQuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/eVwk2-sIECWTRdl0FLRwwpoAdtfwUtBDIN6yiGzt6Uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQ4/OC0xNjAxODM4OTE2/LTU1OTQuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Hello, I Love You",
+      "duration": "2:22"
+    },
+    {
+      "position": "A2",
+      "title": "Love Street",
+      "duration": "3:06"
+    },
+    {
+      "position": "A3",
+      "title": "Not To Touch The Earth",
+      "duration": "3:54"
+    },
+    {
+      "position": "A4",
+      "title": "Summer's Almost Gone",
+      "duration": "3:20"
+    },
+    {
+      "position": "A5",
+      "title": "Wintertime Love",
+      "duration": "1:52"
+    },
+    {
+      "position": "A6",
+      "title": "The Unknown Soldier",
+      "duration": "3:10"
+    },
+    {
+      "position": "B1",
+      "title": "Spanish Caravan",
+      "duration": "2:58"
+    },
+    {
+      "position": "B2",
+      "title": "My Wild Love",
+      "duration": "2:50"
+    },
+    {
+      "position": "B3",
+      "title": "We Could Be So Good Together",
+      "duration": "2:20"
+    },
+    {
+      "position": "B4",
+      "title": "Yes, The River Knows",
+      "duration": "2:35"
+    },
+    {
+      "position": "B5",
+      "title": "Five To One",
+      "duration": "4:22"
+    }
+  ]
+}

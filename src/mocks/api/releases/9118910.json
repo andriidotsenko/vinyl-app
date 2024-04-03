@@ -1,0 +1,75 @@
+{
+  "id": 9118910,
+  "artist_id": 1042739,
+  "artist": "Bon Iver",
+  "title": "22, A Million",
+  "all_genres": [
+    1,
+    4,
+    3
+  ],
+  "genre": 1,
+  "styles": [
+    "Indie Rock"
+  ],
+  "release_date": "2016-09-30",
+  "year": 2016,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/MnMPudwtJKSBuOeMjyO_1-WWQAsYwA9mwgdDXUxdTmE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTg5/MTAtMTUxMjg0MzQx/MC0yMzc0LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/23e79MI7OXaXiMCmADT97BonefSGD5fLdI4Rm9_igkc/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxMTg5/MTAtMTUxMjg0MzQx/MC0yMzc0LmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "22 (Over Soon)",
+      "duration": "2:46"
+    },
+    {
+      "position": "A2",
+      "title": "10 Death Breast ⚄ ⚄",
+      "duration": "2:23"
+    },
+    {
+      "position": "A3",
+      "title": "715 - Creeks",
+      "duration": "2:09"
+    },
+    {
+      "position": "A4",
+      "title": "33 “God”",
+      "duration": "3:28"
+    },
+    {
+      "position": "A5",
+      "title": "29 #Strafford Apts",
+      "duration": "4:04"
+    },
+    {
+      "position": "B1",
+      "title": "666 ʇ",
+      "duration": "4:12"
+    },
+    {
+      "position": "B2",
+      "title": "21 Moon Water",
+      "duration": "3:08"
+    },
+    {
+      "position": "B3",
+      "title": "8 (Circle)",
+      "duration": "5:06"
+    },
+    {
+      "position": "B4",
+      "title": "____45_____",
+      "duration": "2:46"
+    },
+    {
+      "position": "B5",
+      "title": "1000000 Million",
+      "duration": "3:54"
+    }
+  ]
+}

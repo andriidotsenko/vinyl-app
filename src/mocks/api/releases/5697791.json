@@ -1,0 +1,85 @@
+{
+  "id": 5697791,
+  "artist_id": 140140,
+  "artist": "Oasis",
+  "title": "Definitely Maybe",
+  "all_genres": [
+    4
+  ],
+  "genre": 4,
+  "styles": [
+    "Alternative Rock",
+    "Britpop"
+  ],
+  "release_date": "2014-05-19",
+  "year": 2014,
+  "all_countries": [
+    "uk",
+    "europe"
+  ],
+  "country": "uk",
+  "thumb_image": "https://i.discogs.com/4Bb9zU7mPI5qX7u3AYM3GMsdfwCg-7AsYjSkKcxPL1k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTc3/OTEtMTQxMTA0OTUy/Ni0zMjYwLmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/p7vAFOaR_hTjKOlV-jivNBx4ODDxcSs5pN9oZ6lpHw4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2OTc3/OTEtMTQxMTA0OTUy/Ni0zMjYwLmpwZWc.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Rock 'n' Roll Star",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Shakermaker",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Live Forever",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Up In The Sky",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Columbia",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Sad Song",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Supersonic",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Bring It On Down",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Cigarettes & Alcohol",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Digsy's Dinner",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Slide Away",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Married With Children",
+      "duration": ""
+    }
+  ]
+}

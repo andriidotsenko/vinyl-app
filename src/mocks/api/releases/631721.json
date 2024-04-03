@@ -1,0 +1,146 @@
+{
+  "id": 631721,
+  "artist_id": 194,
+  "artist": "Various",
+  "title": "Grease (The Original Soundtrack From The Motion Picture)",
+  "all_genres": [
+    4,
+    6
+  ],
+  "genre": 4,
+  "styles": [
+    "Soundtrack",
+    "Rock & Roll",
+    "Pop Rock"
+  ],
+  "release_date": "1978",
+  "year": 1978,
+  "all_countries": [
+    "us"
+  ],
+  "country": "us",
+  "thumb_image": "https://i.discogs.com/OJi2TaJzWE7E6g4H1XRmNeD020tY7SYzPcXg8OkOd6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTcy/MS0xMzY1NDYwNDM0/LTg1NjUuanBlZw.jpeg",
+  "cover_image": "https://i.discogs.com/2Y2pGAMZicZQEnsSaBZ0sY35uxSQ63qxMZDRDT3LlI4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTcy/MS0xMzY1NDYwNDM0/LTg1NjUuanBlZw.jpeg",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Grease",
+      "duration": "3:24"
+    },
+    {
+      "position": "A2",
+      "title": "Summer Nights",
+      "duration": "3:36"
+    },
+    {
+      "position": "A3",
+      "title": "Hopelessly Devoted To You",
+      "duration": "3:00"
+    },
+    {
+      "position": "A4",
+      "title": "You're The One That I Want",
+      "duration": "2:47"
+    },
+    {
+      "position": "A5",
+      "title": "Sandy",
+      "duration": "2:30"
+    },
+    {
+      "position": "B1",
+      "title": "Beauty School Drop-Out",
+      "duration": "4:02"
+    },
+    {
+      "position": "B2",
+      "title": "Look At Me, I'm Sandra Dee",
+      "duration": "1:38"
+    },
+    {
+      "position": "B3",
+      "title": "Greased Lightnin'",
+      "duration": "3:12"
+    },
+    {
+      "position": "B4",
+      "title": "It's Raining On Prom Night",
+      "duration": "2:57"
+    },
+    {
+      "position": "B5",
+      "title": "Alone At A Drive-In Movie (Instrumental)",
+      "duration": "2:22"
+    },
+    {
+      "position": "B6",
+      "title": "Blue Moon",
+      "duration": "2:18"
+    },
+    {
+      "position": "C1",
+      "title": "Rock 'N' Roll Is Here To Stay",
+      "duration": "2:00"
+    },
+    {
+      "position": "C2",
+      "title": "Those Magic Changes",
+      "duration": "2:15"
+    },
+    {
+      "position": "C3",
+      "title": "Hound Dog",
+      "duration": "1:23"
+    },
+    {
+      "position": "C4",
+      "title": "Born To Hand-Jive",
+      "duration": "4:39"
+    },
+    {
+      "position": "C5",
+      "title": "Tears On My Pillow",
+      "duration": "2:06"
+    },
+    {
+      "position": "C6",
+      "title": "Mooning",
+      "duration": "2:12"
+    },
+    {
+      "position": "D1",
+      "title": "Freddy, My Love",
+      "duration": "2:40"
+    },
+    {
+      "position": "D2",
+      "title": "Rock 'N' Roll Party Queen",
+      "duration": "2:08"
+    },
+    {
+      "position": "D3",
+      "title": "There Are Worse Things I Could Do",
+      "duration": "2:18"
+    },
+    {
+      "position": "D4",
+      "title": "Look At Me, I'm Sandra Dee (Reprise)",
+      "duration": "1:20"
+    },
+    {
+      "position": "D5",
+      "title": "We Go Together",
+      "duration": "3:14"
+    },
+    {
+      "position": "D6",
+      "title": "Love Is A Many Splendored Thing (Instrumental)",
+      "duration": "1:23"
+    },
+    {
+      "position": "D7",
+      "title": "Grease (Reprise)",
+      "duration": "3:24"
+    }
+  ]
+}
