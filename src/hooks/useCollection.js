@@ -1,7 +1,11 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 export const useCollection = () => {
-  const [collectionList, setCollectionList] = useState([]);
+  const [collectionList, setCollectionList] = useState(
+    localStorage.getItem("collectionList")
+      ? JSON.parse(localStorage.getItem("collectionList"))
+      : []
+  );
 
   function handleCollectionToggle(cardId) {
     setCollectionList((prevCollectionList) =>
@@ -10,6 +14,8 @@ export const useCollection = () => {
         : [...prevCollectionList, cardId]
     );
   }
-
+  useEffect(() => {
+    localStorage.setItem("collectionList", JSON.stringify(collectionList));
+  });
   return { collectionList, handleCollectionToggle };
 };
