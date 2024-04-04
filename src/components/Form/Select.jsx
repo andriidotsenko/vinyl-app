@@ -38,7 +38,7 @@ const Select = ({
           aria-expanded={isOpen}
         >
           {value
-            ? options.find((option) => option.id === value)?.name || ""
+            ? options.find((option) => option.id === value)?.title || ""
             : placeholder}
           {isOpen ? <ArrowUpIcon /> : <ArrowDownIcon />}
         </button>
@@ -54,13 +54,13 @@ const Select = ({
                 })}
                 onClick={() => handleOptionChange(option.id)}
               >
-                {value === option.id ? <CheckIcon /> : <UncheckIcon />}{" "}
-                <span>{option.name}</span>
+                {value === option.id ? <CheckIcon /> : <UncheckIcon />}
+                <span>{option.title}</span>
               </button>
             ))}
           </div>
         )}
-      </div>{" "}
+      </div>
       {error && <div style={{ color: "red", fontSize: "11px" }}>{error}</div>}
     </>
   );

@@ -64,6 +64,7 @@ export const SearchResultsPage = () => {
       <Helmet>
         <title>{generateTitleSearchResult}</title>
       </Helmet>
+
       <main className="main">
         <div className="container">
           <div className={styles.header}>
@@ -77,6 +78,7 @@ export const SearchResultsPage = () => {
               Reset changes
             </div>
           </div>
+
           <FiltersChips filters={filters} onFiltersChange={setParams} />
           {filteredList.length > 0 ? (
             <>
@@ -92,7 +94,7 @@ export const SearchResultsPage = () => {
                 totalPages={totalPages}
                 currentPage={currentPage}
                 onPageChange={handlePageChange}
-              />
+              />{" "}
             </>
           ) : (
             <div className={styles.errorMessage}>

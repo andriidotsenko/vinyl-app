@@ -2,9 +2,8 @@ import * as Yup from "yup";
 import PropTypes from "prop-types";
 import { useForm, Controller } from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup";
-import { useCountriesList } from "../../hooks/useCountriesList.js";
 import { useDecadeList } from "../../hooks/useDecadeList.js";
-// import { useGenreList } from "../../hooks/useGenreList.js";
+import { useCountryListAsync } from "../../hooks/useCountryListAsync.js";
 import { emptyFilters } from "../../utils/filters.js";
 import { Button } from "../Button/Button";
 import MultiSelect from "../Form/MultiSelect.jsx";
@@ -16,6 +15,7 @@ import { useVinylCardList } from "../../hooks/useVinylCardList.js";
 import { filterOptions } from "./utils.js";
 import { useGenreListAsync } from "../../hooks/useGenreListAsync.js";
 import { Loader } from "../Loader/Loader.jsx";
+import { useArtistsAsync } from "../../hooks/useArtistsAsync.js";
 
 const formSchema = Yup.object({
   artist: Yup.string().optional().min(0).max(100),
@@ -25,12 +25,11 @@ const formSchema = Yup.object({
 });
 
 export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
-  // const genreList = useGenreList();
   const decadeList = useDecadeList();
-  const countryList = useCountriesList();
   const vinyls = useVinylCardList();
 
   const genreListQuery = useGenreListAsync();
+  const coutryListQuery = useCountryListAsync();
 
   const {
     handleSubmit,
@@ -46,11 +45,14 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
 
   watch();
 
+  const artistsQuery = useArtistsAsync(getValues().artist || "");
+  console.log(artistsQuery.data);
+
   const isFiltersEmpty = Object.values(getValues()).every((value) =>
     Array.isArray(value) ? !value?.length : !value
   );
 
-  if (genreListQuery.isLoading) {
+  if (genreListQuery.isLoading || coutryListQuery.isLoading) {
     return <Loader />;
   }
 
@@ -113,7 +115,7 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
             render={({ field }) => (
               <Select
                 {...field}
-                options={countryList}
+                options={coutryListQuery.data}
                 placeholder={"Country"}
                 error={errors.country?.message}
               />

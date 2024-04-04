@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { useCountriesList } from "../../hooks/useCountriesList";
+import { useCountryListAsync } from "../../hooks/useCountryListAsync";
 import { useDecadeList } from "../../hooks/useDecadeList";
 import styles from "./FiltersChips.module.css";
 import FilterChip from "./FilterChip.jsx";
@@ -8,10 +8,11 @@ import { useGenreListAsync } from "../../hooks/useGenreListAsync.js";
 
 export const FiltersChips = ({ filters, onFiltersChange }) => {
   const decadeList = useDecadeList();
-  const countryList = useCountriesList();
 
   const { data: genreList, isLoading: isGenreListIsLoading } =
     useGenreListAsync();
+  const { data: countryList, isLoading: isCountryListIsLoading } =
+    useCountryListAsync();
 
   function handleRemove(name) {
     onFiltersChange({ ...filters, [name]: "" });
@@ -73,7 +74,7 @@ export const FiltersChips = ({ filters, onFiltersChange }) => {
 
       {filters.country && (
         <FilterChip
-          label={countryList.find((item) => item.id === +filters.country).name}
+          label={countryList.find((item) => item.id === filters.country).title}
           onRemove={() => handleRemove("country")}
         />
       )}

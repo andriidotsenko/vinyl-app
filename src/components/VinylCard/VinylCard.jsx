@@ -4,6 +4,7 @@ import CollectionButton from "../CollectionButton/CollectionButton.jsx";
 
 import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 import { Link } from "react-router-dom";
+import { useCountryListAsync } from "../../hooks/useCountryListAsync.js";
 
 function VinylCard({
   card,
@@ -13,6 +14,9 @@ function VinylCard({
   onClickInFavorites,
 }) {
   const { id, title, artist, year, country, genre, image } = card;
+
+  const { data: countryList, isLoading: isCountryListIsLoading } =
+    useCountryListAsync();
 
   return (
     <div key={id} className={styles.block}>
@@ -42,7 +46,8 @@ function VinylCard({
           Genre: <span>{genre}</span>
         </p>
         <p>
-          Country: <span>{country}</span>
+          Country:{" "}
+          <span>{countryList.find((item) => item.id === country).title}</span>
         </p>
       </div>
       <CollectionButton

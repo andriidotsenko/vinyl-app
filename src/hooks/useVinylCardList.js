@@ -1,11 +1,10 @@
 import { useState } from "react";
-import { useCountriesList } from "./useCountriesList";
+import { useCountryListAsync } from "./useCountryListAsync";
 import { useGenreListAsync } from "./useGenreListAsync";
 
 export const useVinylCardList = () => {
-  const countries = useCountriesList();
-
   const { data: genreList } = useGenreListAsync();
+  const { data: countryList } = useCountryListAsync();
 
   const [vinylCardList] = useState([
     {
@@ -18,7 +17,7 @@ export const useVinylCardList = () => {
       artist: "Red Hot Chili Peppers",
       year: 1999,
       genreId: 1,
-      country: "USA",
+      country: "us",
     },
     {
       id: 2,
@@ -30,7 +29,7 @@ export const useVinylCardList = () => {
       artist: "Red Hot Chili Peppers",
       year: 2006,
       genreId: 2,
-      country: "USA",
+      country: "uk",
     },
     {
       id: 3,
@@ -42,7 +41,7 @@ export const useVinylCardList = () => {
       artist: "MGMT",
       year: 2007,
       genreId: 3,
-      country: "USA",
+      country: "uk",
     },
     {
       id: 4,
@@ -54,7 +53,7 @@ export const useVinylCardList = () => {
       artist: "Five Finger Death Punch",
       year: 2013,
       genreId: 4,
-      country: "USA",
+      country: "uk",
     },
     {
       id: 5,
@@ -66,7 +65,7 @@ export const useVinylCardList = () => {
       artist: "Gorillaz",
       year: 2005,
       genreId: 5,
-      country: "United Kingdom",
+      country: "europe",
     },
     {
       id: 6,
@@ -78,7 +77,7 @@ export const useVinylCardList = () => {
       artist: "Muse",
       year: 2001,
       genreId: 6,
-      country: "United Kingdom",
+      country: "usa",
     },
     {
       id: 7,
@@ -90,7 +89,7 @@ export const useVinylCardList = () => {
       artist: "Five Finger Death Punch",
       year: 2018,
       genreId: 7,
-      country: "USA",
+      country: "netherlands",
     },
     {
       id: 8,
@@ -102,7 +101,7 @@ export const useVinylCardList = () => {
       artist: "Portugal. The Man",
       year: 2017,
       genreId: 8,
-      country: "USA",
+      country: "canada",
     },
     {
       id: 9,
@@ -114,7 +113,7 @@ export const useVinylCardList = () => {
       artist: "Muse",
       year: 2009,
       genreId: 9,
-      country: "United Kingdom",
+      country: "france",
     },
     {
       id: 10,
@@ -126,7 +125,7 @@ export const useVinylCardList = () => {
       artist: "MGMT",
       year: 2018,
       genreId: 10,
-      country: "USA",
+      country: "uk",
     },
     {
       id: 11,
@@ -138,7 +137,7 @@ export const useVinylCardList = () => {
       artist: "Ghost",
       year: 2018,
       genreId: 11,
-      country: "Sweden",
+      country: "worldwide",
     },
     {
       id: 12,
@@ -150,7 +149,7 @@ export const useVinylCardList = () => {
       artist: "Metronomy",
       year: 2011,
       genreId: 12,
-      country: "United Kingdom",
+      country: "us",
     },
     {
       id: 13,
@@ -162,7 +161,7 @@ export const useVinylCardList = () => {
       artist: "Placebo",
       year: 1998,
       genreId: 1,
-      country: "United Kingdom",
+      country: "uk",
     },
     {
       id: 14,
@@ -174,7 +173,7 @@ export const useVinylCardList = () => {
       artist: "Radiohead",
       year: 1997,
       genreId: 2,
-      country: "United Kingdom",
+      country: "uk",
     },
     {
       id: 15,
@@ -186,7 +185,7 @@ export const useVinylCardList = () => {
       artist: "alt-J",
       year: 2012,
       genreId: 3,
-      country: "United Kingdom",
+      country: "europe",
     },
     {
       id: 16,
@@ -198,7 +197,7 @@ export const useVinylCardList = () => {
       artist: "Electric Guest",
       year: 2017,
       genreId: 4,
-      country: "USA",
+      country: "us",
     },
     {
       id: 17,
@@ -210,7 +209,7 @@ export const useVinylCardList = () => {
       artist: "blink-182",
       year: 1999,
       genreId: 6,
-      country: "USA",
+      country: "us",
     },
     {
       id: 18,
@@ -222,13 +221,13 @@ export const useVinylCardList = () => {
       artist: "Interpol",
       year: 2002,
       genreId: 7,
-      country: "USA",
+      country: "us",
     },
   ]);
 
   return vinylCardList.map((vinyl) => {
     const countryName =
-      countries.find((country) => country.id === vinyl.country)?.name ??
+      countryList.find((country) => country.id === vinyl.country)?.title ??
       "Unknown";
     const genre =
       genreList.find((genre) => genre.id === vinyl.genreId)?.title ?? "Unknown";
