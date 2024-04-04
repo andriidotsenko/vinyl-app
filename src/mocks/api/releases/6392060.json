@@ -3,19 +3,12 @@
   "artist_id": 1124645,
   "artist": "Taylor Swift",
   "title": "1989",
-  "all_genres": [
-    3
-  ],
+  "all_genres": [3],
   "genre": 3,
-  "styles": [
-    "Synth-pop",
-    "Ballad"
-  ],
+  "styles": ["Synth-pop", "Ballad"],
   "release_date": "2014-12-08",
   "year": 2014,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/XdsVDNpnYPUMcd1Ecfi6nc51aijGcCSzX5CjqxLHbhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTIw/NjAtMTQzMDU4MzM4/OC05NjQxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/5uvL4lkM6gdMC45FLubIB58NWhRaZLpBWVG8UTR5aY4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzOTIw/NjAtMTQzMDU4MzM4/OC05NjQxLmpwZWc.jpeg",

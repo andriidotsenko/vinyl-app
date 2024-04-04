@@ -3,22 +3,12 @@
   "artist_id": 6378,
   "artist": "Gorillaz",
   "title": "Humanz",
-  "all_genres": [
-    1,
-    5,
-    3
-  ],
+  "all_genres": [1, 5, 3],
   "genre": 1,
-  "styles": [
-    "Pop Rap",
-    "Dance-pop",
-    "Trip Hop"
-  ],
+  "styles": ["Pop Rap", "Dance-pop", "Trip Hop"],
   "release_date": "2017-04-28",
   "year": 2017,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/rSjlDWykD6UclL9w6wJ6PDKL2Er6GhLpNlr8keFDcK4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/NTU3LTE0OTYwNzY4/MjAtNzAzNS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/XHWfO4MH3FYZvQfXdgp25faFFkuGBjNQ-bVf8GVnxdU/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTc1/NTU3LTE0OTYwNzY4/MjAtNzAzNS5qcGVn.jpeg",

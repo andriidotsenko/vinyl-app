@@ -3,19 +3,12 @@
   "artist_id": 125246,
   "artist": "Nirvana",
   "title": "Nevermind",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "Grunge"
-  ],
+  "styles": ["Alternative Rock", "Grunge"],
   "release_date": "2021-11-12",
   "year": 2021,
-  "all_countries": [
-    "worldwide"
-  ],
+  "all_countries": ["worldwide"],
   "country": "worldwide",
   "thumb_image": "https://i.discogs.com/029LasKJsaeIWJwHQrw2G8de35ZIhLzVO882Tkyf9g4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE0/MjEzLTE2MzY3Mjg0/MzUtMTE3Mi5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/wJTblMaXmIgsvaxAHBoTnvfvPN-PF1c--PTVGI-j4Is/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTE0/MjEzLTE2MzY3Mjg0/MzUtMTE3Mi5qcGVn.jpeg",

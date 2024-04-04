@@ -4,7 +4,7 @@ import { useForm, Controller } from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup";
 import { useCountriesList } from "../../hooks/useCountriesList.js";
 import { useDecadeList } from "../../hooks/useDecadeList.js";
-import { useGenreList } from "../../hooks/useGenreList.js";
+// import { useGenreList } from "../../hooks/useGenreList.js";
 import { emptyFilters } from "../../utils/filters.js";
 import { Button } from "../Button/Button";
 import MultiSelect from "../Form/MultiSelect.jsx";
@@ -14,19 +14,23 @@ import styles from "./SearchForm.module.css";
 import clsx from "clsx";
 import { useVinylCardList } from "../../hooks/useVinylCardList.js";
 import { filterOptions } from "./utils.js";
+import { useGenreListAsync } from "../../hooks/useGenreListAsync.js";
+import { Loader } from "../Loader/Loader.jsx";
 
 const formSchema = Yup.object({
-  artist: Yup.string().optional().min(2).max(8),
-  country: Yup.string().min(1),
-  genres: Yup.array().min(2),
-  decades: Yup.array().of(Yup.number()).min(1),
+  artist: Yup.string().optional().min(0).max(100),
+  country: Yup.string().min(0),
+  genres: Yup.array().min(0),
+  decades: Yup.array().of(Yup.number()).min(0),
 });
 
 export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
-  const genreList = useGenreList();
+  // const genreList = useGenreList();
   const decadeList = useDecadeList();
   const countryList = useCountriesList();
   const vinyls = useVinylCardList();
+
+  const genreListQuery = useGenreListAsync();
 
   const {
     handleSubmit,
@@ -45,6 +49,10 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
   const isFiltersEmpty = Object.values(getValues()).every((value) =>
     Array.isArray(value) ? !value?.length : !value
   );
+
+  if (genreListQuery.isLoading) {
+    return <Loader />;
+  }
 
   const handleFormSubmit = (data) => {
     onSubmit(data);
@@ -77,7 +85,7 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
             render={({ field }) => (
               <MultiSelect
                 {...field}
-                options={genreList}
+                options={genreListQuery.data}
                 placeholder={"Genre"}
                 error={errors.genres?.message}
               />

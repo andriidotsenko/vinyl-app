@@ -3,19 +3,12 @@
   "artist_id": 56798,
   "artist": "The Doors",
   "title": "Waiting For The Sun",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Psychedelic Rock"
-  ],
+  "styles": ["Blues Rock", "Psychedelic Rock"],
   "release_date": "1968-07-00",
   "year": 1968,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/6b7YlTT6v7rfRVinYJhN6JYr8aAZh61VjPpAuO7zsq4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQ4/OC0xNjAxODM4OTE2/LTU1OTQuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/eVwk2-sIECWTRdl0FLRwwpoAdtfwUtBDIN6yiGzt6Uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwOTQ4/OC0xNjAxODM4OTE2/LTU1OTQuanBlZw.jpeg",

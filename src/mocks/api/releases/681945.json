@@ -3,18 +3,12 @@
   "artist_id": 246650,
   "artist": "The Grateful Dead",
   "title": "American Beauty",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Folk Rock"
-  ],
+  "styles": ["Folk Rock"],
   "release_date": "1970-11-00",
   "year": 1970,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/oXYqAYtvTumA-TPuTmhPOeuUEvdOm3QXrynmI2M5Lzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTk0/NS0xMTk5NDAzMzIz/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/CFcbNgcfVEO4kx_FHmw0tyVIeMPlxLmYoOHNTnIOTV4/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTk0/NS0xMTk5NDAzMzIz/LmpwZWc.jpeg",

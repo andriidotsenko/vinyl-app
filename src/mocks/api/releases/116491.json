@@ -3,20 +3,12 @@
   "artist_id": 22854,
   "artist": "Talking Heads",
   "title": "Remain In Light",
-  "all_genres": [
-    1,
-    4
-  ],
+  "all_genres": [1, 4],
   "genre": 1,
-  "styles": [
-    "New Wave",
-    "Art Rock"
-  ],
+  "styles": ["New Wave", "Art Rock"],
   "release_date": "1980-10-00",
   "year": 1980,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/zDMEFMBLb9j8gqtksqWBkib83fxR20okzOTesKtUCQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ5/MS0xNTQxOTQ1NDcy/LTQ3OTUuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/rHJU3UXR0FAkeUkU4vZpdpF3XwsLoJeitBnQVCxjRQQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQ5/MS0xNTQxOTQ1NDcy/LTQ3OTUuanBlZw.jpeg",

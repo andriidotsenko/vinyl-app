@@ -3,11 +3,7 @@
   "artist_id": 6378,
   "artist": "Gorillaz",
   "title": "Gorillaz",
-  "all_genres": [
-    1,
-    5,
-    4
-  ],
+  "all_genres": [1, 5, 4],
   "genre": 1,
   "styles": [
     "Leftfield",
@@ -19,9 +15,7 @@
   ],
   "release_date": "2015-03-15",
   "year": 2015,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/x3JsPQNzjWhMN6u21O1_ZqQJsvHwQ3o6R-SAOFbiqcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODA1/NjktMTQyODgyNjk5/MS0xNjY3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/yVUpR4Lpr7NgkS8WjXk65vbqe4Cy-pg8Dxh5EKHYZqc/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4ODA1/NjktMTQyODgyNjk5/MS0xNjY3LmpwZWc.jpeg",

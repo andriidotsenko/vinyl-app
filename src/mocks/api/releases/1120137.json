@@ -3,20 +3,12 @@
   "artist_id": 57103,
   "artist": "Elton John",
   "title": "Greatest Hits",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Classic Rock"
-  ],
+  "styles": ["Pop Rock", "Classic Rock"],
   "release_date": "1974",
   "year": 1974,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/8MaL8bNzvLF5IMXBiJjaj23Zp1YuF2iqoBIHkPdQr1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAx/MzctMTQyMzQwMjEz/My0xNjQ5LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/ueXk5dFUkveMYsJxe26Y92dRLVT9UTCx6Dtn2QD1lok/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjAx/MzctMTQyMzQwMjEz/My0xNjQ5LmpwZWc.jpeg",

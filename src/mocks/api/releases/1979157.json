@@ -3,23 +3,12 @@
   "artist_id": 1093094,
   "artist": "Kid Cudi",
   "title": "Man On The Moon: The End Of Day",
-  "all_genres": [
-    1,
-    5,
-    2,
-    3
-  ],
+  "all_genres": [1, 5, 2, 3],
   "genre": 1,
-  "styles": [
-    "Pop Rap",
-    "Soul",
-    "Synth-pop"
-  ],
+  "styles": ["Pop Rap", "Soul", "Synth-pop"],
   "release_date": "2009-09-14",
   "year": 2009,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/4PmERnUBbPXah63Qydd1Gs3qSlWYRQIosFlH9pU_tSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzkx/NTctMTYwNjE5NDI1/OS04NjY1LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/uoWZTEjMmYK8kUycS5TRfNlCBS7looZu3Jce6dkHWXM/rs:fit/g:sm/q:90/h:485/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Nzkx/NTctMTYwNjE5NDI1/OS04NjY1LmpwZWc.jpeg",

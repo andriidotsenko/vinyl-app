@@ -3,21 +3,12 @@
   "artist_id": 17641,
   "artist": "Wham!",
   "title": "Make It Big",
-  "all_genres": [
-    1,
-    2,
-    3
-  ],
+  "all_genres": [1, 2, 3],
   "genre": 1,
-  "styles": [
-    "Synth-pop",
-    "Soul"
-  ],
+  "styles": ["Synth-pop", "Soul"],
   "release_date": "1984",
   "year": 1984,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/Jf8fvm9Lso6YIqWPsaj6Kb52um6_bnkNKVamtpA5oK0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcx/OC0xMzg1MjMwMTky/LTMwMjEuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/hRNw8lDHzlYOYdcIz48nb799L5Q5juBJ9IAA-V6VuHs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNjcx/OC0xMzg1MjMwMTky/LTMwMjEuanBlZw.jpeg",

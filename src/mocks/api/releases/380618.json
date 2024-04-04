@@ -3,20 +3,12 @@
   "artist_id": 48424,
   "artist": "Aerosmith",
   "title": "Toys In The Attic",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Hard Rock",
-    "Classic Rock",
-    "Blues Rock"
-  ],
+  "styles": ["Hard Rock", "Classic Rock", "Blues Rock"],
   "release_date": "1975",
   "year": 1975,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/4OA3T6Iz41KfTi71uMmtOlEUiYEuF0qOkmxhRyxz8nY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDYx/OC0xNDU5NDk5MDE2/LTEyNDcuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/nBeJ69M0Lb9G9Ipw8x51lRzN07IuH9d8i1oFDSBynJQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDYx/OC0xNDU5NDk5MDE2/LTEyNDcuanBlZw.jpeg",

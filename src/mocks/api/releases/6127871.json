@@ -3,20 +3,12 @@
   "artist_id": 140140,
   "artist": "Oasis",
   "title": "(What's The Story) Morning Glory?",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Britpop"
-  ],
+  "styles": ["Britpop"],
   "release_date": "2014-09-26",
   "year": 2014,
-  "all_countries": [
-    "uk",
-    "europe",
-    "us"
-  ],
+  "all_countries": ["uk", "europe", "us"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/Sj8bxyC-Ig21EaQpcK69kgz2Ecr0Vtt6RQFnA_6Eujk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjc4/NzEtMTQ5NDg2NzQz/OC0yNzAxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/aVA62gG7KcEE6lO4TobdpQ_ykCXd3OgtDHvCjclVzI4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjc4/NzEtMTQ5NDg2NzQz/OC0yNzAxLmpwZWc.jpeg",

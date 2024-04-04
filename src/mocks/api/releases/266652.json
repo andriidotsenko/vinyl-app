@@ -3,24 +3,12 @@
   "artist_id": 22854,
   "artist": "Talking Heads",
   "title": "Stop Making Sense",
-  "all_genres": [
-    4,
-    2,
-    6
-  ],
+  "all_genres": [4, 2, 6],
   "genre": 4,
-  "styles": [
-    "Funk",
-    "New Wave",
-    "Soundtrack",
-    "Post-Punk",
-    "Art Rock"
-  ],
+  "styles": ["Funk", "New Wave", "Soundtrack", "Post-Punk", "Art Rock"],
   "release_date": "1984",
   "year": 1984,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/ui18nP4qimvpsnljPhqbA4WYNHdTAxMkswcrrCl4zXQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY1/Mi0xNTczNzA1MjYx/LTM3MTcuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/jEBj2bCsAKZh5kxpRRgU4fRPNbLtY6L5-iGRFL5572s/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjY1/Mi0xNTczNzA1MjYx/LTM3MTcuanBlZw.jpeg",

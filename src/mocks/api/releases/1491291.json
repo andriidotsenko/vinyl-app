@@ -3,20 +3,12 @@
   "artist_id": 113655,
   "artist": "ZZ Top",
   "title": "Afterburner",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Pop Rock"
-  ],
+  "styles": ["Blues Rock", "Pop Rock"],
   "release_date": "1985-10-28",
   "year": 1985,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/FmKTp245sxZ0U29m5TWftnxiks7MxCzcXAxkn8pM5pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEy/OTEtMTU4ODY2MTAy/My0yMDUxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/rMkzwKi9uqCjGjwaccReAQULHhGX3k-yg_4eDGGA020/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTEy/OTEtMTU4ODY2MTAy/My0yMDUxLmpwZWc.jpeg",

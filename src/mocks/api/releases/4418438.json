@@ -3,19 +3,12 @@
   "artist_id": 21764,
   "artist": "Bob Marley & The Wailers",
   "title": "Legend - The Best Of Bob Marley And The Wailers",
-  "all_genres": [
-    11
-  ],
+  "all_genres": [11],
   "genre": 11,
-  "styles": [
-    "Reggae",
-    "Roots Reggae"
-  ],
+  "styles": ["Reggae", "Roots Reggae"],
   "release_date": "2015",
   "year": 2015,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/AQ-G7K7ZWx7YMwvhE3MbX4_dvewjNVSvCeTEIBLaMy4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ1MDYxODc1/MS0xNTg0LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/-teIDTwLB0xFhk2esn3K6wR4f84w6ChtOF7ONi0jRx4/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MTg0/MzgtMTQ1MDYxODc1/MS0xNTg0LmpwZWc.jpeg",

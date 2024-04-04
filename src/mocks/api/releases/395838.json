@@ -3,18 +3,12 @@
   "artist_id": 37223,
   "artist": "The Doobie Brothers",
   "title": "Minute By Minute",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock"
-  ],
+  "styles": ["Pop Rock"],
   "release_date": "1978-12-00",
   "year": 1978,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/PLNhTq2f-w8pjxwSngbGGaP5RLkJ_BUnWNVpfSojwxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTgz/OC0xMzMxODU0NDgw/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/mvGINrc71r1ZvhDUYHLp4zCreS6F6j3eeRtYdsRSJo4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NTgz/OC0xMzMxODU0NDgw/LmpwZWc.jpeg",

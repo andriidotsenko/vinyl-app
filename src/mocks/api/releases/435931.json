@@ -3,19 +3,12 @@
   "artist_id": 6520,
   "artist": "U2",
   "title": "The Joshua Tree",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "Pop Rock"
-  ],
+  "styles": ["Alternative Rock", "Pop Rock"],
   "release_date": "1987-03-09",
   "year": 1987,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/AX1auuf7YFpPwCImoUEcUjPSaFLZ-2_v32YnDl30rZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTkz/MS0xMTczNDYwNzQy/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/wmLOA2Ffwhdgw-OVqmPKC3WW1FwhPWsso27PfZWGZnE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNTkz/MS0xMTczNDYwNzQy/LmpwZWc.jpeg",

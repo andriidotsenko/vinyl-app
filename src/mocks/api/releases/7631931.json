@@ -3,9 +3,7 @@
   "artist_id": 227677,
   "artist": "Buena Vista Social Club",
   "title": "Buena Vista Social Club",
-  "all_genres": [
-    12
-  ],
+  "all_genres": [12],
   "genre": 12,
   "styles": [
     "Afro-Cuban",
@@ -18,9 +16,7 @@
   ],
   "release_date": "2015-10-23",
   "year": 2015,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/5VclDbnjzXS6kvLlbtUMuCxE9uXmD4rt0qvzvcAuiC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE5/MzEtMTQ4MTA1NTk5/Ny02ODg3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/rY5yCE6bBwxpbTzmStLmUkqzDcO3NG-2ZU9Q3s62Wos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2MzE5/MzEtMTQ4MTA1NTk5/Ny02ODg3LmpwZWc.jpeg",

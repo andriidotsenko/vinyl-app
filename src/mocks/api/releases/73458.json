@@ -3,22 +3,12 @@
   "artist_id": 6273,
   "artist": "Frankie Goes To Hollywood",
   "title": "Welcome To The Pleasuredome",
-  "all_genres": [
-    1,
-    4,
-    3
-  ],
+  "all_genres": [1, 4, 3],
   "genre": 1,
-  "styles": [
-    "Pop Rock",
-    "Synth-pop",
-    "Ballad"
-  ],
+  "styles": ["Pop Rock", "Synth-pop", "Ballad"],
   "release_date": "1984-10-29",
   "year": 1984,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/MmWLRl32aLBq_lNNUobccuod90z5GT_cUxvUP39S9Ug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU4/LTE0MjI1MTgwNTQt/NTg2OS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/onnbmJKSQLd7PyDruvsBgVZVgnHcfvAJe5ZgC5oQqHo/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNDU4/LTE0MjI1MTgwNTQt/NTg2OS5qcGVn.jpeg",

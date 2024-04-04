@@ -3,20 +3,12 @@
   "artist_id": 284099,
   "artist": "Rodgers & Hammerstein",
   "title": "The Sound Of Music (An Original Soundtrack Recording)",
-  "all_genres": [
-    3,
-    6
-  ],
+  "all_genres": [3, 6],
   "genre": 3,
-  "styles": [
-    "Soundtrack",
-    "Vocal"
-  ],
+  "styles": ["Soundtrack", "Vocal"],
   "release_date": "1965",
   "year": 1965,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/KM77c3OwA4yudxlWSqM8ChsEpTVQzj_HiqsjXqeZF7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA3/OC0xNDM1NDYxMTA0/LTI5MTguanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/2cojl7UXApcVvfAI-LX0aSSePWQga-LmybtKP12P4YM/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MzA3/OC0xNDM1NDYxMTA0/LTI5MTguanBlZw.jpeg",

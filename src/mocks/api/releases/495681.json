@@ -3,18 +3,12 @@
   "artist_id": 45467,
   "artist": "Pink Floyd",
   "title": "The Wall",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Prog Rock"
-  ],
+  "styles": ["Prog Rock"],
   "release_date": "1979",
   "year": 1979,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/SmXrlSCPOQSQvwLqhzksrdB0sw5vhGyPvbNEJa1bc-4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY4/MS0xNjA2MzEzMDc3/LTM0MTcuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/q40OlWwawIPUjB6mgKKS8nGlg5G8l8ZGX94Zyu5Q6ko/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY4/MS0xNjA2MzEzMDc3/LTM0MTcuanBlZw.jpeg",

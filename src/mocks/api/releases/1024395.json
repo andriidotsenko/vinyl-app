@@ -3,20 +3,12 @@
   "artist_id": 269534,
   "artist": "Tom Petty And The Heartbreakers",
   "title": "Damn The Torpedoes",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Hard Rock",
-    "Pop Rock",
-    "Classic Rock"
-  ],
+  "styles": ["Hard Rock", "Pop Rock", "Classic Rock"],
   "release_date": "1979-10-19",
   "year": 1979,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/SwVq0PGqPPWjo2lr-B3-jmhxJ89QZ6QrxchnLUMpJPA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/OTUtMTMxOTc4MDYy/Ni5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/oBZWorG1dGxz4fxGoRTJJhtFqDvq9rG51YpPi9oTits/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjQz/OTUtMTMxOTc4MDYy/Ni5qcGVn.jpeg",

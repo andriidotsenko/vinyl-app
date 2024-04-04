@@ -3,18 +3,12 @@
   "artist_id": 137418,
   "artist": "Billy Joel",
   "title": "The Stranger",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock"
-  ],
+  "styles": ["Pop Rock"],
   "release_date": "1977",
   "year": 1977,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/aM8V3lij9F1rcoPUoxVZvncdv5Zi-wvJn9kv5_l3H4Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg2/NTAtMTQ0MTI3MTQ2/Ni05ODc0LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/oi49eCmaVseMdfmm9xcBDeuich-TCr_yn2AOU7Ax4AM/rs:fit/g:sm/q:90/h:604/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDg2/NTAtMTQ0MTI3MTQ2/Ni05ODc0LmpwZWc.jpeg",

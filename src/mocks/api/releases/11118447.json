@@ -3,19 +3,12 @@
   "artist_id": 18839,
   "artist": "Metallica",
   "title": "Master Of Puppets",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Thrash",
-    "Heavy Metal"
-  ],
+  "styles": ["Thrash", "Heavy Metal"],
   "release_date": "2017",
   "year": 2017,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/5jZOACMUgbv-Sx_xUPuwPWO07pCrfo7ZwOWXx0H_CYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE4/NDQ3LTE1MTAxNzc5/NDMtNjE2Ni5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/E43LxjHne8ZjDmzzS-npd538NIENBmWIt8NdXpXTSl8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE4/NDQ3LTE1MTAxNzc5/NDMtNjE2Ni5qcGVn.jpeg",

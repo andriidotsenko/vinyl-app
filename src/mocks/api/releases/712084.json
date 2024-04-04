@@ -3,22 +3,12 @@
   "artist_id": 10263,
   "artist": "David Bowie",
   "title": "Let's Dance",
-  "all_genres": [
-    4,
-    2,
-    3
-  ],
+  "all_genres": [4, 2, 3],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Dance-pop",
-    "New Wave"
-  ],
+  "styles": ["Pop Rock", "Dance-pop", "New Wave"],
   "release_date": "1983-04-14",
   "year": 1983,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/8cD1BQNM6TcevQ7EElPjx4dDYSEOmqsEDMeJUQiM8pU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjA4/NC0xMjc1NjI1MTky/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/O8jcL3RZO3TJo5bh5P0khC2Is7djEXphOSNBZBt2Qzg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMjA4/NC0xMjc1NjI1MTky/LmpwZWc.jpeg",

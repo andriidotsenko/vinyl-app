@@ -3,19 +3,12 @@
   "artist_id": 87016,
   "artist": "Tool",
   "title": "Lateralus",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Prog Rock",
-    "Heavy Metal"
-  ],
+  "styles": ["Prog Rock", "Heavy Metal"],
   "release_date": "2005-08-26",
   "year": 2005,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/-z8VoSBKA5mj5fr-UcZTZuNZUBKQzfYz5fsMkpu6yjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzU5/NC0xNjQwNzE0MDM4/LTY3NzcuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/4r3CDKkXduv9zBfx9wkQtmVyIO-cduRIGzJSQWwE48I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMzU5/NC0xNjQwNzE0MDM4/LTY3NzcuanBlZw.jpeg",

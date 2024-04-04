@@ -3,18 +3,12 @@
   "artist_id": 237890,
   "artist": "John Cougar Mellencamp",
   "title": "American Fool",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Southern Rock"
-  ],
+  "styles": ["Southern Rock"],
   "release_date": "1982",
   "year": 1982,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/DYRuZukPXidJbOAFPJmTTqkuTzR8nGqcX6BE7OWhXYc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjQ5/OC0xMzYwNzIyNDY5/LTkxNTAuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/yI7tx9wHVpV_96UcXW23jtNfELqn6WbopGkHlK01gkQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MjQ5/OC0xMzYwNzIyNDY5/LTkxNTAuanBlZw.jpeg",

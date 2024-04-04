@@ -3,21 +3,12 @@
   "artist_id": 258372,
   "artist": "The Black Keys",
   "title": "El Camino",
-  "all_genres": [
-    4,
-    9
-  ],
+  "all_genres": [4, 9],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Alternative Rock",
-    "Garage Rock"
-  ],
+  "styles": ["Blues Rock", "Alternative Rock", "Garage Rock"],
   "release_date": "2011-12-06",
   "year": 2011,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/sN_UV4dtOBmEKsd1DRuKsKRWFGyKPrnHiUdsh405NBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTkx/NTYtMTY0NzI3ODg1/MS03NTUzLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/qceNieY4ubqXiYOUKzUwCVe6V4xNlJsq2MSTa6x-NKc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTkx/NTYtMTY0NzI3ODg1/MS03NTUzLmpwZWc.jpeg",

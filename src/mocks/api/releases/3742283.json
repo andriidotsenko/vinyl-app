@@ -3,19 +3,12 @@
   "artist_id": 125246,
   "artist": "Nirvana",
   "title": "Bleach",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Grunge",
-    "Alternative Rock"
-  ],
+  "styles": ["Grunge", "Alternative Rock"],
   "release_date": "2011",
   "year": 2011,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/4Mu1CcP2-527BuZtKPCMtiUAkOq5jMOoemJzFTWu8_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIy/ODMtMTY0MzM4NjQy/My0yODI2LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/s5_WPiDaoWLZGBptMrJroWShH-JMq6p77eeV2lKCzvk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NDIy/ODMtMTY0MzM4NjQy/My0yODI2LmpwZWc.jpeg",

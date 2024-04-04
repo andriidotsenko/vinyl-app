@@ -3,23 +3,12 @@
   "artist_id": 6378,
   "artist": "Gorillaz",
   "title": "The Now Now",
-  "all_genres": [
-    1,
-    4
-  ],
+  "all_genres": [1, 4],
   "genre": 1,
-  "styles": [
-    "Alternative Rock",
-    "Electro",
-    "Trip Hop"
-  ],
+  "styles": ["Alternative Rock", "Electro", "Trip Hop"],
   "release_date": "2018-06-29",
   "year": 2018,
-  "all_countries": [
-    "uk",
-    "europe",
-    "us"
-  ],
+  "all_countries": ["uk", "europe", "us"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/Hd-UxKvjYGdR_gHoiL2JCaTU0Ct0ByXdqMET4BknF7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg2/MTYxLTE1MzAyNTAz/MjAtNTM1MC5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/35oHRru2KQM3cv7wodjiKz1Z_7eTA0_9M57wvy_UkBs/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTg2/MTYxLTE1MzAyNTAz/MjAtNTM1MC5qcGVn.jpeg",

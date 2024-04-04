@@ -3,26 +3,12 @@
   "artist_id": 194,
   "artist": "Various",
   "title": "Pulp Fiction (Music From The Motion Picture)",
-  "all_genres": [
-    4,
-    2,
-    13,
-    6
-  ],
+  "all_genres": [4, 2, 13, 6],
   "genre": 4,
-  "styles": [
-    "Surf",
-    "Rock & Roll",
-    "Dialogue",
-    "Soul",
-    "Soundtrack",
-    "Funk"
-  ],
+  "styles": ["Surf", "Rock & Roll", "Dialogue", "Soul", "Soundtrack", "Funk"],
   "release_date": "2008-12-09",
   "year": 2008,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/KbppDgf2B9CLS-j2DF8hb9hm9RcgkWX7QczOOC3k5zw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjg5/NTMtMTY0MTA1OTc5/MC00MDAzLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/bMEU1aKZsTrPRzJ9FkWvBE18G_AuN21CmAt8jjtJLdY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjg5/NTMtMTY0MTA1OTc5/MC00MDAzLmpwZWc.jpeg",

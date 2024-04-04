@@ -3,19 +3,12 @@
   "artist_id": 1105843,
   "artist": "Fleet Foxes",
   "title": "Fleet Foxes",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Folk Rock",
-    "Indie Rock"
-  ],
+  "styles": ["Folk Rock", "Indie Rock"],
   "release_date": "2008-06-03",
   "year": 2008,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/iwkZmmfp4ZDT2PSHNrB15I4gwktDPzYg9NIkB5iDXn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk5/MjctMTYyODYwNjgw/MS0xMzIwLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/RKhfiLLqjrylqyHfkGDMmaK4rT_Ba5M_eHrYYM5BBro/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTk5/MjctMTYyODYwNjgw/MS0xMzIwLmpwZWc.jpeg",

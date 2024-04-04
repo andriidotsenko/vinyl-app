@@ -3,18 +3,12 @@
   "artist_id": 135946,
   "artist": "Johnny Cash",
   "title": "At Folsom Prison",
-  "all_genres": [
-    7
-  ],
+  "all_genres": [7],
   "genre": 7,
-  "styles": [
-    "Country"
-  ],
+  "styles": ["Country"],
   "release_date": "1968-05-00",
   "year": 1968,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/pNlbGTim7CLy9BXjojyWJoD4e7vm7SRcfoccCDTb3ms/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcz/NTQtMTM0NTAwMDk4/Ny02NjYwLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/cFdIDv5zF1USh8tZ76nBFpyPl2p3PQlsuMlXJlQt1lE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODcz/NTQtMTM0NTAwMDk4/Ny02NjYwLmpwZWc.jpeg",

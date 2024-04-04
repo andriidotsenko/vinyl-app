@@ -3,18 +3,12 @@
   "artist_id": 68693,
   "artist": "Toto",
   "title": "Toto IV",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Classic Rock"
-  ],
+  "styles": ["Classic Rock"],
   "release_date": "1982",
   "year": 1982,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/sZ0j3ewgy7GCzXjx3QsUsjxu6hhuobBOSlEXWHf9v9U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk3/LTUwNjIuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/XulpiFcoKciIva2EDrij4BExwTULM5W0s9n-JQwUHFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyMzYz/My0xNDUxOTMyMjk3/LTUwNjIuanBlZw.jpeg",

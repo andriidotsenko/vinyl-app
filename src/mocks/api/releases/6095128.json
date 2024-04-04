@@ -3,24 +3,12 @@
   "artist_id": 45,
   "artist": "Aphex Twin",
   "title": "Syro",
-  "all_genres": [
-    1
-  ],
+  "all_genres": [1],
   "genre": 1,
-  "styles": [
-    "Breakbeat",
-    "IDM",
-    "Downtempo",
-    "Abstract",
-    "Techno",
-    "Acid"
-  ],
+  "styles": ["Breakbeat", "IDM", "Downtempo", "Abstract", "Techno", "Acid"],
   "release_date": "2014-09-19",
   "year": 2014,
-  "all_countries": [
-    "usa",
-    "europe"
-  ],
+  "all_countries": ["usa", "europe"],
   "country": "usa",
   "thumb_image": "https://i.discogs.com/OR0_E68xulOh294COfGgB06Kny6CcxjV-VBS-UnkbSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTUx/MjgtMTQxMTQ1MDkw/OC02MDI3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/mSkugxhrYL4qYZsRIGLQdTyVuv2vWXoNsHVqromBAk0/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwOTUx/MjgtMTQxMTQ1MDkw/OC02MDI3LmpwZWc.jpeg",

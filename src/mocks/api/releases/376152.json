@@ -3,10 +3,7 @@
   "artist_id": 81013,
   "artist": "Queen",
   "title": "Greatest Hits",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
   "styles": [
     "Arena Rock",
@@ -18,9 +15,7 @@
   ],
   "release_date": "1981-10-26",
   "year": 1981,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/UlRg_UT8ZkWvg2EkoAnyTa9nbkFMkzc1laPog1wtPYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjE1/Mi0xNjM4MjA1OTM1/LTE5NTMuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/QVow4-TX50bpdLvfv0MT7mFlaRaQ6eECGpxkVHdU6K8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NjE1/Mi0xNjM4MjA1OTM1/LTE5NTMuanBlZw.jpeg",

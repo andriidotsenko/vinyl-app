@@ -3,20 +3,12 @@
   "artist_id": 95886,
   "artist": "Daryl Hall & John Oates",
   "title": "H₂O",
-  "all_genres": [
-    1,
-    4
-  ],
+  "all_genres": [1, 4],
   "genre": 1,
-  "styles": [
-    "Pop Rock",
-    "Synth-pop"
-  ],
+  "styles": ["Pop Rock", "Synth-pop"],
   "release_date": "1982",
   "year": 1982,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/RtQnw80AMJHpweL-t-nazi7zSO-uY8gxrKBesQhyjdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Njk2/MS0xMzA0NDc2NTYw/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/KW57ZjSy71dIpZOVbm2jEx6zKagd8R_NUmGzfjJA-HU/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3Njk2/MS0xMzA0NDc2NTYw/LmpwZWc.jpeg",

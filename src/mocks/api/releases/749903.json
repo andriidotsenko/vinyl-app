@@ -3,20 +3,12 @@
   "artist_id": 268911,
   "artist": "Bob Seger And The Silver Bullet Band",
   "title": "Stranger In Town",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Rock & Roll",
-    "Soft Rock",
-    "Classic Rock"
-  ],
+  "styles": ["Rock & Roll", "Soft Rock", "Classic Rock"],
   "release_date": "1978-05-15",
   "year": 1978,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/Y3pZ7J_pWOmraML6hVpz9ewo6P_RXvQHtbAl6njIctE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTkw/My0xNTE2NTk2MzE0/LTYxMzIuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/82BH1H7Hfta8xANV5nYdr4qkNtudMCzQ7TEQbTbrwHA/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc0OTkw/My0xNTE2NTk2MzE0/LTYxMzIuanBlZw.jpeg",

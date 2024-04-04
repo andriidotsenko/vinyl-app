@@ -3,20 +3,12 @@
   "artist_id": 110253,
   "artist": "The Allman Brothers Band",
   "title": "Brothers And Sisters",
-  "all_genres": [
-    4,
-    9
-  ],
+  "all_genres": [4, 9],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Southern Rock"
-  ],
+  "styles": ["Blues Rock", "Southern Rock"],
   "release_date": "1973",
   "year": 1973,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/FzH0ZUpFXSkdBrRUKKzJvMO_i_wtGkHRx6QrB6X9Cqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAx/MjEtMTYxNzk5OTYw/OS01ODMyLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/cfSPWz-vzcirmI2U1khbF9jcTgZ_0efoKCcom8bDg4U/rs:fit/g:sm/q:90/h:614/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjAx/MjEtMTYxNzk5OTYw/OS01ODMyLmpwZWc.jpeg",

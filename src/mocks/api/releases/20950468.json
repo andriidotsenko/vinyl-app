@@ -3,22 +3,12 @@
   "artist_id": 1124645,
   "artist": "Taylor Swift",
   "title": "Red (Taylor's Version)",
-  "all_genres": [
-    4,
-    3,
-    7
-  ],
+  "all_genres": [4, 3, 7],
   "genre": 4,
-  "styles": [
-    "Ballad",
-    "Country",
-    "Pop Rock"
-  ],
+  "styles": ["Ballad", "Country", "Pop Rock"],
   "release_date": "2021-11-12",
   "year": 2021,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/APYQaoyzDOdr-G1FPBLz_QpI8DGMtVXmjwlBGG9mtpY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTUw/NDY4LTE2ODI0Njcy/OTYtMTcxOC5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/eeJE7VsQumocSwk76qZ7XQh_6abYCHpAEbqJSSj6pO0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTUw/NDY4LTE2ODI0Njcy/OTYtMTcxOC5qcGVn.jpeg",

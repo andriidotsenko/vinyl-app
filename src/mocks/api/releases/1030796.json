@@ -3,22 +3,12 @@
   "artist_id": 96774,
   "artist": "Prince And The Revolution",
   "title": "Around The World In A Day",
-  "all_genres": [
-    4,
-    2,
-    3
-  ],
+  "all_genres": [4, 2, 3],
   "genre": 4,
-  "styles": [
-    "Minneapolis Sound",
-    "Funk",
-    "Pop Rock"
-  ],
+  "styles": ["Minneapolis Sound", "Funk", "Pop Rock"],
   "release_date": "1985-04-22",
   "year": 1985,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/dXafCZd-vP1CglNq64W4DJuYKS5e9SliViAjACSjC68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/OTYtMTIwNDYzNTc5/MC5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/47UIKalkUNeYkChnYmvDomYXyCwFyGL-Eqq5Ivct19U/rs:fit/g:sm/q:90/h:598/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzA3/OTYtMTIwNDYzNTc5/MC5qcGVn.jpeg",

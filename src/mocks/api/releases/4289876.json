@@ -3,19 +3,12 @@
   "artist_id": 56798,
   "artist": "The Doors",
   "title": "Morrison Hotel",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Psychedelic Rock"
-  ],
+  "styles": ["Blues Rock", "Psychedelic Rock"],
   "release_date": "1970-02-20",
   "year": 1970,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/U_HGsbpCb9jWbJINDLD9dOffpD9YWY4iuUnMz03Fm68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODk4/NzYtMTM2MDg0MzE1/NC0yODYxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/_dUkWXOzhjGoTh9DX85qvbizEQSecGEpBU9WXbp5Mzc/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyODk4/NzYtMTM2MDg0MzE1/NC0yODYxLmpwZWc.jpeg",

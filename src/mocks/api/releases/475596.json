@@ -3,9 +3,7 @@
   "artist_id": 81013,
   "artist": "Queen",
   "title": "A Day At The Races",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
   "styles": [
     "Hard Rock",
@@ -17,9 +15,7 @@
   ],
   "release_date": "1976-12-10",
   "year": 1976,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/bKZLWlkrNGQprMOBXUNB96p8NLX4GhbiCKViHOSa7AY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU5/Ni0xNDU0NzA3NDM5/LTYzMzcuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/s3ytjPYoaqTuNBQWofjilywNFCFGCbLJWyj7SbFDzTU/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU5/Ni0xNDU0NzA3NDM5/LTYzMzcuanBlZw.jpeg",

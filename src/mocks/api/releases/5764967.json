@@ -3,20 +3,12 @@
   "artist_id": 278763,
   "artist": "Jack White",
   "title": "Lazaretto",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "Blues Rock",
-    "Country Rock"
-  ],
+  "styles": ["Alternative Rock", "Blues Rock", "Country Rock"],
   "release_date": "2014-06-10",
   "year": 2014,
-  "all_countries": [
-    "worldwide"
-  ],
+  "all_countries": ["worldwide"],
   "country": "worldwide",
   "thumb_image": "https://i.discogs.com/a7JWTptwDe3POIHOJAW8i7HrKLPV41VoFJuMBAa4Bac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjQ5/NjctMTY1MjM3MTIw/NS0yNDgzLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/KxQEzdekSW8zx6UAWMVnsR3Qe5rfFp2DYH7-CNhEqcI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3NjQ5/NjctMTY1MjM3MTIw/NS0yNDgzLmpwZWc.jpeg",

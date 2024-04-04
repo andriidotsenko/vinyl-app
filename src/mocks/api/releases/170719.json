@@ -3,21 +3,12 @@
   "artist_id": 22854,
   "artist": "Talking Heads",
   "title": "Speaking In Tongues",
-  "all_genres": [
-    4,
-    2
-  ],
+  "all_genres": [4, 2],
   "genre": 4,
-  "styles": [
-    "New Wave",
-    "Pop Rock",
-    "Funk"
-  ],
+  "styles": ["New Wave", "Pop Rock", "Funk"],
   "release_date": "1983-06-00",
   "year": 1983,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/7_0Fq27p_8Ed79-niTKKrKRSsPJHDuu0AfE1odFoLWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcx/OS0xNDM3NDU0NzA4/LTQ4OTQuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/w3G0LxzwepwIgx7NkozV23OhlQ3j0XZ3WsvHPH6J1DQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDcx/OS0xNDM3NDU0NzA4/LTQ4OTQuanBlZw.jpeg",

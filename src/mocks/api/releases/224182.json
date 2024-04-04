@@ -3,20 +3,12 @@
   "artist_id": 22854,
   "artist": "Talking Heads",
   "title": "Little Creatures",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "Pop Rock",
-    "New Wave"
-  ],
+  "styles": ["Alternative Rock", "Pop Rock", "New Wave"],
   "release_date": "1985-06-10",
   "year": 1985,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/raZnI8v3Le6edSlDu2CeGrr7YFBrqMD5JgPydkNnHAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDE4/Mi0xMzMxMDgwMzg2/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/epFqT9AhZD21HTI_iaXpYfVdYLwutr09FZeRL2IDdIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDE4/Mi0xMzMxMDgwMzg2/LmpwZWc.jpeg",

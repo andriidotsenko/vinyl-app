@@ -3,22 +3,12 @@
   "artist_id": 168907,
   "artist": "Blood, Sweat And Tears",
   "title": "Blood, Sweat And Tears",
-  "all_genres": [
-    8,
-    4,
-    2
-  ],
+  "all_genres": [8, 4, 2],
   "genre": 8,
-  "styles": [
-    "Blues Rock",
-    "Jazz-Funk",
-    "Jazz-Rock"
-  ],
+  "styles": ["Blues Rock", "Jazz-Funk", "Jazz-Rock"],
   "release_date": "1968-11-11",
   "year": 1968,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/8ocUFXTnmw4rkdnd1EfhAYoDnjSS0n-gY6QcI84knVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTY1/MTUtMTI5NzI2Mzk3/OS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/PM3feFx1N2lgTMDfR6gZWbPHsc4-eW7grhe1ShpmOw8/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTY1/MTUtMTI5NzI2Mzk3/OS5qcGVn.jpeg",

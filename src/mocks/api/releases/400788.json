@@ -3,18 +3,12 @@
   "artist_id": 74500,
   "artist": "R.E.M.",
   "title": "Out Of Time",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock"
-  ],
+  "styles": ["Alternative Rock"],
   "release_date": "1991",
   "year": 1991,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/YH4TmQT3_NswyUxbeJpxy51yjsnnasCYxsJxclFK7RM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDc4/OC0xNjUwNTcyODY4/LTkwMTMuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/sSI1b9o47fAmjT5zgalh-RasnhB1klmN06ebvZeaaTw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMDc4/OC0xNjUwNTcyODY4/LTkwMTMuanBlZw.jpeg",

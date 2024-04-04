@@ -3,19 +3,12 @@
   "artist_id": 16655,
   "artist": "Blondie",
   "title": "Eat To The Beat",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "New Wave"
-  ],
+  "styles": ["New Wave"],
   "release_date": "1979-10-00",
   "year": 1979,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/JYmX-PY6BP5JSE_mTAvcqDYM0u7EEt4xvrQrBVLvXAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/NjQtMTMxMTcyNjE5/OC5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/RIvcQdmIOT44nWY29J-S9GGC9O0cscuGRYe0bW0KNrk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzAz/NjQtMTMxMTcyNjE5/OC5qcGVn.jpeg",

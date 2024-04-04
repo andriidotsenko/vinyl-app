@@ -3,19 +3,12 @@
   "artist_id": 219986,
   "artist": "Bruce Springsteen",
   "title": "Born To Run",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Rock & Roll"
-  ],
+  "styles": ["Pop Rock", "Rock & Roll"],
   "release_date": "1975",
   "year": 1975,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/hIMRiV5mWG3vbv15VN7bplJkAh1tQo7nk8vVIgoMB5Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQy/NTMtMTU4ODE3NzA1/MS0zMzkwLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/bQ8dPftmx4rRrHGMXi8i-Vx95cvOvRIzW_pOgqhxZdQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NzQy/NTMtMTU4ODE3NzA1/MS0zMzkwLmpwZWc.jpeg",

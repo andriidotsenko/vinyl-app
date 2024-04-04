@@ -3,20 +3,12 @@
   "artist_id": 1967268,
   "artist": "Tyler, The Creator",
   "title": "Igor",
-  "all_genres": [
-    5,
-    2
-  ],
+  "all_genres": [5, 2],
   "genre": 5,
-  "styles": [
-    "Contemporary R&B",
-    "Neo Soul"
-  ],
+  "styles": ["Contemporary R&B", "Neo Soul"],
   "release_date": "2019",
   "year": 2019,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/KJeVPXVlardGZKVRpNOOCwwfdzK_4uohSk0-SUHAPlA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEw/NjQ0LTE1NzQ1MDY3/NzItMTgzNi5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/KuSEYvNqrfq1sozfgEvP4U2gxCPFN35vFVWulxmwFeo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MjEw/NjQ0LTE1NzQ1MDY3/NzItMTgzNi5qcGVn.jpeg",

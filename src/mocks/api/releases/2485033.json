@@ -3,21 +3,12 @@
   "artist_id": 262214,
   "artist": "Eddie Vedder",
   "title": "Into The Wild",
-  "all_genres": [
-    4,
-    6
-  ],
+  "all_genres": [4, 6],
   "genre": 4,
-  "styles": [
-    "Folk Rock",
-    "Acoustic",
-    "Soundtrack"
-  ],
+  "styles": ["Folk Rock", "Acoustic", "Soundtrack"],
   "release_date": "2010-10-07",
   "year": 2010,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/JTLLWAx3l_w4u42LwnB_up-Vp6CvfiFrz1T4pCey9EA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODUw/MzMtMTY0NzI2NzQy/OC00MDg2LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/5uDOPTbR3l65-PzQtaii5xJeFE8ybn4ooFlh3zhKsFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODUw/MzMtMTY0NzI2NzQy/OC00MDg2LmpwZWc.jpeg",

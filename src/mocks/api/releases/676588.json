@@ -3,19 +3,12 @@
   "artist_id": 260190,
   "artist": "The Knack",
   "title": "Get The Knack",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Power Pop"
-  ],
+  "styles": ["Pop Rock", "Power Pop"],
   "release_date": "1979",
   "year": 1979,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/gwJ1KgAjLbQFVe7y70gB1AskDreIaHOEjY5lXNqbq78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjU4/OC0xMjg0Njk0MjQ4/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/ExiQOk_vBv5h_AaBntyk7eCHNzoKoPxP8od9HUokDeI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3NjU4/OC0xMjg0Njk0MjQ4/LmpwZWc.jpeg",

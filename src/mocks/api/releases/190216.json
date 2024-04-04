@@ -3,19 +3,12 @@
   "artist_id": 143225,
   "artist": "The Cars",
   "title": "Candy-O",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "New Wave",
-    "Pop Rock"
-  ],
+  "styles": ["New Wave", "Pop Rock"],
   "release_date": "1979-06-12",
   "year": 1979,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/jRnwA5ZvZlPpFoeUcirM7FNRwPIiJWznKVJGAXY3y_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/Ni0xNDAwNzkzMjQ1/LTczNjEuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/3euR-U78yEvDonYFp-z2w_ry0eAdMZaWaLHdaaLs9M0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/Ni0xNDAwNzkzMjQ1/LTczNjEuanBlZw.jpeg",

@@ -3,22 +3,12 @@
   "artist_id": 207958,
   "artist": "Animal Collective",
   "title": "Merriweather Post Pavilion",
-  "all_genres": [
-    1,
-    4,
-    2
-  ],
+  "all_genres": [1, 4, 2],
   "genre": 1,
-  "styles": [
-    "Indie Rock",
-    "Experimental",
-    "Psychedelic"
-  ],
+  "styles": ["Indie Rock", "Experimental", "Psychedelic"],
   "release_date": "2009-01-06",
   "year": 2009,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/0-f7TEOgGIVzjzlut9F2HkcLVTqV5JUDOZDjmXSHcAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIx/MTgtMTIzMDc5OTk5/Ny5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/7PO58jL3ee8ev8st01DxesiJ41FeFkDXyZyR0R3ghdE/rs:fit/g:sm/q:90/h:450/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTIx/MTgtMTIzMDc5OTk5/Ny5qcGVn.jpeg",

@@ -3,22 +3,12 @@
   "artist_id": 1245513,
   "artist": "Tame Impala",
   "title": "Currents",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Psychedelic Rock",
-    "Indie Rock",
-    "Indie Pop",
-    "Synth-pop"
-  ],
+  "styles": ["Psychedelic Rock", "Indie Rock", "Indie Pop", "Synth-pop"],
   "release_date": "2015-07-17",
   "year": 2015,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/nYT3LJUeAb9h-5cKtpLKg3Jfi44O1msEFbI6tneY_2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/NS0xNjUxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/RujXpx7IDYkQweZsmv6Ju5tZn8bm9YjZWGRHMV3UTyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/NS0xNjUxLmpwZWc.jpeg",

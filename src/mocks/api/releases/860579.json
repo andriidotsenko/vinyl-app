@@ -3,19 +3,12 @@
   "artist_id": 268911,
   "artist": "Bob Seger And The Silver Bullet Band",
   "title": "Night Moves",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "AOR"
-  ],
+  "styles": ["Pop Rock", "AOR"],
   "release_date": "1976",
   "year": 1976,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/U9LE2IYJtB9qjHXmHHNNrjtndhONoQ3m-TqZcrx7t6U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDU3/OS0xNDA5OTQ0MDcx/LTY2MDMuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/1c_QlLBEQVFdmm92WMFB1uqJ41cJb2cdIaOtTYpZjOQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MDU3/OS0xNDA5OTQ0MDcx/LTY2MDMuanBlZw.jpeg",

@@ -3,21 +3,12 @@
   "artist_id": 20991,
   "artist": "The Rolling Stones",
   "title": "Some Girls",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Rock & Roll",
-    "Classic Rock",
-    "Disco"
-  ],
+  "styles": ["Blues Rock", "Rock & Roll", "Classic Rock", "Disco"],
   "release_date": "1978-06-00",
   "year": 1978,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/CJqloBF2HItPnWpEgabE_WrAasjiBRWjCPy3OJ0RsgQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAw/MjQtMTQzMjMwNDIz/OC0xNDIxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/h7Fcy9tQDqfDFq3px9sqc4FtgggEDUI-5X28HeGJ0oQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMzAw/MjQtMTQzMjMwNDIz/OC0xNDIxLmpwZWc.jpeg",

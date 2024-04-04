@@ -3,19 +3,12 @@
   "artist_id": 255672,
   "artist": "The Jimi Hendrix Experience",
   "title": "Are You Experienced?",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Psychedelic Rock"
-  ],
+  "styles": ["Blues Rock", "Psychedelic Rock"],
   "release_date": "1967-08-23",
   "year": 1967,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/mnBpBdNhcopESbWwqJU8cRxrztg0fcQHIXKbm34b-Y0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUz/ODQtMTM0MDY3MTUz/OC04ODA4LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/euujDFoDVeRYRF1V0Ce913ce-vA4HR-r0mJYqbTSDLE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzUz/ODQtMTM0MDY3MTUz/OC04ODA4LmpwZWc.jpeg",

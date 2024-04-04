@@ -3,19 +3,12 @@
   "artist_id": 106744,
   "artist": "Brand New",
   "title": "Deja Entendu",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Punk",
-    "Emo"
-  ],
+  "styles": ["Punk", "Emo"],
   "release_date": "2015-05-05",
   "year": 2015,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/qkkBpM0Cw5hHJqV6A6rDfo7q8WQbZtqUTMghuBl0Imo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjMz/MDgtMTUwMzQ0NTE2/My01NTIzLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/WAQ9tVZskyv8D95Z_ddZ8hHDKdy0ymD-rCmXs9AHMzo/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjMz/MDgtMTUwMzQ0NTE2/My01NTIzLmpwZWc.jpeg",

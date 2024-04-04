@@ -3,22 +3,12 @@
   "artist_id": 819015,
   "artist": "Adele",
   "title": "25",
-  "all_genres": [
-    2,
-    9,
-    3
-  ],
+  "all_genres": [2, 9, 3],
   "genre": 2,
-  "styles": [
-    "Ballad",
-    "Neo Soul",
-    "Piano Blues"
-  ],
+  "styles": ["Ballad", "Neo Soul", "Piano Blues"],
   "release_date": "2015-11-20",
   "year": 2015,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/zojY18TCy6BSqoh-Mwt7MbjXv1s-x4cfvgwLcLPt90M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDgw/NTgtMTUwMDYzNjk4/Mi04Mjc5LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/8Q90AEv3raXlfTkfbVMMeQOGrEEwC5Cq8rB9-jUapkI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDgw/NTgtMTUwMDYzNjk4/Mi04Mjc5LmpwZWc.jpeg",

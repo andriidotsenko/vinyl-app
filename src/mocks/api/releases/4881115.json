@@ -3,21 +3,12 @@
   "artist_id": 116345,
   "artist": "The White Stripes",
   "title": "Elephant",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Rock & Roll",
-    "Indie Rock",
-    "Garage Rock",
-    "Punk"
-  ],
+  "styles": ["Rock & Roll", "Indie Rock", "Garage Rock", "Punk"],
   "release_date": "2013-08-27",
   "year": 2013,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/0pd3JE8jHjjYRKgsaie-WsGPMuUXpjuGp7Fih9rb2Lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODEx/MTUtMTU2OTI1ODg2/Mi0xMzE3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/2S5ztjZOfMOhWHniK31f25l9q_v04IKn83a50KOJ86g/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODEx/MTUtMTU2OTI1ODg2/Mi0xMzE3LmpwZWc.jpeg",

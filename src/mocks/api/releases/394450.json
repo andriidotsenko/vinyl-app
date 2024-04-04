@@ -3,20 +3,12 @@
   "artist_id": 57103,
   "artist": "Elton John",
   "title": "Captain Fantastic And The Brown Dirt Cowboy",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Rock & Roll"
-  ],
+  "styles": ["Pop Rock", "Rock & Roll"],
   "release_date": "1975",
   "year": 1975,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/Q3aRkN3chOD75sUY1IQXMnux-fgS3d-nVhjF5vksCDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQ1/MC0xMzI3NjQ5NjEw/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/fhKoy85m0xNKfcmPgPrClmM7GURK0a9K54D1vtQmf4A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5NDQ1/MC0xMzI3NjQ5NjEw/LmpwZWc.jpeg",

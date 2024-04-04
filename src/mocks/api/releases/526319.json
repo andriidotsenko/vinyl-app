@@ -3,18 +3,12 @@
   "artist_id": 56798,
   "artist": "The Doors",
   "title": "The Doors",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Psychedelic Rock"
-  ],
+  "styles": ["Psychedelic Rock"],
   "release_date": "1967",
   "year": 1967,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/LhmaCwzT5BtJGBCtEpdHLRPDFroy1J3NJ9Ph2c8VBBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjMx/OS0xMjU4ODMyMTcx/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/CPdtlhrvgXzGgT7AytYTof4-b8pq7lVXwfSyCTxSA3s/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyNjMx/OS0xMjU4ODMyMTcx/LmpwZWc.jpeg",

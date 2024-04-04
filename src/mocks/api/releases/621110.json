@@ -3,19 +3,12 @@
   "artist_id": 103687,
   "artist": "Dire Straits",
   "title": "Dire Straits",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "AOR",
-    "Rock & Roll"
-  ],
+  "styles": ["AOR", "Rock & Roll"],
   "release_date": "1978",
   "year": 1978,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/A8Vtc5XJ8I5BZehCR2P355JbB7dsx-hau_s_PKoilXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk0/LTU1MzEuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/fWEj_og1fkDTPXFBpfkKX37OYsc7IYL03ThS00rCClw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTEx/MC0xMzg4MjEzMjk0/LTU1MzEuanBlZw.jpeg",

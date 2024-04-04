@@ -3,18 +3,12 @@
   "artist_id": 451329,
   "artist": "John Lennon & Yoko Ono",
   "title": "Double Fantasy",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock"
-  ],
+  "styles": ["Pop Rock"],
   "release_date": "1980-11-17",
   "year": 1980,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/AY8SdPRKbftG_B80SIcpnAac8xCjYB8RP6xeLhEg4qo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTg5/My0xMzYzNDQyNTYx/LTQ3MTkuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/5pVSNHhXU3i9LX0LOZc7PkcX2ME5NQr0LCMydhjaQZA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxNTg5/My0xMzYzNDQyNTYx/LTQ3MTkuanBlZw.jpeg",

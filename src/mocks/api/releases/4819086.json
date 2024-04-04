@@ -3,18 +3,12 @@
   "artist_id": 125246,
   "artist": "Nirvana",
   "title": "Nevermind",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Grunge"
-  ],
+  "styles": ["Grunge"],
   "release_date": "2013",
   "year": 2013,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/pXprXsZ2IgQ8WBSTGidcGoM90Q5ev9f9BVgRjG6ouXo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTkw/ODYtMTQxODAzNjU3/Mi02Nzk0LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/IoiX34HSnAfuTiGNlBYfSlnhKqK7VjW_rbZZX4VlK3o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTkw/ODYtMTQxODAzNjU3/Mi02Nzk0LmpwZWc.jpeg",

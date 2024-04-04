@@ -3,10 +3,7 @@
   "artist_id": 2445772,
   "artist": "Lana Del Rey",
   "title": "Born To Die",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
   "styles": [
     "Alternative Rock",
@@ -17,10 +14,7 @@
   ],
   "release_date": "2012-01-30",
   "year": 2012,
-  "all_countries": [
-    "uk",
-    "europe"
-  ],
+  "all_countries": ["uk", "europe"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/LX6NKKpgIW7t11cAd04w_WIFmtQHpVL-msvd5wHaFy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTQz/ODMtMTQwMTE4NDA5/MC0xNDgxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/OizS0WSGPOzsEV_d7hUVi1-JcIx3A3xfULQTb0pFtKE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTQz/ODMtMTQwMTE4NDA5/MC0xNDgxLmpwZWc.jpeg",

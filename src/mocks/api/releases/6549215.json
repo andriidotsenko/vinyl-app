@@ -3,20 +3,12 @@
   "artist_id": 202598,
   "artist": "Sufjan Stevens",
   "title": "Carrie & Lowell",
-  "all_genres": [
-    4,
-    7
-  ],
+  "all_genres": [4, 7],
   "genre": 4,
-  "styles": [
-    "Folk",
-    "Folk Rock"
-  ],
+  "styles": ["Folk", "Folk Rock"],
   "release_date": "2015-03-31",
   "year": 2015,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/3wR4Ng02BPUKvgC2lfHjrL30CzK6O-jDV_MZ_xkwyFM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDky/MTUtMTQyMTgxOTEw/Mi03NTY3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/DyTCyEM7sRXTthLJiuetK74spU7LJWsGhroZtfovc-I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1NDky/MTUtMTQyMTgxOTEw/Mi03NTY3LmpwZWc.jpeg",

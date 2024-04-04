@@ -3,21 +3,12 @@
   "artist_id": 220651,
   "artist": "The Killers",
   "title": "Hot Fuss",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "Indie Rock",
-    "New Wave",
-    "Post-Punk"
-  ],
+  "styles": ["Alternative Rock", "Indie Rock", "New Wave", "Post-Punk"],
   "release_date": "2016-06-10",
   "year": 2016,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/rH-mnpM9Jg5sDTRgwggi353oh1Attt3XCc18PbhnB58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjQy/MzEtMTU0NTYzODc4/MC0yNTQ4LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/U5DJ24m7hg_wMgp8vlbkuBEgW1ydM2P3N8RCsL4meZA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NjQy/MzEtMTU0NTYzODc4/MC0yNTQ4LmpwZWc.jpeg",

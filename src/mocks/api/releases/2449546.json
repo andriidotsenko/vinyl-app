@@ -3,19 +3,12 @@
   "artist_id": 231577,
   "artist": "Pixies",
   "title": "Doolittle",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Indie Rock"
-  ],
+  "styles": ["Indie Rock"],
   "release_date": "2004-09-15",
   "year": 2004,
-  "all_countries": [
-    "uk",
-    "us"
-  ],
+  "all_countries": ["uk", "us"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/7NpI9GG1K0krLDXKj-hbpyzyroyqtcZu7K1oNydnB00/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDk1/NDYtMTQ4NTYxNDY3/OS02NTkxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/RSJ9fGVQs5lHWlkS1-cKEtBAAhR5inqKNZnPkWwspdo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDk1/NDYtMTQ4NTYxNDY3/OS02NTkxLmpwZWc.jpeg",

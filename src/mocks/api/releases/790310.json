@@ -3,22 +3,12 @@
   "artist_id": 137418,
   "artist": "Billy Joel",
   "title": "Glass Houses",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Rock & Roll",
-    "Hard Rock",
-    "Soft Rock"
-  ],
+  "styles": ["Pop Rock", "Rock & Roll", "Hard Rock", "Soft Rock"],
   "release_date": "1980",
   "year": 1980,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/Ye1ANFqE9sZyxGFoNM3eLfKIo_hZKm8_60amCXV4Y6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDMx/MC0xMTU5MzIxMjcy/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/fPN0EalqW_BfdobHvHP-XADbgZwtwarA_-nqOQWLkmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MDMx/MC0xMTU5MzIxMjcy/LmpwZWc.jpeg",

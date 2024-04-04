@@ -3,22 +3,12 @@
   "artist_id": 1289,
   "artist": "Daft Punk",
   "title": "Homework",
-  "all_genres": [
-    1
-  ],
+  "all_genres": [1],
   "genre": 1,
-  "styles": [
-    "House",
-    "Techno",
-    "Disco",
-    "Electro",
-    "French House"
-  ],
+  "styles": ["House", "Techno", "Disco", "Electro", "French House"],
   "release_date": "2001",
   "year": 2001,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/CvsIXopUZLVUTuWb1DKDzgDSOOwFoROPcnlaulKrmXM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYw/NS0xNDkyODUzODYy/LTI1MjguanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/TDewIv-a8M9cx0W8odZiKHXM6x4o9CCBE2rVuBUIpog/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjYw/NS0xNDkyODUzODYy/LTI1MjguanBlZw.jpeg",

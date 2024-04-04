@@ -3,19 +3,12 @@
   "artist_id": 136201,
   "artist": "Heart",
   "title": "Little Queen",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Folk Rock",
-    "Rock & Roll"
-  ],
+  "styles": ["Folk Rock", "Rock & Roll"],
   "release_date": "1977-05-15",
   "year": 1977,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/vWrq6saS9CDtC_c9rh3nM1vW-SGpQwrsFSOTpGHEFpw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjc0/MS0xMzY4OTA5NzQ3/LTkzNTkuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/yPUYpTRwA1gSo4DRUJUQgQKzIwqs7fRRTuqbc-sY2VI/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxMjc0/MS0xMzY4OTA5NzQ3/LTkzNTkuanBlZw.jpeg",

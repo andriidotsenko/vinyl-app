@@ -3,10 +3,7 @@
   "artist_id": 82730,
   "artist": "The Beatles",
   "title": "The Beatles And Esher Demos",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
   "styles": [
     "Rock & Roll",
@@ -20,9 +17,7 @@
   ],
   "release_date": "2018-11-09",
   "year": 2018,
-  "all_countries": [
-    "worldwide"
-  ],
+  "all_countries": ["worldwide"],
   "country": "worldwide",
   "thumb_image": "https://i.discogs.com/84NuSy4HCVkrkqj83kot90h48K2ZUrbey0Q34tYADN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc1/ODIxLTE1NDIxODIw/MTQtMTg0Ni5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/8FDLemdNLoUnj8jBGiEZGYaG0kVB1LUBGPZZcbxOLHI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc1/ODIxLTE1NDIxODIw/MTQtMTg0Ni5qcGVn.jpeg",

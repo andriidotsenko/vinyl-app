@@ -3,20 +3,12 @@
   "artist_id": 29718,
   "artist": "Cyndi Lauper",
   "title": "She's So Unusual",
-  "all_genres": [
-    1,
-    4
-  ],
+  "all_genres": [1, 4],
   "genre": 1,
-  "styles": [
-    "Pop Rock",
-    "Synth-pop"
-  ],
+  "styles": ["Pop Rock", "Synth-pop"],
   "release_date": "1983",
   "year": 1983,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/wG3s4JP5T8crWSquxN3Rrp9KKQDSlXebkw3wah8ds9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY1/NTAtMTI3NDY3OTcy/Mi5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/z-n16sHeXVYi-T4161WF8OgyUpRszMfvN-VtUZnptS0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDY1/NTAtMTI3NDY3OTcy/Mi5qcGVn.jpeg",

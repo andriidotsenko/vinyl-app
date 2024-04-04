@@ -3,19 +3,12 @@
   "artist_id": 81013,
   "artist": "Queen",
   "title": "News Of The World",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Hard Rock",
-    "Pop Rock"
-  ],
+  "styles": ["Hard Rock", "Pop Rock"],
   "release_date": "1977-10-28",
   "year": 1977,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/LEHlg7s7vrSNaqYJ4F3SR_ace8BrmvbzdlE8ic7-OGg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU5/OS0xNDU0NzE1MjY1/LTc4NDIuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/Y_1cSfid7EAXsQQPQYpMKYcq425-qEHbk3dbaIfpy5o/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3NTU5/OS0xNDU0NzE1MjY1/LTc4NDIuanBlZw.jpeg",

@@ -3,20 +3,12 @@
   "artist_id": 45467,
   "artist": "Pink Floyd",
   "title": "The Dark Side Of The Moon",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Prog Rock",
-    "Pop Rock"
-  ],
+  "styles": ["Prog Rock", "Pop Rock"],
   "release_date": "2016-11-04",
   "year": 2016,
-  "all_countries": [
-    "usa",
-    "canada"
-  ],
+  "all_countries": ["usa", "canada"],
   "country": "usa",
   "thumb_image": "https://i.discogs.com/iuuksz-7m37Jy8l_FUbBrbpXeT5qwV4Hu8ialv9UBrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTY2/MDctMTQ3OTAzMjE5/NC0yNjYxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/Xqa-UKfhXPrgre_QiEoljAhkseKIS8QmHuumn16vyeY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyOTY2/MDctMTQ3OTAzMjE5/NC0yNjYxLmpwZWc.jpeg",

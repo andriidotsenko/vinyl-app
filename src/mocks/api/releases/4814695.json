@@ -3,19 +3,12 @@
   "artist_id": 70829,
   "artist": "The Beach Boys",
   "title": "Endless Summer",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Surf",
-    "Pop Rock"
-  ],
+  "styles": ["Surf", "Pop Rock"],
   "release_date": "1974-06-24",
   "year": 1974,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/bPj8Gv5VBrNWdyivHqga2cUNR3cHZ84946Xa1dkr3YU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTQ2/OTUtMTM3NjYyNDI2/Ny0zMTk3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/sXp9SWEr-Dhy9I-E477LIQr0lcMDd1bWsUHxicKN7nM/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MTQ2/OTUtMTM3NjYyNDI2/Ny0zMTk3LmpwZWc.jpeg",

@@ -3,19 +3,12 @@
   "artist_id": 5590213,
   "artist": "Billie Eilish",
   "title": "Happier Than Ever",
-  "all_genres": [
-    3
-  ],
+  "all_genres": [3],
   "genre": 3,
-  "styles": [
-    "Indie Pop"
-  ],
+  "styles": ["Indie Pop"],
   "release_date": "2021-07-30",
   "year": 2021,
-  "all_countries": [
-    "usa",
-    "europe"
-  ],
+  "all_countries": ["usa", "europe"],
   "country": "usa",
   "thumb_image": "https://i.discogs.com/wJUjEDYwgCTcnp4SFN7EjbEI88MZ_VBKXYmuu5exL3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc2/NTk2LTE2Mjc2Mzgy/NTQtNTAyNS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/GwYxoOv5ffsKbT48Ve8vZcgK0JXALZWnPqisNC6On-0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Njc2/NTk2LTE2Mjc2Mzgy/NTQtNTAyNS5qcGVn.jpeg",

@@ -3,23 +3,12 @@
   "artist_id": 819015,
   "artist": "Adele",
   "title": "21",
-  "all_genres": [
-    8,
-    2,
-    9,
-    3
-  ],
+  "all_genres": [8, 2, 9, 3],
   "genre": 8,
-  "styles": [
-    "Acoustic",
-    "Piano Blues",
-    "Neo Soul"
-  ],
+  "styles": ["Acoustic", "Piano Blues", "Neo Soul"],
   "release_date": "2011-01-21",
   "year": 2011,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/Z_lzVdTzuJbktOx0mwqtKvSD6huBGEIi7cMdV6Z59kA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjQ1/ODktMTQ1MjI2OTk5/NS03Mjk4LnBuZw.jpeg",
   "cover_image": "https://i.discogs.com/pbgKc7liXRhTdGM1zNhToDidUDYjK7_CQsxNaXxQTtE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjQ1/ODktMTQ1MjI2OTk5/NS03Mjk4LnBuZw.jpeg",

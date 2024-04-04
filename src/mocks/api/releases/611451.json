@@ -3,20 +3,12 @@
   "artist_id": 170357,
   "artist": "Carpenters",
   "title": "The Singles 1969-1973",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Easy Listening"
-  ],
+  "styles": ["Pop Rock", "Easy Listening"],
   "release_date": "1973-11-09",
   "year": 1973,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/IEv7ab527SgZxRLoNqEXCzqNsWtsQBsoQT2jMpxa08U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQ1/MS0xMjIyNjkxNzMw/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/mv3jvx2uWoNi71Tv9rBCk3YZpS-BFeJjnvYdnFM-2HE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMTQ1/MS0xMjIyNjkxNzMw/LmpwZWc.jpeg",

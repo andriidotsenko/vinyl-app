@@ -3,19 +3,12 @@
   "artist_id": 228859,
   "artist": "Peter Frampton",
   "title": "Frampton Comes Alive!",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Rock & Roll",
-    "Pop Rock"
-  ],
+  "styles": ["Rock & Roll", "Pop Rock"],
   "release_date": "1976",
   "year": 1976,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/-R-hDaoDJALQgVkmhYdkHeWuT2LSDd0Jldq3QLplSrs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTUx/Mi0xMzIzNDcwMDAy/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/PqwUWOr1fHTqQvVIkBCu-cnzQmf11R_NhO_CWperqYg/rs:fit/g:sm/q:90/h:590/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTUx/Mi0xMzIzNDcwMDAy/LmpwZWc.jpeg",

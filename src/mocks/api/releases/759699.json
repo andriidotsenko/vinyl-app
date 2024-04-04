@@ -3,20 +3,12 @@
   "artist_id": 132066,
   "artist": "Cheap Trick",
   "title": "Cheap Trick At Budokan",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Power Pop",
-    "Hard Rock"
-  ],
+  "styles": ["Pop Rock", "Power Pop", "Hard Rock"],
   "release_date": "1979",
   "year": 1979,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/5usutWrIjvA4VDOYLcWbozb0IDKOizZpKrW8yWGDwbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTY5/OS0xMjgwNjY2MDcw/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/ZtEOSbh9X2r1XArYc219GGlhh-NzISssGucQOOg6huY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1OTY5/OS0xMjgwNjY2MDcw/LmpwZWc.jpeg",

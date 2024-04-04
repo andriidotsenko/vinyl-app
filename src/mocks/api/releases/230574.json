@@ -3,19 +3,12 @@
   "artist_id": 143225,
   "artist": "The Cars",
   "title": "Heartbeat City",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "New Wave"
-  ],
+  "styles": ["Pop Rock", "New Wave"],
   "release_date": "1984-03-13",
   "year": 1984,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/XfhpnwFMR7wGiR-Uc7K9MN8JGZ8QIZsUFrSL-2nrvH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU3/NC0xMjE5NDQzMzg0/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/vZth0edb3RGBOlX-CdL4uOWvQBK8ryKWcovotO6OKn0/rs:fit/g:sm/q:90/h:588/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDU3/NC0xMjE5NDQzMzg0/LmpwZWc.jpeg",

@@ -3,19 +3,12 @@
   "artist_id": 84752,
   "artist": "AC/DC",
   "title": "Back In Black",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Hard Rock",
-    "Classic Rock"
-  ],
+  "styles": ["Hard Rock", "Classic Rock"],
   "release_date": "1980",
   "year": 1980,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/0w01Akzs-Leq1zeqoi90W0fUFjyMEdGDgRol8RwnCu8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjAz/MC0xNTkyNzc2Njk4/LTM3NDMuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/lTTXhZ_WbGo5gei3vxoS9eKWfYOuRUuszGK2SAzt-Pk/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NjAz/MC0xNTkyNzc2Njk4/LTM3NDMuanBlZw.jpeg",

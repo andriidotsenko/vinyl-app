@@ -3,20 +3,12 @@
   "artist_id": 251593,
   "artist": "Green Day",
   "title": "American Idiot",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Punk",
-    "Pop Rock",
-    "Pop Punk"
-  ],
+  "styles": ["Punk", "Pop Rock", "Pop Punk"],
   "release_date": "2004-10-04",
   "year": 2004,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/8ViyqmNrr0fjlbaG643ovkiTAQ-tKY0bPdm_Oq982xY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM0/NzAtMTU3NDI2ODI2/Ni05MDM2LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/MZK1NpQQ4V2QYjchCOmpc6aZuYJVjfAWfw9c5cAp6zI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDM0/NzAtMTU3NDI2ODI2/Ni05MDM2LmpwZWc.jpeg",

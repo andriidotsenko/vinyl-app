@@ -3,21 +3,12 @@
   "artist_id": 232157,
   "artist": "Simon & Garfunkel",
   "title": "Simon And Garfunkel's Greatest Hits",
-  "all_genres": [
-    4,
-    3,
-    7
-  ],
+  "all_genres": [4, 3, 7],
   "genre": 4,
-  "styles": [
-    "Folk Rock",
-    "Pop Rock"
-  ],
+  "styles": ["Folk Rock", "Pop Rock"],
   "release_date": "1972",
   "year": 1972,
-  "all_countries": [
-    "netherlands"
-  ],
+  "all_countries": ["netherlands"],
   "country": "netherlands",
   "thumb_image": "https://i.discogs.com/I3JVS7aablTwgsProKqDiOeP3Q-ltsbSMD7A_bxPpls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc5/MTktMTI0ODUzNDcy/OS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/1O_E0eKtDDmjh1CC_Yqsgjl0_PCtbzl4UAvEwgxL1Y0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc5/MTktMTI0ODUzNDcy/OS5qcGVn.jpeg",

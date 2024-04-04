@@ -3,19 +3,12 @@
   "artist_id": 137418,
   "artist": "Billy Joel",
   "title": "An Innocent Man",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Rock & Roll",
-    "Pop Rock"
-  ],
+  "styles": ["Rock & Roll", "Pop Rock"],
   "release_date": "1983",
   "year": 1983,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/PuSoxfAzfGjtACT3ts7hKayoGW_2S_jEKBvTIpZyL_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjQy/NS0xMzUyMzIwNTM2/LTE1ODIuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/DKm0zIv4r3qmMRFTWKAxGQUbnyUedjihVGyZyZJ07jw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyMjQy/NS0xMzUyMzIwNTM2/LTE1ODIuanBlZw.jpeg",

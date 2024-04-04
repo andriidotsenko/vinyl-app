@@ -3,19 +3,12 @@
   "artist_id": 114483,
   "artist": "Chicago",
   "title": "Chicago IX Chicago's Greatest Hits",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Soft Rock",
-    "Pop Rock"
-  ],
+  "styles": ["Soft Rock", "Pop Rock"],
   "release_date": "1975-11-10",
   "year": 1975,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/0vZB53rGO7LZlu8mYIMehTNcO-dnA9WyG2PWPiOn26M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTQ4/NC0xMzY1Mzc0NjU3/LTQzMzAuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/mw2pGhqCFqVGxubH-8O6w7FKKMjkrtRlG8fbNP0P0TY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTQ4/NC0xMzY1Mzc0NjU3/LTQzMzAuanBlZw.jpeg",

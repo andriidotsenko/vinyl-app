@@ -3,22 +3,12 @@
   "artist_id": 2508414,
   "artist": "Harry Styles",
   "title": "Harry Styles",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Soft Rock",
-    "Vocal",
-    "Ballad"
-  ],
+  "styles": ["Pop Rock", "Soft Rock", "Vocal", "Ballad"],
   "release_date": "2017-05-12",
   "year": 2017,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/4cQYMDT6DMEUNleErAQ2PZwl2SFNU5QhpyJsCIiwneA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgy/NDY1LTE1MTUxMDg5/NDgtNjM0MS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/azYJPGrO9DN5dlg8Y18whBuuCYEgnqi8aoNaGiSkjqw/rs:fit/g:sm/q:90/h:450/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjgy/NDY1LTE1MTUxMDg5/NDgtNjM0MS5qcGVn.jpeg",

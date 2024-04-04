@@ -3,20 +3,12 @@
   "artist_id": 2742944,
   "artist": "Travis Scott",
   "title": "Astroworld",
-  "all_genres": [
-    5
-  ],
+  "all_genres": [5],
   "genre": 5,
-  "styles": [
-    "Trap",
-    "Pop Rap",
-    "Psychedelic"
-  ],
+  "styles": ["Trap", "Pop Rap", "Psychedelic"],
   "release_date": "2018-11-16",
   "year": 2018,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/OWDYzmrv5Pq3TKnpCZrg3mZ7gidwkdYzpVxO1qF3vR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MjYyLTE1NDIzMTg0/MzQtMzc5Ni5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/7eMCTyy9ja2EWxYJsazkWJH4s3xz3eQQjSFRRb0dTAI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MjYyLTE1NDIzMTg0/MzQtMzc5Ni5qcGVn.jpeg",

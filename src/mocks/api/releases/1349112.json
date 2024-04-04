@@ -3,19 +3,12 @@
   "artist_id": 82730,
   "artist": "The Beatles",
   "title": "Meet The Beatles!",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Beat",
-    "Rock & Roll"
-  ],
+  "styles": ["Beat", "Rock & Roll"],
   "release_date": "1964-01-20",
   "year": 1964,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/EupTDcDBSQ4wioxZ52e2NIwjkBmpUKwB0C5McBr0ZjQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkx/MTItMTUxNzA1MzAw/NC02MTMxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/e-75dxjz5qCXwTDZP-c5emwN2jutbL-ty4zIFRwv-Vc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDkx/MTItMTUxNzA1MzAw/NC02MTMxLmpwZWc.jpeg",

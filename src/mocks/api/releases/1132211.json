@@ -3,19 +3,12 @@
   "artist_id": 252102,
   "artist": "Creedence Clearwater Revival",
   "title": "Green River",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Folk Rock",
-    "Country Rock"
-  ],
+  "styles": ["Folk Rock", "Country Rock"],
   "release_date": "1969-08-03",
   "year": 1969,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/pZRM6pXmPlOdVy12irAG_1Hfn_lrVXqdc0CEhaYb7rk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIy/MTEtMTE5NDY0NTU3/OC5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/L92BqdLhUez9X5JLndTd6n2lfdIickBCM9SOzzyl0ro/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIy/MTEtMTE5NDY0NTU3/OC5qcGVn.jpeg",

@@ -3,19 +3,12 @@
   "artist_id": 1124645,
   "artist": "Taylor Swift",
   "title": "Red",
-  "all_genres": [
-    3,
-    7
-  ],
+  "all_genres": [3, 7],
   "genre": 3,
-  "styles": [
-    "Country"
-  ],
+  "styles": ["Country"],
   "release_date": "2012-12-04",
   "year": 2012,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/LKXsgnJ3ZtlAsaLUgTUa9rUgTL7pAkztmgVYk8nmAOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODMy/MDQtMTQ4Mzg1Njg4/OS00NTE0LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/LRQX8IkOoWtz_4BWEEFFY2M8WJ6vSqMMpscCpQZ5CS0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODMy/MDQtMTQ4Mzg1Njg4/OS00NTE0LmpwZWc.jpeg",

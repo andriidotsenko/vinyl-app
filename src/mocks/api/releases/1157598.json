@@ -3,19 +3,12 @@
   "artist_id": 87016,
   "artist": "Tool",
   "title": "Undertow",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Hard Rock",
-    "Prog Rock"
-  ],
+  "styles": ["Hard Rock", "Prog Rock"],
   "release_date": "2006",
   "year": 2006,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/Sn7LvDTDA52ujGWGLAv72MfTX0Eb4UxgpLN-L9vc_NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/OTgtMTM4NzEwNzE3/Mi0xNzI0LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/tuiz6GMPldn1u7q362_T-Pomhyfn6frvk_Px__UqcD0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc1/OTgtMTM4NzEwNzE3/Mi0xNzI0LmpwZWc.jpeg",

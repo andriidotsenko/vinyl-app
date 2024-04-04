@@ -3,18 +3,12 @@
   "artist_id": 82730,
   "artist": "The Beatles",
   "title": "Abbey Road",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock"
-  ],
+  "styles": ["Pop Rock"],
   "release_date": "2012-11-13",
   "year": 2012,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/JT-cnyNz7yZHXddDMplKToSlDUxCl_7oPnMvbR_cWjk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDIy/NTgtMTM1NDg2MzYw/OC03MDk5LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/LEGYV6V_fjewVBBi8afvhqHWwn3Ew1YREj69l-Yi-9A/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNDIy/NTgtMTM1NDg2MzYw/OC03MDk5LmpwZWc.jpeg",

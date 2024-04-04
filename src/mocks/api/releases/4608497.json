@@ -3,22 +3,12 @@
   "artist_id": 56168,
   "artist": "Queens Of The Stone Age",
   "title": "...Like Clockwork",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "Stoner Rock",
-    "Hard Rock"
-  ],
+  "styles": ["Alternative Rock", "Stoner Rock", "Hard Rock"],
   "release_date": "2013-05-31",
   "year": 2013,
-  "all_countries": [
-    "uk",
-    "europe",
-    "us"
-  ],
+  "all_countries": ["uk", "europe", "us"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/1GeV-6c51OF7t6egCxKPHv21Yh8RtCZM4-qmThiuUWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDg0/OTctMTM3MjA4Nzkz/MC00MjMzLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/q6Tfcuh0vrxceLmuZMGPVDthm5R-MX_azvfYWM0h-qk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDg0/OTctMTM3MjA4Nzkz/MC00MjMzLmpwZWc.jpeg",

@@ -3,14 +3,7 @@
   "artist_id": 6378,
   "artist": "Gorillaz",
   "title": "Gorillaz",
-  "all_genres": [
-    1,
-    5,
-    4,
-    12,
-    2,
-    3
-  ],
+  "all_genres": [1, 5, 4, 12, 2, 3],
   "genre": 1,
   "styles": [
     "Leftfield",
@@ -23,9 +16,7 @@
   ],
   "release_date": "2001-03-24",
   "year": 2001,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/ILD5t3nfkk9_yNQPF93yd3pHxn7PEsKyRClZPel4yCQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDAy/MS0xMzM2OTI1NjI1/LTIzOTEuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/h_tS_6Q8iAtOxUVNyYNCjKJwjGPKa8NvnSYK9f10dFs/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDAy/MS0xMzM2OTI1NjI1/LTIzOTEuanBlZw.jpeg",

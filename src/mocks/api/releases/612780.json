@@ -3,9 +3,7 @@
   "artist_id": 81013,
   "artist": "Queen",
   "title": "A Night At The Opera",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
   "styles": [
     "Hard Rock",
@@ -18,9 +16,7 @@
   ],
   "release_date": "1975-11-21",
   "year": 1975,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/iYlsg4ZaRjpN4q9Ayon-gX-_9rnSYBj12qTxSGaa4FE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjc4/MC0xNTQxMzY3MTQ1/LTIxMjcuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/2GXnNYolz0ciUnj8-ycSwQ8Uuy0Qu7LCfiZivZ0p_bo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjc4/MC0xNTQxMzY3MTQ1/LTIxMjcuanBlZw.jpeg",

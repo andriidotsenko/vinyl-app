@@ -3,19 +3,12 @@
   "artist_id": 29890,
   "artist": "The Clash",
   "title": "London Calling",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Punk",
-    "New Wave"
-  ],
+  "styles": ["Punk", "New Wave"],
   "release_date": "1979-12-14",
   "year": 1979,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/O-KA3B6HBYOoy8DohltOuwxXW1EL_52p5dldyT1IOiQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDkx/Mi0xNjA3NzYxMTgy/LTU4MjQuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/vKxXel-d8v2rK-XYAVEaEi6d-2SgwXHxsVF8D17_-lI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MDkx/Mi0xNjA3NzYxMTgy/LTU4MjQuanBlZw.jpeg",

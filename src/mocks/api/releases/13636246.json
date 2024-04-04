@@ -3,19 +3,12 @@
   "artist_id": 11771,
   "artist": "Rammstein",
   "title": "Untitled",
-  "all_genres": [
-    1,
-    4
-  ],
+  "all_genres": [1, 4],
   "genre": 1,
-  "styles": [
-    "Industrial Metal"
-  ],
+  "styles": ["Industrial Metal"],
   "release_date": "2019-05-17",
   "year": 2019,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/qHtf325CQS3HxxsS2bGA0Xgt7fV5lRTFEmcjgbrdPj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM2/MjQ2LTE1OTM0MTAw/MTYtNzk2Ni5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/hVrGAL-B_oAyZLz4pzP4gSth5_vzKk_TuDKpm48cox8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjM2/MjQ2LTE1OTM0MTAw/MTYtNzk2Ni5qcGVn.jpeg",

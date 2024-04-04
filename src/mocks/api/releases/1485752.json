@@ -3,18 +3,12 @@
   "artist_id": 243955,
   "artist": "George Harrison",
   "title": "All Things Must Pass",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock"
-  ],
+  "styles": ["Pop Rock"],
   "release_date": "1970-11-27",
   "year": 1970,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/uvaPgicermcXqp_3TZPy4PSgGQ2gn_dnQBtcku0lr6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU3/NTItMTM2Mjk1ODk5/OC04NjE4LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/QoKg3eR36IBHn_czkwT20iGITQvFExpX0lvfhCQsTNI/rs:fit/g:sm/q:90/h:585/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODU3/NTItMTM2Mjk1ODk5/OC04NjE4LmpwZWc.jpeg",

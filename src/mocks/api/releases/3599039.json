@@ -3,20 +3,12 @@
   "artist_id": 592308,
   "artist": "Beach House",
   "title": "Bloom",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Indie Rock",
-    "Ethereal",
-    "Dream Pop"
-  ],
+  "styles": ["Indie Rock", "Ethereal", "Dream Pop"],
   "release_date": "2012-05-15",
   "year": 2012,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/0WUGdiqjtwy258_50Ff8tR68gpVEWuRcqe9tFbe5T7U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTkw/MzktMTQ5MzM0OTg0/Mi03NDg3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/ZwG8Jnwi9KctxtFWcOxP5hNmvSf3n-TD2OWlNPfVmCQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1OTkw/MzktMTQ5MzM0OTg0/Mi03NDg3LmpwZWc.jpeg",

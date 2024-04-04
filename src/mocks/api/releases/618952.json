@@ -3,18 +3,12 @@
   "artist_id": 10263,
   "artist": "David Bowie",
   "title": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Glam"
-  ],
+  "styles": ["Glam"],
   "release_date": "1972-06-16",
   "year": 1972,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/NANnAgmfWKZlwnQQNaIZOAQVtlF_qu_QfhVfgtHK2-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODk1/Mi0xNDQzNDUxNDcz/LTc4ODkuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/s2fXfSGj5WfUUs1ixMkUyps32YwMIIZ76Gk1n0ygWyI/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxODk1/Mi0xNDQzNDUxNDcz/LTc4ODkuanBlZw.jpeg",

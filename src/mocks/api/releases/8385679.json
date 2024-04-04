@@ -3,19 +3,12 @@
   "artist_id": 18839,
   "artist": "Metallica",
   "title": "Kill 'Em All",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Thrash",
-    "Speed Metal"
-  ],
+  "styles": ["Thrash", "Speed Metal"],
   "release_date": "2016-04-15",
   "year": 2016,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/uzikxZ7hGGeCzhaU_taVGWEBKCieLuK_sqouWItf2Mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODU2/NzktMTUxNjU2MTU2/NS04MDAzLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/fjmCHEdjfD_KFpyRLHk2tcMYahUFzUny3sZ92Li38HQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgzODU2/NzktMTUxNjU2MTU2/NS04MDAzLmpwZWc.jpeg",

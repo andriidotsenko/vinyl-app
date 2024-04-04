@@ -3,21 +3,12 @@
   "artist_id": 106474,
   "artist": "Paul Simon",
   "title": "Graceland",
-  "all_genres": [
-    4,
-    3,
-    7
-  ],
+  "all_genres": [4, 3, 7],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Ethno-pop"
-  ],
+  "styles": ["Pop Rock", "Ethno-pop"],
   "release_date": "1986-08-25",
   "year": 1986,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/E4YiTSbh38PzKJI7-_wbgGga8ay5ZFgZndQeaCAnaDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzM3/NS0xNjY2ODkwODA3/LTM1NjkuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/ZnYB5oQe4cMCJHxV-SJr0xW1ArZZpN_HI2op69fqacs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzM3/NS0xNjY2ODkwODA3/LTM1NjkuanBlZw.jpeg",

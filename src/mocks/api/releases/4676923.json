@@ -3,19 +3,12 @@
   "artist_id": 255672,
   "artist": "The Jimi Hendrix Experience",
   "title": "Electric Ladyland",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Psychedelic Rock"
-  ],
+  "styles": ["Blues Rock", "Psychedelic Rock"],
   "release_date": "2010-03-09",
   "year": 2010,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/GH-lvfSvaNnRTKLuyPqGAHn3bMDeiKM2JHON_gjp2gA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY5/MjMtMTUyMjUyNzk2/Ny02MDYzLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/q2MiePIJn20pTfIO87jBFG--zvyFq41vGN1IOub6IDw/rs:fit/g:sm/q:90/h:610/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2NzY5/MjMtMTUyMjUyNzk2/Ny02MDYzLmpwZWc.jpeg",

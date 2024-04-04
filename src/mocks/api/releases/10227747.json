@@ -3,18 +3,12 @@
   "artist_id": 12212,
   "artist": "Rage Against The Machine",
   "title": "Rage Against The Machine",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Funk Metal"
-  ],
+  "styles": ["Funk Metal"],
   "release_date": "2015",
   "year": 2015,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/nVFOxz0l1LfRZnjKwHYaMbZ5zKkcTlXjR2L3Dp5CWdE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/NzQ3LTE0OTM3NDEw/OTMtNzg4OS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/I7ZM3wLlpvrgB7ghnLV7GQkBe7chEWGYR0hQgqNLx18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjI3/NzQ3LTE0OTM3NDEw/OTMtNzg4OS5qcGVn.jpeg",

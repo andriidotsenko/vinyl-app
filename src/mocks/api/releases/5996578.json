@@ -3,23 +3,12 @@
   "artist_id": 194,
   "artist": "Various",
   "title": "Guardians Of The Galaxy",
-  "all_genres": [
-    4,
-    2,
-    6
-  ],
+  "all_genres": [4, 2, 6],
   "genre": 4,
-  "styles": [
-    "Soundtrack",
-    "Classic Rock",
-    "Pop Rock",
-    "Soul"
-  ],
+  "styles": ["Soundtrack", "Classic Rock", "Pop Rock", "Soul"],
   "release_date": "2014-09-16",
   "year": 2014,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/IpWuFCtBQoLyLi27ckIAhEXDwYp6lHcAE959xt8Em4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTY1/NzgtMTQzNjgyNjQ2/My00NDk5LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/-WBuuBJBHfshJ_dJHckEI1PQ1h5BuQ4t-wHSbJGq5mc/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5OTY1/NzgtMTQzNjgyNjQ2/My00NDk5LmpwZWc.jpeg",

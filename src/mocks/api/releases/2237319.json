@@ -3,19 +3,12 @@
   "artist_id": 255672,
   "artist": "The Jimi Hendrix Experience",
   "title": "Axis: Bold As Love",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Psychedelic Rock",
-    "Blues Rock"
-  ],
+  "styles": ["Psychedelic Rock", "Blues Rock"],
   "release_date": "2010-03-09",
   "year": 2010,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/ldsSRdW7H6U0-fYE3m2rREUUkpAy8MFOun-N4a0Oiww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcz/MTktMTY0MjQ1MDc5/My01MzcxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/9hX7r0O-e00E_2EYww5kh3AM2u_3ctVCOUE_vO-IbeE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzcz/MTktMTY0MjQ1MDc5/My01MzcxLmpwZWc.jpeg",

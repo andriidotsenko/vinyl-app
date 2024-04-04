@@ -3,18 +3,12 @@
   "artist_id": 3840,
   "artist": "Radiohead",
   "title": "The Bends",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock"
-  ],
+  "styles": ["Alternative Rock"],
   "release_date": "2008",
   "year": 2008,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/7nmAchEfomfOwVnFe2LvxNdZOvmBOjn6IbFHI7rJ8go/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQw/NjEtMTQyOTIzNzM1/NS03MDQ1LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/F1_Y0SRt1wmr_LK9-4XYnyFVHmvBysX1xZLV9ryyvR8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1OTQw/NjEtMTQyOTIzNzM1/NS03MDQ1LmpwZWc.jpeg",

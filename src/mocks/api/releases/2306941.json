@@ -3,20 +3,12 @@
   "artist_id": 59792,
   "artist": "Bob Dylan",
   "title": "Blood On The Tracks",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Folk Rock",
-    "Acoustic",
-    "Ballad"
-  ],
+  "styles": ["Folk Rock", "Acoustic", "Ballad"],
   "release_date": "1975-01-20",
   "year": 1975,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/v0Qvf7c2n4MJaPeVOcQ4Lku_gqtkekXBOFvBJrA_P_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY5/NDEtMTMzNzQzMzg5/MS01MTc2LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/Aq5gLIL8zUSEBQpOiutdVfApi41taYrIU5DYAcUmMZI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDY5/NDEtMTMzNzQzMzg5/MS01MTc2LmpwZWc.jpeg",

@@ -3,21 +3,12 @@
   "artist_id": 34278,
   "artist": "Led Zeppelin",
   "title": "Physical Graffiti",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Hard Rock",
-    "Blues Rock",
-    "Folk Rock",
-    "Prog Rock"
-  ],
+  "styles": ["Hard Rock", "Blues Rock", "Folk Rock", "Prog Rock"],
   "release_date": "2015-02-23",
   "year": 2015,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/mnQkj9uhMRnocIsQbZpox3Ue4kpEvai-uvV339tjsYE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzcw/MjgtMTU3ODc2ODUw/Ny0xNjI5LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/NpEKz1Anu5l0vnuaFmVDBi66mWpdBRd4aiOEQQ9cPSY/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzcw/MjgtMTU3ODc2ODUw/Ny0xNjI5LmpwZWc.jpeg",

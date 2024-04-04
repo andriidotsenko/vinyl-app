@@ -3,18 +3,12 @@
   "artist_id": 37223,
   "artist": "The Doobie Brothers",
   "title": "Best Of The Doobies",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Southern Rock"
-  ],
+  "styles": ["Southern Rock"],
   "release_date": "1976-11-00",
   "year": 1976,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/_SQQAMKxmlKgCPBBzGqDB7tVzc8DQ4vQsfTJnKt7Tqg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzIy/MTAtMTUyNTYyNDQw/OC03Nzg1LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/ONYIiLN2nYVoQcdZJI_KSekrv35SUOZsmBRSAVrywgg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzIy/MTAtMTUyNTYyNDQw/OC03Nzg1LmpwZWc.jpeg",

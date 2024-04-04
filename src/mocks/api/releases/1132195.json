@@ -3,19 +3,12 @@
   "artist_id": 285408,
   "artist": "Crosby, Stills, Nash & Young",
   "title": "Déjà Vu",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Folk Rock",
-    "Country Rock"
-  ],
+  "styles": ["Folk Rock", "Country Rock"],
   "release_date": "1970-03-11",
   "year": 1970,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/W6H_QWNOn2J01brPUoPOJprchU0SO9iAzy08WrK1lgI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIx/OTUtMTU5ODkwNDE0/NC0zNzk0LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/uJWFjtkWet6BGK6XIxacO6Hfh8qHYiAdPQ06WZtmsDw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzIx/OTUtMTU5ODkwNDE0/NC0zNzk0LmpwZWc.jpeg",

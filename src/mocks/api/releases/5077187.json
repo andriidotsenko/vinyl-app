@@ -3,19 +3,12 @@
   "artist_id": 4480,
   "artist": "Massive Attack",
   "title": "Mezzanine",
-  "all_genres": [
-    1
-  ],
+  "all_genres": [1],
   "genre": 1,
-  "styles": [
-    "Trip Hop",
-    "Downtempo"
-  ],
+  "styles": ["Trip Hop", "Downtempo"],
   "release_date": "2013-11-08",
   "year": 2013,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/o1H9nJlz4N1aV8x1k6esWgp6nu-XFbQTLfS5adS4iKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTYzMjgzNjky/OC01NTkzLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/gqCkCURexqaNgtuxxr1sZDNAdi6lBphQL2dfuNX_It0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNzcx/ODctMTYzMjgzNjky/OC01NTkzLmpwZWc.jpeg",

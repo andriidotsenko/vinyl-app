@@ -3,18 +3,12 @@
   "artist_id": 249829,
   "artist": "America",
   "title": "History - America's Greatest Hits",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock"
-  ],
+  "styles": ["Pop Rock"],
   "release_date": "1975",
   "year": 1975,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/JwlgkfXtQQGV18eSJVTF0IwFMozxSR8963cp9lN77v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMw/MDEtMTQxMjg3NDE3/Ni00NTU1LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/95U6rLIjBNLV8KPUCPOra3-Jy6TIzWFIssLNhXRFwGc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTMw/MDEtMTQxMjg3NDE3/Ni00NTU1LmpwZWc.jpeg",

@@ -3,19 +3,12 @@
   "artist_id": 138556,
   "artist": "Neil Young",
   "title": "After The Gold Rush",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Rock & Roll",
-    "Country Rock"
-  ],
+  "styles": ["Rock & Roll", "Country Rock"],
   "release_date": "1970-09-19",
   "year": 1970,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/qOkq0WUvLaXo2uh3JPRoCz27VYyyHPaGQmAcwi7jxpc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDUy/OTAtMTQxNTEyMjQy/NC00MDU3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/ylWWw2Y1IrETuPJ1AFAfTSLAR_9s4pL-RTOXmnNLo6o/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNDUy/OTAtMTQxNTEyMjQy/NC00MDU3LmpwZWc.jpeg",

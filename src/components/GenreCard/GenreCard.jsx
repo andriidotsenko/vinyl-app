@@ -1,12 +1,15 @@
 import PropTypes from "prop-types";
 import styles from "./GenreCard.module.css";
+import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 
-const GenreCard = ({ name, backgroundColor, images }) => {
+const GenreCard = ({ genres }) => {
   const getRandomOffset = (min, max) =>
     Math.floor(Math.random() * (max - min + 1)) + min;
 
   const getRandomRotation = (min, max) =>
     Math.floor(Math.random() * (max - min + 1)) + min;
+
+  const images = GENRE_COLORS_BY_GENRE_ID[genres.id].images;
 
   const minOffset = 41;
   const maxOffset = 100;
@@ -21,22 +24,24 @@ const GenreCard = ({ name, backgroundColor, images }) => {
   };
 
   const textColor =
-    getBrightness(backgroundColor) > 128 ? "var(--dark-green)" : "var(--white)";
+    getBrightness(GENRE_COLORS_BY_GENRE_ID[genres.id].color) > 128
+      ? "var(--dark-green)"
+      : "var(--white)";
 
   return (
     <div
       className={styles.item}
       style={{
-        backgroundColor: backgroundColor,
+        backgroundColor: GENRE_COLORS_BY_GENRE_ID[genres.id].color,
         color: textColor,
       }}
     >
-      <div className={styles.title}>{name}</div>
+      <div className={styles.title}>{genres.title}</div>
       {images.map((image, index) => (
         <img
           key={index}
           src={image}
-          alt={`${name}_Image${index + 1}`}
+          alt={`${genres.title}_Image${index + 1}`}
           style={{
             position: "absolute",
             width: "70px",
@@ -56,10 +61,10 @@ const GenreCard = ({ name, backgroundColor, images }) => {
 };
 
 GenreCard.propTypes = {
-  id: PropTypes.number.isRequired,
-  name: PropTypes.string.isRequired,
-  backgroundColor: PropTypes.string.isRequired,
-  images: PropTypes.arrayOf(PropTypes.string).isRequired,
+  genres: PropTypes.shape({
+    id: PropTypes.number.isRequired,
+    title: PropTypes.string.isRequired,
+  }).isRequired,
 };
 
 export default GenreCard;

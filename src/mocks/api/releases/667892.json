@@ -3,20 +3,12 @@
   "artist_id": 55980,
   "artist": "The Strokes",
   "title": "Is This It",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Indie Rock",
-    "Garage Rock",
-    "Post-Punk"
-  ],
+  "styles": ["Indie Rock", "Garage Rock", "Post-Punk"],
   "release_date": "2001-09-11",
   "year": 2001,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/DK-fquXYo-B_CPpgQ3Xi3-If4-Ck7TEWA7fg0XWInCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg5/Mi0xMjQ5NTQ4OTc5/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/I-5W0fpyfiabeWAXjTY0DdQ_0-PibB8kINZLXI8EiV0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2Nzg5/Mi0xMjQ5NTQ4OTc5/LmpwZWc.jpeg",

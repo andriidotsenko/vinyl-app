@@ -3,10 +3,7 @@
   "artist_id": 2445772,
   "artist": "Lana Del Rey",
   "title": "Paradise",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
   "styles": [
     "Alternative Rock",
@@ -18,9 +15,7 @@
   ],
   "release_date": "2012-11-13",
   "year": 2012,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/SBGj49ZTlfjAPZZqm8w66FJq_d82cuc2CQRIOsNKd2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc0/MzAtMTY0MTgzMDc3/Mi00MTY5LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/2-E13gRsaa27y1N0wj2GBKqpHYUKPvRUh0Q5V5JQl1k/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzc0/MzAtMTY0MTgzMDc3/Mi00MTY5LmpwZWc.jpeg",

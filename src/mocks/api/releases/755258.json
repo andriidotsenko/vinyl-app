@@ -3,20 +3,12 @@
   "artist_id": 37606,
   "artist": "Cat Stevens",
   "title": "Tea For The Tillerman",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Folk Rock",
-    "Acoustic",
-    "Pop Rock"
-  ],
+  "styles": ["Folk Rock", "Acoustic", "Pop Rock"],
   "release_date": "1970-11-00",
   "year": 1970,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/q10JZynCO0nNIm12o_M3ghP6rk7wjNH7uZb6aBsDumY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTI1/OC0xMTk2MTk0MDA0/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/6KSuCG-YHrJ023zoh7sXrU0aNVEHFrmvZTWHu5SVlSc/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NTI1/OC0xMTk2MTk0MDA0/LmpwZWc.jpeg",

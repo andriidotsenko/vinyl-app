@@ -3,19 +3,12 @@
   "artist_id": 592308,
   "artist": "Beach House",
   "title": "Teen Dream",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Indie Rock",
-    "Dream Pop"
-  ],
+  "styles": ["Indie Rock", "Dream Pop"],
   "release_date": "2010-01-26",
   "year": 2010,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/lfA441c0YJPbtQiEW4-cc60flcs4LZdmfw_iKOyLcPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NDMtMTQzMDM5NjE3/NS00MzU5LnBuZw.jpeg",
   "cover_image": "https://i.discogs.com/TD0NVHEXlCqrasK0DF7ci5B2pmYAe58QKEAt5TuVpBk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTE4/NDMtMTQzMDM5NjE3/NS00MzU5LnBuZw.jpeg",

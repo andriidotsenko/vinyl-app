@@ -3,19 +3,12 @@
   "artist_id": 1416238,
   "artist": "The XX",
   "title": "XX",
-  "all_genres": [
-    1,
-    4
-  ],
+  "all_genres": [1, 4],
   "genre": 1,
-  "styles": [
-    "Indie Rock"
-  ],
+  "styles": ["Indie Rock"],
   "release_date": "2009-10-20",
   "year": 2009,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/_91NecB9o19pPq7Cnq47g-U-vYwGaTMb_zeAkrVOs5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYz/ODUtMTMwOTY3Nzk5/Ny5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/H5GYNbsjvaVLqgmLRj1EHtVW6MyJ4FFVtDLMcEHjjrE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYz/ODUtMTMwOTY3Nzk5/Ny5qcGVn.jpeg",

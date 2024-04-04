@@ -3,19 +3,12 @@
   "artist_id": 28972,
   "artist": "The Cure",
   "title": "Disintegration",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "New Wave"
-  ],
+  "styles": ["Alternative Rock", "New Wave"],
   "release_date": "2010-05-21",
   "year": 2010,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/Qt3AmbCNTr6PHPMIvlHu4aZZKbi5LujXR1dh2xaOveA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/MDQtMTI3NDcxNTkw/NS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/uzugQeKYG-LmRGX59JUWcr_XPGzzqBLlIHBHa1RVymI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODk1/MDQtMTI3NDcxNTkw/NS5qcGVn.jpeg",

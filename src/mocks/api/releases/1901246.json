@@ -3,20 +3,12 @@
   "artist_id": 125246,
   "artist": "Nirvana",
   "title": "MTV Unplugged In New York",
-  "all_genres": [
-    4,
-    9
-  ],
+  "all_genres": [4, 9],
   "genre": 4,
-  "styles": [
-    "Acoustic",
-    "Grunge"
-  ],
+  "styles": ["Acoustic", "Grunge"],
   "release_date": "2008",
   "year": 2008,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/mpL1HyOKwWAnjRhBDlqrpW_sGItD8EOo3Qkb2SFXWqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTQ1MTE1Nzg3/Ny01MTEyLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/qjAg7iCF994KkLxePAQAl2oSydAbglykWdVeOgHquZw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDEy/NDYtMTQ1MTE1Nzg3/Ny01MTEyLmpwZWc.jpeg",

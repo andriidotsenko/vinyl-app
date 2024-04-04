@@ -3,18 +3,12 @@
   "artist_id": 7298,
   "artist": "The Stone Roses",
   "title": "The Stone Roses",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Indie Rock"
-  ],
+  "styles": ["Indie Rock"],
   "release_date": "2014-04-00",
   "year": 2014,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/RjN32nMixkR5APTZDmDY7o1vZfNhx63KUJZgFJan2II/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODEw/NzgtMTQyMTE2ODY3/NS04NzkxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/WVsSWYX8zoNLrF_Tbk9kNzJk0WjtBh6WPB5KcdM2zNQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1ODEw/NzgtMTQyMTE2ODY3/NS04NzkxLmpwZWc.jpeg",

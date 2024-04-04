@@ -3,19 +3,12 @@
   "artist_id": 82730,
   "artist": "The Beatles",
   "title": "The Beatles 1962-1966",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Beat",
-    "Pop Rock"
-  ],
+  "styles": ["Beat", "Pop Rock"],
   "release_date": "1976",
   "year": 1976,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/AV4LZNtl8pgk9P3mbggn0j80qLtW-wCmIqy9ViZK9wA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzIz/NDAtMTQ5Nzc5MDUz/Ni01OTUwLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/4KBOH6VUtFt_b-34XGvnCfA4jLasf-vgojYJE955yt0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2MzIz/NDAtMTQ5Nzc5MDUz/Ni01OTUwLmpwZWc.jpeg",

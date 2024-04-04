@@ -3,21 +3,12 @@
   "artist_id": 10263,
   "artist": "David Bowie",
   "title": "Low",
-  "all_genres": [
-    1,
-    4
-  ],
+  "all_genres": [1, 4],
   "genre": 1,
-  "styles": [
-    "Art Rock",
-    "Ambient",
-    "Experimental"
-  ],
+  "styles": ["Art Rock", "Ambient", "Experimental"],
   "release_date": "1977-01-14",
   "year": 1977,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/-AwMz27hG5XohosCpCf2UttrbxrAOEhlJ8_TxayLhtY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjE2/Ni0xMjc1NjI1NjQ5/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/U3pqMqj3_qkfW3A7TSy0MJCOfaPuERLdNEWjjxgFjRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNjE2/Ni0xMjc1NjI1NjQ5/LmpwZWc.jpeg",

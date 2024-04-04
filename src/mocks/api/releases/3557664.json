@@ -3,21 +3,12 @@
   "artist_id": 1677801,
   "artist": "Andrew Lloyd Webber And Tim Rice",
   "title": "Jesus Christ Superstar",
-  "all_genres": [
-    4,
-    6
-  ],
+  "all_genres": [4, 6],
   "genre": 4,
-  "styles": [
-    "Prog Rock",
-    "Classic Rock",
-    "Hard Rock"
-  ],
+  "styles": ["Prog Rock", "Classic Rock", "Hard Rock"],
   "release_date": "1970",
   "year": 1970,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/BdxPMx__3J0jhdqLjvRJJ_PzPJFnSrsLSwfcdRoyGj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTc2/NjQtMTQxMTMzMzg4/OC0yODg5LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/hAIJYwLJGye0wnyfySc8egr5VSl_Q09-KZ1iM5z6mVA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTc2/NjQtMTQxMTMzMzg4/OC0yODg5LmpwZWc.jpeg",

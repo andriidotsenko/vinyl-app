@@ -51,7 +51,8 @@ const MultiSelect = ({
 
   const getOptionNames = () => {
     return selectedOptions.map(
-      (optionId) => options.find((option) => option.id === optionId)?.name || ""
+      (optionId) =>
+        options.find((option) => option.id === optionId)?.title || ""
     );
   };
 
@@ -109,7 +110,7 @@ const MultiSelect = ({
                   checked={selectedOptions.includes(option.id)}
                   onChange={() => toggleOption(option.id)}
                 />
-                <span>{option.name}</span>
+                <span>{option.title}</span>
               </label>
             ))}
           </div>
@@ -124,7 +125,7 @@ MultiSelect.propTypes = {
   options: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,
-      name: PropTypes.string.isRequired,
+      title: PropTypes.string.isRequired,
     })
   ).isRequired,
   value: PropTypes.arrayOf(PropTypes.number),

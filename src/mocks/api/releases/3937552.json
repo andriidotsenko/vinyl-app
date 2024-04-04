@@ -3,19 +3,12 @@
   "artist_id": 1245513,
   "artist": "Tame Impala",
   "title": "Lonerism",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Psychedelic Rock",
-    "Indie Rock"
-  ],
+  "styles": ["Psychedelic Rock", "Indie Rock"],
   "release_date": "2012-10-09",
   "year": 2012,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/UUXXYtYplR48l2LPX55fhT3GZgevkYZqzKgvLyIAYCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjEw/MS00NjUzLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/Zeuz_lOX1s57aDZggyLek7HCGle8sZnPl067GznojCQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mzc1/NTItMTY3MjU5MjEw/MS00NjUzLmpwZWc.jpeg",

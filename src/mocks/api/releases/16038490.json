@@ -3,23 +3,12 @@
   "artist_id": 260575,
   "artist": "Tom Petty",
   "title": "Wildflowers & All The Rest",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Classic Rock",
-    "Folk Rock",
-    "Rock & Roll",
-    "Pop Rock"
-  ],
+  "styles": ["Classic Rock", "Folk Rock", "Rock & Roll", "Pop Rock"],
   "release_date": "2020-10-16",
   "year": 2020,
-  "all_countries": [
-    "uk",
-    "europe",
-    "us"
-  ],
+  "all_countries": ["uk", "europe", "us"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/-XAzpDbqVGT7uQo8Ewjx1kmLAc5Mh5xnwR_cda4imN4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NDkwLTE2MDQ4MDI1/ODYtNTAxOS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/7oHOdHjM1EmkuDGiKSr5tvQz4c0VzoPmka_KI46tKF4/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDM4/NDkwLTE2MDQ4MDI1/ODYtNTAxOS5qcGVn.jpeg",

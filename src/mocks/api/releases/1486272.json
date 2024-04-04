@@ -3,19 +3,12 @@
   "artist_id": 59792,
   "artist": "Bob Dylan",
   "title": "Nashville Skyline",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Folk Rock",
-    "Country Rock"
-  ],
+  "styles": ["Folk Rock", "Country Rock"],
   "release_date": "1969-04-09",
   "year": 1969,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/O68AjbskEnFPVQV2W29y2yjJ7apM4_B9EKul7bP3Ot0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODYy/NzItMTIzNDUxOTQ0/Ny5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/uAFc-3IEkFstC7ya1TxrjVOlLE77glfmCcdbs0Vt8BY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODYy/NzItMTIzNDUxOTQ0/Ny5qcGVn.jpeg",

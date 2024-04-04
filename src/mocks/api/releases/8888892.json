@@ -3,23 +3,12 @@
   "artist_id": 10785,
   "artist": "Angelo Badalamenti",
   "title": "Twin Peaks",
-  "all_genres": [
-    1,
-    8,
-    6
-  ],
+  "all_genres": [1, 8, 6],
   "genre": 1,
-  "styles": [
-    "Soundtrack",
-    "Score",
-    "Ambient"
-  ],
+  "styles": ["Soundtrack", "Score", "Ambient"],
   "release_date": "2016-08-10",
   "year": 2016,
-  "all_countries": [
-    "usa",
-    "canada"
-  ],
+  "all_countries": ["usa", "canada"],
   "country": "usa",
   "thumb_image": "https://i.discogs.com/R_q1wXsT8qxHt8wkaRh-aC7AYOflMWzDgcm1bZdOQQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTYyNjc4ODEw/Ni03NTQ4LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/kSb-ELOINA2XzCQZA01RJ3E-4U-HymFjndGTSB00WCM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4ODg4/OTItMTYyNjc4ODEw/Ni03NTQ4LmpwZWc.jpeg",

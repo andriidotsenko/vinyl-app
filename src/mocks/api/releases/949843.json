@@ -3,18 +3,12 @@
   "artist_id": 94066,
   "artist": "Van Halen",
   "title": "1984",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Hard Rock"
-  ],
+  "styles": ["Hard Rock"],
   "release_date": "1984-01-09",
   "year": 1984,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/l7xjpNG5098uAByNytK1BrDjON5JfAKPpGlRb7cupb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTg0/My0xMzUwOTU4NDY1/LTM4MjMuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/4b75QKNz4kXezgUqSN0J3gRJ3ZefhZC5OX6hOzcV0MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0OTg0/My0xMzUwOTU4NDY1/LTM4MjMuanBlZw.jpeg",

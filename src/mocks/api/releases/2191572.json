@@ -3,19 +3,12 @@
   "artist_id": 8708,
   "artist": "Bonobo",
   "title": "Black Sands",
-  "all_genres": [
-    1
-  ],
+  "all_genres": [1],
   "genre": 1,
-  "styles": [
-    "Downtempo",
-    "Ambient"
-  ],
+  "styles": ["Downtempo", "Ambient"],
   "release_date": "2010-03-29",
   "year": 2010,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/YJnS2B9XUJT1EH7vy-3NewNoR3eT_4swHf75xKXvu7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTE1/NzItMTQxMzg5MDIy/NC05Njc4LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/B9qlwGG0ATq9Pre-kOxiDGJmFTR4FOmLW5nmlJ1eVBk/rs:fit/g:sm/q:90/h:570/w:574/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTE1/NzItMTQxMzg5MDIy/NC05Njc4LmpwZWc.jpeg",

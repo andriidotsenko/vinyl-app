@@ -3,19 +3,12 @@
   "artist_id": 48424,
   "artist": "Aerosmith",
   "title": "\"Rocks\"",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Hard Rock",
-    "Blues Rock"
-  ],
+  "styles": ["Hard Rock", "Blues Rock"],
   "release_date": "1976",
   "year": 1976,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/F396dK7CR-bBgW-MnjaUhxjZsyAfRzuNSdPMdLhyoOY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDQ4/NC0xNTU3NjAzMzE3/LTU4MDMuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/5CwSh2-WOdzPr5Hrfw4HOGD_8C1JlgXX-eoWelw4m_A/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDQ4/NC0xNTU3NjAzMzE3/LTU4MDMuanBlZw.jpeg",

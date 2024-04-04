@@ -3,23 +3,12 @@
   "artist_id": 324293,
   "artist": "Kamasi Washington",
   "title": "The Epic",
-  "all_genres": [
-    8,
-    2
-  ],
+  "all_genres": [8, 2],
   "genre": 8,
-  "styles": [
-    "Fusion",
-    "Contemporary Jazz",
-    "Psychedelic",
-    "Soul-Jazz"
-  ],
+  "styles": ["Fusion", "Contemporary Jazz", "Psychedelic", "Soul-Jazz"],
   "release_date": "2015-10-02",
   "year": 2015,
-  "all_countries": [
-    "usa",
-    "europe"
-  ],
+  "all_countries": ["usa", "europe"],
   "country": "usa",
   "thumb_image": "https://i.discogs.com/N8AIVtUKGagpfgH5R2mN_Y15X0so2R_sQ_EDkMucM2k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTU0MzE1NjU0/Ny01MTc3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/FQknT2LCjlCCqr6kNviLli6SdGU3PjLOA-_iWZQ8Mjk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODM0/OTktMTU0MzE1NjU0/Ny01MTc3LmpwZWc.jpeg",

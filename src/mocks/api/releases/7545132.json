@@ -3,19 +3,12 @@
   "artist_id": 125246,
   "artist": "Nirvana",
   "title": "In Utero",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Grunge",
-    "Alternative Rock"
-  ],
+  "styles": ["Grunge", "Alternative Rock"],
   "release_date": "2015",
   "year": 2015,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/5ZEZw2kpSY4KZF4cZpC5HeKsETCKBKuLly3-9zEGM-Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDUx/MzItMTUyMjg4NzUz/Ny00MDI0LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/mdd2-7WsEbwZGxlIWOIUJWroyNA1weZInDmXomqJLxk/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDUx/MzItMTUyMjg4NzUz/Ny00MDI0LmpwZWc.jpeg",

@@ -3,22 +3,12 @@
   "artist_id": 11136,
   "artist": "Peter Gabriel",
   "title": "So",
-  "all_genres": [
-    1,
-    4,
-    3
-  ],
+  "all_genres": [1, 4, 3],
   "genre": 1,
-  "styles": [
-    "Pop Rock",
-    "Synth-pop",
-    "Art Rock"
-  ],
+  "styles": ["Pop Rock", "Synth-pop", "Art Rock"],
   "release_date": "1986",
   "year": 1986,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/XGDYkseOvi0auaf4NRgEpN9IcxtOk1qHaWnI-VM87KU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjAz/Mi0xNDY1OTA5MTIw/LTU5MDYuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/Op1iGkeUJqRVJFBBl9VdrtQl5SehXFKipHT_GXJMfkA/rs:fit/g:sm/q:90/h:584/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5NjAz/Mi0xNDY1OTA5MTIw/LTU5MDYuanBlZw.jpeg",

@@ -3,20 +3,12 @@
   "artist_id": 307,
   "artist": "Boards Of Canada",
   "title": "Tomorrow's Harvest",
-  "all_genres": [
-    1
-  ],
+  "all_genres": [1],
   "genre": 1,
-  "styles": [
-    "Downtempo",
-    "Ambient",
-    "IDM"
-  ],
+  "styles": ["Downtempo", "Ambient", "IDM"],
   "release_date": "2013-06-10",
   "year": 2013,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/Q76BS_rGNBG0KltRNJ_lQ9rYmpfIqIr1SOAsc9--QLA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDgy/MzEtMTM3MDUzMzI5/Mi00MTA3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/UT-dlMuMHWBIDSLNjvRfzMxDl3hAu3uQ3aGDfXPKMs8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NDgy/MzEtMTM3MDUzMzI5/Mi00MTA3LmpwZWc.jpeg",

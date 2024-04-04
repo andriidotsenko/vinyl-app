@@ -3,19 +3,12 @@
   "artist_id": 100752,
   "artist": "2Pac",
   "title": "All Eyez On Me",
-  "all_genres": [
-    5
-  ],
+  "all_genres": [5],
   "genre": 5,
-  "styles": [
-    "Gangsta",
-    "G-Funk"
-  ],
+  "styles": ["Gangsta", "G-Funk"],
   "release_date": "2001-05-22",
   "year": 2001,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/FcqNuNfRfjOuMG19v_SMA7WISHQzhEOqEhm-GqQ-3vQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/MDUtMTYzOTA0MjY5/Ni01NDIxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/PnszeAPOw97Cd3RmJvIo3zKNOPFMx01DhJXqBiusDco/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTg2/MDUtMTYzOTA0MjY5/Ni01NDIxLmpwZWc.jpeg",

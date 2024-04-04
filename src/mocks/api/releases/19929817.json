@@ -3,23 +3,12 @@
   "artist_id": 7592689,
   "artist": "Olivia Rodrigo",
   "title": "Sour",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Power Pop",
-    "Pop Punk",
-    "Acoustic",
-    "Ballad"
-  ],
+  "styles": ["Power Pop", "Pop Punk", "Acoustic", "Ballad"],
   "release_date": "2021-08-20",
   "year": 2021,
-  "all_countries": [
-    "usa",
-    "canada"
-  ],
+  "all_countries": ["usa", "canada"],
   "country": "usa",
   "thumb_image": "https://i.discogs.com/Z_ZnmEQplwVBUXQdjpe3vtsPIzt8CjXa2Ot66DEOo0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI5/ODE3LTE2Mjk0OTQz/ODItNDE5My5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/wgjPzjsTiK4BlHvZNIy14XPoQ0IN7T1AxNOCX_8rW1U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5OTI5/ODE3LTE2Mjk0OTQz/ODItNDE5My5qcGVn.jpeg",

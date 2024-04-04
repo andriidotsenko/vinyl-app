@@ -3,9 +3,7 @@
   "artist_id": 138556,
   "artist": "Neil Young",
   "title": "Rust Never Sleeps",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
   "styles": [
     "Acoustic",
@@ -16,9 +14,7 @@
   ],
   "release_date": "1979",
   "year": 1979,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/b9zKEDWoGfMy4YUvC4kne0Rc9sTyd3stVMinoPmSbas/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDE0/My0xNDk4Nzg3OTc4/LTY5NzcuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/vuwOzYhanFLjB4lv0Sm9hE_kB7rHE4dEuCHlCS0cSO0/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0NDE0/My0xNDk4Nzg3OTc4/LTY5NzcuanBlZw.jpeg",

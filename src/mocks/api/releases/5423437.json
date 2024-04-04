@@ -3,21 +3,12 @@
   "artist_id": 3928,
   "artist": "Beck",
   "title": "Morning Phase",
-  "all_genres": [
-    4,
-    3,
-    7
-  ],
+  "all_genres": [4, 3, 7],
   "genre": 4,
-  "styles": [
-    "Folk",
-    "Alternative Rock"
-  ],
+  "styles": ["Folk", "Alternative Rock"],
   "release_date": "2014-02-25",
   "year": 2014,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/ydPArfBXjO8y24_jvxO4KyCdPOiccvgHXTE05lREv1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM0/MzctMTY3MTkwNTM2/OS02NzI3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/RBdEFIv5-hyOdZ33-K_grYRtkDymmpedSJsPRAs0uOI/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MjM0/MzctMTY3MTkwNTM2/OS02NzI3LmpwZWc.jpeg",

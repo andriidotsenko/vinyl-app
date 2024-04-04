@@ -3,19 +3,12 @@
   "artist_id": 81013,
   "artist": "Queen",
   "title": "Greatest Hits II",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Arena Rock",
-    "Pop Rock"
-  ],
+  "styles": ["Arena Rock", "Pop Rock"],
   "release_date": "2016-11-18",
   "year": 2016,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/tbsRzQC1oZe0R6uMmb2UxhlKJmHLc0nerzmwYlg388g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzA3/MTAtMTQ4MzE4MTQ0/Ni00NTgxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/KOoN3wyTCxts-Br8FLA9DzRrhIxxunwSX9BD8LR4xKk/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzA3/MTAtMTQ4MzE4MTQ0/Ni00NTgxLmpwZWc.jpeg",

@@ -3,20 +3,12 @@
   "artist_id": 1124645,
   "artist": "Taylor Swift",
   "title": "Fearless (Taylor's Version)",
-  "all_genres": [
-    3,
-    7
-  ],
+  "all_genres": [3, 7],
   "genre": 3,
-  "styles": [
-    "Country",
-    "Vocal"
-  ],
+  "styles": ["Country", "Vocal"],
   "release_date": "2021-10-01",
   "year": 2021,
-  "all_countries": [
-    "worldwide"
-  ],
+  "all_countries": ["worldwide"],
   "country": "worldwide",
   "thumb_image": "https://i.discogs.com/74xkLSu_WH7IYXRWrTeJVRfzn9brFwUODJ8DEIvyW34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE0/ODEyLTE2NDUzNzQ4/NTctNTg3Ni5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/1O38RhEPWpgHcIks_MZYU1Tb_jGxTGnSeFXRFSMQOGk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDE0/ODEyLTE2NDUzNzQ4/NTctNTg3Ni5qcGVn.jpeg",

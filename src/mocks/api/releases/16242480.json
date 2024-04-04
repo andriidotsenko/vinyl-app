@@ -3,23 +3,12 @@
   "artist_id": 1124645,
   "artist": "Taylor Swift",
   "title": "Folklore",
-  "all_genres": [
-    4,
-    3,
-    7
-  ],
+  "all_genres": [4, 3, 7],
   "genre": 4,
-  "styles": [
-    "Vocal",
-    "Indie Pop",
-    "Indie Rock",
-    "Ballad"
-  ],
+  "styles": ["Vocal", "Indie Pop", "Indie Rock", "Ballad"],
   "release_date": "2020-11-20",
   "year": 2020,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/-klny1qhJUf6q62EIlOrZVwbVKX1ARNqZ25nz7nnXBw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQy/NDgwLTE2MDk2OTc3/MTAtMTU5Ny5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/u7VN3zk_KheHoxzH8C9_Yn5T_TpFDIOwD83-aLf2PAQ/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjQy/NDgwLTE2MDk2OTc3/MTAtMTU5Ny5qcGVn.jpeg",

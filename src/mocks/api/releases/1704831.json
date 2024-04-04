@@ -3,19 +3,12 @@
   "artist_id": 175395,
   "artist": "Pearl Jam",
   "title": "Ten",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "Grunge"
-  ],
+  "styles": ["Alternative Rock", "Grunge"],
   "release_date": "2009",
   "year": 2009,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/nrK93p21Uhj9maEBgIX1n7gLQAcDY-pSbQn2pj0o0h0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ4/MzEtMTM5NjYwMjkx/OC01ODU2LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/K8xh5anlMjmnfp0N1Bh2TYuv_W0xvwH9MYUOoCNBFSA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDQ4/MzEtMTM5NjYwMjkx/OC01ODU2LmpwZWc.jpeg",

@@ -1,10 +1,12 @@
 import { useState } from "react";
 import { useCountriesList } from "./useCountriesList";
-import { useGenreList } from "./useGenreList";
+import { useGenreListAsync } from "./useGenreListAsync";
 
 export const useVinylCardList = () => {
   const countries = useCountriesList();
-  const genreList = useGenreList();
+
+  const { data: genreList } = useGenreListAsync();
+
   const [vinylCardList] = useState([
     {
       id: 1,
@@ -15,7 +17,7 @@ export const useVinylCardList = () => {
       title: "Californication",
       artist: "Red Hot Chili Peppers",
       year: 1999,
-      genreId: 1, // Rock
+      genreId: 1,
       country: "USA",
     },
     {
@@ -27,7 +29,7 @@ export const useVinylCardList = () => {
       title: "Stadium Arcadium",
       artist: "Red Hot Chili Peppers",
       year: 2006,
-      genreId: 1, // Rock
+      genreId: 2,
       country: "USA",
     },
     {
@@ -39,7 +41,7 @@ export const useVinylCardList = () => {
       title: "Oracular Spectacular",
       artist: "MGMT",
       year: 2007,
-      genreId: 2, // Pop
+      genreId: 3,
       country: "USA",
     },
     {
@@ -51,7 +53,7 @@ export const useVinylCardList = () => {
       title: "The Wrong Side of Heaven",
       artist: "Five Finger Death Punch",
       year: 2013,
-      genreId: 1, // Rock
+      genreId: 4,
       country: "USA",
     },
     {
@@ -63,7 +65,7 @@ export const useVinylCardList = () => {
       title: "Demon Days",
       artist: "Gorillaz",
       year: 2005,
-      genreId: 2, // Pop
+      genreId: 5,
       country: "United Kingdom",
     },
     {
@@ -75,7 +77,7 @@ export const useVinylCardList = () => {
       title: "Origin of Symmetry",
       artist: "Muse",
       year: 2001,
-      genreId: 1, // Rock
+      genreId: 6,
       country: "United Kingdom",
     },
     {
@@ -87,7 +89,7 @@ export const useVinylCardList = () => {
       title: "And Justice for None",
       artist: "Five Finger Death Punch",
       year: 2018,
-      genreId: 1, // Rock
+      genreId: 7,
       country: "USA",
     },
     {
@@ -99,7 +101,7 @@ export const useVinylCardList = () => {
       title: "Woodstock",
       artist: "Portugal. The Man",
       year: 2017,
-      genreId: 1, // Rock
+      genreId: 8,
       country: "USA",
     },
     {
@@ -111,7 +113,7 @@ export const useVinylCardList = () => {
       title: "The Resistance",
       artist: "Muse",
       year: 2009,
-      genreId: 1, // Rock
+      genreId: 9,
       country: "United Kingdom",
     },
     {
@@ -123,7 +125,7 @@ export const useVinylCardList = () => {
       title: "Little Dark Age",
       artist: "MGMT",
       year: 2018,
-      genreId: 3, // Electronic
+      genreId: 10,
       country: "USA",
     },
     {
@@ -135,7 +137,7 @@ export const useVinylCardList = () => {
       title: "Prequelle",
       artist: "Ghost",
       year: 2018,
-      genreId: 1, // Rock
+      genreId: 11,
       country: "Sweden",
     },
     {
@@ -147,7 +149,7 @@ export const useVinylCardList = () => {
       title: "The English Riviera",
       artist: "Metronomy",
       year: 2011,
-      genreId: 2, // Pop
+      genreId: 12,
       country: "United Kingdom",
     },
     {
@@ -159,7 +161,7 @@ export const useVinylCardList = () => {
       title: "Without You I'm Nothing",
       artist: "Placebo",
       year: 1998,
-      genreId: 1, // Rock
+      genreId: 1,
       country: "United Kingdom",
     },
     {
@@ -171,7 +173,7 @@ export const useVinylCardList = () => {
       title: "OK Computer",
       artist: "Radiohead",
       year: 1997,
-      genreId: 1, // Rock
+      genreId: 2,
       country: "United Kingdom",
     },
     {
@@ -183,7 +185,7 @@ export const useVinylCardList = () => {
       title: "An Awesome Wave",
       artist: "alt-J",
       year: 2012,
-      genreId: 3, // Electronic
+      genreId: 3,
       country: "United Kingdom",
     },
     {
@@ -195,7 +197,7 @@ export const useVinylCardList = () => {
       title: "Plural",
       artist: "Electric Guest",
       year: 2017,
-      genreId: 2, // Pop
+      genreId: 4,
       country: "USA",
     },
     {
@@ -207,7 +209,7 @@ export const useVinylCardList = () => {
       title: "Enema of the State",
       artist: "blink-182",
       year: 1999,
-      genreId: 1, // Rock
+      genreId: 6,
       country: "USA",
     },
     {
@@ -219,152 +221,8 @@ export const useVinylCardList = () => {
       title: "Turn On the Bright Lights",
       artist: "Interpol",
       year: 2002,
-      genreId: 1, // Rock
+      genreId: 7,
       country: "USA",
-    },
-    {
-      id: 19,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "Unknown Pleasures",
-      artist: "Joy Division",
-      year: 1979,
-      genreId: 4, // Post-Punk
-      country: "United Kingdom",
-    },
-    {
-      id: 20,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "Currents",
-      artist: "Tame Impala",
-      year: 2015,
-      genreId: 3, // Electronic
-      country: "Australia",
-    },
-    {
-      id: 21,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "Random Access Memories",
-      artist: "Daft Punk",
-      year: 2013,
-      genreId: 3, // Electronic
-      country: "France",
-    },
-    {
-      id: 22,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "The Suburbs",
-      artist: "Arcade Fire",
-      year: 2010,
-      genreId: 1, // Rock
-      country: "Canada",
-    },
-    {
-      id: 23,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "AM",
-      artist: "Arctic Monkeys",
-      year: 2013,
-      genreId: 1, // Rock
-      country: "United Kingdom",
-    },
-    {
-      id: 24,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "Is This It",
-      artist: "The Strokes",
-      year: 2001,
-      genreId: 1, // Rock
-      country: "USA",
-    },
-    {
-      id: 25,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "Flying Microtonal Banana",
-      artist: "King Gizzard & The Lizard Wizard",
-      year: 2017,
-      genreId: 1, // Rock
-      country: "Australia",
-    },
-    {
-      id: 26,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "Melophobia",
-      artist: "Cage The Elephant",
-      year: 2013,
-      genreId: 1, // Rock
-      country: "USA",
-    },
-    {
-      id: 27,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "Melodrama",
-      artist: "Lorde",
-      year: 2017,
-      genreId: 2, // Pop
-      country: "New Zealand",
-    },
-    {
-      id: 28,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "Ghost Stories",
-      artist: "Coldplay",
-      year: 2014,
-      genreId: 2, // Pop
-      country: "United Kingdom",
-    },
-    {
-      id: 29,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "American Idiot",
-      artist: "Green Day",
-      year: 2004,
-      genreId: 1, // Rock
-      country: "USA",
-    },
-    {
-      id: 30,
-      image: {
-        normal: "/content/image_bg.jpg",
-        double: "/content/image_bg.jpg",
-      },
-      title: "Funeral",
-      artist: "Arcade Fire",
-      year: 2004,
-      genreId: 1, // Rock
-      country: "Canada",
     },
   ]);
 
@@ -373,7 +231,7 @@ export const useVinylCardList = () => {
       countries.find((country) => country.id === vinyl.country)?.name ??
       "Unknown";
     const genre =
-      genreList.find((genre) => genre.id === vinyl.genreId)?.name ?? "Unknown";
+      genreList.find((genre) => genre.id === vinyl.genreId)?.title ?? "Unknown";
 
     return {
       ...vinyl,

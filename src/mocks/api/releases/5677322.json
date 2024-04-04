@@ -3,19 +3,12 @@
   "artist_id": 258372,
   "artist": "The Black Keys",
   "title": "Turn Blue",
-  "all_genres": [
-    4,
-    9
-  ],
+  "all_genres": [4, 9],
   "genre": 4,
-  "styles": [
-    "Alternative Rock"
-  ],
+  "styles": ["Alternative Rock"],
   "release_date": "2014-05-09",
   "year": 2014,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/R3qTscq6T7tWxeuK52AYwoUPoKJJ2b219AHi-wecc_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzcz/MjItMTQ4ODk5NjI2/NS00ODE0LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/x9VYx5YZr_RNBOFuDfaU5oidheAn4eboyB00hP8U6wM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2Nzcz/MjItMTQ4ODk5NjI2/NS00ODE0LmpwZWc.jpeg",

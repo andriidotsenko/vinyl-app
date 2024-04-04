@@ -3,21 +3,12 @@
   "artist_id": 120232,
   "artist": "Janis Joplin",
   "title": "Pearl",
-  "all_genres": [
-    4,
-    2
-  ],
+  "all_genres": [4, 2],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Classic Rock",
-    "Soul"
-  ],
+  "styles": ["Blues Rock", "Classic Rock", "Soul"],
   "release_date": "1971",
   "year": 1971,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/lAbGJu7LwxWzqIp_8Ssl5NZa7rd9kdcgM2lhAnkLYvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTA3/Ny0xMzA3ODgyOTc5/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/R-CwmXzYXL2SxxADfYuSOvlccWkUfgHt1zJW1FCMV4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2OTA3/Ny0xMzA3ODgyOTc5/LmpwZWc.jpeg",

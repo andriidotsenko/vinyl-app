@@ -3,19 +3,12 @@
   "artist_id": 34278,
   "artist": "Led Zeppelin",
   "title": "Physical Graffiti",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Classic Rock",
-    "Hard Rock"
-  ],
+  "styles": ["Classic Rock", "Hard Rock"],
   "release_date": "1975-02-24",
   "year": 1975,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/SKw1lnsi-H8T26-SH3yWg3sJxGdh0RrEcOnWHrTFL3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODkz/OS0xNTg4ODgxMTUx/LTE5OTUuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/x3ZpnVYVFbxLgfbyGkI5YJd8ySOeh9uUaHxOHr9uaZ4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1ODkz/OS0xNTg4ODgxMTUx/LTE5OTUuanBlZw.jpeg",

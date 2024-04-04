@@ -3,25 +3,12 @@
   "artist_id": 365248,
   "artist": "Flying Lotus",
   "title": "You're Dead!",
-  "all_genres": [
-    1,
-    5,
-    8
-  ],
+  "all_genres": [1, 5, 8],
   "genre": 1,
-  "styles": [
-    "Future Jazz",
-    "Experimental",
-    "Drum n Bass",
-    "Jazzy Hip-Hop"
-  ],
+  "styles": ["Future Jazz", "Experimental", "Drum n Bass", "Jazzy Hip-Hop"],
   "release_date": "2014-10-06",
   "year": 2014,
-  "all_countries": [
-    "uk",
-    "europe",
-    "us"
-  ],
+  "all_countries": ["uk", "europe", "us"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/GKyWxcQ1umGz2iZKhE8DbdYrcJ859CoZwbbi9hP1YVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODk0/NTUtMTQxMzYyNzU5/OS0xMDA3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/XrfekJEejBwdWz_Ebatws3hOrVV-4qLhXuc1IGlkxX4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwODk0/NTUtMTQxMzYyNzU5/OS0xMDA3LmpwZWc.jpeg",

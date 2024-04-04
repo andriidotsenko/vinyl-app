@@ -3,18 +3,12 @@
   "artist_id": 255680,
   "artist": "Eagles",
   "title": "Their Greatest Hits 1971-1975",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Classic Rock"
-  ],
+  "styles": ["Classic Rock"],
   "release_date": "1976",
   "year": 1976,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/6Uk2lUr5VxfBqCDiTfd6s0JuZ_dJjqMwkPZjLxVsmmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU4/NzUtMTM2NTM4NDEx/Ny01NjM5LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/MbeKggupL5JQgJxVgVOG-TaS1tpyi_iLiwmgttM8PSc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NjU4/NzUtMTM2NTM4NDEx/Ny01NjM5LmpwZWc.jpeg",

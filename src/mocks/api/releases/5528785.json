@@ -3,18 +3,12 @@
   "artist_id": 1638200,
   "artist": "Freddie Gibbs",
   "title": "Piñata",
-  "all_genres": [
-    5
-  ],
+  "all_genres": [5],
   "genre": 5,
-  "styles": [
-    "Gangsta"
-  ],
+  "styles": ["Gangsta"],
   "release_date": "2014-03-18",
   "year": 2014,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/CAU62X6P3Ig4iX8Lklhdwmya2CU3gG2Lcx3JSjS6PQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjg3/ODUtMTYyNDQxNDI5/MS0zNjUyLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/1NtoCx5M3thGb59-OohGG-pfdh9MjQSt8gnDYwzRRd4/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mjg3/ODUtMTYyNDQxNDI5/MS0zNjUyLmpwZWc.jpeg",

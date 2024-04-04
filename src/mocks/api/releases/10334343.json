@@ -3,20 +3,12 @@
   "artist_id": 82730,
   "artist": "The Beatles",
   "title": "Sgt. Pepper's Lonely Hearts Club Band",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Rock & Roll",
-    "Psychedelic Rock"
-  ],
+  "styles": ["Rock & Roll", "Psychedelic Rock"],
   "release_date": "2017-05-26",
   "year": 2017,
-  "all_countries": [
-    "worldwide"
-  ],
+  "all_countries": ["worldwide"],
   "country": "worldwide",
   "thumb_image": "https://i.discogs.com/Lrk6NR-dlFDJpq0-tIsUrxpK6rnm1vMvDddrIjKZo_k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTU1MTAw/MzktNTQzMS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/ueIVDi0etVgQGQiIcgA0TEigSQ3-si73hY1bbYOb5HI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMzM0/MzQzLTE0OTU1MTAw/MzktNTQzMS5qcGVn.jpeg",

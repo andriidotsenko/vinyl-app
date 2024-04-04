@@ -3,20 +3,12 @@
   "artist_id": 291337,
   "artist": "Jim Croce",
   "title": "Photographs & Memories (His Greatest Hits)",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Country Rock",
-    "Pop Rock"
-  ],
+  "styles": ["Country Rock", "Pop Rock"],
   "release_date": "1974",
   "year": 1974,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/VfNsAVOxd2F0ENGJXI8cPMVse_gq_1pDNpG86t06qiI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM5/Ny0xNDA3MTMwMjA0/LTcyNDMuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/XagRX9Q7SIe-iLLwhaJ__2p6fSQqRBYQOYMRveQ4FIA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM5/Ny0xNDA3MTMwMjA0/LTcyNDMuanBlZw.jpeg",

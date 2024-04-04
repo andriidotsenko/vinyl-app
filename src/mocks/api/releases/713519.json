@@ -3,20 +3,12 @@
   "artist_id": 268583,
   "artist": "Boz Scaggs",
   "title": "Silk Degrees",
-  "all_genres": [
-    4,
-    2
-  ],
+  "all_genres": [4, 2],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Soul"
-  ],
+  "styles": ["Pop Rock", "Soul"],
   "release_date": "1976-02-00",
   "year": 1976,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/Eq1Ft0HZvm0vic5xLDsXurMIK2ttcM_irfqs07OVIRo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzUx/OS0xNDM2MTk5MjMy/LTc4MDAuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/7NR9yUK4qA-oMevkZR1x7XLrgi8tCdyiNOzCSaEaCnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxMzUx/OS0xNDM2MTk5MjMy/LTc4MDAuanBlZw.jpeg",

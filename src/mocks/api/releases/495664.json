@@ -3,18 +3,12 @@
   "artist_id": 45467,
   "artist": "Pink Floyd",
   "title": "Animals",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Prog Rock"
-  ],
+  "styles": ["Prog Rock"],
   "release_date": "1977-01-00",
   "year": 1977,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/T_lhMehc5G9bP85V6P46h5l_CRN5rFuMEZkh0CyIysc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xNDQ5Mjc5Mzc4/LTk5OTUuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/2h61UntFshYnWrsohPtMyt3WYINhRg3MQYZi3r4ExSg/rs:fit/g:sm/q:90/h:605/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5NTY2/NC0xNDQ5Mjc5Mzc4/LTk5OTUuanBlZw.jpeg",

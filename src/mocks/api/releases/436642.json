@@ -3,21 +3,12 @@
   "artist_id": 47333,
   "artist": "Fleetwood Mac",
   "title": "Tango In The Night",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Classic Rock"
-  ],
+  "styles": ["Pop Rock", "Classic Rock"],
   "release_date": "1987",
   "year": 1987,
-  "all_countries": [
-    "uk",
-    "europe"
-  ],
+  "all_countries": ["uk", "europe"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/cRWlpoKKTDUql_3R0-sJeju8YUgGivZ_cY_cUjGGZR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjY0/Mi0xMzgyOTAxMzAw/LTIyMjIuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/s9GptxJtkKuWVrmC5uIaLQqA1-fNuU2HN23nSOB2fr0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjY0/Mi0xMzgyOTAxMzAw/LTIyMjIuanBlZw.jpeg",

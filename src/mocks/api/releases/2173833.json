@@ -3,19 +3,12 @@
   "artist_id": 252434,
   "artist": "Neutral Milk Hotel",
   "title": "In The Aeroplane Over The Sea",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Indie Rock",
-    "Lo-Fi"
-  ],
+  "styles": ["Indie Rock", "Lo-Fi"],
   "release_date": "2009-11-03",
   "year": 2009,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/HGmtFu6iN-2TD1NPSo5-BcQdlPeqL73_NktnAS2Vi7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM4/MzMtMTY0MDYwNzUx/Mi0zNTAxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/WoR2D9WPuRKT6IlKYFQjKWOsV_Jiakk2J2zUV5bsyoI/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzM4/MzMtMTY0MDYwNzUx/Mi0zNTAxLmpwZWc.jpeg",

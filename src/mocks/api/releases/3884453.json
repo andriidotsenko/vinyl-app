@@ -3,21 +3,12 @@
   "artist_id": 15885,
   "artist": "Michael Jackson",
   "title": "Thriller",
-  "all_genres": [
-    2,
-    3
-  ],
+  "all_genres": [2, 3],
   "genre": 2,
-  "styles": [
-    "Funk",
-    "Disco",
-    "Soul"
-  ],
+  "styles": ["Funk", "Disco", "Soul"],
   "release_date": "1982",
   "year": 1982,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/ffBVEcM6YA0I-vWByHlmHygdOgKiJXc3DhIUNDvr4QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODQ0/NTMtMTU3OTQ3MTY0/My04NDkxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/CRhTvY0ZPf14Z0CCv32aVcH-OUKQ_gd7a4Q4oV3Lt0s/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4ODQ0/NTMtMTU3OTQ3MTY0/My04NDkxLmpwZWc.jpeg",

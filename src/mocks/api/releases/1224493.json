@@ -3,19 +3,12 @@
   "artist_id": 137418,
   "artist": "Billy Joel",
   "title": "52nd Street",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Soft Rock"
-  ],
+  "styles": ["Pop Rock", "Soft Rock"],
   "release_date": "1978",
   "year": 1978,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/NDTVFW2uH-yScQQ5w2q8xhGVCvINi0Audn6TcnKCLqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQ0/OTMtMTM2NTM2NDU5/NS01OTQ5LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/rbC79FkUwz_-fjgB2ugMBPvnIFbDB3-TJfWwOZQ1sTw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjQ0/OTMtMTM2NTM2NDU5/NS01OTQ5LmpwZWc.jpeg",

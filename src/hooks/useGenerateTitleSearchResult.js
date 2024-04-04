@@ -1,15 +1,27 @@
-import { useGenreList } from "./useGenreList";
+import { useGenreListAsync } from "./useGenreListAsync";
 import { useCountriesList } from "./useCountriesList";
 import { useDecadeList } from "./useDecadeList";
+import { useMemo } from "react";
 
 const useGenerateTitleSearchResult = (filters) => {
-  const genres = useGenreList();
+  const genres = useGenreListAsync();
   const countries = useCountriesList();
   const decades = useDecadeList();
 
-  const genreName = genres.find((genre) => genre.id === +filters.genre)?.name;
-  const countryName = countries.find((c) => c.id === filters.country)?.name;
-  const decadeName = decades.find((d) => d.id === +filters.decade)?.name;
+  const genreName = useMemo(() => {
+    if (!Array.isArray(genres)) return ""; // Handle non-array case
+    return genres.find((genre) => genre.id === +filters.genre)?.title;
+  }, [filters.genre, genres]);
+
+  const countryName = useMemo(() => {
+    if (!Array.isArray(countries)) return ""; // Handle non-array case
+    return countries.find((c) => c.id === filters.country)?.name;
+  }, [filters.country, countries]);
+
+  const decadeName = useMemo(() => {
+    if (!Array.isArray(decades)) return ""; // Handle non-array case
+    return decades.find((d) => d.id === +filters.decade)?.name;
+  }, [filters.decade, decades]);
 
   const titleParts = [];
 

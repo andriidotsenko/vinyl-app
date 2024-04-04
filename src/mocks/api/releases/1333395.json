@@ -3,20 +3,12 @@
   "artist_id": 760706,
   "artist": "Bruce Springsteen & The E-Street Band",
   "title": "Live / 1975-85",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Soft Rock",
-    "Pop Rock",
-    "Classic Rock"
-  ],
+  "styles": ["Soft Rock", "Pop Rock", "Classic Rock"],
   "release_date": "1986",
   "year": 1986,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/jzw6ht6kpJ7nvZAcyH6DtC7GQNb3TsEFCpkdc4Bxu_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMz/OTUtMTM4MTEwMTYz/OS05Njk0LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/ZoUYpc-uuol34FMI5tyEl7LS3chcucvl-sScTwYzq4E/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzMz/OTUtMTM4MTEwMTYz/OS05Njk0LmpwZWc.jpeg",

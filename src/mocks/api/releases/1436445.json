@@ -3,20 +3,12 @@
   "artist_id": 82730,
   "artist": "The Beatles",
   "title": "The Beatles",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Psychedelic Rock",
-    "Pop Rock"
-  ],
+  "styles": ["Psychedelic Rock", "Pop Rock"],
   "release_date": "1968",
   "year": 1968,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/4zlNs4yfuqu23zZf0TSE_zd3GzDmpPpqaGDDwIKl0_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzY0/NDUtMTIzMzY5Nzgx/Ny5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/gOfsu0ld4NfpUoE9c5qO3-Uqx-mWjTv-YGud-LyTUFI/rs:fit/g:sm/q:90/h:464/w:465/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MzY0/NDUtMTIzMzY5Nzgx/Ny5qcGVn.jpeg",

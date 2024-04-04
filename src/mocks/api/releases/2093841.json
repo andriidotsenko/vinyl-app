@@ -3,19 +3,12 @@
   "artist_id": 281232,
   "artist": "Arcade Fire",
   "title": "Funeral",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "Indie Rock"
-  ],
+  "styles": ["Alternative Rock", "Indie Rock"],
   "release_date": "2009-12-15",
   "year": 2009,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/8MpEGb5pZln4GmNDdQF2g7fHB2oTBlD7mjf6F7Ex-3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTQ4OTMzMTQ3/MC03Mzk0LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/2QYKXTbSSX6I5ofBITStYgX-KwETaqQha5lRPy0Pdfc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwOTM4/NDEtMTQ4OTMzMTQ3/MC03Mzk0LmpwZWc.jpeg",

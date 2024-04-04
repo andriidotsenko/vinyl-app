@@ -3,21 +3,12 @@
   "artist_id": 82730,
   "artist": "The Beatles",
   "title": "Sgt. Pepper's Lonely Hearts Club Band",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Rock & Roll",
-    "Psychedelic Rock",
-    "Pop Rock"
-  ],
+  "styles": ["Rock & Roll", "Psychedelic Rock", "Pop Rock"],
   "release_date": "1967-05-26",
   "year": 1967,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/yMOquuo1pA3YPBLV0fWRthm3uh0cVUJGCKb6UElhbLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ5/Ny0xNDU2MDQ3Mzgz/LTk0ODkuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/JNbAKGFjLM_LrPZVRlNtWlYTgpUwXTZcqbC5okuCP-M/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5OTQ5/Ny0xNDU2MDQ3Mzgz/LTk0ODkuanBlZw.jpeg",

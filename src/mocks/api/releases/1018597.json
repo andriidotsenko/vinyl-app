@@ -3,22 +3,12 @@
   "artist_id": 252102,
   "artist": "Creedence Clearwater Revival",
   "title": "Cosmo's Factory",
-  "all_genres": [
-    4,
-    9
-  ],
+  "all_genres": [4, 9],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Rock & Roll",
-    "Southern Rock",
-    "Classic Rock"
-  ],
+  "styles": ["Blues Rock", "Rock & Roll", "Southern Rock", "Classic Rock"],
   "release_date": "1970-07-00",
   "year": 1970,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/M-3sN5Fsjua09jsKhu-oS7xTbM0T0dD8uIZB59VcBLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg1/OTctMTIxMTk4MjMy/My5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/WWm1HQB-5T9IQxF4InwI3o0EGkGG93cCqsJYtqlY37E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTg1/OTctMTIxMTk4MjMy/My5qcGVn.jpeg",

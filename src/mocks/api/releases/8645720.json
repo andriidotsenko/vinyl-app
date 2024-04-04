@@ -3,22 +3,12 @@
   "artist_id": 70829,
   "artist": "The Beach Boys",
   "title": "Pet Sounds",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Art Rock",
-    "Surf",
-    "Psychedelic Rock"
-  ],
+  "styles": ["Pop Rock", "Art Rock", "Surf", "Psychedelic Rock"],
   "release_date": "2016-06-10",
   "year": 2016,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/KtBfEcuBIh6mCeyKYi2T0su4w50ZapgAwYJcVZXf8q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDU3/MjAtMTUwNTQxMTQ1/My03MTM3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/VDbRNf7Cf5uJHQTrimMhIsLRQnr1lh2ytydU9C_98QY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2NDU3/MjAtMTUwNTQxMTQ1/My03MTM3LmpwZWc.jpeg",

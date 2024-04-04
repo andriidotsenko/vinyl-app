@@ -3,18 +3,12 @@
   "artist_id": 34278,
   "artist": "Led Zeppelin",
   "title": "Houses Of The Holy",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Classic Rock"
-  ],
+  "styles": ["Classic Rock"],
   "release_date": "2014-10-24",
   "year": 2014,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/D1tQq21Iyp0OLcyumit_UTynBovZ3FkNBOdwsFgAhps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ0/NDEtMTQxNzAxNTI2/MS0yNzk1LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/4bUNIR1eIokPjt8OXFWKJNmN2tBoxYunP4rQSYbrfmI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMjQ0/NDEtMTQxNzAxNTI2/MS0yNzk1LmpwZWc.jpeg",

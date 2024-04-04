@@ -3,19 +3,12 @@
   "artist_id": 1567405,
   "artist": "Mumford & Sons",
   "title": "Sigh No More",
-  "all_genres": [
-    7
-  ],
+  "all_genres": [7],
   "genre": 7,
-  "styles": [
-    "Bluegrass",
-    "Folk"
-  ],
+  "styles": ["Bluegrass", "Folk"],
   "release_date": "2009",
   "year": 2009,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/dJDOTcl3prYkdTr8qsh1f9FVZhDBmbfVjsyl9sh6ZyI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjUz/NTktMTI4ODQ0NDA3/My5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/owDmA1HhID9HEnAVti5M3MyKuZE5z7CNGRV5tyGQ0BE/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNjUz/NTktMTI4ODQ0NDA3/My5qcGVn.jpeg",

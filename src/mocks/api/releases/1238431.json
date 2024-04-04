@@ -3,19 +3,12 @@
   "artist_id": 124535,
   "artist": "Guns N' Roses",
   "title": "Appetite For Destruction",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Hard Rock",
-    "Rock & Roll"
-  ],
+  "styles": ["Hard Rock", "Rock & Roll"],
   "release_date": "1987",
   "year": 1987,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/INFB5FOn4208EXbzp9ggR22ufKHqJpKPLb3v4zh9NXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzEtMTUwNjg3NjU3/My05NTQ5LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/7DxQqrNfuqPQ7WrrtvJ_oIxJe3X6Sg86tnYmHRIrzIU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/MzEtMTUwNjg3NjU3/My05NTQ5LmpwZWc.jpeg",

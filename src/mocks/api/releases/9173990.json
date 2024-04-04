@@ -3,20 +3,12 @@
   "artist_id": 10783,
   "artist": "Beastie Boys",
   "title": "Licensed To Ill",
-  "all_genres": [
-    5,
-    4
-  ],
+  "all_genres": [5, 4],
   "genre": 5,
-  "styles": [
-    "Cut-up/DJ",
-    "Hard Rock"
-  ],
+  "styles": ["Cut-up/DJ", "Hard Rock"],
   "release_date": "2016-10-14",
   "year": 2016,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/hVdiF1EbHiq3OQ_wBX2iz4m0CwnoLCWy98P8rjer0Xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/My02MDAxLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/D1egauX30OUM3xE6_oFg2cFryGJo1MLDXl5lVLwjt4Q/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNzM5/OTAtMTQ3Njg5MzUw/My02MDAxLmpwZWc.jpeg",

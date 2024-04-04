@@ -3,19 +3,12 @@
   "artist_id": 391170,
   "artist": "Arctic Monkeys",
   "title": "Whatever People Say I Am, That's What I'm Not",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Indie Rock"
-  ],
+  "styles": ["Indie Rock"],
   "release_date": "2006-01-23",
   "year": 2006,
-  "all_countries": [
-    "uk",
-    "europe"
-  ],
+  "all_countries": ["uk", "europe"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/P-dGTjhMh5-tL-T7vrhnr1DdVUKwLbOrKPSXhKyLdXI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjk3/Mi0xNDAxMTgyOTYz/LTczMjIuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/uw3c5_-IkZmWLUINbENQ6eO5lpMpxaWJQ-wqDWP7WPw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxMjk3/Mi0xNDAxMTgyOTYz/LTczMjIuanBlZw.jpeg",

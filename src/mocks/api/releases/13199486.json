@@ -3,20 +3,12 @@
   "artist_id": 47333,
   "artist": "Fleetwood Mac",
   "title": "Rumours",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Classic Rock",
-    "Pop Rock",
-    "Soft Rock"
-  ],
+  "styles": ["Classic Rock", "Pop Rock", "Soft Rock"],
   "release_date": "2009",
   "year": 2009,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/UPHFx7m2mvTDegYZ0_hVG1TRH8RU7um4TeIiCtdMppM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk5/NDg2LTE2MjEwMjgz/NTItODQzMS5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/Bh3uIWwG-wygQE0sYta1RYrqmoIOtz5sggsIKUZYFPo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTk5/NDg2LTE2MjEwMjgz/NTItODQzMS5qcGVn.jpeg",

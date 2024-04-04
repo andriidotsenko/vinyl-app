@@ -3,21 +3,12 @@
   "artist_id": 160906,
   "artist": "Steely Dan",
   "title": "Pretzel Logic",
-  "all_genres": [
-    8,
-    4
-  ],
+  "all_genres": [8, 4],
   "genre": 8,
-  "styles": [
-    "Jazz-Rock",
-    "Pop Rock",
-    "Classic Rock"
-  ],
+  "styles": ["Jazz-Rock", "Pop Rock", "Classic Rock"],
   "release_date": "1974",
   "year": 1974,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/ewyhrsUM8sGUMO4tZawmNP3iodgZITrhXwhvcnhAANE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjM2/Ni0xMzU2OTcwNzkz/LTg0MDAuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/CfLE-iIgGuGH7JmNzzJdRFN7hn_hTrZ4Bd-CmFdb2Vs/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjM2/Ni0xMzU2OTcwNzkz/LTg0MDAuanBlZw.jpeg",

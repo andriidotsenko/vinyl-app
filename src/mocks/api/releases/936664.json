@@ -3,21 +3,12 @@
   "artist_id": 82730,
   "artist": "The Beatles",
   "title": "1962-1966",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Beat",
-    "Pop Rock",
-    "Rock & Roll"
-  ],
+  "styles": ["Beat", "Pop Rock", "Rock & Roll"],
   "release_date": "1973-04-19",
   "year": 1973,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/6SuoNAJ947Lh4rtA2a30BuylCU-KGPsYpUT7Rgi2Ug8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjY2/NC0xMzU3MjgyNjA1/LTMzOTUuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/AJCHG_85njFoqsogTeSyHjvDVzZVrPO_jOw_FMQzPKo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjY2/NC0xMzU3MjgyNjA1/LTMzOTUuanBlZw.jpeg",

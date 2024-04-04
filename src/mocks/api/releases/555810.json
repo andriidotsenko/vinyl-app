@@ -3,18 +3,12 @@
   "artist_id": 59792,
   "artist": "Bob Dylan",
   "title": "Desire",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Folk Rock"
-  ],
+  "styles": ["Folk Rock"],
   "release_date": "1976-01-05",
   "year": 1976,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/uGs9fPZ8Q3SlkPKPAw4OoU-OrtR1vMh1dLQ6L8Enoso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTgx/MC0xMzgzNzAwNjA5/LTczNzIuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/u7pvZ8gqWzPR8yX_2FVM4EonfU_4dgyuIhIsEouPWL0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NTgx/MC0xMzgzNzAwNjA5/LTczNzIuanBlZw.jpeg",

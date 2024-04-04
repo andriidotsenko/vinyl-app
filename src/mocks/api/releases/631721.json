@@ -3,21 +3,12 @@
   "artist_id": 194,
   "artist": "Various",
   "title": "Grease (The Original Soundtrack From The Motion Picture)",
-  "all_genres": [
-    4,
-    6
-  ],
+  "all_genres": [4, 6],
   "genre": 4,
-  "styles": [
-    "Soundtrack",
-    "Rock & Roll",
-    "Pop Rock"
-  ],
+  "styles": ["Soundtrack", "Rock & Roll", "Pop Rock"],
   "release_date": "1978",
   "year": 1978,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/OJi2TaJzWE7E6g4H1XRmNeD020tY7SYzPcXg8OkOd6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTcy/MS0xMzY1NDYwNDM0/LTg1NjUuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/2Y2pGAMZicZQEnsSaBZ0sY35uxSQ63qxMZDRDT3LlI4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMTcy/MS0xMzY1NDYwNDM0/LTg1NjUuanBlZw.jpeg",

@@ -3,20 +3,12 @@
   "artist_id": 198282,
   "artist": "Foo Fighters",
   "title": "Greatest Hits",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "Hard Rock"
-  ],
+  "styles": ["Alternative Rock", "Hard Rock"],
   "release_date": "2009-11-02",
   "year": 2009,
-  "all_countries": [
-    "uk",
-    "europe"
-  ],
+  "all_countries": ["uk", "europe"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/l5GcjDYnV-2g7KPd6qPZvIonXohMB0DZZOjodTW0EvI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc0/NTUtMTQ4OTY2MzUz/Ni04NzE2LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/QETEzR3knhhVTPMiEdV5NpUgRhLmSnkT8IxoNwrNPgc/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjc0/NTUtMTQ4OTY2MzUz/Ni04NzE2LmpwZWc.jpeg",

@@ -3,19 +3,12 @@
   "artist_id": 2184482,
   "artist": "Ed Sheeran",
   "title": "÷ (Divide)",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "Pop Rock"
-  ],
+  "styles": ["Pop Rock"],
   "release_date": "2017-03-03",
   "year": 2017,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/UFfF9YBiVdmymU1dvDzuliyrxyqewatQ_40Ds-FixlE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTcz/OTUtMTQ4ODUxMzA0/MC02Nzg2LnBuZw.jpeg",
   "cover_image": "https://i.discogs.com/anC0rN9ydBhnbnLLLbmc3x95R4nsFRh4ZbrwwyeurG8/rs:fit/g:sm/q:90/h:480/w:499/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5MTcz/OTUtMTQ4ODUxMzA0/MC02Nzg2LnBuZw.jpeg",

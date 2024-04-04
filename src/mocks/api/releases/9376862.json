@@ -3,18 +3,12 @@
   "artist_id": 81013,
   "artist": "Queen",
   "title": "Greatest Hits",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Arena Rock"
-  ],
+  "styles": ["Arena Rock"],
   "release_date": "2016-11-18",
   "year": 2016,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/p8EK2DVX-hhlD7vj-UYYiSQhBAKv3AubHPO75nj78uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzY4/NjItMTU3NTIzNTgw/NS04MTU3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/XBe5taaYRzs-RAh_0tdnuNpQnaHGiPFMt67gOze_NdI/rs:fit/g:sm/q:90/h:626/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzY4/NjItMTU3NTIzNTgw/NS04MTU3LmpwZWc.jpeg",

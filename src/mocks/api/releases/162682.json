@@ -3,19 +3,12 @@
   "artist_id": 8760,
   "artist": "Madonna",
   "title": "True Blue",
-  "all_genres": [
-    3
-  ],
+  "all_genres": [3],
   "genre": 3,
-  "styles": [
-    "Dance-pop",
-    "Pop Rock"
-  ],
+  "styles": ["Dance-pop", "Pop Rock"],
   "release_date": "1986",
   "year": 1986,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/FOlmM7TYtU9d-SBIdln_25EDEUPlhmI-vKb6m4udA1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY4/Mi0xNTI2MTI0NjUy/LTc0NzUuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/4zt-X7ExOtxyEcvvxe0FUWBFATzSZS3GtlimuLNCqGA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MjY4/Mi0xNTI2MTI0NjUy/LTc0NzUuanBlZw.jpeg",

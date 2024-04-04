@@ -3,20 +3,12 @@
   "artist_id": 4332385,
   "artist": "Leon Bridges",
   "title": "Coming Home",
-  "all_genres": [
-    2
-  ],
+  "all_genres": [2],
   "genre": 2,
-  "styles": [
-    "Soul",
-    "Funk",
-    "Rhythm & Blues"
-  ],
+  "styles": ["Soul", "Funk", "Rhythm & Blues"],
   "release_date": "2015-06-23",
   "year": 2015,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/9W9sN5pFCyII9CWt74m_xvPR4yO9tp3GSUEq1QBnx34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ5NTE2MDY3/NC0zMTM1LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/Xg7-JYafHj0wEjPeOvcv8K1goP0VCNykCL_3mWZLGho/rs:fit/g:sm/q:90/h:609/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcxNDYx/ODctMTQ5NTE2MDY3/NC0zMTM1LmpwZWc.jpeg",

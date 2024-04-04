@@ -3,20 +3,12 @@
   "artist_id": 232157,
   "artist": "Simon & Garfunkel",
   "title": "Bridge Over Troubled Water",
-  "all_genres": [
-    3
-  ],
+  "all_genres": [3],
   "genre": 3,
-  "styles": [
-    "Folk Rock",
-    "Pop Rock",
-    "Soft Rock"
-  ],
+  "styles": ["Folk Rock", "Pop Rock", "Soft Rock"],
   "release_date": "1970-01-26",
   "year": 1970,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/z7_vGdMura9rYt35EpOJs3PNNfOYsPYYblQuU8LZYzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTMy/OC0xNDM3NTUwNzI4/LTI0NDAuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/61Q3XhLDIxrT9iP9hFkEew-X32b9rLThkRbNOOKApGk/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYwNTMy/OC0xNDM3NTUwNzI4/LTI0NDAuanBlZw.jpeg",

@@ -3,19 +3,12 @@
   "artist_id": 47333,
   "artist": "Fleetwood Mac",
   "title": "Tusk",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "AOR"
-  ],
+  "styles": ["Pop Rock", "AOR"],
   "release_date": "1979-10-17",
   "year": 1979,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/Z02cTHqH87SQqsToOuC24h7ht30I4TVvCM1s5kgzSfc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDI0/OC0xMjE2OTc4MjEw/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/Fb2W2go_CI4cIszz2iLVFQkkgabhOo2xXyrUH6s8NtY/rs:fit/g:sm/q:90/h:600/w:571/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NDI0/OC0xMjE2OTc4MjEw/LmpwZWc.jpeg",

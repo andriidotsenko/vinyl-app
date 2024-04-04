@@ -3,19 +3,12 @@
   "artist_id": 254406,
   "artist": "REO Speedwagon",
   "title": "Hi Infidelity",
-  "all_genres": [
-    4,
-    3
-  ],
+  "all_genres": [4, 3],
   "genre": 4,
-  "styles": [
-    "AOR"
-  ],
+  "styles": ["AOR"],
   "release_date": "1980",
   "year": 1980,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/Tzk_3LxSWkLNt6gocu9CiDhiqDkMukdlMGWdZelSNBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTQ5/Mi0xNTYxMzMxMjYw/LTI0MzUuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/JfQjJFmGySy2-sIw5wUSQNANhQ9a41nkY-5jlyREiDQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTQ5/Mi0xNTYxMzMxMjYw/LTI0MzUuanBlZw.jpeg",

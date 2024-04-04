@@ -3,21 +3,12 @@
   "artist_id": 113655,
   "artist": "ZZ Top",
   "title": "Eliminator",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Hard Rock",
-    "Blues Rock",
-    "AOR"
-  ],
+  "styles": ["Pop Rock", "Hard Rock", "Blues Rock", "AOR"],
   "release_date": "1983",
   "year": 1983,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/VVaxrkEPphLTKKdhBXQq_7tmkXsZG8-uinRbnaWEXbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjUw/ODUtMTM3NjY3NTA3/NS01MzI1LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/G97lciR_13OtiULAG_3mzUzauQ5HRQIb6m_M6biZ4r0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MjUw/ODUtMTM3NjY3NTA3/NS01MzI1LmpwZWc.jpeg",

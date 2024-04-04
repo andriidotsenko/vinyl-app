@@ -3,23 +3,12 @@
   "artist_id": 2482309,
   "artist": "Childish Gambino",
   "title": "Awaken, My Love!",
-  "all_genres": [
-    2
-  ],
+  "all_genres": [2],
   "genre": 2,
-  "styles": [
-    "Contemporary R&B",
-    "Funk",
-    "Neo Soul",
-    "Psychedelic"
-  ],
+  "styles": ["Contemporary R&B", "Funk", "Neo Soul", "Psychedelic"],
   "release_date": "2017-11-10",
   "year": 2017,
-  "all_countries": [
-    "uk",
-    "europe",
-    "us"
-  ],
+  "all_countries": ["uk", "europe", "us"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/ygdMnljqDzikauwCCi5GCh0SKnKxkIBT97AgOuCPFOw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE2/MDk5LTE1MTU4NDU4/ODYtNTA4My5qcGVn.jpeg",
   "cover_image": "https://i.discogs.com/UTVD7HoRr4k0ZpXjcGvgXm7FEVXMMjra9kvKXIVowp8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTE2/MDk5LTE1MTU4NDU4/ODYtNTA4My5qcGVn.jpeg",

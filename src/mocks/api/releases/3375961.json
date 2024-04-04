@@ -3,19 +3,12 @@
   "artist_id": 251593,
   "artist": "Green Day",
   "title": "Dookie",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Punk",
-    "Punk"
-  ],
+  "styles": ["Pop Punk", "Punk"],
   "release_date": "2008",
   "year": 2008,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/1WtC84Pl9atfU6VN11Bekm6iGSkbuGh3eWHg432Ic1M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzU5/NjEtMTU0NDg3MjAx/Ny03MjcwLmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/TZEBFXPV975_tmQRa0sknzVNV1M2PVI3MHuF7NcKY3Q/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNzU5/NjEtMTU0NDg3MjAx/Ny03MjcwLmpwZWc.jpeg",

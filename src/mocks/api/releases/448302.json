@@ -3,20 +3,12 @@
   "artist_id": 251517,
   "artist": "Supertramp",
   "title": "Paris",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Art Rock",
-    "Pop Rock",
-    "Prog Rock"
-  ],
+  "styles": ["Art Rock", "Pop Rock", "Prog Rock"],
   "release_date": "1980",
   "year": 1980,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/wrePzq1iE_vmcwg5J0h8D_OCuTy2ipen_KqnUdY_ofg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODMw/Mi0xNjQ5MDcxMDYx/LTM4MzMuanBlZw.jpeg",
   "cover_image": "https://i.discogs.com/F2kqTgHRInb2D5cypabNg3WFqdkVblvjMaC-rMFhOP4/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0ODMw/Mi0xNjQ5MDcxMDYx/LTM4MzMuanBlZw.jpeg",

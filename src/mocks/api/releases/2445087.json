@@ -3,20 +3,12 @@
   "artist_id": 251846,
   "artist": "Alice In Chains",
   "title": "MTV Unplugged",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Alternative Rock",
-    "Acoustic",
-    "Grunge"
-  ],
+  "styles": ["Alternative Rock", "Acoustic", "Grunge"],
   "release_date": "2010",
   "year": 2010,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/0i92bvZ_Q1TpWfKHjBy9wo4UmKlOnm5Vf-Eqxof3F9E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUw/ODctMTQzMTY5NzU2/Mi0xODE3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/QsaImxmzxaHuzHPaBGBbWEhpAOEHfWlW0iS8K6EHUq4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NDUw/ODctMTQzMTY5NzU2/Mi0xODE3LmpwZWc.jpeg",

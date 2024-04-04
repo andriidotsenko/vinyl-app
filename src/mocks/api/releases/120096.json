@@ -3,21 +3,12 @@
   "artist_id": 15885,
   "artist": "Michael Jackson",
   "title": "Off The Wall",
-  "all_genres": [
-    2,
-    3
-  ],
+  "all_genres": [2, 3],
   "genre": 2,
-  "styles": [
-    "Disco",
-    "Soul",
-    "Ballad"
-  ],
+  "styles": ["Disco", "Soul", "Ballad"],
   "release_date": "1979-08-10",
   "year": 1979,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/gFFPJRZd4BWUkml2WGlx2r6zO6eKEdm75bjMV42sjUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA5/Ni0xMDg1NjAwNjA3/LmpwZw.jpeg",
   "cover_image": "https://i.discogs.com/zl5v5VCYQuYQcQtCa2xNah3p9LlsCDvObhfYWdGLjP4/rs:fit/g:sm/q:90/h:344/w:358/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDA5/Ni0xMDg1NjAwNjA3/LmpwZw.jpeg",

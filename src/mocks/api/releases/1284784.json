@@ -3,20 +3,12 @@
   "artist_id": 110253,
   "artist": "The Allman Brothers Band",
   "title": "Eat A Peach",
-  "all_genres": [
-    4,
-    9
-  ],
+  "all_genres": [4, 9],
   "genre": 4,
-  "styles": [
-    "Blues Rock",
-    "Southern Rock"
-  ],
+  "styles": ["Blues Rock", "Southern Rock"],
   "release_date": "1972",
   "year": 1972,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/UEjgZ0c6ygYKrvBECQmx1hBELZ4Mt9RSg5WLt_Ew2Kc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ3/ODQtMTY3ODM3MDQw/NS02ODE4LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/XpKJutYlsYqjQqV5KQ4RyuhySNee8JSPi_ZFKcSggZ8/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODQ3/ODQtMTY3ODM3MDQw/NS02ODE4LmpwZWc.jpeg",

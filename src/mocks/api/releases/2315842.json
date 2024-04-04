@@ -3,21 +3,12 @@
   "artist_id": 261370,
   "artist": "Quiet Riot",
   "title": "Metal Health",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Hard Rock",
-    "Arena Rock",
-    "Heavy Metal",
-    "Glam"
-  ],
+  "styles": ["Hard Rock", "Arena Rock", "Heavy Metal", "Glam"],
   "release_date": "1983-03-11",
   "year": 1983,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/32NpZgMJR7Di1CHnmyzsaZKmwN-zRholMVhMaK-ajKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU4/NDItMTY0NDIxMjIw/NS04ODE3LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/_UKxZybZtRkx7Gu-0I6-VeoI7z-zCdNs-n_IfP9EqSE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTU4/NDItMTY0NDIxMjIw/NS04ODE3LmpwZWc.jpeg",

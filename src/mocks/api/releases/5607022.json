@@ -3,18 +3,12 @@
   "artist_id": 18839,
   "artist": "Metallica",
   "title": "Metallica",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Heavy Metal"
-  ],
+  "styles": ["Heavy Metal"],
   "release_date": "1991-08-00",
   "year": 1991,
-  "all_countries": [
-    "europe"
-  ],
+  "all_countries": ["europe"],
   "country": "europe",
   "thumb_image": "https://i.discogs.com/qxN_BaNganjOtKlp4Bzef0liaNWLflIxyTsAJTd_X04/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDcw/MjItMTUxOTU4NzMy/Ni01OTk0LnBuZw.jpeg",
   "cover_image": "https://i.discogs.com/XSTq7NS33PSFFXV0dpjENMaiVvxchD6WgIhPQgaj4jA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2MDcw/MjItMTUxOTU4NzMy/Ni01OTk0LnBuZw.jpeg",

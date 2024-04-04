@@ -3,18 +3,12 @@
   "artist_id": 7987,
   "artist": "The Police",
   "title": "Zenyatta Mondatta",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "New Wave"
-  ],
+  "styles": ["New Wave"],
   "release_date": "1980-10-03",
   "year": 1980,
-  "all_countries": [
-    "uk"
-  ],
+  "all_countries": ["uk"],
   "country": "uk",
   "thumb_image": "https://i.discogs.com/itbNNLQegB6IsJt8kPUNqjjQGEGosBP8am4mZCfqqaY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTU0/Ni0xMTczNTM3MTQy/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/WWEVpAVLoVAm_3rwhuEsUjV_Ifi0CKwbXTNLoRyHyfs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTU0/Ni0xMTczNTM3MTQy/LmpwZWc.jpeg",

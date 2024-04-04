@@ -3,19 +3,12 @@
   "artist_id": 57103,
   "artist": "Elton John",
   "title": "Goodbye Yellow Brick Road",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Classic Rock"
-  ],
+  "styles": ["Pop Rock", "Classic Rock"],
   "release_date": "1973",
   "year": 1973,
-  "all_countries": [
-    "us"
-  ],
+  "all_countries": ["us"],
   "country": "us",
   "thumb_image": "https://i.discogs.com/9bWdzb0DM-A2nLQ9OJUcJpLHu0yud7bHE47-Th6PS70/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDYx/Ny0xMjEyMjgzMzAz/LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/ts_m-GGHov4HcM4CcTtd0mgKB8bC9IRBGWwBjYj4GN4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDYx/Ny0xMjEyMjgzMzAz/LmpwZWc.jpeg",

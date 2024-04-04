@@ -3,19 +3,12 @@
   "artist_id": 82730,
   "artist": "The Beatles",
   "title": "Revolver",
-  "all_genres": [
-    4
-  ],
+  "all_genres": [4],
   "genre": 4,
-  "styles": [
-    "Pop Rock",
-    "Psychedelic Rock"
-  ],
+  "styles": ["Pop Rock", "Psychedelic Rock"],
   "release_date": "2012-11-12",
   "year": 2012,
-  "all_countries": [
-    "worldwide"
-  ],
+  "all_countries": ["worldwide"],
   "country": "worldwide",
   "thumb_image": "https://i.discogs.com/yo4YGgVVGOlDNZW1OUEO2YL6KWA28vjxQUEQ3isI5js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzcw/MzQtMTYzMTk1Nzg3/Mi02NzY4LmpwZWc.jpeg",
   "cover_image": "https://i.discogs.com/rFDliKXms0111CONgefaWcbxNGFBWqbfhk_D8V499ek/rs:fit/g:sm/q:90/h:562/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMzcw/MzQtMTYzMTk1Nzg3/Mi02NzY4LmpwZWc.jpeg",
