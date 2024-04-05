@@ -38,24 +38,24 @@ const Select = ({
           aria-expanded={isOpen}
         >
           {value
-            ? options.find((option) => option.id === value)?.title || ""
+            ? options.find((option) => option.value === value)?.label || ""
             : placeholder}
           {isOpen ? <ArrowUpIcon /> : <ArrowDownIcon />}
         </button>
 
         {isOpen && (
           <div className={styles.dropdown} aria-hidden={!isOpen}>
-            {options.map((option) => (
+            {options.map((options) => (
               <button
-                key={option.id}
+                key={options.value}
                 type="button"
                 className={clsx(styles.checkbox, {
-                  [styles.selected]: value === option.id,
+                  [styles.selected]: value === options.value,
                 })}
-                onClick={() => handleOptionChange(option.id)}
+                onClick={() => handleOptionChange(options.value)}
               >
-                {value === option.id ? <CheckIcon /> : <UncheckIcon />}
-                <span>{option.title}</span>
+                {value === options.value ? <CheckIcon /> : <UncheckIcon />}
+                <span>{options.label}</span>
               </button>
             ))}
           </div>
@@ -78,6 +78,7 @@ Select.propTypes = {
   placeholder: PropTypes.string,
   error: PropTypes.string,
   name: PropTypes.string.isRequired,
+  label: PropTypes.string,
 };
 
 export default Select;

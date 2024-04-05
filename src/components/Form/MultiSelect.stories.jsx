@@ -1,6 +1,6 @@
 import MultiSelect from "./MultiSelect";
-import { useGenreList } from "../../hooks/useGenreList";
 import { useDecadeList } from "../../hooks/useDecadeList";
+import { useGenreListAsync } from "../../hooks/useGenreListAsync";
 
 export default {
   title: "MultiSelect",
@@ -9,7 +9,7 @@ export default {
 
 export const Default = () => (
   <MultiSelect
-    options={useGenreList()}
+    options={useGenreListAsync()}
     // onChange={() => console.log("genres")}
     placeholder={"Genre"}
     value={[]}

@@ -1,7 +1,9 @@
+import { Suspense } from "react";
 import Header from "./components/Header/Header.jsx";
 import { useCollection } from "./hooks/useCollection.js";
 import { useFavorites } from "./hooks/useFavorites.js";
 import { Outlet } from "react-router-dom";
+import { Loader } from "./components/Loader/Loader.jsx";
 
 export function App() {
   const { collectionList, handleCollectionToggle } = useCollection();
@@ -12,14 +14,16 @@ export function App() {
         collectionCount={collectionList.length}
         favoriteCount={favoritesList.length}
       />
-      <Outlet
-        context={{
-          collectionList,
-          favoritesList,
-          handleCollectionToggle,
-          handleFavoritesToggle,
-        }}
-      />
+      <Suspense fallback={<Loader />}>
+        <Outlet
+          context={{
+            collectionList,
+            favoritesList,
+            handleCollectionToggle,
+            handleFavoritesToggle,
+          }}
+        />
+      </Suspense>
     </>
   );
 }

@@ -1,5 +1,6 @@
 .pagination {
   display: flex;
+  overflow: auto;
   align-items: center;
   justify-content: center;
   margin-bottom: 16px;
@@ -9,7 +10,7 @@
 
 .item {
   display: flex;
-  width: 40px;
+  min-width: 40px;
   height: 40px;
   align-items: center;
   justify-content: center;

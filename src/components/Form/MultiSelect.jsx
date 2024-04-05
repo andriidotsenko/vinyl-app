@@ -41,6 +41,10 @@ const MultiSelect = ({
   const [selectedOptions, setSelectedOptions] = useState(value || []);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
+  if (value !== selectedOptions) {
+    setSelectedOptions(value || []);
+  }
+
   const toggleOption = (optionId) => {
     const updatedOptions = selectedOptions.includes(optionId)
       ? selectedOptions.filter((id) => id !== optionId)

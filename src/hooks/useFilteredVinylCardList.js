@@ -1,17 +1,13 @@
 // import { useCountriesList } from "./useCountriesList.js";
 import { useVinylCardList } from "./useVinylCardList.js";
 import { useDecadeList } from "./useDecadeList.js";
-// import { useCountriesList } from "./useCountriesList.js";
-import { useCountryListAsync } from "./useCountryListAsync.js";
+import { useCountriesList } from "./useCountriesList.js";
 
 export const useFilteredVinylCardList = (filters) => {
   const vinylList = useVinylCardList();
   const decades = useDecadeList();
-  const countryList = useCountryListAsync();
-  const country = countryList.data.find(
-    (item) => item.id === filters.country
-  )?.id;
-
+  const countryList = useCountriesList();
+  const country = countryList.find((item) => item.id === +filters.country)?.id;
   const filterVinyl = (vinyl) => {
     if (filters.country && vinyl.country !== country) {
       return false;

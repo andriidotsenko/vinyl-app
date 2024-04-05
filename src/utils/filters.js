@@ -2,7 +2,7 @@ export const getFiltersFromParams = (params) => ({
   artist: params.get("artist") || "",
   country: params.get("country") || "",
   genres: params.getAll("genres").map(Number),
-  decades: params.getAll("decades").map(Number),
+  decade: params.get("decade") || "",
 });
 
 export const getSearchParamsFromFilters = (filters) => {
@@ -26,6 +26,6 @@ export const getSearchParamsFromFilters = (filters) => {
 export const emptyFilters = {
   artist: "",
   genres: [],
-  decades: [],
+  decade: "",
   country: "",
 };

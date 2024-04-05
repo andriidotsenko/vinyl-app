@@ -4,7 +4,6 @@ import CollectionButton from "../CollectionButton/CollectionButton.jsx";
 
 import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 import { Link } from "react-router-dom";
-import { useCountryListAsync } from "../../hooks/useCountryListAsync.js";
 
 function VinylCard({
   card,
@@ -15,16 +14,13 @@ function VinylCard({
 }) {
   const { id, title, artist, year, country, genre, image } = card;
 
-  const { data: countryList, isLoading: isCountryListIsLoading } =
-    useCountryListAsync();
-
   return (
     <div key={id} className={styles.block}>
       <div className={styles.image}>
         <picture>
           <source srcSet={image.normal} media="(max-width: 768.98px)" />
           <source srcSet={image.double} media="(min-width: 768.99px)" />
-          <img src={image.normal} title={title} alt={title} />
+          <img src={image} title={title} alt={title} />
         </picture>
         <FavoriteButton
           inFavorites={inFavorites}
@@ -43,11 +39,11 @@ function VinylCard({
           Year: <span>{year}</span>
         </p>
         <p>
-          Genre: <span>{genre}</span>
+          Genre: <span>{genre.title}</span>
         </p>
         <p>
-          Country:{" "}
-          <span>{countryList.find((item) => item.id === country).title}</span>
+          Country:
+          <span>{country.title}</span>
         </p>
       </div>
       <CollectionButton
@@ -67,12 +63,9 @@ VinylCard.propTypes = {
     title: PropTypes.string.isRequired,
     artist: PropTypes.string.isRequired,
     year: PropTypes.number.isRequired,
-    country: PropTypes.string.isRequired,
-    genre: PropTypes.string.isRequired,
-    image: PropTypes.shape({
-      normal: PropTypes.string.isRequired,
-      double: PropTypes.string.isRequired,
-    }).isRequired,
+    country: PropTypes.objectOf(PropTypes.string).isRequired,
+    genre: PropTypes.object.isRequired,
+    image: PropTypes.string.isRequired,
   }).isRequired,
   inCollection: PropTypes.bool.isRequired,
   inFavorites: PropTypes.bool.isRequired,

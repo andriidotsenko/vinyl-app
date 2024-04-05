@@ -11,22 +11,18 @@ import Select from "../Form/Select.jsx";
 import AutosuggestInput from "../Form/AutosuggestInput.jsx";
 import styles from "./SearchForm.module.css";
 import clsx from "clsx";
-import { useVinylCardList } from "../../hooks/useVinylCardList.js";
-import { filterOptions } from "./utils.js";
 import { useGenreListAsync } from "../../hooks/useGenreListAsync.js";
-import { Loader } from "../Loader/Loader.jsx";
 import { useArtistsAsync } from "../../hooks/useArtistsAsync.js";
 
 const formSchema = Yup.object({
   artist: Yup.string().optional().min(0).max(100),
   country: Yup.string().min(0),
   genres: Yup.array().min(0),
-  decades: Yup.array().of(Yup.number()).min(0),
+  decade: Yup.string().min(0),
 });
 
 export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
   const decadeList = useDecadeList();
-  const vinyls = useVinylCardList();
 
   const genreListQuery = useGenreListAsync();
   const coutryListQuery = useCountryListAsync();
@@ -44,17 +40,10 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
   });
 
   watch();
-
   const artistsQuery = useArtistsAsync(getValues().artist || "");
-  console.log(artistsQuery.data);
-
   const isFiltersEmpty = Object.values(getValues()).every((value) =>
     Array.isArray(value) ? !value?.length : !value
   );
-
-  if (genreListQuery.isLoading || coutryListQuery.isLoading) {
-    return <Loader />;
-  }
 
   const handleFormSubmit = (data) => {
     onSubmit(data);
@@ -70,12 +59,9 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
             render={({ field }) => (
               <AutosuggestInput
                 {...field}
-                options={vinyls}
                 placeholder={"Artist"}
                 error={errors.artist?.message}
-                filterFunction={(options, searchText) =>
-                  filterOptions(options, searchText)
-                }
+                values={artistsQuery.data}
               />
             )}
           />
@@ -97,13 +83,17 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
         <div className={clsx(styles.block, styles.decades)}>
           <Controller
             control={control}
-            name="decades"
+            name="decade"
             render={({ field }) => (
-              <MultiSelect
+              <Select
                 {...field}
-                options={decadeList}
-                placeholder={"Decades"}
-                error={errors.decades?.message}
+                options={decadeList.map((decade) => ({
+                  value: decade.from,
+                  label: decade.title,
+                }))}
+                ref={null}
+                error={errors.decade?.message}
+                placeholder="Decade"
               />
             )}
           />
@@ -115,9 +105,13 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
             render={({ field }) => (
               <Select
                 {...field}
-                options={coutryListQuery.data}
-                placeholder={"Country"}
-                error={errors.country?.message}
+                options={coutryListQuery.data.map((country) => ({
+                  value: country.id,
+                  label: country.title,
+                }))}
+                ref={null}
+                error={errors.genres?.message}
+                placeholder="Country"
               />
             )}
           />
