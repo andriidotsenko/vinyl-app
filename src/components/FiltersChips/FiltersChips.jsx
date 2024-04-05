@@ -53,7 +53,7 @@ export const FiltersChips = ({ filters, onFiltersChange }) => {
       {filters.decade && (
         <FilterChip
           label={
-            decadeList.find((item) => item.from === filters.decade)?.title + "f"
+            decadeList.find((item) => item.from === +filters.decade)?.title
           }
           onRemove={() => handleRemove("decade")}
         />

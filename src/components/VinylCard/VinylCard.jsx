@@ -1,7 +1,6 @@
 import PropTypes from "prop-types";
 import styles from "./VinylCard.module.css";
 import CollectionButton from "../CollectionButton/CollectionButton.jsx";
-
 import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 import { Link } from "react-router-dom";
 
@@ -13,6 +12,9 @@ function VinylCard({
   onClickInFavorites,
 }) {
   const { id, title, artist, year, country, genre, image } = card;
+
+  // Вычисление округленного десятилетия
+  const roundedDecade = Math.floor(year / 10) * 10;
 
   return (
     <div key={id} className={styles.block}>
@@ -30,20 +32,28 @@ function VinylCard({
           }}
         />
       </div>
-      <Link key={id} to={`/vinyls/${id}`}>
+      <Link to={`/vinyls/${id}`}>
         <h2 className={styles.name}>{title}</h2>
       </Link>
       <p className={styles.group}>{artist}</p>
       <div className={styles.info}>
         <p>
-          Year: <span>{year}</span>
+          Year:
+          <Link to={`/results?decade=${roundedDecade}`}>
+            <span>{year}</span>
+          </Link>
         </p>
         <p>
-          Genre: <span>{genre.title}</span>
+          Genre:
+          <Link to={`/results?genres=${genre.id}`}>
+            <span>{genre.title}</span>
+          </Link>
         </p>
         <p>
           Country:
-          <span>{country.title}</span>
+          <Link to={`/results?country=${country.id}`}>
+            <span>{country.title}</span>
+          </Link>
         </p>
       </div>
       <CollectionButton
@@ -63,8 +73,14 @@ VinylCard.propTypes = {
     title: PropTypes.string.isRequired,
     artist: PropTypes.string.isRequired,
     year: PropTypes.number.isRequired,
-    country: PropTypes.objectOf(PropTypes.string).isRequired,
-    genre: PropTypes.object.isRequired,
+    country: PropTypes.shape({
+      id: PropTypes.string.isRequired,
+      title: PropTypes.string.isRequired,
+    }).isRequired,
+    genre: PropTypes.shape({
+      id: PropTypes.number.isRequired,
+      title: PropTypes.string.isRequired,
+    }).isRequired,
     image: PropTypes.string.isRequired,
   }).isRequired,
   inCollection: PropTypes.bool.isRequired,

@@ -69,8 +69,9 @@ const Select = ({
 Select.propTypes = {
   options: PropTypes.arrayOf(
     PropTypes.shape({
-      id: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
-      name: PropTypes.string.isRequired,
+      value: PropTypes.oneOfType([PropTypes.number, PropTypes.string])
+        .isRequired,
+      label: PropTypes.string.isRequired,
     })
   ).isRequired,
   value: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
