@@ -1,32 +1,12 @@
 import { useState } from "react";
-import { useVinylCardList } from "../../hooks/useVinylCardList.js";
-
 import Pagination from "../../components/Pagination/Pagination.jsx";
 import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
 import GenreList from "../../components/GenreList/GenreList.jsx";
-
+import { useFilteredVinylListAsync } from "../../hooks/useFilteredVinylListAsync.js";
 import { useOutletContext } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
 
 export function HomePage() {
-  const {
-    collectionList,
-    favoritesList,
-    handleCollectionToggle,
-    handleFavoritesToggle,
-  } = useOutletContext();
-
-  const vinylCardListData = useVinylCardList();
-
-  const [currentPage, setCurrentPage] = useState(1);
-  function handlePageChange(pageNumber) {
-    setCurrentPage(pageNumber);
-  }
-
-  const filteredList = vinylCardListData.filter((item) => {
-    return item.title.toLowerCase().indexOf("") !== -1;
-  });
-
   const screenWidth = window.innerWidth;
   const pageSize =
     screenWidth < 500
@@ -38,6 +18,25 @@ export function HomePage() {
       : screenWidth < 1440
       ? 12
       : 10;
+  const { results } = useFilteredVinylListAsync(
+    {},
+    { offset: 0, limit: 24 },
+    { suspense: true }
+  );
+
+  const {
+    collectionList,
+    favoritesList,
+    handleCollectionToggle,
+    handleFavoritesToggle,
+  } = useOutletContext();
+
+  const [currentPage, setCurrentPage] = useState(1);
+  function handlePageChange(pageNumber) {
+    setCurrentPage(pageNumber);
+  }
+
+  const filteredList = results;
 
   const totalPages = Math.ceil(filteredList.length / pageSize);
   const startIndex = (currentPage - 1) * pageSize;
