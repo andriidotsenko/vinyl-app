@@ -65,6 +65,21 @@ export const SearchResultsPage = () => {
   if (isFiltersEmpty) {
     return <Navigate to={"/search"} />;
   }
+  function countFilledParams(params) {
+    return Object.values(params).reduce(
+      (count, param) =>
+        count +
+        ((typeof param === "string" && param.trim() !== "") ||
+        (Array.isArray(param) && param.length > 0)
+          ? Array.isArray(param)
+            ? param.length
+            : 1
+          : 0),
+      0
+    );
+  }
+
+  const filledParams = countFilledParams(filters);
 
   return (
     <>
@@ -75,7 +90,10 @@ export const SearchResultsPage = () => {
       <main className="main">
         <div className="container">
           <div className={styles.header}>
-            <div className={styles.title}>Filters applied:</div>
+            <div className={styles.title}>
+              <span className={styles.count}>{filledParams}</span>{" "}
+              {filledParams > 1 ? "filter" : "filter"} applied:
+            </div>
             <div
               className={styles.resetButton}
               onClick={() => setFilters(emptyFilters)}

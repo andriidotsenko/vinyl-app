@@ -31,8 +31,17 @@
 .item:hover {
   background-color: var(--blue);
   color: var(--white);
+  fill: var(--white);
 }
 
 .item:active {
   opacity: 0.7;
+}
+
+.prev {
+  transform: rotate(90deg);
+}
+
+.next {
+  transform: rotate(-90deg);
 }

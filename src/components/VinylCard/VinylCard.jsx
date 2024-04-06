@@ -13,15 +13,12 @@ function VinylCard({
 }) {
   const { id, title, artist, year, country, genre, image } = card;
 
-  // Вычисление округленного десятилетия
   const roundedDecade = Math.floor(year / 10) * 10;
 
   return (
     <div key={id} className={styles.block}>
       <div className={styles.image}>
         <picture>
-          <source srcSet={image.normal} media="(max-width: 768.98px)" />
-          <source srcSet={image.double} media="(min-width: 768.99px)" />
           <img src={image} title={title} alt={title} />
         </picture>
         <FavoriteButton
@@ -35,24 +32,27 @@ function VinylCard({
       <Link to={`/vinyls/${id}`}>
         <h2 className={styles.name}>{title}</h2>
       </Link>
-      <p className={styles.group}>{artist}</p>
+
+      <Link className={styles.group} to={`/results?artist=${artist}`}>
+        {artist}
+      </Link>
       <div className={styles.info}>
         <p>
           Year:
-          <Link to={`/results?decade=${roundedDecade}`}>
-            <span>{year}</span>
+          <Link className={styles.link} to={`/results?decade=${roundedDecade}`}>
+            {year}
           </Link>
         </p>
         <p>
           Genre:
-          <Link to={`/results?genres=${genre.id}`}>
-            <span>{genre.title}</span>
+          <Link className={styles.link} to={`/results?genres=${genre.id}`}>
+            {genre.title}
           </Link>
         </p>
         <p>
           Country:
-          <Link to={`/results?country=${country.id}`}>
-            <span>{country.title}</span>
+          <Link className={styles.link} to={`/results?country=${country.id}`}>
+            {country.title}
           </Link>
         </p>
       </div>
