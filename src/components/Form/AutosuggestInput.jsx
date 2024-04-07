@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import styles from "./AutosuggestInput.module.css";
 import clsx from "clsx";
 
-const AutosuggestInput = ({ value, onChange, placeholder, error, values }) => {
+const AutosuggestInput = ({ value, onChange, placeholder, error, options }) => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
   const handleInputChange = (newValue) => {
     onChange(newValue);
@@ -38,8 +38,8 @@ const AutosuggestInput = ({ value, onChange, placeholder, error, values }) => {
         />
         {isDropdownOpen && (
           <div className={styles.dropdownContainer}>
-            {values &&
-              values.map((option) => (
+            {options &&
+              options.map((option) => (
                 <button
                   type="button"
                   key={option}
@@ -62,7 +62,7 @@ AutosuggestInput.propTypes = {
   onChange: PropTypes.func.isRequired,
   placeholder: PropTypes.string.isRequired,
   error: PropTypes.string,
-  values: PropTypes.arrayOf(PropTypes.string),
+  options: PropTypes.arrayOf(PropTypes.string),
 };
 
 export default AutosuggestInput;

@@ -4,8 +4,6 @@ import clsx from "clsx";
 import styles from "./Selects.module.css";
 import ArrowDownIcon from "../Icon/ArrowDownIcon.jsx";
 import ArrowUpIcon from "../Icon/ArrowUpIcon.jsx";
-import CheckIcon from "../Icon/CheckIcon.jsx";
-import UncheckIcon from "../Icon/UncheckIcon.jsx";
 
 const Select = ({
   options,
@@ -54,7 +52,6 @@ const Select = ({
                 })}
                 onClick={() => handleOptionChange(options.value)}
               >
-                {value === options.value ? <CheckIcon /> : <UncheckIcon />}
                 <span>{options.label}</span>
               </button>
             ))}
@@ -79,7 +76,6 @@ Select.propTypes = {
   placeholder: PropTypes.string,
   error: PropTypes.string,
   name: PropTypes.string.isRequired,
-  label: PropTypes.string,
 };
 
 export default Select;

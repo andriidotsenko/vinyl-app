@@ -25,7 +25,7 @@ const GenreList = () => {
           data.map((genre) => (
             <div key={genre.id}>
               <Link key={genre.id} to={"/results?genres=" + genre.id}>
-                <GenreCard key={genre.id} genres={genre} />
+                <GenreCard key={genre.id} genre={genre} />
               </Link>
             </div>
           ))

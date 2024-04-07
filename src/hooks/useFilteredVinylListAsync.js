@@ -68,7 +68,7 @@ export const useFilteredVinylListAsync = (
     results: results.map((vinyl) =>
       mapVinylSearchResult(vinyl, genreList, countryList)
     ),
-    total: result.data?.total || [],
+    total: result.data?.total || 0,
     isLoading: result.isLoading,
   };
 };

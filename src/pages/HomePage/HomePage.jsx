@@ -6,21 +6,16 @@ import { useFilteredVinylListAsync } from "../../hooks/useFilteredVinylListAsync
 import { useOutletContext } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
 
+import { getPageSizeByScreenWidth } from "../../utils/getPageSizeByScreenWidth";
+
 export function HomePage() {
   const screenWidth = window.innerWidth;
-  const pageSize =
-    screenWidth < 500
-      ? 6
-      : screenWidth < 768
-      ? 8
-      : screenWidth < 1024
-      ? 9
-      : screenWidth < 1440
-      ? 12
-      : 10;
-  const { results } = useFilteredVinylListAsync(
+  const pageSize = getPageSizeByScreenWidth(screenWidth);
+
+  const [currentPage, setCurrentPage] = useState(1);
+  const { results, total } = useFilteredVinylListAsync(
     {},
-    { offset: 0, limit: 24 },
+    { offset: (currentPage - 1) * pageSize, limit: pageSize },
     { suspense: true }
   );
 
@@ -31,17 +26,9 @@ export function HomePage() {
     handleFavoritesToggle,
   } = useOutletContext();
 
-  const [currentPage, setCurrentPage] = useState(1);
-  function handlePageChange(pageNumber) {
-    setCurrentPage(pageNumber);
+  function handlePageChange(page) {
+    setCurrentPage(page);
   }
-
-  const filteredList = results;
-
-  const totalPages = Math.ceil(filteredList.length / pageSize);
-  const startIndex = (currentPage - 1) * pageSize;
-  const endIndex = Math.min(startIndex + pageSize - 1, filteredList.length - 1);
-  const currentPageItems = filteredList.slice(startIndex, endIndex + 1);
 
   return (
     <>
@@ -52,14 +39,14 @@ export function HomePage() {
           </Helmet>
           <GenreList />
           <VinylCardList
-            cardList={currentPageItems}
+            cardList={results}
             collectionList={collectionList}
             favoritesList={favoritesList}
             onClickInCollection={handleCollectionToggle}
             onClickInFavorites={handleFavoritesToggle}
           />
           <Pagination
-            totalPages={totalPages}
+            totalPages={total}
             currentPage={currentPage}
             onPageChange={handlePageChange}
           />

@@ -13,18 +13,10 @@ import { Loader } from "../../components/Loader/Loader.jsx";
 import { Helmet } from "react-helmet-async";
 import useGenerateTitleSearchResult from "../../hooks/useGenerateTitleSearchResult.js";
 import { useFilteredVinylListAsync } from "../../hooks/useFilteredVinylListAsync.js";
+import { getPageSizeByScreenWidth } from "../../utils/getPageSizeByScreenWidth";
+
 const screenWidth = window.innerWidth;
-const pageSize =
-  screenWidth < 500
-    ? 6
-    : screenWidth < 768
-    ? 8
-    : screenWidth < 1024
-    ? 9
-    : screenWidth < 1440
-    ? 12
-    : 10;
-const CARDS_PER_PAGE = pageSize;
+const pageSize = getPageSizeByScreenWidth(screenWidth);
 
 export const SearchResultsPage = () => {
   const [params, setParams] = useSearchParams(emptyFilters);
@@ -39,14 +31,14 @@ export const SearchResultsPage = () => {
   const page = Number(params.get("page")) || 1;
 
   const vinylListQuery = useFilteredVinylListAsync(filters, {
-    limit: CARDS_PER_PAGE,
-    offset: (page - 1) * CARDS_PER_PAGE,
+    limit: pageSize,
+    offset: (page - 1) * pageSize,
   });
 
   const setFilters = (filters) =>
     setParams(getSearchParamsFromFilters(filters));
 
-  const setPage = (page) => {
+  const handlePageChange = (page) => {
     const nextParams = getSearchParamsFromFilters(filters);
 
     if (page > 1) {
@@ -56,7 +48,7 @@ export const SearchResultsPage = () => {
     setParams(nextParams);
   };
   const generateTitleSearchResult = useGenerateTitleSearchResult(filters);
-  const pagesCount = Math.ceil(vinylListQuery.total / CARDS_PER_PAGE);
+  const pagesCount = Math.ceil(vinylListQuery.total / pageSize);
 
   const isFiltersEmpty = Object.values(filters).every((value) =>
     Array.isArray(value) ? !value?.length : !value
@@ -92,7 +84,7 @@ export const SearchResultsPage = () => {
           <div className={styles.header}>
             <div className={styles.title}>
               <span className={styles.count}>{filledParams}</span>{" "}
-              {filledParams > 1 ? "filter" : "filter"} applied:
+              {filledParams > 1 ? "filters" : "filter"} applied:
             </div>
             <div
               className={styles.resetButton}
@@ -124,7 +116,7 @@ export const SearchResultsPage = () => {
               <Pagination
                 totalPages={pagesCount}
                 currentPage={page}
-                onPageChange={setPage}
+                onPageChange={handlePageChange}
               />
             </>
           )}

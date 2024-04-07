@@ -4,8 +4,60 @@ import styles from "./Pagination.module.css";
 import ArrowUpIcon from "../Icon/ArrowUpIcon";
 import EllipsisIcon from "../Icon/EllipsisIcon";
 
+function PaginationButton({ onClick, children, className, disabled }) {
+  return (
+    <button
+      className={clsx(styles.item, className, {
+        [styles.disabled]: disabled,
+      })}
+      onClick={onClick}
+      disabled={disabled}
+    >
+      {children}
+    </button>
+  );
+}
+
+PaginationButton.propTypes = {
+  onClick: PropTypes.func.isRequired,
+  children: PropTypes.node.isRequired,
+  className: PropTypes.string,
+  disabled: PropTypes.bool,
+};
+
+function EllipsisButton({ className }) {
+  return (
+    <span className={className}>
+      <EllipsisIcon />
+    </span>
+  );
+}
+
+EllipsisButton.propTypes = {
+  className: PropTypes.string,
+};
+
+function ArrowButton({ onClick, direction, disabled }) {
+  return (
+    <button
+      className={clsx(styles[direction], styles.item, {
+        [styles.disabled]: disabled,
+      })}
+      onClick={onClick}
+      disabled={disabled}
+    >
+      <ArrowUpIcon />
+    </button>
+  );
+}
+
+ArrowButton.propTypes = {
+  onClick: PropTypes.func.isRequired,
+  direction: PropTypes.oneOf(["prev", "next"]).isRequired,
+  disabled: PropTypes.bool,
+};
+
 function Pagination({ totalPages, currentPage, onPageChange }) {
-  const ellipsis = <EllipsisIcon />;
   const renderPaginationItems = () => {
     const paginationItems = [];
 
@@ -14,40 +66,35 @@ function Pagination({ totalPages, currentPage, onPageChange }) {
 
     if (showPrev) {
       paginationItems.push(
-        <button
+        <ArrowButton
           key="prev"
-          className={clsx(styles.prev, styles.item, {
-            [styles.disabled]: currentPage === 1,
-          })}
+          direction="prev"
           onClick={() => onPageChange(currentPage - 1)}
           disabled={currentPage === 1}
-        >
-          <ArrowUpIcon />
-        </button>
+        />
       );
     }
 
-    // Render ellipsis if there's a gap between first page and current page
     if (showPrev && currentPage > 3) {
-      paginationItems.push(<span key="prevEllipsis">{ellipsis}</span>);
+      paginationItems.push(<EllipsisButton key="prevEllipsis" />);
     }
 
     for (let i = Math.max(1, currentPage - 2); i < currentPage; i++) {
       paginationItems.push(
-        <button key={i} className={styles.item} onClick={() => onPageChange(i)}>
+        <PaginationButton key={i} onClick={() => onPageChange(i)}>
           {i}
-        </button>
+        </PaginationButton>
       );
     }
 
     paginationItems.push(
-      <button
+      <PaginationButton
         key={currentPage}
-        className={clsx(styles.item, styles.active)}
+        className={styles.active}
         onClick={() => onPageChange(currentPage)}
       >
         {currentPage}
-      </button>
+      </PaginationButton>
     );
 
     for (
@@ -56,29 +103,24 @@ function Pagination({ totalPages, currentPage, onPageChange }) {
       i++
     ) {
       paginationItems.push(
-        <button key={i} className={styles.item} onClick={() => onPageChange(i)}>
+        <PaginationButton key={i} onClick={() => onPageChange(i)}>
           {i}
-        </button>
+        </PaginationButton>
       );
     }
 
-    // Render ellipsis if there's a gap between current page and last page
     if (showNext && currentPage < totalPages - 2) {
-      paginationItems.push(<span key="nextEllipsis">{ellipsis}</span>);
+      paginationItems.push(<EllipsisButton key="nextEllipsis" />);
     }
 
     if (showNext) {
       paginationItems.push(
-        <button
+        <ArrowButton
           key="next"
-          className={clsx(styles.next, styles.item, {
-            [styles.disabled]: currentPage === totalPages,
-          })}
+          direction="next"
           onClick={() => onPageChange(currentPage + 1)}
           disabled={currentPage === totalPages}
-        >
-          <ArrowUpIcon />
-        </button>
+        />
       );
     }
 
@@ -86,11 +128,9 @@ function Pagination({ totalPages, currentPage, onPageChange }) {
   };
 
   return (
-    <>
-      <div className={styles.pagination} id="pagination">
-        {renderPaginationItems()}
-      </div>
-    </>
+    <div className={styles.pagination} id="pagination">
+      {renderPaginationItems()}
+    </div>
   );
 }
 

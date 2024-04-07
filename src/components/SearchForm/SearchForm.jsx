@@ -15,8 +15,8 @@ import { useGenreListAsync } from "../../hooks/useGenreListAsync.js";
 import { useArtistsAsync } from "../../hooks/useArtistsAsync.js";
 
 const formSchema = Yup.object({
-  artist: Yup.string().optional().min(2).max(100),
-  country: Yup.string().optional().min(2).max(100),
+  artist: Yup.string().min(1),
+  country: Yup.string().min(1),
   genres: Yup.array().min(1),
   decade: Yup.string().min(1),
 });
@@ -61,7 +61,7 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
                 {...field}
                 placeholder={"Artist"}
                 error={errors.artist?.message}
-                values={artistsQuery.data}
+                options={artistsQuery.data}
               />
             )}
           />

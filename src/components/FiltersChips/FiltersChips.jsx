@@ -3,6 +3,7 @@ import { useCountryListAsync } from "../../hooks/useCountryListAsync";
 import { useDecadeList } from "../../hooks/useDecadeList";
 import styles from "./FiltersChips.module.css";
 import FilterChip from "./FilterChip.jsx";
+import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 
 import { useGenreListAsync } from "../../hooks/useGenreListAsync.js";
 
@@ -45,6 +46,18 @@ export const FiltersChips = ({ filters, onFiltersChange }) => {
                 key={genre.id}
                 label={genre.title}
                 onRemove={() => handleArrayRemove("genres", genreId)}
+                style={{
+                  background:
+                    GENRE_COLORS_BY_GENRE_ID[genre.id].linearGradientValue,
+                  color:
+                    GENRE_COLORS_BY_GENRE_ID[genre.id].textTheme === "dark"
+                      ? "var(--dark-green)"
+                      : "var(--white)",
+                  fill:
+                    GENRE_COLORS_BY_GENRE_ID[genre.id].textTheme === "dark"
+                      ? "var(--dark-green)"
+                      : "var(--white)",
+                }}
               />
             );
           })}

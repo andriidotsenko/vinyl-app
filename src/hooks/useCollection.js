@@ -16,6 +16,6 @@ export const useCollection = () => {
   }
   useEffect(() => {
     localStorage.setItem("collectionList", JSON.stringify(collectionList));
-  });
+  }, [collectionList]);
   return { collectionList, handleCollectionToggle };
 };
