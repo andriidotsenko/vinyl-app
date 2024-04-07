@@ -47,16 +47,9 @@ export const FiltersChips = ({ filters, onFiltersChange }) => {
                 label={genre.title}
                 onRemove={() => handleArrayRemove("genres", genreId)}
                 style={{
+                  position: "relative",
                   background:
                     GENRE_COLORS_BY_GENRE_ID[genre.id].linearGradientValue,
-                  color:
-                    GENRE_COLORS_BY_GENRE_ID[genre.id].textTheme === "dark"
-                      ? "var(--dark-green)"
-                      : "var(--white)",
-                  fill:
-                    GENRE_COLORS_BY_GENRE_ID[genre.id].textTheme === "dark"
-                      ? "var(--dark-green)"
-                      : "var(--white)",
                 }}
               />
             );

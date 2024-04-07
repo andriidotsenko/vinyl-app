@@ -1,6 +1,6 @@
 function generatePastelColor() {
-  const min = 70;
-  const max = 150;
+  const min = 10;
+  const max = 200;
 
   const r1 = Math.floor(Math.random() * (max - min + 1) + min);
   const g1 = Math.floor(Math.random() * (max - min + 1) + min);

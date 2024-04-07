@@ -5,8 +5,10 @@ import styles from "./FiltersChip.module.css";
 const FilterChip = ({ label, onRemove, ...props }) => {
   return (
     <button className={styles.chip} {...props} onClick={onRemove}>
-      <span>{label}</span>
-      <DeleteIcon {...props} />
+      <div className={styles.chipContent}>
+        <span>{label}</span>
+        <DeleteIcon {...props} />
+      </div>
     </button>
   );
 };
