@@ -1,12 +1,12 @@
 .list {
   display: flex;
-  overflow: hidden;
   max-width: 100%;
   margin-bottom: 20px;
   gap: 12px;
   -ms-overflow-style: none;
   overflow-x: auto;
   scrollbar-width: none;
+  z-index: -1;
 }
 
 .list::-webkit-scrollbar {
@@ -47,4 +47,8 @@
   color: rgba(10, 37, 48, 0.7);
   font-size: 14px;
   font-weight: 600;
+}
+
+.block {
+  border-radius: 8px;
 }

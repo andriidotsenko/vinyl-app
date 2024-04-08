@@ -3,7 +3,7 @@ import styles from "./VinylCard.module.css";
 import CollectionButton from "../CollectionButton/CollectionButton.jsx";
 import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 import { Link } from "react-router-dom";
-
+import { motion } from "framer-motion";
 function VinylCard({
   card,
   inCollection,
@@ -15,8 +15,36 @@ function VinylCard({
 
   const roundedDecade = Math.floor(year / 10) * 10;
 
+  function getRandomRotation() {
+    const r = Math.random() * 45 - 45;
+    return r;
+  }
+  const randomValue = getRandomRotation();
+
   return (
-    <div key={id} className={styles.block}>
+    <motion.div
+      initial={{ once: true }}
+      viewport={{ once: true }}
+      key={id}
+      className={styles.block}
+      initial={{
+        opacity: 0,
+        scale: 0.9,
+        rotate: randomValue,
+      }}
+      whileInView={{
+        opacity: 0.9,
+        scale: 1,
+        rotate: 0,
+      }}
+      whileHover={{
+        cursor: "pointer",
+        opacity: 1,
+        scale: 1.02,
+        zIndex: 100,
+        border: "1px solid var  (--grey)",
+      }}
+    >
       <div className={styles.image}>
         <picture>
           <img src={image} title={title} alt={title} />
@@ -29,29 +57,29 @@ function VinylCard({
           }}
         />
       </div>
-      <Link to={`/vinyls/${id}`}>
+      <Link to={/vinyls/${id}}>
         <h2 className={styles.name}>{title}</h2>
       </Link>
 
-      <Link className={styles.group} to={`/results?artist=${artist}`}>
+      <Link className={styles.group} to={/results?artist=${artist}}>
         {artist}
       </Link>
       <div className={styles.info}>
         <p>
           Year:
-          <Link className={styles.link} to={`/results?decade=${roundedDecade}`}>
+          <Link className={styles.link} to={/results?decade=${roundedDecade}}>
             {year}
           </Link>
         </p>
         <p>
           Genre:
-          <Link className={styles.link} to={`/results?genres=${genre.id}`}>
+          <Link className={styles.link} to={/results?genres=${genre.id}}>
             {genre.title}
           </Link>
         </p>
         <p>
           Country:
-          <Link className={styles.link} to={`/results?country=${country.id}`}>
+          <Link className={styles.link} to={/results?country=${country.id}}>
             {country.title}
           </Link>
         </p>
@@ -63,7 +91,7 @@ function VinylCard({
           onClickInCollection(card.id);
         }}
       />
-    </div>
+    </motion.div>
   );
 }
 
