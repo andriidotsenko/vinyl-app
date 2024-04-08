@@ -3,16 +3,8 @@ import PropTypes from "prop-types";
 import styles from "./AutosuggestInput.module.css";
 import clsx from "clsx";
 
-const AutosuggestInput = ({
-  options,
-  value,
-  onChange,
-  placeholder,
-  error,
-  filterFunction,
-}) => {
+const AutosuggestInput = ({ value, onChange, placeholder, error, options }) => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
-
   const handleInputChange = (newValue) => {
     onChange(newValue);
   };
@@ -28,11 +20,9 @@ const AutosuggestInput = ({
   };
 
   const handleOptionSelect = (option) => {
-    onChange(option.artist);
+    onChange(option);
     setIsDropdownOpen(false);
   };
-
-  const filteredOptions = filterFunction(options, value);
 
   return (
     <>
@@ -48,16 +38,17 @@ const AutosuggestInput = ({
         />
         {isDropdownOpen && (
           <div className={styles.dropdownContainer}>
-            {filteredOptions.map((option) => (
-              <button
-                type="button"
-                key={option.id}
-                className={styles.dropdownOption}
-                onClick={() => handleOptionSelect(option)}
-              >
-                {option.artist}
-              </button>
-            ))}
+            {options &&
+              options.map((option) => (
+                <button
+                  type="button"
+                  key={option}
+                  className={styles.dropdownOption}
+                  onClick={() => handleOptionSelect(option)}
+                >
+                  {option}
+                </button>
+              ))}
           </div>
         )}
       </div>
@@ -67,18 +58,11 @@ const AutosuggestInput = ({
 };
 
 AutosuggestInput.propTypes = {
-  options: PropTypes.arrayOf(
-    PropTypes.shape({
-      id: PropTypes.number.isRequired,
-      title: PropTypes.string.isRequired,
-      artist: PropTypes.string.isRequired,
-    })
-  ).isRequired,
   value: PropTypes.string,
   onChange: PropTypes.func.isRequired,
   placeholder: PropTypes.string.isRequired,
   error: PropTypes.string,
-  filterFunction: PropTypes.func.isRequired,
+  options: PropTypes.arrayOf(PropTypes.string),
 };
 
 export default AutosuggestInput;

@@ -38,20 +38,19 @@ const MultiSelect = ({
   error,
   name,
 }) => {
-  const [selectedOptions, setSelectedOptions] = useState(value || []);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
   const toggleOption = (optionId) => {
-    const updatedOptions = selectedOptions.includes(optionId)
-      ? selectedOptions.filter((id) => id !== optionId)
-      : [...selectedOptions, optionId];
-    setSelectedOptions(updatedOptions);
+    const updatedOptions = value.includes(optionId)
+      ? value.filter((id) => id !== optionId)
+      : [...value, optionId];
     onChange(updatedOptions);
   };
 
   const getOptionNames = () => {
-    return selectedOptions.map(
-      (optionId) => options.find((option) => option.id === optionId)?.name || ""
+    return value.map(
+      (optionId) =>
+        options.find((option) => option.id === optionId)?.title || ""
     );
   };
 
@@ -61,20 +60,13 @@ const MultiSelect = ({
 
   const handleClearAll = () => {
     const newSelectedOptions =
-      selectedOptions.length === options.length
-        ? []
-        : options.map((option) => option.id);
-    setSelectedOptions(newSelectedOptions);
+      value.length === options.length ? [] : options.map((option) => option.id);
     onChange(newSelectedOptions);
   };
 
   return (
     <>
-      <input
-        type="hidden"
-        name={`${name}-all`}
-        value={selectedOptions.join(",")}
-      />
+      <input type="hidden" name={`${name}-all`} value={value.join(",")} />
       <div className={clsx(styles.root, { [styles.error]: error })}>
         <button
           type="button"
@@ -94,11 +86,7 @@ const MultiSelect = ({
               onClick={handleClearAll}
               className={styles.clearButton}
             >
-              {selectedOptions.length >= options.length ? (
-                <CheckIcon />
-              ) : (
-                <UncheckIcon />
-              )}
+              {value.length >= options.length ? <CheckIcon /> : <UncheckIcon />}
               <span>All</span>
             </button>
             {options.map((option) => (
@@ -106,10 +94,10 @@ const MultiSelect = ({
                 <Checkbox
                   name={`${name}-all`}
                   value={option.id.toString()}
-                  checked={selectedOptions.includes(option.id)}
+                  checked={value.includes(option.id)}
                   onChange={() => toggleOption(option.id)}
                 />
-                <span>{option.name}</span>
+                <span>{option.title}</span>
               </label>
             ))}
           </div>
@@ -124,7 +112,7 @@ MultiSelect.propTypes = {
   options: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.number.isRequired,
-      name: PropTypes.string.isRequired,
+      title: PropTypes.string.isRequired,
     })
   ).isRequired,
   value: PropTypes.arrayOf(PropTypes.number),

@@ -1,27 +1,31 @@
+import { useState } from "react";
 import MultiSelect from "./MultiSelect";
-import { useGenreList } from "../../hooks/useGenreList";
-import { useDecadeList } from "../../hooks/useDecadeList";
 
 export default {
-  title: "MultiSelect",
+  title: "Components/MultiSelect",
   component: MultiSelect,
 };
 
-export const Default = () => (
-  <MultiSelect
-    options={useGenreList()}
-    // onChange={() => console.log("genres")}
-    placeholder={"Genre"}
-    value={[]}
-  />
-);
-Default.args = {};
+const options = [
+  { id: 1, title: "Option 1" },
+  { id: 2, title: "Option 2" },
+];
 
-export const Decades = () => (
-  <MultiSelect
-    options={useDecadeList()}
-    // onChange={console.log("decades")}
-    placeholder={"Decades"}
-    value={[]}
-  />
-);
+export const Default = () => {
+  const [selectedOptions, setSelectedOptions] = useState([]);
+
+  const handleMultiSelectChange = (updatedOptions) => {
+    setSelectedOptions(updatedOptions);
+  };
+
+  return (
+    <MultiSelect
+      options={options}
+      placeholder={"Genre"}
+      value={selectedOptions}
+      onChange={handleMultiSelectChange}
+    />
+  );
+};
+
+Default.args = {};

@@ -1,14 +1,17 @@
 import PropTypes from "prop-types";
-import { useCountriesList } from "../../hooks/useCountriesList";
+import { useCountryListAsync } from "../../hooks/useCountryListAsync";
 import { useDecadeList } from "../../hooks/useDecadeList";
-import { useGenreList } from "../../hooks/useGenreList";
 import styles from "./FiltersChips.module.css";
 import FilterChip from "./FilterChip.jsx";
+import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
+
+import { useGenreListAsync } from "../../hooks/useGenreListAsync.js";
 
 export const FiltersChips = ({ filters, onFiltersChange }) => {
-  const genreList = useGenreList();
   const decadeList = useDecadeList();
-  const countryList = useCountriesList();
+
+  const { data: genreList } = useGenreListAsync();
+  const { data: countryList } = useCountryListAsync();
 
   function handleRemove(name) {
     onFiltersChange({ ...filters, [name]: "" });
@@ -32,7 +35,7 @@ export const FiltersChips = ({ filters, onFiltersChange }) => {
       {Boolean(filters.genres?.length) && (
         <>
           {filters.genres.map((genreId) => {
-            const genre = genreList.find((item) => item.id === genreId);
+            const genre = genreList?.find((item) => item.id === genreId);
 
             if (!genre) {
               return null;
@@ -41,39 +44,36 @@ export const FiltersChips = ({ filters, onFiltersChange }) => {
             return (
               <FilterChip
                 key={genre.id}
-                label={genre.name}
+                label={genre.title}
                 onRemove={() => handleArrayRemove("genres", genreId)}
+                style={{
+                  position: "relative",
+                  background:
+                    GENRE_COLORS_BY_GENRE_ID[genre.id].linearGradientValue,
+                }}
               />
             );
           })}
         </>
       )}
-      {Boolean(filters.decades?.length) && (
-        <>
-          {filters.decades.map((id) => {
-            const decade = decadeList.find((item) => item.id === id);
-
-            if (!decade) {
-              return null;
-            }
-
-            return (
-              <FilterChip
-                key={decade.id}
-                label={decade.name}
-                onRemove={() => handleArrayRemove("decades", id)}
-              />
-            );
-          })}
-        </>
-      )}
-
-      {filters.country && (
+      {filters.decade && (
         <FilterChip
-          label={countryList.find((item) => item.id === +filters.country).name}
-          onRemove={() => handleRemove("country")}
+          label={
+            decadeList.find((item) => item.from === +filters.decade)?.title
+          }
+          onRemove={() => handleRemove("decade")}
         />
       )}
+
+      {filters.country &&
+        countryList?.find((item) => item.id === filters.country) && (
+          <FilterChip
+            label={
+              countryList.find((item) => item.id === filters.country)?.title
+            }
+            onRemove={() => handleRemove("country")}
+          />
+        )}
     </div>
   );
 };
@@ -82,7 +82,7 @@ FiltersChips.propTypes = {
   filters: PropTypes.shape({
     artist: PropTypes.string,
     genres: PropTypes.arrayOf(PropTypes.number),
-    decades: PropTypes.arrayOf(PropTypes.number),
+    decade: PropTypes.string,
     country: PropTypes.string,
   }),
   onFiltersChange: PropTypes.func,

@@ -1,7 +1,7 @@
-import { useVinylCardList } from "./useVinylCardList.js";
+import { useFilteredVinylListAsync } from "./useFilteredVinylListAsync.js";
 
 export const useVinylById = (vinylId) => {
-  const vinylList = useVinylCardList();
+  const vinylList = useFilteredVinylListAsync();
 
   return vinylList.find((vinyl) => vinyl.id === vinylId);
 };

@@ -1,5 +1,5 @@
 .chips {
-  display: flex;
+  display: grid;
   /* overflow: hidden; */
   max-width: 100vh;
   margin-bottom: 20px;
@@ -12,9 +12,10 @@
 .root {
   display: flex;
   max-width: 100%;
+  flex-wrap: wrap;
+  justify-content: flex-start;
   margin-bottom: 20px;
   gap: 12px;
-  /* -ms-overflow-style: none; */
   overflow-x: auto;
   scrollbar-width: none;
 }

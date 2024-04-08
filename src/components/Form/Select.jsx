@@ -4,8 +4,6 @@ import clsx from "clsx";
 import styles from "./Selects.module.css";
 import ArrowDownIcon from "../Icon/ArrowDownIcon.jsx";
 import ArrowUpIcon from "../Icon/ArrowUpIcon.jsx";
-import CheckIcon from "../Icon/CheckIcon.jsx";
-import UncheckIcon from "../Icon/UncheckIcon.jsx";
 
 const Select = ({
   options,
@@ -38,29 +36,28 @@ const Select = ({
           aria-expanded={isOpen}
         >
           {value
-            ? options.find((option) => option.id === value)?.name || ""
+            ? options.find((option) => option.value === value)?.label || ""
             : placeholder}
           {isOpen ? <ArrowUpIcon /> : <ArrowDownIcon />}
         </button>
 
         {isOpen && (
           <div className={styles.dropdown} aria-hidden={!isOpen}>
-            {options.map((option) => (
+            {options.map((options) => (
               <button
-                key={option.id}
+                key={options.value}
                 type="button"
                 className={clsx(styles.checkbox, {
-                  [styles.selected]: value === option.id,
+                  [styles.selected]: value === options.value,
                 })}
-                onClick={() => handleOptionChange(option.id)}
+                onClick={() => handleOptionChange(options.value)}
               >
-                {value === option.id ? <CheckIcon /> : <UncheckIcon />}{" "}
-                <span>{option.name}</span>
+                <span>{options.label}</span>
               </button>
             ))}
           </div>
         )}
-      </div>{" "}
+      </div>
       {error && <div style={{ color: "red", fontSize: "11px" }}>{error}</div>}
     </>
   );
@@ -69,8 +66,9 @@ const Select = ({
 Select.propTypes = {
   options: PropTypes.arrayOf(
     PropTypes.shape({
-      id: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
-      name: PropTypes.string.isRequired,
+      value: PropTypes.oneOfType([PropTypes.number, PropTypes.string])
+        .isRequired,
+      label: PropTypes.string.isRequired,
     })
   ).isRequired,
   value: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),

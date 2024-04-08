@@ -1,11 +1,17 @@
 import GenreCard from "../GenreCard/GenreCard.jsx";
 import styles from "./GenreList.module.css";
-import { useGenreList } from "../../hooks/useGenreList.js";
+// import { useGenreList } from "../../hooks/useGenreList.js";
 import { Link } from "react-router-dom";
+import { useGenreListAsync } from "../../hooks/useGenreListAsync.js";
+import { Loader } from "../Loader/Loader.jsx";
 
 const GenreList = () => {
-  const genreList = useGenreList();
+  // const genreList = useGenreList();
+  const { data, isLoading } = useGenreListAsync();
 
+  if (isLoading) {
+    return <Loader />;
+  }
   return (
     <>
       <div className={styles.wrapper}>
@@ -13,13 +19,13 @@ const GenreList = () => {
         <h3 className={styles.more}>See more</h3>
       </div>
       <div className={styles.list} id="genreItems">
-        {genreList.length === 0 ? (
+        {data.length === 0 ? (
           <p className={styles.not_found}>Dont find Genres</p>
         ) : (
-          genreList.map((genre) => (
+          data.map((genre) => (
             <div key={genre.id}>
               <Link key={genre.id} to={"/results?genres=" + genre.id}>
-                <GenreCard {...genre} />
+                <GenreCard key={genre.id} genre={genre} />
               </Link>
             </div>
           ))

@@ -2,11 +2,13 @@ import PropTypes from "prop-types";
 import DeleteIcon from "../Icon/DeleteIcon";
 import styles from "./FiltersChip.module.css";
 
-const FilterChip = ({ label, onRemove }) => {
+const FilterChip = ({ label, onRemove, ...props }) => {
   return (
-    <button className={styles.chip} onClick={onRemove}>
-      <span>{label}</span>
-      <DeleteIcon />
+    <button className={styles.chip} {...props} onClick={onRemove}>
+      <div className={styles.chipContent}>
+        <span>{label}</span>
+        <DeleteIcon {...props} />
+      </div>
     </button>
   );
 };
