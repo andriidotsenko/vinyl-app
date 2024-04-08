@@ -46,7 +46,7 @@ export function HomePage() {
             onClickInFavorites={handleFavoritesToggle}
           />
           <Pagination
-            totalPages={total}
+            totalPages={Math.ceil(total / pageSize)}
             currentPage={currentPage}
             onPageChange={handlePageChange}
           />

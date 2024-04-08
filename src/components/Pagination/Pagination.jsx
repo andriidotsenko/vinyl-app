@@ -25,17 +25,13 @@ PaginationButton.propTypes = {
   disabled: PropTypes.bool,
 };
 
-function EllipsisButton({ className }) {
+function EllipsisButton {
   return (
-    <span className={className}>
+    <span>
       <EllipsisIcon />
     </span>
   );
 }
-
-EllipsisButton.propTypes = {
-  className: PropTypes.string,
-};
 
 function ArrowButton({ onClick, direction, disabled }) {
   return (
