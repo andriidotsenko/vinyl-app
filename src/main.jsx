@@ -8,8 +8,16 @@ import NotFoundPage from "./pages/NotFoundPage/NotFoundPage";
 import { SearchResultsPage } from "./pages/SearchResultPage/SearchResultPage";
 import { VinylPage } from "./pages/VinylPage/VinylPage";
 import { HelmetProvider } from "react-helmet-async";
+
 const appElement = document.getElementById("app");
 const root = createRoot(appElement);
+
+async function bootstrap() {
+  if (import.meta.env.DEV) {
+    const { worker } = await import("./mocks/browser.js");
+    worker.start();
+  }
+}
 
 const router = createBrowserRouter([
   {
@@ -27,6 +35,7 @@ const router = createBrowserRouter([
 
       {
         path: "results",
+
         element: <SearchResultsPage />,
       },
       {
@@ -41,10 +50,12 @@ const router = createBrowserRouter([
   },
 ]);
 
-root.render(
-  <StrictMode>
-    <HelmetProvider>
-      <RouterProvider router={router} />
-    </HelmetProvider>
-  </StrictMode>
-);
+bootstrap().then(() => {
+  root.render(
+    <StrictMode>
+      <HelmetProvider>
+        <RouterProvider router={router} />
+      </HelmetProvider>
+    </StrictMode>
+  );
+});

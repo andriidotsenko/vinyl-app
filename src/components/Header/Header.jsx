@@ -5,12 +5,19 @@ import BackButton from "../BackButton/BackButton.jsx";
 import InactiveFavoriteIcon from "../Icon/InactiveFavoriteIcon.jsx";
 import CollectionIcon from "../Icon/CollectionIcon.jsx";
 
+import { Link } from "react-router-dom";
+
 function Header({ favoriteCount, collectionCount }) {
   return (
     <header className={styles.header}>
       <div className="container">
         <div className={styles.wrap}>
-          <BackButton buttonText={"Back"} />
+          <div className={styles.actions}>
+            <BackButton buttonText={"Back"} />
+            <Link className={styles.link} to={"/"}>
+              Home
+            </Link>
+          </div>
           <div className={styles.actions}>
             <HeaderCountingButton
               count={favoriteCount}

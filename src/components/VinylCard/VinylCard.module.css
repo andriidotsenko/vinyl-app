@@ -1,5 +1,6 @@
 .block {
   display: flex;
+  min-width: 30%;
   max-width: 500px;
   flex-direction: column;
   justify-content: space-between;
@@ -69,4 +70,13 @@
 
 .root {
   fill: var(--white);
+}
+
+.link {
+  color: #0a2530;
+
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }

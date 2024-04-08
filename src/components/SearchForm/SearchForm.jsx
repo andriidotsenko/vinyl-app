@@ -2,9 +2,8 @@ import * as Yup from "yup";
 import PropTypes from "prop-types";
 import { useForm, Controller } from "react-hook-form";
 import { yupResolver } from "@hookform/resolvers/yup";
-import { useCountriesList } from "../../hooks/useCountriesList.js";
 import { useDecadeList } from "../../hooks/useDecadeList.js";
-import { useGenreList } from "../../hooks/useGenreList.js";
+import { useCountryListAsync } from "../../hooks/useCountryListAsync.js";
 import { emptyFilters } from "../../utils/filters.js";
 import { Button } from "../Button/Button";
 import MultiSelect from "../Form/MultiSelect.jsx";
@@ -12,21 +11,21 @@ import Select from "../Form/Select.jsx";
 import AutosuggestInput from "../Form/AutosuggestInput.jsx";
 import styles from "./SearchForm.module.css";
 import clsx from "clsx";
-import { useVinylCardList } from "../../hooks/useVinylCardList.js";
-import { filterOptions } from "./utils.js";
+import { useGenreListAsync } from "../../hooks/useGenreListAsync.js";
+import { useArtistsAsync } from "../../hooks/useArtistsAsync.js";
 
 const formSchema = Yup.object({
-  artist: Yup.string().optional().min(2).max(8),
+  artist: Yup.string().min(1),
   country: Yup.string().min(1),
-  genres: Yup.array().min(2),
-  decades: Yup.array().of(Yup.number()).min(1),
+  genres: Yup.array().min(1),
+  decade: Yup.string().min(1),
 });
 
 export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
-  const genreList = useGenreList();
   const decadeList = useDecadeList();
-  const countryList = useCountriesList();
-  const vinyls = useVinylCardList();
+
+  const genreListQuery = useGenreListAsync();
+  const coutryListQuery = useCountryListAsync();
 
   const {
     handleSubmit,
@@ -41,7 +40,7 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
   });
 
   watch();
-
+  const artistsQuery = useArtistsAsync(getValues().artist || "");
   const isFiltersEmpty = Object.values(getValues()).every((value) =>
     Array.isArray(value) ? !value?.length : !value
   );
@@ -60,12 +59,9 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
             render={({ field }) => (
               <AutosuggestInput
                 {...field}
-                options={vinyls}
                 placeholder={"Artist"}
                 error={errors.artist?.message}
-                filterFunction={(options, searchText) =>
-                  filterOptions(options, searchText)
-                }
+                options={artistsQuery.data}
               />
             )}
           />
@@ -77,7 +73,7 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
             render={({ field }) => (
               <MultiSelect
                 {...field}
-                options={genreList}
+                options={genreListQuery.data}
                 placeholder={"Genre"}
                 error={errors.genres?.message}
               />
@@ -87,13 +83,17 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
         <div className={clsx(styles.block, styles.decades)}>
           <Controller
             control={control}
-            name="decades"
+            name="decade"
             render={({ field }) => (
-              <MultiSelect
+              <Select
                 {...field}
-                options={decadeList}
-                placeholder={"Decades"}
-                error={errors.decades?.message}
+                options={decadeList.map((decade) => ({
+                  value: decade.from,
+                  label: decade.title,
+                }))}
+                ref={null}
+                error={errors.decade?.message}
+                placeholder="Decade"
               />
             )}
           />
@@ -105,9 +105,13 @@ export const SearchForm = ({ onSubmit, defaultValues = emptyFilters }) => {
             render={({ field }) => (
               <Select
                 {...field}
-                options={countryList}
-                placeholder={"Country"}
+                options={coutryListQuery.data.map((country) => ({
+                  value: country.id,
+                  label: country.title,
+                }))}
+                ref={null}
                 error={errors.country?.message}
+                placeholder="Country"
               />
             )}
           />
