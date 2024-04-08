@@ -25,7 +25,7 @@ PaginationButton.propTypes = {
   disabled: PropTypes.bool,
 };
 
-function EllipsisButton {
+function EllipsisButton() {
   return (
     <span>
       <EllipsisIcon />

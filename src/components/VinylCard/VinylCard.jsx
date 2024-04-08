@@ -4,6 +4,7 @@ import CollectionButton from "../CollectionButton/CollectionButton.jsx";
 import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+
 function VinylCard({
   card,
   inCollection,
@@ -14,19 +15,16 @@ function VinylCard({
   const { id, title, artist, year, country, genre, image } = card;
 
   const roundedDecade = Math.floor(year / 10) * 10;
-
   function getRandomRotation() {
     const r = Math.random() * 45 - 45;
     return r;
   }
   const randomValue = getRandomRotation();
-
   return (
     <motion.div
-      initial={{ once: true }}
-      viewport={{ once: true }}
       key={id}
       className={styles.block}
+      viewport={{ once: true }}
       initial={{
         opacity: 0,
         scale: 0.9,
@@ -57,33 +55,33 @@ function VinylCard({
           }}
         />
       </div>
-      <Link to={/vinyls/${id}}>
+      <Link to={`/vinyls/${id}`}>
         <h2 className={styles.name}>{title}</h2>
       </Link>
 
-      <Link className={styles.group} to={/results?artist=${artist}}>
+      <Link className={styles.group} to={`/results?artist=${artist}`}>
         {artist}
       </Link>
-      <div className={styles.info}>
+      <motion.div className={styles.info}>
         <p>
           Year:
-          <Link className={styles.link} to={/results?decade=${roundedDecade}}>
+          <Link className={styles.link} to={`/results?decade=${roundedDecade}`}>
             {year}
           </Link>
         </p>
         <p>
           Genre:
-          <Link className={styles.link} to={/results?genres=${genre.id}}>
+          <Link className={styles.link} to={`/results?genres=${genre.id}`}>
             {genre.title}
           </Link>
         </p>
         <p>
           Country:
-          <Link className={styles.link} to={/results?country=${country.id}}>
+          <Link className={styles.link} to={`/results?country=${country.id}`}>
             {country.title}
           </Link>
         </p>
-      </div>
+      </motion.div>
       <CollectionButton
         className={styles.root}
         isActive={inCollection}
