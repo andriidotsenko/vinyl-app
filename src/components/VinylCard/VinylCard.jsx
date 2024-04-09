@@ -4,6 +4,8 @@ import CollectionButton from "../CollectionButton/CollectionButton.jsx";
 import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
+import clsx from "clsx";
 
 function VinylCard({
   card,
@@ -15,32 +17,27 @@ function VinylCard({
   const { id, title, artist, year, country, genre, image } = card;
 
   const roundedDecade = Math.floor(year / 10) * 10;
-  function getRandomRotation() {
-    const r = Math.random() * 45 - 45;
-    return r;
-  }
-  const randomValue = getRandomRotation();
+
   return (
     <motion.div
       key={id}
       className={styles.block}
       viewport={{ once: true }}
       initial={{
-        opacity: 0,
+        opacity: 1,
         scale: 0.9,
-        rotate: randomValue,
+        rotate: 0.5,
       }}
       whileInView={{
-        opacity: 0.9,
         scale: 1,
         rotate: 0,
+        opacity: 0.9,
       }}
       whileHover={{
         cursor: "pointer",
         opacity: 1,
-        scale: 1.02,
         zIndex: 100,
-        border: "1px solid var  (--grey)",
+        border: "1px solid var(--grey-border)",
       }}
     >
       <div className={styles.image}>
@@ -71,8 +68,17 @@ function VinylCard({
         </p>
         <p>
           Genre:
-          <Link className={styles.link} to={`/results?genres=${genre.id}`}>
-            {genre.title}
+          <Link>
+            <div
+              className={clsx(styles.link, styles.genreLink)}
+              to={`/results?genres=${genre.id}`}
+              style={{
+                background:
+                  GENRE_COLORS_BY_GENRE_ID[genre.id].linearGradientValue,
+              }}
+            >
+              <div className={styles.genreText}>{genre.title}</div>
+            </div>
           </Link>
         </p>
         <p>

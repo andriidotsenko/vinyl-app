@@ -4,11 +4,17 @@
 }
 
 .counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapperCounter {
   position: absolute;
   z-index: 2;
-
   top: 50%;
   left: 50%;
+  display: block;
   display: flex;
   overflow: hidden;
   min-width: 19px;
@@ -22,10 +28,44 @@
   border-radius: 4px;
   background-color: var(--error);
   color: var(--white);
-  font-size: 9px;
+  font-size: 12px;
   font-weight: 500;
   line-height: 20px;
   text-align: center;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.enter {
+  opacity: 0;
+  scale: 2;
+  transform: translateY(-20px);
+}
+
+.enterActive {
+  opacity: 1;
+  scale: 1;
+  transform: translateY(0px);
+  transition: all 0.2s ease;
+}
+
+.exit,
+.enterDone {
+  opacity: 1;
+  scale: 1;
+
+  transform: translateY(0px);
+}
+
+.exitActive {
+  opacity: 0;
+  scale: 2;
+  transform: translateY(20px);
+  transition: all 0.2s ease;
+}
+.exitDone {
+  opacity: 0;
+  scale: 1;
+
+  transform: translateY(20px);
 }

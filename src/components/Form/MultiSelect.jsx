@@ -6,6 +6,7 @@ import CheckIcon from "../Icon/CheckIcon.jsx";
 import UncheckIcon from "../Icon/UncheckIcon.jsx";
 import ArrowUpIcon from "../Icon/ArrowUpIcon.jsx";
 import ArrowDownIcon from "../Icon/ArrowDownIcon.jsx";
+import { CSSTransition } from "react-transition-group";
 
 const Checkbox = ({ value, checked, onChange, name }) => {
   return (
@@ -78,8 +79,13 @@ const MultiSelect = ({
           <span>{getOptionNames().join(", ") || placeholder}</span>
           {isDropdownOpen ? <ArrowDownIcon /> : <ArrowUpIcon />}
         </button>
-
-        {isDropdownOpen && (
+        <CSSTransition
+          in={isDropdownOpen}
+          timeout={300}
+          classNames={styles}
+          mountOnEnter
+          unmountOnExit
+        >
           <div className={clsx(styles.dropdown, { [styles.error]: error })}>
             <button
               type="button"
@@ -101,7 +107,7 @@ const MultiSelect = ({
               </label>
             ))}
           </div>
-        )}
+        </CSSTransition>
       </div>
       {error && <div style={{ color: "red", fontSize: "11px" }}>{error}</div>}
     </>

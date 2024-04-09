@@ -73,10 +73,26 @@
 }
 
 .link {
+  display: inline-flex;
+  margin-left: 3px;
   color: #0a2530;
-
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+}
+
+.genreLink {
+  padding: 1px 1px;
+  border-radius: 4px;
+}
+
+.genreText {
+  padding: 1px 3px;
+  border-radius: 3px;
+  background-color: #ffffff;
+  color: var(--black);
+  font-size: 14px;
+  opacity: 0.8;
+  white-space: nowrap;
 }

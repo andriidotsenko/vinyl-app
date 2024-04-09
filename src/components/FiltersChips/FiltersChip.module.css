@@ -23,5 +23,10 @@ span {
   justify-content: center;
   padding: 5px 8px;
   border-radius: 3px;
-  background-color: var(--white);
+  background: linear-gradient(
+    -45deg,
+    rgba(255, 255, 255, 0.9) 0%,
+    rgba(252, 252, 252, 0.8) 100%
+  );
+  opacity: 0.99;
 }

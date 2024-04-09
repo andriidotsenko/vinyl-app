@@ -1,5 +1,7 @@
 import PropTypes from "prop-types";
 import styles from "./HeaderCountingButton.module.css";
+import { Link } from "react-router-dom";
+import { CSSTransition, SwitchTransition } from "react-transition-group";
 
 function HeaderCountingButton({ count, icon }) {
   const formatNumber = (number) =>
@@ -11,12 +13,24 @@ function HeaderCountingButton({ count, icon }) {
   const formattedCount = count < 1 ? 0 : count;
 
   return (
-    <a href="/" className={styles.icon}>
+    <Link to="/" className={styles.icon}>
       {icon}
       {formattedCount > 0 && (
-        <span className={styles.counter}>{formatNumber(formattedCount)}</span>
+        <div className={styles.wrapperCounter}>
+          <SwitchTransition>
+            <CSSTransition
+              key={formattedCount}
+              timeout={200}
+              classNames={styles}
+            >
+              <div className={styles.counter}>
+                {formatNumber(formattedCount)}
+              </div>
+            </CSSTransition>
+          </SwitchTransition>
+        </div>
       )}
-    </a>
+    </Link>
   );
 }
 

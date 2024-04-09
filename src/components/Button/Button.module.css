@@ -32,15 +32,15 @@
   color: #fff;
 }
 
-.primary:hover {
+/* .primary:hover {
   background-color: #05141a;
-}
+} */
 
-.primary:active {
+/* .primary:active {
   background-color: #05141a;
   transform: scale(0.98);
   transform-origin: 50% 50%;
-}
+} */
 
 .secondary {
   background-color: var(--blue);

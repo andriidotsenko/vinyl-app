@@ -4,6 +4,7 @@ import clsx from "clsx";
 import styles from "./Selects.module.css";
 import ArrowDownIcon from "../Icon/ArrowDownIcon.jsx";
 import ArrowUpIcon from "../Icon/ArrowUpIcon.jsx";
+import { CSSTransition } from "react-transition-group";
 
 const Select = ({
   options,
@@ -33,7 +34,6 @@ const Select = ({
           type="button"
           onClick={toggleDropdown}
           className={clsx(styles.field, { [styles.error]: error })}
-          aria-expanded={isOpen}
         >
           {value
             ? options.find((option) => option.value === value)?.label || ""
@@ -41,8 +41,14 @@ const Select = ({
           {isOpen ? <ArrowUpIcon /> : <ArrowDownIcon />}
         </button>
 
-        {isOpen && (
-          <div className={styles.dropdown} aria-hidden={!isOpen}>
+        <CSSTransition
+          in={isOpen}
+          timeout={300}
+          classNames={styles}
+          mountOnEnter
+          unmountOnExit
+        >
+          <div className={styles.dropdown}>
             {options.map((options) => (
               <button
                 key={options.value}
@@ -56,7 +62,7 @@ const Select = ({
               </button>
             ))}
           </div>
-        )}
+        </CSSTransition>
       </div>
       {error && <div style={{ color: "red", fontSize: "11px" }}>{error}</div>}
     </>
