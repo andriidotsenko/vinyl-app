@@ -6,6 +6,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 import clsx from "clsx";
+import { useReliseById } from "../../hooks/useReliseById.js";
 
 function VinylCard({
   card,
@@ -17,6 +18,9 @@ function VinylCard({
   const { id, title, artist, year, country, genre, image } = card;
 
   const roundedDecade = Math.floor(year / 10) * 10;
+
+  const { data } = useReliseById(id);
+  const { cover_image } = data || {};
 
   return (
     <motion.div
@@ -42,7 +46,11 @@ function VinylCard({
     >
       <div className={styles.image}>
         <picture>
-          <img src={image} title={title} alt={title} />
+          <img
+            src={cover_image ? cover_image : image}
+            title={title}
+            alt={title}
+          />
         </picture>
         <FavoriteButton
           inFavorites={inFavorites}
@@ -59,7 +67,7 @@ function VinylCard({
       <Link className={styles.group} to={`/results?artist=${artist}`}>
         {artist}
       </Link>
-      <motion.div className={styles.info}>
+      <div className={styles.info}>
         <p>
           Year:
           <Link className={styles.link} to={`/results?decade=${roundedDecade}`}>
@@ -87,7 +95,7 @@ function VinylCard({
             {country.title}
           </Link>
         </p>
-      </motion.div>
+      </div>
       <CollectionButton
         className={styles.root}
         isActive={inCollection}
