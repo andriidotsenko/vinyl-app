@@ -5,7 +5,12 @@ import PauseButton from "../Icon/PauseIcon.jsx";
 
 const PlayButton = ({ isFill, onClick }) => {
   return (
-    <button className={styles.здфн} onClick={onClick}>
+    <button
+      type="button"
+      disabled={isFill}
+      className={styles.play}
+      onClick={onClick}
+    >
       {isFill ? <PauseButton /> : <PlayIcon />}
     </button>
   );

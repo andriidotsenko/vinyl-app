@@ -50,6 +50,7 @@ img {
 
 .vinyl {
   position: absolute;
+  z-index: -100;
   top: 0%;
   left: 0%;
   display: flex;
@@ -57,22 +58,8 @@ img {
   height: 300px;
   align-items: center;
   justify-content: center;
-  transform: translate(100%, 0);
-  transform-origin: 150% 50%;
 }
 
-.rotate {
-  animation: rotateAndTranslateAnimation 10s linear infinite;
-}
-
-@keyframes rotateAndTranslateAnimation {
-  from {
-    transform: rotate(0deg) translate(100%, 0);
-  }
-  to {
-    transform: rotate(360deg) translate(100%, 0);
-  }
-}
 .vinylImg {
   z-index: 2;
   top: 50%;

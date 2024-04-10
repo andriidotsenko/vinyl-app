@@ -12,9 +12,10 @@ import { useCountryListAsync } from "../../hooks/useCountryListAsync";
 import FavoriteButton from "../../components/FavoriteButton/FavoriteButton.jsx";
 import PlayButton from "../../components/PlayButton/PlayButton.jsx";
 import CollectionButton from "../../components/CollectionButton/CollectionButton.jsx";
+import { motion, useAnimation } from "framer-motion";
 
 import { useState } from "react";
-import clsx from "clsx";
+
 import { Loader } from "../../components/Loader/Loader.jsx";
 
 export function VinylPage() {
@@ -32,6 +33,67 @@ export function VinylPage() {
   const { data: countries } = useCountryListAsync();
   const [isPlay, setIsPlay] = useState(false);
   const { data } = useReliseById(vinylId);
+
+  const controlsVinyl = useAnimation();
+  const controlsCover = useAnimation();
+
+  const animateVinyl = async () => {
+    await controlsVinyl.start({
+      scale: 0.8,
+      transition: { duration: 0.5 },
+      zIndex: -100,
+    });
+    await controlsVinyl.start({
+      x: 300,
+      transition: { duration: 0.5 },
+    });
+    await controlsVinyl.start({
+      x: 175,
+      scale: 0.9,
+      transition: { duration: 0.5 },
+      zIndex: 100,
+    });
+    await controlsVinyl.start({
+      rotate: 360,
+      transition: { duration: 3 },
+    });
+
+    await controlsVinyl.start({
+      scale: 1,
+      zIndex: 99,
+      transition: { duration: 0.5 },
+    });
+    setIsPlay((prevIsPlay) => !prevIsPlay);
+  };
+  const animateCover = async () => {
+    await controlsCover.start({
+      scale: 0.8,
+      transition: { duration: 0.5 },
+    });
+    await controlsCover.start({
+      scale: 0.9,
+      x: -20,
+      transition: { duration: 0.5 },
+    });
+    await controlsCover.start({
+      transition: { duration: 3.5 },
+    });
+    await controlsCover.start({
+      x: 0,
+      transition: { duration: 0.5 },
+    });
+    await controlsCover.start({
+      scale: 1,
+      zIndex: -99,
+      transition: { duration: 0.5 },
+    });
+  };
+
+  const handlePlay = () => {
+    setIsPlay((prevIsPlay) => !prevIsPlay);
+    !isPlay && animateVinyl();
+    !isPlay && animateCover();
+  };
 
   if (!data) {
     return <Loader />;
@@ -83,9 +145,14 @@ export function VinylPage() {
           <h2 className={styles.artist}>{artist}</h2>
           <div className={styles.avatar}>
             <div className={styles.images}>
-              <img className={styles.img} src={cover_image} alt={title} />
+              <motion.img
+                animate={controlsCover}
+                className={styles.img}
+                src={cover_image}
+                alt={title}
+              />
             </div>
-            <div className={clsx(styles.vinyl, isPlay ? styles.rotate : "")}>
+            <motion.div animate={controlsVinyl} className={styles.vinyl}>
               <div className={styles.vinylImg}>
                 <img
                   className={styles.vinylImgFile}
@@ -96,17 +163,14 @@ export function VinylPage() {
               <div className={styles.vinylCoverImg}>
                 <img src={thumb_image} alt=""></img>
               </div>
-            </div>
+            </motion.div>
             <FavoriteButton
               isFill={favoritesList.includes(id)}
               onClick={() => {
                 handleFavoritesToggle(id);
               }}
             />
-            <PlayButton
-              isFill={isPlay}
-              onClick={() => setIsPlay(!isPlay)}
-            ></PlayButton>
+            <PlayButton isFill={isPlay} onClick={handlePlay}></PlayButton>
           </div>
           <div className={styles.info}>
             <div className={styles.wrapper}>
