@@ -44,7 +44,7 @@ export function VinylPage() {
     country,
     thumb_image,
     cover_image,
-    trackList,
+    tracklist,
     styles: releaseStyles,
   } = data;
 
@@ -162,7 +162,7 @@ export function VinylPage() {
           </div>
           <h3 className={styles.title}>Track list</h3>
           <ul className={styles.list}>
-            {trackList.map((track, index) => (
+            {tracklist.map((track, index) => (
               <li className={styles.track} key={index}>
                 <div className={styles.left}>
                   <div className={styles.text}>{track.position}</div>
