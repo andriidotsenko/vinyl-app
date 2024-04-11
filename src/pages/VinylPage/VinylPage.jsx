@@ -17,6 +17,7 @@ import { motion, useAnimation } from "framer-motion";
 import { useState } from "react";
 
 import { Loader } from "../../components/Loader/Loader.jsx";
+import clsx from "clsx";
 
 export function VinylPage() {
   const { vinylId } = useParams();
@@ -37,62 +38,105 @@ export function VinylPage() {
   const controlsVinyl = useAnimation();
   const controlsCover = useAnimation();
 
-  const animateVinyl = async () => {
+  const animateVinylEnable = async () => {
+    if (!isPlay) setIsPlay((prevIsPlay) => !prevIsPlay);
     await controlsVinyl.start({
-      scale: 0.8,
+      scale: 0.9,
+      transition: { duration: 0.5 },
+    });
+    await controlsVinyl.start({
+      scale: 0.9,
       transition: { duration: 0.5 },
       zIndex: -100,
+      x: 250,
     });
     await controlsVinyl.start({
-      x: 300,
-      transition: { duration: 0.5 },
-    });
-    await controlsVinyl.start({
-      x: 175,
-      scale: 0.9,
       transition: { duration: 0.5 },
       zIndex: 100,
     });
     await controlsVinyl.start({
-      rotate: 360,
-      transition: { duration: 3 },
-    });
-
-    await controlsVinyl.start({
-      scale: 1,
-      zIndex: 99,
       transition: { duration: 0.5 },
+      scale: 1.1,
+      x: 200,
     });
-    setIsPlay((prevIsPlay) => !prevIsPlay);
+    await controlsVinyl.start({
+      rotate: 360,
+      transition: { delay: 0.2, duration: 5, repeat: Infinity, ease: "linear" },
+    });
   };
-  const animateCover = async () => {
-    await controlsCover.start({
+
+  const animateVinylDisable = async () => {
+    if (isPlay) setIsPlay((prevIsPlay) => !prevIsPlay);
+    await controlsVinyl.start({
+      rotate: -0,
+      transition: { duration: 1, repeat: 0 },
+    });
+    await controlsVinyl.start({
+      scale: 0.9,
+      transition: { duration: 0.5 },
+      zIndex: -100,
+      x: 250,
+    });
+    await controlsVinyl.start({
       scale: 0.8,
       transition: { duration: 0.5 },
+
+      x: 0,
+    });
+    await controlsVinyl.start({
+      scale: 1,
+      transition: { duration: 0.5 },
+
+      x: 0,
+    });
+    await controlsVinyl.stop({});
+  };
+
+  const animateCoverEnable = async () => {
+    await controlsCover.start({
+      scale: 0.9,
+      transition: { duration: 0.5 },
+    });
+    await controlsCover.start({
+      transition: { duration: 0.5 },
+      zIndex: -99,
+
+      x: -30,
+    });
+    await controlsCover.start({
+      scale: 0.76,
+
+      rotate: -5,
+      transition: { duration: 0.5 },
+      x: -40,
+    });
+  };
+  const animateCoverDisable = async () => {
+    await controlsCover.start({
+      transition: { delay: 0.5, duration: 0.5 },
+      zIndex: -99,
+      rotate: 0,
+      x: -100,
     });
     await controlsCover.start({
       scale: 0.9,
-      x: -20,
       transition: { duration: 0.5 },
     });
-    await controlsCover.start({
-      transition: { duration: 3.5 },
-    });
-    await controlsCover.start({
-      x: 0,
-      transition: { duration: 0.5 },
-    });
-    await controlsCover.start({
-      scale: 1,
-      zIndex: -99,
-      transition: { duration: 0.5 },
-    });
-  };
 
+    await controlsCover.start({
+      transition: { duration: 0.5 },
+      rotate: 0,
+      x: 0,
+    });
+    await controlsCover.start({
+      transition: { duration: 0.5 },
+      scale: 1,
+    });
+    await controlsCover.stop({});
+  };
   const handlePlay = () => {
-    setIsPlay((prevIsPlay) => !prevIsPlay);
-    !isPlay && animateVinyl();
-    !isPlay && animateCover();
+    isPlay ? animateVinylDisable() : animateVinylEnable();
+    isPlay ? animateCoverDisable() : animateCoverEnable();
   };
 
   if (!data) {
@@ -229,7 +273,9 @@ export function VinylPage() {
             {tracklist.map((track, index) => (
               <li className={styles.track} key={index}>
                 <div className={styles.left}>
-                  <div className={styles.text}>{track.position}</div>
+                  <div className={clsx(styles.position, styles.text)}>
+                    {track.position}
+                  </div>
                   <div className={styles.value}>{track.title}</div>
                 </div>
                 <div className={styles.text}>{track.duration}</div>
@@ -242,7 +288,7 @@ export function VinylPage() {
               <div className={styles.icon}>ICON</div>
             </div>
             <div className={styles.placeholder}>
-              You can write here whatever you want..{" "}
+              You can write here whatever you want..
               <span
                 style={{
                   color: "var(--error)",

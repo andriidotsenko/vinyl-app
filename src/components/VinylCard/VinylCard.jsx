@@ -14,14 +14,14 @@ function VinylCard({
   inFavorites,
   onClickInCollection,
   onClickInFavorites,
+
+  setOpenedVinylId,
 }) {
   const { id, title, artist, year, country, genre, image } = card;
 
   const roundedDecade = Math.floor(year / 10) * 10;
-
   const { data } = useReliseById(id);
   const { cover_image } = data || {};
-
   return (
     <motion.div
       key={id}
@@ -44,7 +44,7 @@ function VinylCard({
         border: "1px solid var(--grey-border)",
       }}
     >
-      <div className={styles.image}>
+      <button onClick={() => setOpenedVinylId(id)} className={styles.image}>
         <picture>
           <img
             src={cover_image ? cover_image : image}
@@ -59,11 +59,10 @@ function VinylCard({
             onClickInFavorites(card.id);
           }}
         />
-      </div>
+      </button>
       <Link to={`/vinyls/${id}`}>
         <h2 className={styles.name}>{title}</h2>
       </Link>
-
       <Link className={styles.group} to={`/results?artist=${artist}`}>
         {artist}
       </Link>
@@ -76,10 +75,9 @@ function VinylCard({
         </p>
         <p>
           Genre:
-          <Link>
+          <Link to={`/results?genres=${genre.id}`}>
             <div
               className={clsx(styles.link, styles.genreLink)}
-              to={`/results?genres=${genre.id}`}
               style={{
                 background:
                   GENRE_COLORS_BY_GENRE_ID[genre.id].linearGradientValue,
@@ -127,6 +125,8 @@ VinylCard.propTypes = {
   inFavorites: PropTypes.bool.isRequired,
   onClickInCollection: PropTypes.func.isRequired,
   onClickInFavorites: PropTypes.func.isRequired,
+  openedVinylId: PropTypes.number, // Added PropTypes for openedVinylId
+  setOpenedVinylId: PropTypes.func, // Added PropTypes for setOpenedVinylId
 };
 
 export default VinylCard;

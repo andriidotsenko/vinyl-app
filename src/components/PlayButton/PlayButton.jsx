@@ -7,7 +7,7 @@ const PlayButton = ({ isFill, onClick }) => {
   return (
     <button
       type="button"
-      disabled={isFill}
+      // disabled={isFill}
       className={styles.play}
       onClick={onClick}
     >

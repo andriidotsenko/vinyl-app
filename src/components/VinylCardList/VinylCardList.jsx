@@ -6,6 +6,8 @@ function VinylCardList({
   cardList,
   collectionList,
   favoritesList,
+  openedVinylId, // Принимаем состояние openedVinylId как пропс
+  setOpenedVinylId, // Принимаем функцию setOpenedVinylId как пропс
   onClickInCollection,
   onClickInFavorites,
   isHasTitle,
@@ -28,6 +30,8 @@ function VinylCardList({
               inFavorites={favoritesList.includes(card.id)}
               onClickInCollection={onClickInCollection}
               onClickInFavorites={onClickInFavorites}
+              openedVinylId={openedVinylId}
+              setOpenedVinylId={setOpenedVinylId}
             />
           );
         })}
@@ -43,6 +47,8 @@ VinylCardList.propTypes = {
   onClickInCollection: PropTypes.func.isRequired,
   onClickInFavorites: PropTypes.func.isRequired,
   isHasTitle: PropTypes.bool.isRequired,
+  openedVinylId: PropTypes.number,
+  setOpenedVinylId: PropTypes.func,
 };
 
 VinylCardList.defaultProps = {

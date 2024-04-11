@@ -14,6 +14,10 @@ import { Helmet } from "react-helmet-async";
 import useGenerateTitleSearchResult from "../../hooks/useGenerateTitleSearchResult.js";
 import { useFilteredVinylListAsync } from "../../hooks/useFilteredVinylListAsync.js";
 import { getPageSizeByScreenWidth } from "../../utils/getPageSizeByScreenWidth";
+import { Portal } from "react-portal";
+import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
+import Modal from "../../components/Modal/Modal.jsx";
+import { useState } from "react";
 
 const screenWidth = window.innerWidth;
 const pageSize = getPageSizeByScreenWidth(screenWidth);
@@ -29,12 +33,14 @@ export const SearchResultsPage = () => {
 
   const filters = getFiltersFromParams(params);
   const page = Number(params.get("page")) || 1;
-
+  const [openedVinylId, setOpenedVinylId] = useState(null);
   const vinylListQuery = useFilteredVinylListAsync(filters, {
     limit: pageSize,
     offset: (page - 1) * pageSize,
   });
-
+  const closeModal = () => {
+    setOpenedVinylId(null);
+  };
   const setFilters = (filters) =>
     setParams(getSearchParamsFromFilters(filters));
 
@@ -112,6 +118,7 @@ export const SearchResultsPage = () => {
                 favoritesList={favoritesList}
                 onClickInCollection={handleCollectionToggle}
                 onClickInFavorites={handleFavoritesToggle}
+                setOpenedVinylId={setOpenedVinylId}
               />
               <Pagination
                 totalPages={pagesCount}
@@ -122,6 +129,24 @@ export const SearchResultsPage = () => {
           )}
         </div>
       </main>
+      <Portal>
+        {openedVinylId && (
+          <Modal onClose={closeModal}>
+            <div>
+              <Modal>
+                <ModalVinyl
+                  id={openedVinylId}
+                  inCollection={collectionList.includes(openedVinylId)}
+                  inFavorites={favoritesList.includes(openedVinylId)}
+                  onFavoritesToggle={handleFavoritesToggle}
+                  onCollectionToggle={handleCollectionToggle}
+                  onClose={closeModal}
+                />
+              </Modal>
+            </div>
+          </Modal>
+        )}
+      </Portal>
     </>
   );
 };
