@@ -12,6 +12,7 @@ import { useReliseById } from "../../hooks/useReliseById";
 import { Loader } from "../Loader/Loader";
 import PropTypes from "prop-types";
 import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
+import PenIcon from "../Icon/PenIcon";
 
 function ModalVinyl({
   id,
@@ -21,6 +22,8 @@ function ModalVinyl({
   onCollectionToggle,
   onClose,
   variant,
+  noteList,
+  addNote,
 }) {
   const { data: dataRelise } = useReliseById(id);
   const {
@@ -179,6 +182,7 @@ function ModalVinyl({
               </div>
             </div>
           </div>
+
           <h2 className={styles.artist}>
             <Link to={`/results?artist=${artist}`}>{artist}</Link>
           </h2>
@@ -289,23 +293,38 @@ function ModalVinyl({
                 : styles.notesSecondary
             )}
           >
-            <div className={styles.title}>
+            <div className={styles.titleNotes}>
               <div className={styles.textNotes}>Add a note</div>
-              <div className={styles.icon}>ICON</div>
+              <div className={styles.icon}>
+                <PenIcon />
+              </div>
             </div>
-            <div className={styles.placeholder}>
-              You can write here whatever you want..
-              <span
-                style={{
-                  color: "var(--error)",
-                  fontWeight: "bold",
-                  fontStyle: "italic",
-                  fontSize: 15,
-                }}
-              >
-                TODO: implement this block
-              </span>
-            </div>
+            <motion.textarea
+              whileHover={{
+                borderColor: ["var(--dark-blue)", "var(--dark-blue)"],
+                transition: {
+                  duration: 1,
+                  repeat: Infinity,
+                  ease: "linear",
+                },
+              }}
+              whileFocus={{
+                borderColor: "var(--dark-blue)",
+                backgroundColor: "var(--white)",
+                color: "var(--dark-blue)",
+              }}
+              initial={{
+                borderColor: "var(--grey-border)",
+                backgroundColor: "transparent",
+                color: "var(--grey)",
+                resize: "none",
+                scrollbarWidth: "none",
+              }}
+              className={styles.placeholder}
+              onChange={(e) => addNote(id, e.target.value)}
+              value={noteList[id] || ""}
+              placeholder={`Add note to ${title} by ${artist} `}
+            ></motion.textarea>
           </div>
         </div>
         {variant === "primary" ? (
@@ -346,6 +365,8 @@ ModalVinyl.propTypes = {
   onCollectionToggle: PropTypes.func.isRequired,
   onClose: PropTypes.func.isRequired,
   variant: PropTypes.oneOf(["primary", "secondary"]).isRequired,
+  addNote: PropTypes.func.isRequired,
+  noteList: PropTypes.object.isRequired,
 };
 
 export default ModalVinyl;

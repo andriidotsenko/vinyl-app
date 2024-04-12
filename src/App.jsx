@@ -4,10 +4,12 @@ import { useCollection } from "./hooks/useCollection.js";
 import { useFavorites } from "./hooks/useFavorites.js";
 import { Outlet } from "react-router-dom";
 import { Loader } from "./components/Loader/Loader.jsx";
+import { useNote } from "./hooks/useNotes.js";
 
 export function App() {
   const { collectionList, handleCollectionToggle } = useCollection();
   const { favoritesList, handleFavoritesToggle } = useFavorites();
+  const { noteList, addNote } = useNote();
   return (
     <>
       <Header
@@ -21,6 +23,8 @@ export function App() {
             favoritesList,
             handleCollectionToggle,
             handleFavoritesToggle,
+            noteList,
+            addNote,
           }}
         />
       </Suspense>

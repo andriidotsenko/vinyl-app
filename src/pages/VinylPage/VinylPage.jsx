@@ -11,6 +11,8 @@ export function VinylPage() {
     favoritesList,
     handleCollectionToggle,
     handleFavoritesToggle,
+    noteList,
+    addNote,
   } = useOutletContext();
   const navigate = useNavigate();
   const handleGoBack = () => {
@@ -46,6 +48,8 @@ export function VinylPage() {
             onCollectionToggle={handleCollectionToggle}
             onClose={handleGoBack}
             variant={"secondary"}
+            noteList={noteList}
+            addNote={addNote}
           ></ModalVinyl>
         </div>
       </main>

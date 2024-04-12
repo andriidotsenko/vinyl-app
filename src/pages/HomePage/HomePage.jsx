@@ -22,6 +22,7 @@ export function HomePage() {
     { suspense: true }
   );
   const [openedVinylId, setOpenedVinylId] = useState(null);
+
   const closeModal = () => {
     setOpenedVinylId(null);
   };
@@ -30,6 +31,8 @@ export function HomePage() {
     favoritesList,
     handleCollectionToggle,
     handleFavoritesToggle,
+    noteList,
+    addNote,
   } = useOutletContext();
 
   function handlePageChange(page) {
@@ -54,6 +57,7 @@ export function HomePage() {
             <title>{"Home"}</title>
           </Helmet>
           <GenreList />
+
           <VinylCardList
             cardList={results}
             collectionList={collectionList}
@@ -81,6 +85,8 @@ export function HomePage() {
                 onCollectionToggle={handleCollectionToggle}
                 onClose={closeModal}
                 variant={"primary"}
+                noteList={noteList}
+                addNote={addNote}
               />
             </div>
           </Modal>

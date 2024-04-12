@@ -29,6 +29,8 @@ export const SearchResultsPage = () => {
     favoritesList,
     handleCollectionToggle,
     handleFavoritesToggle,
+    noteList,
+    addNote,
   } = useOutletContext();
 
   const filters = getFiltersFromParams(params);
@@ -151,6 +153,8 @@ export const SearchResultsPage = () => {
                 onCollectionToggle={handleCollectionToggle}
                 onClose={closeModal}
                 variant={"primary"}
+                noteList={noteList}
+                addNote={addNote}
               />
             </div>
           </Modal>
