@@ -20,6 +20,7 @@ function ModalVinyl({
   onFavoritesToggle,
   onCollectionToggle,
   onClose,
+  variant,
 }) {
   const { data: dataRelise } = useReliseById(id);
   const {
@@ -70,7 +71,7 @@ function ModalVinyl({
     await controlsVinyl.start({
       transition: { duration: 0.5 },
       scale: 1.1,
-      x: 200,
+      x: 180,
     });
     await controlsVinyl.start({
       rotate: 360,
@@ -153,10 +154,17 @@ function ModalVinyl({
   };
   return (
     <>
-      <div className={styles.modalVinyl}>
+      <div
+        className={clsx(
+          styles.modal,
+          variant === "primary" ? styles.primary : styles.secondary
+        )}
+      >
         <div className={styles.modalContent}>
           <div className={styles.wrapperTitle}>
-            <h1 className={styles.title}>{title}</h1>
+            <h1 className={styles.title}>
+              <Link to={`/vinyls/${id}`}>{title}</Link>
+            </h1>
             <div
               className={styles.wrapperClose}
               style={{ transform: "scale(1.2)" }}
@@ -171,7 +179,10 @@ function ModalVinyl({
               </div>
             </div>
           </div>
-          <h2 className={styles.artist}>{artist}</h2>
+          <h2 className={styles.artist}>
+            <Link to={`/results?artist=${artist}`}>{artist}</Link>
+          </h2>
+
           <div className={styles.avatar}>
             <div className={styles.images}>
               <motion.img
@@ -190,7 +201,7 @@ function ModalVinyl({
                   className={styles.vinylImgFile}
                   src="/content/image.png"
                   alt="vinyl"
-                  style={{ opacity: 0.8 }}
+                  style={{ opacity: 0.2 }}
                 ></img>
               </div>
               <div className={styles.vinylCoverImg}>
@@ -221,6 +232,7 @@ function ModalVinyl({
                 ))}
               </div>
             </div>
+
             <div className={styles.wrapper}>
               <div className={styles.text}>Country :</div>
               <div className={styles.value}>{getCountryName(country)}</div>
@@ -269,7 +281,14 @@ function ModalVinyl({
               </li>
             ))}
           </ul>
-          <div className={styles.notes}>
+          <div
+            className={clsx(
+              styles.notes,
+              variant === "primary"
+                ? styles.notesPrimary
+                : styles.notesSecondary
+            )}
+          >
             <div className={styles.title}>
               <div className={styles.textNotes}>Add a note</div>
               <div className={styles.icon}>ICON</div>
@@ -289,15 +308,26 @@ function ModalVinyl({
             </div>
           </div>
         </div>
-        <div className={styles.footer}>
-          <div className={styles.footerContainer}>
-            <CollectionButton
-              className={styles.root}
-              isActive={inCollection}
-              onClick={() => onCollectionToggle(id)}
-            />
+        {variant === "primary" ? (
+          <div className={styles.footer}>
+            <div className={styles.footerContainer}>
+              <CollectionButton
+                className={styles.root}
+                isActive={inCollection}
+                onClick={() => onCollectionToggle(id)}
+              />
+            </div>
           </div>
-        </div>
+        ) : variant === "secondary" ? (
+          <div className={styles.buttonWrapper}>
+            <div className={styles.button}>
+              <CollectionButton
+                isActive={inCollection}
+                onClick={() => onCollectionToggle(id)}
+              />
+            </div>
+          </div>
+        ) : null}
       </div>
     </>
   );
@@ -315,6 +345,7 @@ ModalVinyl.propTypes = {
   onFavoritesToggle: PropTypes.func.isRequired,
   onCollectionToggle: PropTypes.func.isRequired,
   onClose: PropTypes.func.isRequired,
+  variant: PropTypes.oneOf(["primary", "secondary"]).isRequired,
 };
 
 export default ModalVinyl;

@@ -130,8 +130,8 @@ VinylCard.propTypes = {
   inFavorites: PropTypes.bool.isRequired,
   onClickInCollection: PropTypes.func.isRequired,
   onClickInFavorites: PropTypes.func.isRequired,
-  openedVinylId: PropTypes.number, // Added PropTypes for openedVinylId
-  setOpenedVinylId: PropTypes.func, // Added PropTypes for setOpenedVinylId
+  openedVinylId: PropTypes.number,
+  setOpenedVinylId: PropTypes.func,
 };
 
 export default VinylCard;

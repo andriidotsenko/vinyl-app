@@ -200,7 +200,7 @@ export const handlers = [
       );
 
       return res(
-        ctx.delay(2000),
+        ctx.delay(1000),
         ctx.status(200),
         ctx.json({
           results: filteredList.slice(offset, offset + limit),
@@ -220,7 +220,7 @@ export const handlers = [
       const { default: release } = await import(`./api/releases/${id}.json`);
 
       return res(
-        ctx.delay(2000),
+        ctx.delay(4000),
         ctx.status(200),
         ctx.json({
           release,

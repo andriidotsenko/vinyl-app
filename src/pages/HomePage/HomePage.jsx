@@ -80,6 +80,7 @@ export function HomePage() {
                 onFavoritesToggle={handleFavoritesToggle}
                 onCollectionToggle={handleCollectionToggle}
                 onClose={closeModal}
+                variant={"primary"}
               />
             </div>
           </Modal>

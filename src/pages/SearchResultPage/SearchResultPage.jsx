@@ -150,6 +150,7 @@ export const SearchResultsPage = () => {
                 onFavoritesToggle={handleFavoritesToggle}
                 onCollectionToggle={handleCollectionToggle}
                 onClose={closeModal}
+                variant={"primary"}
               />
             </div>
           </Modal>
