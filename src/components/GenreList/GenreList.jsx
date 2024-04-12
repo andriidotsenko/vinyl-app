@@ -22,32 +22,30 @@ const GenreList = () => {
           <p className={styles.not_found}>Dont find Genres</p>
         ) : (
           data.map((genre) => (
-            <>
-              <motion.div
-                className={styles.block}
-                initial={{
-                  opacity: 0,
-                  scale: 0.1,
-                  rotate: -5,
-                }}
-                viewport={{ once: true }}
-                whileInView={{
-                  opacity: 0.9,
-                  scale: 1,
-                  rotate: 0,
-                }}
-                whileHover={{
-                  cursor: "pointer",
-                  opacity: 1,
-                  scale: 0.96,
-                }}
-                key={genre.id}
-              >
-                <Link key={genre.id} to={"/results?genres=" + genre.id}>
-                  <GenreCard key={genre.id} genre={genre} />
-                </Link>
-              </motion.div>
-            </>
+            <motion.div
+              className={styles.block}
+              initial={{
+                opacity: 0,
+                scale: 0.1,
+                rotate: -5,
+              }}
+              viewport={{ once: true }}
+              whileInView={{
+                opacity: 0.9,
+                scale: 1,
+                rotate: 0,
+              }}
+              whileHover={{
+                cursor: "pointer",
+                opacity: 1,
+                scale: 0.96,
+              }}
+              key={genre.id}
+            >
+              <Link to={"/results?genres=" + genre.id}>
+                <GenreCard genre={genre} />
+              </Link>
+            </motion.div>
           ))
         )}
       </div>

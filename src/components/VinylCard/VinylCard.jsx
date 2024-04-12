@@ -61,7 +61,7 @@ function VinylCard({
           inFavorites={inFavorites}
           isFill={inFavorites}
           onClick={() => {
-            onClickInFavorites(card.id);
+            onClickInFavorites(card);
           }}
         />
       </div>
@@ -103,7 +103,7 @@ function VinylCard({
         className={styles.root}
         isActive={inCollection}
         onClick={() => {
-          onClickInCollection(card.id);
+          onClickInCollection(card);
         }}
       />
     </motion.div>

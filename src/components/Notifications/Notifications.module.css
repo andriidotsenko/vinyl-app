@@ -1,0 +1,22 @@
+.root {
+  position: fixed;
+  z-index: 10000;
+  right: 10px;
+  bottom: 10px;
+  max-width: 500px;
+  /* height: 100%; */
+  gap: 10px;
+}
+
+.notification {
+  min-width: 300px;
+  min-height: 60px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  background-color: hsla(0, 0%, 0%, 0.8);
+  color: var(--white);
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 20px;
+}

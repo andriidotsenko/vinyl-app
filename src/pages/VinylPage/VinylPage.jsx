@@ -18,6 +18,7 @@ export function VinylPage() {
   const handleGoBack = () => {
     navigate(-1);
   };
+
   const { data, isLoading } = useReliseById(vinylId);
   if (isLoading) {
     return <Loader />;
@@ -44,8 +45,8 @@ export function VinylPage() {
             id={id}
             inCollection={collectionList.includes(id)}
             inFavorites={favoritesList.includes(id)}
-            onFavoritesToggle={handleFavoritesToggle}
-            onCollectionToggle={handleCollectionToggle}
+            onFavoritesToggle={() => handleFavoritesToggle(data)}
+            onCollectionToggle={() => handleCollectionToggle(data)}
             onClose={handleGoBack}
             variant={"secondary"}
             noteList={noteList}

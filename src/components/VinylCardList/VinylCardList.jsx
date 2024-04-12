@@ -42,7 +42,7 @@ function VinylCardList({
 
 VinylCardList.propTypes = {
   cardList: PropTypes.arrayOf(PropTypes.object).isRequired,
-  collectionList: PropTypes.arrayOf(PropTypes.number).isRequired,
+  collectionList: PropTypes.array.isRequired,
   favoritesList: PropTypes.arrayOf(PropTypes.number).isRequired,
   onClickInCollection: PropTypes.func.isRequired,
   onClickInFavorites: PropTypes.func.isRequired,

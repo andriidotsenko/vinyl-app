@@ -214,7 +214,7 @@ function ModalVinyl({
             </motion.div>
             <FavoriteButton
               isFill={inFavorites}
-              onClick={() => onFavoritesToggle(id)}
+              onClick={() => onFavoritesToggle(dataRelise)}
             />
             <PlayButton isFill={isPlay} onClick={handlePlay}></PlayButton>
           </div>
@@ -333,7 +333,7 @@ function ModalVinyl({
               <CollectionButton
                 className={styles.root}
                 isActive={inCollection}
-                onClick={() => onCollectionToggle(id)}
+                onClick={() => onCollectionToggle(dataRelise)}
               />
             </div>
           </div>
@@ -342,7 +342,7 @@ function ModalVinyl({
             <div className={styles.button}>
               <CollectionButton
                 isActive={inCollection}
-                onClick={() => onCollectionToggle(id)}
+                onClick={() => onCollectionToggle(dataRelise)}
               />
             </div>
           </div>
