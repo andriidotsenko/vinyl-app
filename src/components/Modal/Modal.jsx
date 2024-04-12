@@ -4,7 +4,12 @@ import styles from "./Modal.module.css";
 function Modal({ onClose, children }) {
   return (
     <>
-      <button className={styles.overlay} onClick={onClose}></button>
+      <div
+        role="button"
+        tabIndex={0}
+        className={styles.overlay}
+        onClick={onClose}
+      ></div>
       <div className={styles.modal}>{children}</div>
     </>
   );

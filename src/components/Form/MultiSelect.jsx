@@ -54,7 +54,9 @@ const MultiSelect = ({
         options.find((option) => option.id === optionId)?.title || ""
     );
   };
-
+  const selectedOptions = getOptionNames();
+  const remainingCount =
+    selectedOptions.length > 3 ? selectedOptions.length - 3 : 0;
   const handleDropdownToggle = () => {
     setIsDropdownOpen(!isDropdownOpen);
   };
@@ -76,7 +78,15 @@ const MultiSelect = ({
             [styles.closed]: !isDropdownOpen,
           })}
         >
-          <span>{getOptionNames().join(", ") || placeholder}</span>
+          <span>
+            {selectedOptions.length > 0
+              ? selectedOptions.length <= 3
+                ? selectedOptions.join(", ")
+                : `${selectedOptions
+                    .slice(0, 3)
+                    .join(", ")}, +${remainingCount}`
+              : placeholder}
+          </span>
           {isDropdownOpen ? <ArrowDownIcon /> : <ArrowUpIcon />}
         </button>
         <CSSTransition

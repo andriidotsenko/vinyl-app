@@ -14,7 +14,6 @@ function VinylCard({
   inFavorites,
   onClickInCollection,
   onClickInFavorites,
-
   setOpenedVinylId,
 }) {
   const { id, title, artist, year, country, genre, image } = card;
@@ -22,6 +21,10 @@ function VinylCard({
   const roundedDecade = Math.floor(year / 10) * 10;
   const { data } = useReliseById(id);
   const { cover_image } = data || {};
+  const handleClickOnImg = (e) => {
+    e.stopPropagation();
+    setOpenedVinylId(id);
+  };
   return (
     <motion.div
       key={id}
@@ -44,13 +47,15 @@ function VinylCard({
         border: "1px solid var(--grey-border)",
       }}
     >
-      <button onClick={() => setOpenedVinylId(id)} className={styles.image}>
+      <div role="button" tabIndex={0} className={styles.image}>
         <picture>
-          <img
-            src={cover_image ? cover_image : image}
-            title={title}
-            alt={title}
-          />
+          <div role="button" tabIndex={0} onClick={handleClickOnImg}>
+            <img
+              src={cover_image ? cover_image : image}
+              title={title}
+              alt={title}
+            />
+          </div>
         </picture>
         <FavoriteButton
           inFavorites={inFavorites}
@@ -59,7 +64,7 @@ function VinylCard({
             onClickInFavorites(card.id);
           }}
         />
-      </button>
+      </div>
       <Link to={`/vinyls/${id}`}>
         <h2 className={styles.name}>{title}</h2>
       </Link>

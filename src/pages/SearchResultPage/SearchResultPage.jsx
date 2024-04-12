@@ -17,7 +17,7 @@ import { getPageSizeByScreenWidth } from "../../utils/getPageSizeByScreenWidth";
 import { Portal } from "react-portal";
 import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
 import Modal from "../../components/Modal/Modal.jsx";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 const screenWidth = window.innerWidth;
 const pageSize = getPageSizeByScreenWidth(screenWidth);
@@ -59,7 +59,16 @@ export const SearchResultsPage = () => {
   const isFiltersEmpty = Object.values(filters).every((value) =>
     Array.isArray(value) ? !value?.length : !value
   );
-
+  useEffect(() => {
+    if (openedVinylId) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [openedVinylId]);
   if (isFiltersEmpty) {
     return <Navigate to={"/search"} />;
   }
@@ -129,24 +138,23 @@ export const SearchResultsPage = () => {
           )}
         </div>
       </main>
-      <Portal>
-        {openedVinylId && (
+
+      {openedVinylId && (
+        <Portal>
           <Modal onClose={closeModal}>
             <div>
-              <Modal>
-                <ModalVinyl
-                  id={openedVinylId}
-                  inCollection={collectionList.includes(openedVinylId)}
-                  inFavorites={favoritesList.includes(openedVinylId)}
-                  onFavoritesToggle={handleFavoritesToggle}
-                  onCollectionToggle={handleCollectionToggle}
-                  onClose={closeModal}
-                />
-              </Modal>
+              <ModalVinyl
+                id={openedVinylId}
+                inCollection={collectionList.includes(openedVinylId)}
+                inFavorites={favoritesList.includes(openedVinylId)}
+                onFavoritesToggle={handleFavoritesToggle}
+                onCollectionToggle={handleCollectionToggle}
+                onClose={closeModal}
+              />
             </div>
           </Modal>
-        )}
-      </Portal>
+        </Portal>
+      )}
     </>
   );
 };

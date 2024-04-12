@@ -7,7 +7,9 @@
   height: 3rem;
   align-items: center;
   justify-content: center;
+  border: 3px solid var(--dark-blue);
   border-radius: 4px;
   border-radius: 50%;
+  background: var(--white);
   cursor: pointer;
 }

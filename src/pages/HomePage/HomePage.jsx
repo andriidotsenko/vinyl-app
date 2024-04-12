@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Pagination from "../../components/Pagination/Pagination.jsx";
 import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
 import GenreList from "../../components/GenreList/GenreList.jsx";
@@ -7,6 +7,9 @@ import { useOutletContext } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
 
 import { getPageSizeByScreenWidth } from "../../utils/getPageSizeByScreenWidth";
+import { Portal } from "react-portal";
+import Modal from "../../components/Modal/Modal.jsx";
+import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
 
 export function HomePage() {
   const screenWidth = window.innerWidth;
@@ -18,7 +21,10 @@ export function HomePage() {
     { offset: (currentPage - 1) * pageSize, limit: pageSize },
     { suspense: true }
   );
-
+  const [openedVinylId, setOpenedVinylId] = useState(null);
+  const closeModal = () => {
+    setOpenedVinylId(null);
+  };
   const {
     collectionList,
     favoritesList,
@@ -29,7 +35,17 @@ export function HomePage() {
   function handlePageChange(page) {
     setCurrentPage(page);
   }
+  useEffect(() => {
+    if (openedVinylId) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
 
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [openedVinylId]);
   return (
     <>
       <main className="main">
@@ -44,6 +60,7 @@ export function HomePage() {
             favoritesList={favoritesList}
             onClickInCollection={handleCollectionToggle}
             onClickInFavorites={handleFavoritesToggle}
+            setOpenedVinylId={setOpenedVinylId}
           />
           <Pagination
             totalPages={Math.ceil(total / pageSize)}
@@ -52,6 +69,22 @@ export function HomePage() {
           />
         </div>
       </main>
+      <Portal>
+        {openedVinylId && (
+          <Modal onClose={closeModal}>
+            <div>
+              <ModalVinyl
+                id={openedVinylId}
+                inCollection={collectionList.includes(openedVinylId)}
+                inFavorites={favoritesList.includes(openedVinylId)}
+                onFavoritesToggle={handleFavoritesToggle}
+                onCollectionToggle={handleCollectionToggle}
+                onClose={closeModal}
+              />
+            </div>
+          </Modal>
+        )}
+      </Portal>
     </>
   );
 }

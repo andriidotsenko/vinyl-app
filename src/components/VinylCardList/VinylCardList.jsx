@@ -6,8 +6,8 @@ function VinylCardList({
   cardList,
   collectionList,
   favoritesList,
-  openedVinylId, // Принимаем состояние openedVinylId как пропс
-  setOpenedVinylId, // Принимаем функцию setOpenedVinylId как пропс
+  openedVinylId,
+  setOpenedVinylId,
   onClickInCollection,
   onClickInFavorites,
   isHasTitle,
