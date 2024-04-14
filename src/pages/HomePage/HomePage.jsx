@@ -1,31 +1,24 @@
-import { useEffect, useState } from "react";
-import Pagination from "../../components/Pagination/Pagination.jsx";
-import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
-import GenreList from "../../components/GenreList/GenreList.jsx";
-import { useFilteredVinylListAsync } from "../../hooks/useFilteredVinylListAsync.js";
+import { useState } from "react";
 import { useOutletContext } from "react-router-dom";
+import { Portal } from "react-portal";
 import { Helmet } from "react-helmet-async";
 
-import { getPageSizeByScreenWidth } from "../../utils/getPageSizeByScreenWidth";
-import { Portal } from "react-portal";
+import { useFilteredVinylListAsync } from "../../hooks/useFilteredVinylListAsync.js";
+import { useBodyScrollDisabled } from "../../hooks/useBodyScrollDisabled.js";
+
+import GenreList from "../../components/GenreList/GenreList.jsx";
+import VinylCardList from "../../components/VinylCardList/VinylCardList.jsx";
+import Pagination from "../../components/Pagination/Pagination.jsx";
+
 import Modal from "../../components/Modal/Modal.jsx";
 import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
 
+import { getPageSizeByScreenWidth } from "../../utils/getPageSizeByScreenWidth";
+
+const screenWidth = window.innerWidth;
+const pageSize = getPageSizeByScreenWidth(screenWidth);
+
 export function HomePage() {
-  const screenWidth = window.innerWidth;
-  const pageSize = getPageSizeByScreenWidth(screenWidth);
-
-  const [currentPage, setCurrentPage] = useState(1);
-  const { results, total } = useFilteredVinylListAsync(
-    {},
-    { offset: (currentPage - 1) * pageSize, limit: pageSize },
-    { suspense: true }
-  );
-  const [openedVinylId, setOpenedVinylId] = useState(null);
-
-  const closeModal = () => {
-    setOpenedVinylId(null);
-  };
   const {
     collectionList,
     favoritesList,
@@ -35,20 +28,23 @@ export function HomePage() {
     addNote,
   } = useOutletContext();
 
+  const [openedVinylId, setOpenedVinylId] = useState(null);
+  const [currentPage, setCurrentPage] = useState(1);
+
+  const { results, total } = useFilteredVinylListAsync(
+    {},
+    { offset: (currentPage - 1) * pageSize, limit: pageSize },
+    { suspense: true }
+  );
   function handlePageChange(page) {
     setCurrentPage(page);
   }
-  useEffect(() => {
-    if (openedVinylId) {
-      document.body.style.overflow = "hidden";
-    } else {
-      document.body.style.overflow = "";
-    }
+  const closeModal = () => {
+    setOpenedVinylId(null);
+  };
 
-    return () => {
-      document.body.style.overflow = "";
-    };
-  }, [openedVinylId]);
+  useBodyScrollDisabled();
+
   return (
     <>
       <main className="main">
@@ -57,7 +53,6 @@ export function HomePage() {
             <title>{"Home"}</title>
           </Helmet>
           <GenreList />
-
           <VinylCardList
             cardList={results}
             collectionList={collectionList}
@@ -74,7 +69,7 @@ export function HomePage() {
         </div>
       </main>
       <Portal>
-        {openedVinylId && (
+        {Boolean(openedVinylId) && (
           <Modal onClose={closeModal}>
             <div>
               <ModalVinyl

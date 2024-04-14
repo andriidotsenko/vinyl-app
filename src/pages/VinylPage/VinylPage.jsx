@@ -1,8 +1,10 @@
-import { Helmet } from "react-helmet-async";
-import { useVinylById } from "../../hooks/useVinylById";
 import { useParams, useOutletContext, useNavigate } from "react-router-dom";
+import { Helmet } from "react-helmet-async";
+
 import { Loader } from "../../components/Loader/Loader.jsx";
 import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
+
+import { useVinylById } from "../../hooks/useVinylById";
 
 export function VinylPage() {
   const { vinylId } = useParams();
@@ -14,6 +16,7 @@ export function VinylPage() {
     noteList,
     addNote,
   } = useOutletContext();
+
   const navigate = useNavigate();
   const handleGoBack = () => {
     navigate(-1);

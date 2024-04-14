@@ -1,12 +1,15 @@
 import PropTypes from "prop-types";
-import styles from "./VinylCard.module.css";
-import CollectionButton from "../CollectionButton/CollectionButton.jsx";
-import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
-import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 import clsx from "clsx";
+
+import styles from "./VinylCard.module.css";
+
+import CollectionButton from "../CollectionButton/CollectionButton.jsx";
+import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
+
 import { useVinylById } from "../../hooks/useVinylById";
+import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 
 function VinylCard({
   card,

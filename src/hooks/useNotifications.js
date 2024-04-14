@@ -15,7 +15,7 @@ export function useNotifications() {
       setNotifications((prevNotifications) =>
         prevNotifications.filter((notification) => notification.id !== id)
       );
-    }, 1000);
+    }, 2000);
   }
 
   return [addNotification, notifications];

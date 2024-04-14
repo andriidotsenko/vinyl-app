@@ -17,7 +17,7 @@ export const useCollection = (addNotification) => {
 
     addNotification(
       inCollection
-        ? `"${vinyl}" removed from collection`
+        ? `"${vinyl.title}" removed from collection`
         : `"${vinyl.title}" added to collection`
     );
   }

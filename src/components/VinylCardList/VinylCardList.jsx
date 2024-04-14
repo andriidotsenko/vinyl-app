@@ -1,6 +1,7 @@
+import styles from "./VinylCardList.module.css";
+
 import PropTypes from "prop-types";
 import VinylCard from "../VinylCard/VinylCard.jsx";
-import styles from "./VinylCardList.module.css";
 
 function VinylCardList({
   cardList,
@@ -8,7 +9,7 @@ function VinylCardList({
   favoritesList,
   onClickInCollection,
   onClickInFavorites,
-  isHasTitle,
+  isHasTitle = true,
   onVinylImageClick,
 }) {
   return (
@@ -46,10 +47,6 @@ VinylCardList.propTypes = {
   onClickInFavorites: PropTypes.func.isRequired,
   isHasTitle: PropTypes.bool.isRequired,
   onVinylImageClick: PropTypes.func.isRequired,
-};
-
-VinylCardList.defaultProps = {
-  isHasTitle: true,
 };
 
 export default VinylCardList;
