@@ -1,6 +1,7 @@
 import clsx from "clsx";
 import PropTypes from "prop-types";
 import styles from "./Button.module.css";
+import { motion } from "framer-motion";
 
 export const Button = ({
   variant = "primary",
@@ -11,7 +12,23 @@ export const Button = ({
   ...props
 }) => {
   return (
-    <button
+    <motion.button
+      initial={{
+        scale: 1,
+        backgroundColor:
+          variant === "primary" ? "var(--dark-blue)" : "var(--blue)",
+      }}
+      whileHover={{
+        backgroundColor:
+          variant === "primary"
+            ? "var(--dark-blue-hover)"
+            : "var(--blue-hover)",
+      }}
+      whileTap={{
+        scale: 0.9,
+        backgroundColor:
+          variant === "primary" ? "var(--dark-blue-tap)" : "var(--blue-tap)",
+      }}
       className={clsx(styles.root, className, {
         [styles.isFullWidth]: isFullWidth,
         [styles.primary]: variant === "primary",
@@ -21,7 +38,7 @@ export const Button = ({
     >
       <span className={styles.label}>{children}</span>
       <span className={styles.icon}>{icon}</span>
-    </button>
+    </motion.button>
   );
 };
 

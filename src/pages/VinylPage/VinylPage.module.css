@@ -1,0 +1,223 @@
+.wrapper {
+  display: flex;
+  margin-bottom: 6px;
+}
+h1.title {
+  margin-bottom: 4px;
+  color: var(--dark-blue);
+
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+h2.artist {
+  margin-bottom: 12px;
+  color: var(--dark-blue);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.wrapperTitle {
+  display: flex;
+  justify-content: space-between;
+}
+
+.avatar {
+  position: relative;
+
+  z-index: 3;
+  width: 300px;
+  height: 300px;
+  border-radius: 8px;
+  margin: 16px;
+}
+.images {
+  position: relative;
+  min-width: 100%;
+  min-height: 100%;
+}
+.img {
+  width: 300px;
+  height: 300px;
+  border: 1px solid var(--black);
+  border-radius: 8px;
+  filter: drop-shadow(0px 0px 2px rgba(0, 0, 0, 0.15));
+  user-select: none;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.vinyl {
+  position: absolute;
+  z-index: -100;
+  top: 0%;
+  left: 0%;
+  display: flex;
+  width: 300px;
+  height: 300px;
+  align-items: center;
+  justify-content: center;
+}
+
+.vinylImg {
+  z-index: 2;
+  top: 50%;
+  display: block;
+  overflow: hidden;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  user-select: none;
+}
+.vinylCoverImg {
+  position: absolute;
+  z-index: 3;
+  top: 50%;
+  left: 50%;
+  display: flex;
+  overflow: hidden;
+  width: 107px;
+
+  height: 107px;
+  align-items: center;
+
+  justify-content: center;
+  border-radius: 50%;
+  filter: grayscale(0.5) contrast(0.6) brightness(1.5);
+  transform: translate(-50%, -50%);
+  user-select: none;
+}
+
+.vinylCoverImg::after {
+  position: absolute;
+
+  top: 50%;
+  left: 50%;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid var(--black);
+  border-radius: 50%;
+  background: var(--white);
+  content: "";
+  transform: translate(-50%, -50%);
+}
+
+.vinylImgFile {
+  transform: scale(1.12);
+  user-select: none;
+}
+
+.text {
+  color: var(--grey);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.value {
+  margin-left: 4px;
+  color: var(--dark-blue);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.styleRelease {
+  display: inline-flex;
+}
+
+.info {
+  margin-bottom: 16px;
+}
+
+h3.title {
+  margin-bottom: 12px;
+  color: var(--dark-blue);
+  font-size: 18px;
+  font-weight: 500;
+}
+.wrapperShop {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  gap: 12px;
+}
+.shop {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  gap: 12px;
+}
+
+.shopImg {
+  overflow: hidden;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}
+
+.shopLink {
+  color: var(--blue);
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration-line: underline;
+}
+
+a {
+  color: var(--blue);
+}
+
+.track {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 8px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+  background: var(--grey-border);
+}
+
+.left {
+  display: flex;
+  gap: 6px;
+}
+.position {
+  min-width: 30px;
+}
+
+.notes {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14px 16px;
+  border-radius: 6px;
+  margin-bottom: 16px;
+  background: #f0f2f6;
+  gap: 8px;
+}
+.textNotes {
+  display: flex;
+  color: var(--blue);
+  font-size: 18px;
+  font-weight: 500;
+  gap: 12px;
+}
+
+.placeholder {
+  color: var(--grey);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.list {
+  margin-bottom: 16px;
+}

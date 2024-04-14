@@ -1,0 +1,26 @@
+.root {
+  position: fixed;
+  z-index: 10000;
+  right: 10px;
+  bottom: 10px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  /* max-width: 300px; */
+
+  gap: 10px;
+}
+
+.notification {
+  min-width: 100px;
+  min-height: 30px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  background-color: hsla(0, 0%, 0%, 0.8);
+  color: var(--white);
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 20px;
+}

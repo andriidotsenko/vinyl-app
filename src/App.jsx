@@ -4,10 +4,18 @@ import { useCollection } from "./hooks/useCollection.js";
 import { useFavorites } from "./hooks/useFavorites.js";
 import { Outlet } from "react-router-dom";
 import { Loader } from "./components/Loader/Loader.jsx";
+import { useNote } from "./hooks/useNotes.js";
+
+import { Notifications } from "./components/Notifications/Notifications.jsx";
+import { useNotifications } from "./hooks/useNotifications.js";
 
 export function App() {
-  const { collectionList, handleCollectionToggle } = useCollection();
-  const { favoritesList, handleFavoritesToggle } = useFavorites();
+  const [addNotification, notifications] = useNotifications();
+  const { collectionList, handleCollectionToggle } =
+    useCollection(addNotification);
+  const { favoritesList, handleFavoritesToggle } =
+    useFavorites(addNotification);
+  const { noteList, addNote } = useNote();
   return (
     <>
       <Header
@@ -21,8 +29,11 @@ export function App() {
             favoritesList,
             handleCollectionToggle,
             handleFavoritesToggle,
+            noteList,
+            addNote,
           }}
         />
+        <Notifications notifications={notifications} />
       </Suspense>
     </>
   );

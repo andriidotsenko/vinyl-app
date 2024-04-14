@@ -1,6 +1,6 @@
 .list {
+  z-index: -1;
   display: flex;
-  overflow: hidden;
   max-width: 100%;
   margin-bottom: 20px;
   gap: 12px;
@@ -47,4 +47,8 @@
   color: rgba(10, 37, 48, 0.7);
   font-size: 14px;
   font-weight: 600;
+}
+
+.block {
+  border-radius: 8px;
 }

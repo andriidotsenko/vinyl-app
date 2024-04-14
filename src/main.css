@@ -3,12 +3,16 @@
   --black: #000;
   --dark-green: #083644;
   --dark-blue: #0a2530;
+  --dark-blue-hover: #071c24;
+  --dark-blue-tap: #061d25;
   --grey-btn: #f0f2f6;
   --grey-light: #738286;
   --grey-border: #edeef0;
   --grey: #6c7072;
   --error: #f00;
   --blue: #106081;
+  --blue-hover: #0e5370;
+  --blue-tap: #0b3f55;
   font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
 }
 

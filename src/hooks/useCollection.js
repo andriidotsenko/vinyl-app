@@ -1,17 +1,24 @@
 import { useState, useEffect } from "react";
 
-export const useCollection = () => {
+export const useCollection = (addNotification) => {
   const [collectionList, setCollectionList] = useState(
     localStorage.getItem("collectionList")
       ? JSON.parse(localStorage.getItem("collectionList"))
       : []
   );
 
-  function handleCollectionToggle(cardId) {
+  function handleCollectionToggle(vinyl) {
+    const inCollection = collectionList.includes(vinyl.id);
     setCollectionList((prevCollectionList) =>
-      prevCollectionList.includes(cardId)
-        ? prevCollectionList.filter((id) => id !== cardId)
-        : [...prevCollectionList, cardId]
+      prevCollectionList.includes(vinyl.id)
+        ? prevCollectionList.filter((id) => id !== vinyl.id)
+        : [...prevCollectionList, vinyl.id]
+    );
+
+    addNotification(
+      inCollection
+        ? `"${vinyl.title}" removed from collection`
+        : `"${vinyl.title}" added to collection`
     );
   }
   useEffect(() => {

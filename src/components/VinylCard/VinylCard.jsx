@@ -1,8 +1,15 @@
 import PropTypes from "prop-types";
+import { Link } from "react-router-dom";
+import { motion } from "framer-motion";
+import clsx from "clsx";
+
 import styles from "./VinylCard.module.css";
+
 import CollectionButton from "../CollectionButton/CollectionButton.jsx";
 import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
-import { Link } from "react-router-dom";
+
+import { useVinylById } from "../../hooks/useVinylById";
+import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 
 function VinylCard({
   card,
@@ -10,29 +17,54 @@ function VinylCard({
   inFavorites,
   onClickInCollection,
   onClickInFavorites,
+  onImageClick,
 }) {
   const { id, title, artist, year, country, genre, image } = card;
 
   const roundedDecade = Math.floor(year / 10) * 10;
-
+  const { data } = useVinylById(id);
+  const { cover_image } = data || {};
+  const handleClickOnImg = (e) => {
+    e.stopPropagation();
+    onImageClick(id);
+  };
   return (
-    <div key={id} className={styles.block}>
-      <div className={styles.image}>
+    <motion.div
+      key={id}
+      className={styles.block}
+      viewport={{ once: true }}
+      initial={{
+        opacity: 1,
+        scale: 0.9,
+        rotate: 0.5,
+      }}
+      whileInView={{
+        scale: 1,
+        rotate: 0,
+        opacity: 0.9,
+      }}
+    >
+      <div role="button" tabIndex={0} className={styles.image}>
         <picture>
-          <img src={image} title={title} alt={title} />
+          <div role="button" tabIndex={0} onClick={handleClickOnImg}>
+            <img
+              src={cover_image ? cover_image : image}
+              title={title}
+              alt={title}
+            />
+          </div>
         </picture>
         <FavoriteButton
           inFavorites={inFavorites}
           isFill={inFavorites}
           onClick={() => {
-            onClickInFavorites(card.id);
+            onClickInFavorites(card);
           }}
         />
       </div>
       <Link to={`/vinyls/${id}`}>
         <h2 className={styles.name}>{title}</h2>
       </Link>
-
       <Link className={styles.group} to={`/results?artist=${artist}`}>
         {artist}
       </Link>
@@ -45,8 +77,16 @@ function VinylCard({
         </p>
         <p>
           Genre:
-          <Link className={styles.link} to={`/results?genres=${genre.id}`}>
-            {genre.title}
+          <Link to={`/results?genres=${genre.id}`}>
+            <div
+              className={clsx(styles.link, styles.genreLink)}
+              style={{
+                background:
+                  GENRE_COLORS_BY_GENRE_ID[genre.id].linearGradientValue,
+              }}
+            >
+              <div className={styles.genreText}>{genre.title}</div>
+            </div>
           </Link>
         </p>
         <p>
@@ -60,10 +100,10 @@ function VinylCard({
         className={styles.root}
         isActive={inCollection}
         onClick={() => {
-          onClickInCollection(card.id);
+          onClickInCollection(card);
         }}
       />
-    </div>
+    </motion.div>
   );
 }
 
@@ -87,6 +127,7 @@ VinylCard.propTypes = {
   inFavorites: PropTypes.bool.isRequired,
   onClickInCollection: PropTypes.func.isRequired,
   onClickInFavorites: PropTypes.func.isRequired,
+  onImageClick: PropTypes.func.isRequired,
 };
 
 export default VinylCard;
