@@ -129,7 +129,7 @@ export const SearchResultsPage = () => {
                 favoritesList={favoritesList}
                 onClickInCollection={handleCollectionToggle}
                 onClickInFavorites={handleFavoritesToggle}
-                setOpenedVinylId={setOpenedVinylId}
+                onVinylImageClick={setOpenedVinylId}
               />
               <Pagination
                 totalPages={pagesCount}

@@ -1,5 +1,4 @@
-export const animateVinylEnable = async (isPlay, controlsVinyl, setIsPlay) => {
-  if (!isPlay) setIsPlay((prevIsPlay) => !prevIsPlay);
+export const animateVinylEnable = async (controlsVinyl) => {
   await controlsVinyl.start({
     scale: 0.9,
     transition: { duration: 0.5 },
@@ -25,8 +24,7 @@ export const animateVinylEnable = async (isPlay, controlsVinyl, setIsPlay) => {
   });
 };
 
-export const animateVinylDisable = async (isPlay, controlsVinyl, setIsPlay) => {
-  if (isPlay) setIsPlay((prevIsPlay) => !prevIsPlay);
+export const animateVinylDisable = async (controlsVinyl) => {
   await controlsVinyl.start({
     rotate: -0,
     transition: { duration: 1, repeat: 0 },

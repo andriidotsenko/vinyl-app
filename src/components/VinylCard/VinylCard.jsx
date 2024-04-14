@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 import clsx from "clsx";
-import { useReliseById } from "../../hooks/useReliseById.js";
+import { useVinylById } from "../../hooks/useVinylById";
 
 function VinylCard({
   card,
@@ -14,16 +14,16 @@ function VinylCard({
   inFavorites,
   onClickInCollection,
   onClickInFavorites,
-  setOpenedVinylId,
+  onImageClick,
 }) {
   const { id, title, artist, year, country, genre, image } = card;
 
   const roundedDecade = Math.floor(year / 10) * 10;
-  const { data } = useReliseById(id);
+  const { data } = useVinylById(id);
   const { cover_image } = data || {};
   const handleClickOnImg = (e) => {
     e.stopPropagation();
-    setOpenedVinylId(id);
+    onImageClick(id);
   };
   return (
     <motion.div
@@ -39,12 +39,6 @@ function VinylCard({
         scale: 1,
         rotate: 0,
         opacity: 0.9,
-      }}
-      whileHover={{
-        cursor: "pointer",
-        opacity: 1,
-        zIndex: 100,
-        border: "1px solid var(--grey-border)",
       }}
     >
       <div role="button" tabIndex={0} className={styles.image}>
@@ -130,8 +124,7 @@ VinylCard.propTypes = {
   inFavorites: PropTypes.bool.isRequired,
   onClickInCollection: PropTypes.func.isRequired,
   onClickInFavorites: PropTypes.func.isRequired,
-  openedVinylId: PropTypes.number,
-  setOpenedVinylId: PropTypes.func,
+  onImageClick: PropTypes.func.isRequired,
 };
 
 export default VinylCard;

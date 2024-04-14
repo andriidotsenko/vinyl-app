@@ -6,11 +6,10 @@ function VinylCardList({
   cardList,
   collectionList,
   favoritesList,
-  openedVinylId,
-  setOpenedVinylId,
   onClickInCollection,
   onClickInFavorites,
   isHasTitle,
+  onVinylImageClick,
 }) {
   return (
     <>
@@ -30,8 +29,7 @@ function VinylCardList({
               inFavorites={favoritesList.includes(card.id)}
               onClickInCollection={onClickInCollection}
               onClickInFavorites={onClickInFavorites}
-              openedVinylId={openedVinylId}
-              setOpenedVinylId={setOpenedVinylId}
+              onImageClick={onVinylImageClick}
             />
           );
         })}
@@ -47,8 +45,7 @@ VinylCardList.propTypes = {
   onClickInCollection: PropTypes.func.isRequired,
   onClickInFavorites: PropTypes.func.isRequired,
   isHasTitle: PropTypes.bool.isRequired,
-  openedVinylId: PropTypes.number,
-  setOpenedVinylId: PropTypes.func,
+  onVinylImageClick: PropTypes.func.isRequired,
 };
 
 VinylCardList.defaultProps = {

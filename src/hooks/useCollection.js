@@ -7,18 +7,18 @@ export const useCollection = (addNotification) => {
       : []
   );
 
-  function handleCollectionToggle(cardId) {
-    const inCollection = collectionList.includes(cardId);
+  function handleCollectionToggle(vinyl) {
+    const inCollection = collectionList.includes(vinyl.id);
     setCollectionList((prevCollectionList) =>
-      prevCollectionList.includes(cardId)
-        ? prevCollectionList.filter((id) => id !== cardId)
-        : [...prevCollectionList, cardId]
+      prevCollectionList.includes(vinyl.id)
+        ? prevCollectionList.filter((id) => id !== vinyl.id)
+        : [...prevCollectionList, vinyl.id]
     );
 
     addNotification(
       inCollection
-        ? `"${cardId}" removed from collection`
-        : `"${cardId.title}" added to collection`
+        ? `"${vinyl}" removed from collection`
+        : `"${vinyl.title}" added to collection`
     );
   }
   useEffect(() => {

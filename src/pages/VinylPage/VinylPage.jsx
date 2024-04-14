@@ -1,5 +1,5 @@
 import { Helmet } from "react-helmet-async";
-import { useReliseById } from "../../hooks/useReliseById";
+import { useVinylById } from "../../hooks/useVinylById";
 import { useParams, useOutletContext, useNavigate } from "react-router-dom";
 import { Loader } from "../../components/Loader/Loader.jsx";
 import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
@@ -19,7 +19,7 @@ export function VinylPage() {
     navigate(-1);
   };
 
-  const { data, isLoading } = useReliseById(vinylId);
+  const { data, isLoading } = useVinylById(vinylId);
   if (isLoading) {
     return <Loader />;
   }

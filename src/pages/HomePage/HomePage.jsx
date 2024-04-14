@@ -64,7 +64,7 @@ export function HomePage() {
             favoritesList={favoritesList}
             onClickInCollection={handleCollectionToggle}
             onClickInFavorites={handleFavoritesToggle}
-            setOpenedVinylId={setOpenedVinylId}
+            onVinylImageClick={setOpenedVinylId}
           />
           <Pagination
             totalPages={Math.ceil(total / pageSize)}

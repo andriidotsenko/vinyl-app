@@ -11,6 +11,13 @@
   text-wrap: nowrap;
   transition: all 0.1s;
 }
+.block:hover {
+  z-index: 100;
+  border: "1px solid var(--grey-border)";
+  cursor: "pointer";
+  opacity: 1;
+  transition: all 0.3s ease 0.21s;
+}
 
 .image {
   position: relative;
