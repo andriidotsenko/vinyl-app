@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import PlayButton from "./PlayButton";
 import FavoriteButton from "../FavoriteButton/FavoriteButton";
 import { useCountryListAsync } from "../../hooks/useCountryListAsync";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { CloseIcon } from "../Icon/CloseIcon";
 import { motion, useAnimation } from "framer-motion";
 import CollectionButton from "../CollectionButton/CollectionButton";
@@ -12,7 +12,6 @@ import { useVinylById } from "../../hooks/useVinylById";
 import { Loader } from "../Loader/Loader";
 import PropTypes from "prop-types";
 import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
-
 import {
   animateVinylEnable,
   animateVinylDisable,
@@ -43,7 +42,8 @@ function ModalVinyl({
     tracklist: trackList,
     styles: releaseStyles,
   } = dataVinyl || {};
-
+  const audioRef = useRef(null);
+  const openAudioRef = useRef(null);
   const [isPlay, setIsPlay] = useState(false);
   const { data: countries } = useCountryListAsync();
   function getCountryName(countryId) {
@@ -62,14 +62,50 @@ function ModalVinyl({
     GENRE_COLORS_BY_GENRE_ID[Math.floor(Math.random() * 13) + 1]
       .linearGradientValue;
 
+  const playAudio = async () => {
+    audioRef.current.play();
+    console.log("playAudio");
+  };
+
+  const playOpenSound = () => {
+    openAudioRef.current.volume = 0.01;
+    openAudioRef.current.play();
+    console.log("playOpenSound");
+  };
+  const pauseOpenSound = () => {
+    openAudioRef.current.volume = 0.01;
+    openAudioRef.current.play();
+    console.log("pauseOpenSound");
+  };
+
+  const pauseAudio = async () => {
+    console.log("pauseAudio");
+    audioRef.current.volume = 0.01;
+    audioRef.current.pause();
+  };
+
   const handleAnimateVinylEnable = async () => {
     if (!isPlay) setIsPlay((prevIsPlay) => !prevIsPlay);
-    await animateVinylEnable(controlsVinyl);
+
+    await animateVinylEnable(
+      controlsVinyl,
+      playAudio,
+      pauseAudio,
+      playOpenSound,
+      pauseOpenSound
+    );
   };
 
   const handleAnimateVinylDisable = async () => {
     if (isPlay) setIsPlay((prevIsPlay) => !prevIsPlay);
-    await animateVinylDisable(controlsVinyl);
+
+    await animateVinylDisable(
+      controlsVinyl,
+      pauseAudio,
+      playAudio,
+      playOpenSound,
+      pauseOpenSound
+    );
   };
 
   const handlePlay = () => {
@@ -140,6 +176,14 @@ function ModalVinyl({
               onClick={() => onFavoritesToggle(dataVinyl)}
             />
             <PlayButton isFill={isPlay} onClick={handlePlay}></PlayButton>
+            <audio ref={audioRef}>
+              <source src="/content/audio.mp3" type="audio/mpeg" />
+              Your browser does not support the audio element.
+            </audio>
+            <audio ref={openAudioRef}>
+              <source src="/content/open.mp3" type="audio/mpeg" />
+              Your browser does not support the audio element.
+            </audio>
           </div>
           <div className={styles.info}>
             <div className={styles.wrapper}>
