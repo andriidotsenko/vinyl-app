@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/media-has-caption */
 import clsx from "clsx";
 import styles from "./ModalVinyl.module.css";
 import { Link } from "react-router-dom";
@@ -20,6 +21,7 @@ import {
 } from "../../utils/animations";
 import { VinylNote } from "./VinylNote";
 import { useDeezerSearch } from "../../hooks/useDeezerSearch";
+import usePlayDialog from "../../hooks/usePlayDialog";
 
 function ModalVinyl({
   id,
@@ -57,16 +59,27 @@ function ModalVinyl({
   const trackRef = useRef(null);
   const actionSoundRef = useRef(null);
 
-  const { data: deezerData } = useDeezerSearch(
-    trackList ? trackList[0].title : ""
-  );
-  console.log(trackList[0].title);
-  const audio = deezerData[0].preview
-    ? deezerData[0].preview
-    : "/content/audio.mp3";
+  const handlePlay = () => {
+    isPlay ? handleAnimateVinylDisable() : handleAnimateVinylEnable();
+    isPlay
+      ? animateCoverDisable(controlsCover)
+      : animateCoverEnable(controlsCover);
+  };
 
-  console.log(audio);
-  console.log(title);
+  usePlayDialog(isPlay, handlePlay);
+
+  const { data: deezerData, isLoading: deezerLoading } = useDeezerSearch(
+    trackList[0].title
+  );
+
+  const deezerQuery = deezerData?.find((item) => {
+    return item.artist.name === artist;
+  });
+
+  const defaultAudio = "/content/audio.mp3";
+
+  const audioDeezer = deezerQuery ? deezerQuery.preview : null;
+  const audio = audioDeezer || defaultAudio;
 
   const VOLUME_TRACK = 0.1;
   const VOLUME_ACTION = 0.01;
@@ -93,7 +106,7 @@ function ModalVinyl({
     actionSoundRef.current.currentTime = 0;
   };
 
-  if (loadingVinyl) {
+  if (loadingVinyl || deezerLoading) {
     return <Loader />;
   }
 
@@ -125,12 +138,6 @@ function ModalVinyl({
     );
   };
 
-  const handlePlay = () => {
-    isPlay ? handleAnimateVinylDisable() : handleAnimateVinylEnable();
-    isPlay
-      ? animateCoverDisable(controlsCover)
-      : animateCoverEnable(controlsCover);
-  };
   return (
     <>
       <div
@@ -194,7 +201,7 @@ function ModalVinyl({
             />
             <PlayButton isFill={isPlay} onClick={handlePlay}></PlayButton>
             <audio ref={trackRef}>
-              <source src={"/content/audio.mp3"} type="audio/mpeg" />
+              <source src={audio} type="audio/mpeg" />
             </audio>
             <audio ref={actionSoundRef}>
               <source src="/content/open.mp3" type="audio/mpeg" />
@@ -300,7 +307,6 @@ ModalVinyl.propTypes = {
   title: PropTypes.string.isRequired,
   artist: PropTypes.string.isRequired,
   year: PropTypes.number.isRequired,
-  genre: PropTypes.string.isRequired,
   coverUrl: PropTypes.string.isRequired,
   inCollection: PropTypes.bool.isRequired,
   inFavorites: PropTypes.bool.isRequired,
