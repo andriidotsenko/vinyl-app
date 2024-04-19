@@ -1,35 +1,34 @@
 export const animateVinylEnable = async (
   controlsVinyl,
   playAudio,
-  pauseAudio,
+  // pauseAudio,
   playOpenSound,
   pauseOpenSound
 ) => {
-  pauseAudio();
-  playOpenSound();
-
   await controlsVinyl.start({
     scale: 0.9,
     transition: { duration: 0.5 },
   });
-  pauseOpenSound();
+  await pauseOpenSound();
   await controlsVinyl.start({
     scale: 0.9,
     transition: { duration: 0.5 },
     zIndex: -100,
     x: 250,
   });
+
   await controlsVinyl.start({
     transition: { duration: 0.5 },
     zIndex: 100,
   });
+
   await controlsVinyl.start({
     transition: { duration: 0.5 },
     scale: 1.1,
     x: 200,
   });
-
-  playAudio();
+  await playOpenSound();
+  await playAudio();
   await controlsVinyl.start({
     rotate: 360,
     transition: { delay: 0.2, duration: 5, repeat: Infinity, ease: "linear" },
@@ -39,19 +38,21 @@ export const animateVinylEnable = async (
 export const animateVinylDisable = async (
   controlsVinyl,
   pauseAudio,
+  playAudio,
   playOpenSound,
   pauseOpenSound
 ) => {
-  pauseAudio();
-
   await controlsVinyl.start({
     rotate: -0,
-    transition: { duration: 0.5, repeat: 0 },
+    transition: { duration: 1, repeat: 0 },
   });
-  pauseOpenSound();
+
+  pauseAudio();
+  await playOpenSound();
+
   await controlsVinyl.start({
     scale: 0.9,
-    transition: { duration: 1 },
+    transition: { duration: 0.5 },
     zIndex: -100,
     x: 250,
   });
@@ -70,6 +71,8 @@ export const animateVinylDisable = async (
     x: 0,
   });
   controlsVinyl.stop({});
+  pauseOpenSound();
+  pauseAudio();
 };
 
 export const animateCoverEnable = async (controlsCover) => {

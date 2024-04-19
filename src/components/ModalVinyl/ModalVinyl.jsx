@@ -19,6 +19,7 @@ import {
   animateCoverDisable,
 } from "../../utils/animations";
 import { VinylNote } from "./VinylNote";
+import { useDeezerSearch } from "../../hooks/useDeezerSearch";
 
 function ModalVinyl({
   id,
@@ -42,8 +43,7 @@ function ModalVinyl({
     tracklist: trackList,
     styles: releaseStyles,
   } = dataVinyl || {};
-  const audioRef = useRef(null);
-  const openAudioRef = useRef(null);
+
   const [isPlay, setIsPlay] = useState(false);
   const { data: countries } = useCountryListAsync();
   function getCountryName(countryId) {
@@ -54,6 +54,45 @@ function ModalVinyl({
   const controlsVinyl = useAnimation();
   const controlsCover = useAnimation();
 
+  const trackRef = useRef(null);
+  const actionSoundRef = useRef(null);
+
+  const { data: deezerData } = useDeezerSearch(
+    trackList ? trackList[0].title : ""
+  );
+  console.log(trackList[0].title);
+  const audio = deezerData[0].preview
+    ? deezerData[0].preview
+    : "/content/audio.mp3";
+
+  console.log(audio);
+  console.log(title);
+
+  const VOLUME_TRACK = 0.1;
+  const VOLUME_ACTION = 0.01;
+  const playAudio = async () => {
+    trackRef.current.load();
+    trackRef.current.volume = VOLUME_TRACK;
+    trackRef.current.play();
+  };
+
+  const pauseAudio = async () => {
+    trackRef.current.pause();
+
+    trackRef.current.currentTime = 0;
+  };
+
+  const playOpenSound = async () => {
+    actionSoundRef.current.load();
+    actionSoundRef.current.volume = VOLUME_ACTION;
+    actionSoundRef.current.play();
+  };
+
+  const pauseOpenSound = async () => {
+    actionSoundRef.current.pause();
+    actionSoundRef.current.currentTime = 0;
+  };
+
   if (loadingVinyl) {
     return <Loader />;
   }
@@ -61,28 +100,6 @@ function ModalVinyl({
   const color =
     GENRE_COLORS_BY_GENRE_ID[Math.floor(Math.random() * 13) + 1]
       .linearGradientValue;
-
-  const playAudio = async () => {
-    audioRef.current.play();
-    console.log("playAudio");
-  };
-
-  const playOpenSound = () => {
-    openAudioRef.current.volume = 0.01;
-    openAudioRef.current.play();
-    console.log("playOpenSound");
-  };
-  const pauseOpenSound = () => {
-    openAudioRef.current.volume = 0.01;
-    openAudioRef.current.play();
-    console.log("pauseOpenSound");
-  };
-
-  const pauseAudio = async () => {
-    console.log("pauseAudio");
-    audioRef.current.volume = 0.01;
-    audioRef.current.pause();
-  };
 
   const handleAnimateVinylEnable = async () => {
     if (!isPlay) setIsPlay((prevIsPlay) => !prevIsPlay);
@@ -164,7 +181,7 @@ function ModalVinyl({
                   className={styles.vinylImgFile}
                   src="/content/image.png"
                   alt="vinyl"
-                  style={{ opacity: 0.2 }}
+                  style={{ opacity: 0.8 }}
                 ></img>
               </div>
               <div className={styles.vinylCoverImg}>
@@ -176,13 +193,11 @@ function ModalVinyl({
               onClick={() => onFavoritesToggle(dataVinyl)}
             />
             <PlayButton isFill={isPlay} onClick={handlePlay}></PlayButton>
-            <audio ref={audioRef}>
-              <source src="/content/audio.mp3" type="audio/mpeg" />
-              Your browser does not support the audio element.
+            <audio ref={trackRef}>
+              <source src={"/content/audio.mp3"} type="audio/mpeg" />
             </audio>
-            <audio ref={openAudioRef}>
+            <audio ref={actionSoundRef}>
               <source src="/content/open.mp3" type="audio/mpeg" />
-              Your browser does not support the audio element.
             </audio>
           </div>
           <div className={styles.info}>
