@@ -1,6 +1,7 @@
 import PropTypes from "prop-types";
 import styles from "./GenreCard.module.css";
 import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
+import { motion } from "framer-motion";
 
 const GenreCard = ({ genre }) => {
   const getRandomOffset = (min, max) =>
@@ -11,10 +12,10 @@ const GenreCard = ({ genre }) => {
 
   const images = GENRE_COLORS_BY_GENRE_ID[genre.id].images;
 
-  const minOffset = 41;
-  const maxOffset = 100;
-  const minRotation = -30;
-  const maxRotation = 45;
+  const minOffset = 31;
+  const maxOffset = 80;
+  const minRotation = -50;
+  const maxRotation = 50;
 
   const textColor =
     GENRE_COLORS_BY_GENRE_ID[genre.id].textTheme === "dark"
@@ -31,7 +32,13 @@ const GenreCard = ({ genre }) => {
     >
       <div className={styles.title}>{genre.title}</div>
       {images.map((image, index) => (
-        <img
+        <motion.img
+          animate={{
+            // transition: { duration: 0.33 },
+            rotate: `${getRandomRotation(minRotation, maxRotation)}deg`,
+            top: `${getRandomOffset(minOffset, maxOffset)}px`,
+            left: `${getRandomOffset(minOffset, maxOffset)}px`,
+          }}
           key={index}
           src={image}
           alt={`${genre.title}_Image${index + 1}`}
@@ -40,14 +47,8 @@ const GenreCard = ({ genre }) => {
             width: "70px",
             height: "70px",
             borderRadius: 4,
-            top: `${getRandomOffset(minOffset, maxOffset)}px`,
-            left: `${getRandomOffset(minOffset, maxOffset)}px`,
-            transform: `rotate(${getRandomRotation(
-              minRotation,
-              maxRotation
-            )}deg)`,
           }}
-        />
+        ></motion.img>
       ))}
     </div>
   );

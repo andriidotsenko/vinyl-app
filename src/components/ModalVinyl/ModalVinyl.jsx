@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/media-has-caption */
 import clsx from "clsx";
 import styles from "./ModalVinyl.module.css";
+
 import { Link } from "react-router-dom";
 import PlayButton from "./PlayButton";
 import FavoriteButton from "../FavoriteButton/FavoriteButton";
@@ -22,6 +23,7 @@ import {
 import { VinylNote } from "./VinylNote";
 import { useDeezerSearch } from "../../hooks/useDeezerSearch";
 import usePlayDialog from "../../hooks/usePlayDialog";
+import useEscapeKeyDown from "../../hooks/useEscapeKeyDown";
 
 function ModalVinyl({
   id,
@@ -47,6 +49,7 @@ function ModalVinyl({
   } = dataVinyl || {};
 
   const [isPlay, setIsPlay] = useState(false);
+
   const { data: countries } = useCountryListAsync();
   function getCountryName(countryId) {
     if (!Array.isArray(countries)) return "";
@@ -65,18 +68,19 @@ function ModalVinyl({
       ? animateCoverDisable(controlsCover)
       : animateCoverEnable(controlsCover);
   };
-
   usePlayDialog(isPlay, handlePlay);
 
+  useEscapeKeyDown(onClose);
+
   const { data: deezerData, isLoading: deezerLoading } = useDeezerSearch(
-    trackList[0].title
+    trackList && trackList.length > 0 ? trackList[3].title : ""
   );
 
   const deezerQuery = deezerData?.find((item) => {
     return item.artist.name === artist;
   });
 
-  const defaultAudio = "/content/audio.mp3";
+  const defaultAudio = "/content/noizVinyl.mp3";
 
   const audioDeezer = deezerQuery ? deezerQuery.preview : null;
   const audio = audioDeezer || defaultAudio;
@@ -140,7 +144,15 @@ function ModalVinyl({
 
   return (
     <>
-      <div
+      <motion.div
+        initial={{
+          opacity: 0.5,
+          scale: 0,
+        }}
+        animate={{
+          opacity: 1,
+          scale: 1,
+        }}
         className={clsx(
           styles.modal,
           variant === "primary" ? styles.primary : styles.secondary
@@ -199,7 +211,8 @@ function ModalVinyl({
               isFill={inFavorites}
               onClick={() => onFavoritesToggle(dataVinyl)}
             />
-            <PlayButton isFill={isPlay} onClick={handlePlay}></PlayButton>
+
+            <PlayButton onClick={handlePlay} isFill={isPlay}></PlayButton>
             <audio ref={trackRef}>
               <source src={audio} type="audio/mpeg" />
             </audio>
@@ -297,7 +310,7 @@ function ModalVinyl({
             </div>
           </div>
         ) : null}
-      </div>
+      </motion.div>
     </>
   );
 }
