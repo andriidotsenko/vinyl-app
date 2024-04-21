@@ -1,4 +1,6 @@
+import { useRef, useState, useEffect } from "react";
 import PropTypes from "prop-types";
+
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import clsx from "clsx";
@@ -10,6 +12,7 @@ import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 
 import { useVinylById } from "../../hooks/useVinylById";
 import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
+import { Portal } from "react-portal";
 
 function VinylCard({
   card,
@@ -21,89 +24,137 @@ function VinylCard({
 }) {
   const { id, title, artist, year, country, genre, image } = card;
 
+  const elementRef = useRef(null);
+  const [position, setPosition] = useState(null);
+
+  const handlePointerEnter = () => {
+    const { top, left } = elementRef.current.getBoundingClientRect();
+
+    setPosition({
+      top: top - 50 - 8,
+      left: left - 150 + 16,
+    });
+  };
+
+  const handlePointerLeave = () => {
+    clearTimeout(timeoutId);
+
+    setTimeoutId(
+      setTimeout(() => {
+        setPosition(null);
+      }, 1000)
+    );
+  };
+
   const roundedDecade = Math.floor(year / 10) * 10;
   const { data } = useVinylById(id);
   const { cover_image } = data || {};
+
   const handleClickOnImg = (e) => {
     e.stopPropagation();
     onImageClick(id);
   };
+
+  const [timeoutId, setTimeoutId] = useState(null);
+
+  useEffect(() => {
+    return () => {
+      clearTimeout(timeoutId);
+    };
+  }, [timeoutId]);
   return (
-    <motion.div
-      key={id}
-      className={styles.block}
-      viewport={{ once: true }}
-      initial={{
-        opacity: 1,
-        scale: 0.9,
-        rotate: 0.5,
-      }}
-      whileInView={{
-        scale: 1,
-        rotate: 0,
-        opacity: 0.9,
-      }}
-    >
-      <div role="button" tabIndex={0} className={styles.image}>
-        <picture>
-          <div role="button" tabIndex={0} onClick={handleClickOnImg}>
-            <img
-              src={cover_image ? cover_image : image}
-              title={title}
-              alt={title}
-            />
+    <>
+      {position && (
+        <Portal>
+          <div className={styles.tooltip} style={position}>
+            {inFavorites ? "Remove from favorites" : "Add to favorites"}
+            {title}- {artist}
           </div>
-        </picture>
-        <FavoriteButton
-          inFavorites={inFavorites}
-          isFill={inFavorites}
+        </Portal>
+      )}
+      <motion.div
+        key={id}
+        className={styles.block}
+        viewport={{ once: true }}
+        initial={{
+          opacity: 1,
+          scale: 0.9,
+          rotate: 0.5,
+        }}
+        whileInView={{
+          scale: 1,
+          rotate: 0,
+          opacity: 0.9,
+        }}
+      >
+        <div role="button" tabIndex={0} className={styles.image}>
+          <picture>
+            <div role="button" tabIndex={0} onClick={handleClickOnImg}>
+              <img
+                src={cover_image ? cover_image : image}
+                title={title}
+                alt={title}
+              />
+            </div>
+          </picture>
+
+          <FavoriteButton
+            elementRef={elementRef}
+            onPointerEnter={handlePointerEnter}
+            onPointerLeave={handlePointerLeave}
+            inFavorites={inFavorites}
+            isFill={inFavorites}
+            onClick={() => {
+              onClickInFavorites(card);
+            }}
+          />
+        </div>
+        <Link to={`/vinyls/${id}`}>
+          <h2 className={styles.name}>{title}</h2>
+        </Link>
+        <Link className={styles.group} to={`/results?artist=${artist}`}>
+          {artist}
+        </Link>
+        <div className={styles.info}>
+          <p>
+            Year:
+            <Link
+              className={styles.link}
+              to={`/results?decade=${roundedDecade}`}
+            >
+              {year}
+            </Link>
+          </p>
+          <p>
+            Genre:
+            <Link to={`/results?genres=${genre.id}`}>
+              <div
+                className={clsx(styles.link, styles.genreLink)}
+                style={{
+                  background:
+                    GENRE_COLORS_BY_GENRE_ID[genre.id].linearGradientValue,
+                }}
+              >
+                <div className={styles.genreText}>{genre.title}</div>
+              </div>
+            </Link>
+          </p>
+          <p>
+            Country:
+            <Link className={styles.link} to={`/results?country=${country.id}`}>
+              {country.title}
+            </Link>
+          </p>
+        </div>
+        <CollectionButton
+          className={styles.root}
+          isActive={inCollection}
           onClick={() => {
-            onClickInFavorites(card);
+            onClickInCollection(card);
           }}
         />
-      </div>
-      <Link to={`/vinyls/${id}`}>
-        <h2 className={styles.name}>{title}</h2>
-      </Link>
-      <Link className={styles.group} to={`/results?artist=${artist}`}>
-        {artist}
-      </Link>
-      <div className={styles.info}>
-        <p>
-          Year:
-          <Link className={styles.link} to={`/results?decade=${roundedDecade}`}>
-            {year}
-          </Link>
-        </p>
-        <p>
-          Genre:
-          <Link to={`/results?genres=${genre.id}`}>
-            <div
-              className={clsx(styles.link, styles.genreLink)}
-              style={{
-                background:
-                  GENRE_COLORS_BY_GENRE_ID[genre.id].linearGradientValue,
-              }}
-            >
-              <div className={styles.genreText}>{genre.title}</div>
-            </div>
-          </Link>
-        </p>
-        <p>
-          Country:
-          <Link className={styles.link} to={`/results?country=${country.id}`}>
-            {country.title}
-          </Link>
-        </p>
-      </div>
-      <CollectionButton
-        className={styles.root}
-        isActive={inCollection}
-        onClick={() => {
-          onClickInCollection(card);
-        }}
-      />
-    </motion.div>
+      </motion.div>
+    </>
   );
 }
 

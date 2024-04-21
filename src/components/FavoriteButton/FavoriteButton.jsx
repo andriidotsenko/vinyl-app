@@ -4,9 +4,18 @@ import styles from "./FavoriteButton.module.css";
 import { motion } from "framer-motion";
 import FavoriteIcon from "../Icon/FavoriteIcon.jsx";
 
-function FavoriteButton({ isFill, onClick }) {
+function FavoriteButton({
+  isFill,
+  onClick,
+  elementRef,
+  onPointerEnter,
+  onPointerLeave,
+}) {
   return (
     <motion.button
+      ref={elementRef}
+      onPointerEnter={onPointerEnter}
+      onPointerLeave={onPointerLeave}
       className={styles.fav}
       onClick={onClick}
       initial={{
@@ -14,8 +23,6 @@ function FavoriteButton({ isFill, onClick }) {
       }}
       animate={{
         scale: isFill ? [1.2, 1, 0.6, 1, 0.8, 1] : [0.8, 1, 0.6, 1, 1.2, 1],
-        borderRadius: isFill ? ["8px", "10px"] : ["8px", "9px"],
-        border: "1px solid black",
       }}
     >
       <FavoriteIcon isActive={isFill} />
@@ -26,6 +33,9 @@ function FavoriteButton({ isFill, onClick }) {
 FavoriteButton.propTypes = {
   isFill: PropTypes.bool.isRequired,
   onClick: PropTypes.func.isRequired,
+  elementRef: PropTypes.object,
+  onPointerEnter: PropTypes.func,
+  onPointerLeave: PropTypes.func,
 };
 
 export default FavoriteButton;
