@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import PropTypes from "prop-types";
 import clsx from "clsx";
 import styles from "./VinylNote.module.css";
-import PenIcon from "../Icon/PenIcon";
+import PenIcon from "../../Icon/PenIcon";
 
 export function VinylNote({ variant, id, title, artist, addNote, noteList }) {
   return (

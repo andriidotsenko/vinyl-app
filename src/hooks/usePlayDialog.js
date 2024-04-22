@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import useKeyDown from "./useKeyDown";
 
 const usePlayDialog = (isPlay, handlePlay) => {
   useEffect(() => {
@@ -14,20 +15,7 @@ const usePlayDialog = (isPlay, handlePlay) => {
     };
   }, [isPlay, handlePlay]);
 
-  useEffect(() => {
-    const handleKeyPress = (event) => {
-      if (event.code === "Space") {
-        event.preventDefault();
-        handlePlay();
-      }
-    };
-
-    window.addEventListener("keydown", handleKeyPress);
-
-    return () => {
-      window.removeEventListener("keydown", handleKeyPress);
-    };
-  }, [handlePlay]);
+  useKeyDown(handlePlay, ["Space", "Play"]);
 };
 
 export default usePlayDialog;

@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import styles from "./PlayButton.module.css";
-import PlayIcon from "../Icon/PlayIcon.jsx";
-import PauseButton from "../Icon/PauseIcon.jsx";
+import PlayIcon from "../../Icon/PlayIcon.jsx";
+import PauseButton from "../../Icon/PauseIcon.jsx";
 import { motion } from "framer-motion";
 
 const PlayButton = ({ isFill, onClick }) => {

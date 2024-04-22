@@ -48,7 +48,7 @@ const GenreCard = ({ genre }) => {
             height: "70px",
             borderRadius: 4,
           }}
-        ></motion.img>
+        />
       ))}
     </div>
   );

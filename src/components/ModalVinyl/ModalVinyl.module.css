@@ -1,11 +1,5 @@
-.tooltip {
-  position: fixed;
-  z-index: 3000;
-  top: 0;
-  left: 0;
-  display: flex;
-  width: 100px;
-  height: 100px;
+a {
+  color: var(--dark-blue);
 }
 
 .secondary {
@@ -153,23 +147,6 @@ img {
   user-select: none;
 }
 
-.text {
-  color: var(--grey);
-  font-size: 16px;
-  font-weight: 400;
-}
-
-.value {
-  margin-left: 4px;
-  color: var(--dark-blue);
-  font-size: 16px;
-  font-weight: 400;
-}
-
-.styleRelease {
-  display: inline-flex;
-}
-
 .info {
   margin-bottom: 16px;
 }
@@ -185,48 +162,6 @@ h3.title {
   flex-direction: column;
   margin-bottom: 16px;
   gap: 12px;
-}
-.shop {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: start;
-  gap: 12px;
-}
-
-.shopImg {
-  overflow: hidden;
-  width: 3rem;
-  height: 3rem;
-  border-radius: 50%;
-}
-
-.shopLink {
-  color: var(--blue);
-  font-size: 16px;
-  font-weight: 400;
-  text-decoration-line: underline;
-}
-
-a {
-  color: var(--blue);
-}
-
-.track {
-  display: flex;
-  justify-content: space-between;
-  padding: 4px 8px;
-  border-radius: 4px;
-  margin-bottom: 12px;
-  background: var(--grey-border);
-}
-
-.left {
-  display: flex;
-  gap: 6px;
-}
-.position {
-  min-width: 30px;
 }
 
 .button {
