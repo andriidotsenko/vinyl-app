@@ -1,5 +1,4 @@
 import { useEffect } from "react";
-import useKeyDown from "./useKeyDown";
 
 const usePlayDialog = (isPlay, handlePlay) => {
   useEffect(() => {
@@ -14,8 +13,6 @@ const usePlayDialog = (isPlay, handlePlay) => {
       clearTimeout(playTimeout);
     };
   }, [isPlay, handlePlay]);
-
-  useKeyDown(handlePlay, ["Space", "Play"]);
 };
 
 export default usePlayDialog;

@@ -60,6 +60,16 @@ function ModalVinyl({
     styles: releaseStyles,
   } = dataVinyl || {};
 
+  const [isAddingNote, setIsAddingNote] = useState(false);
+
+  const enableAddingNote = () => {
+    setIsAddingNote(true);
+  };
+
+  const disableAddingNote = () => {
+    setIsAddingNote(false);
+  };
+
   const [isPlay, setIsPlay] = useState(false);
   const { data: countries } = useCountryListAsync() || [];
   function getCountryName(countryId) {
@@ -105,8 +115,11 @@ function ModalVinyl({
       ? animateCoverDisable(controlsCover)
       : animateCoverEnable(controlsCover);
   };
+
   usePlayDialog(isPlay, handlePlay);
-  useKeyDown(onClose, ["Escape", "Esc"]);
+
+  useKeyDown(handlePlay, ["Space", "Play"], !isAddingNote);
+  useKeyDown(onClose, ["Escape", "Esc"], true);
   if (loadingVinyl) {
     return <Loader />;
   }
@@ -170,7 +183,7 @@ function ModalVinyl({
                 ></img>
               </div>
               <div className={styles.vinylCoverImg}>
-                <img src={thumb_image} alt=""></img>
+                <img src={thumb_image} alt="" />
               </div>
             </motion.div>
             <FavoriteButton
@@ -215,6 +228,8 @@ function ModalVinyl({
             artist={artist}
             addNote={addNote}
             noteList={noteList}
+            enableAddingNote={() => enableAddingNote()}
+            disableAddingNote={() => disableAddingNote()}
           />
         </div>
         {variant === "primary" ? (
@@ -244,10 +259,6 @@ function ModalVinyl({
 
 ModalVinyl.propTypes = {
   id: PropTypes.number.isRequired,
-  title: PropTypes.string.isRequired,
-  artist: PropTypes.string.isRequired,
-  year: PropTypes.number.isRequired,
-  coverUrl: PropTypes.string.isRequired,
   inCollection: PropTypes.bool.isRequired,
   inFavorites: PropTypes.bool.isRequired,
   onFavoritesToggle: PropTypes.func.isRequired,

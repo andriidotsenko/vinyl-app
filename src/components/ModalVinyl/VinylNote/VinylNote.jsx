@@ -4,7 +4,16 @@ import clsx from "clsx";
 import styles from "./VinylNote.module.css";
 import PenIcon from "../../Icon/PenIcon";
 
-export function VinylNote({ variant, id, title, artist, addNote, noteList }) {
+export function VinylNote({
+  variant,
+  id,
+  title,
+  artist,
+  addNote,
+  noteList,
+  enableAddingNote,
+  disableAddingNote,
+}) {
   return (
     <div
       className={clsx(
@@ -41,6 +50,8 @@ export function VinylNote({ variant, id, title, artist, addNote, noteList }) {
         }}
         className={styles.placeholder}
         onChange={(e) => addNote(id, e.target.value)}
+        onFocus={enableAddingNote}
+        onBlur={disableAddingNote}
         value={noteList[id] || ""}
         placeholder={`Add note to ${title} by ${artist}`}
       ></motion.textarea>
@@ -50,9 +61,11 @@ export function VinylNote({ variant, id, title, artist, addNote, noteList }) {
 
 VinylNote.propTypes = {
   variant: PropTypes.oneOf(["primary", "secondary"]).isRequired,
-  id: PropTypes.string.isRequired,
+  id: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
   title: PropTypes.string.isRequired,
   artist: PropTypes.string.isRequired,
   addNote: PropTypes.func.isRequired,
   noteList: PropTypes.object.isRequired,
+  enableAddingNote: PropTypes.func.isRequired,
+  disableAddingNote: PropTypes.func.isRequired,
 };
