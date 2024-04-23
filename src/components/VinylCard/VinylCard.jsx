@@ -24,44 +24,37 @@ function VinylCard({
 }) {
   const { id, title, artist, year, country, genre, image } = card;
 
-  const elementRef = useRef(null);
+  const ref = useRef(null);
   const [position, setPosition] = useState(null);
-
   const handlePointerEnter = () => {
-    const { top, left } = elementRef.current.getBoundingClientRect();
-
+    const { top, left } = ref.current.getBoundingClientRect();
     setPosition({
       top: top - 50 - 8,
       left: left - 150 + 16,
     });
   };
-
   const handlePointerLeave = () => {
     clearTimeout(timeoutId);
-
     setTimeoutId(
       setTimeout(() => {
         setPosition(null);
       }, 1000)
     );
   };
-
-  const roundedDecade = Math.floor(year / 10) * 10;
-  const { data } = useVinylById(id);
-  const { cover_image } = data || {};
-
-  const handleClickOnImg = (e) => {
-    e.stopPropagation();
-    onImageClick(id);
-  };
-
   const [timeoutId, setTimeoutId] = useState(null);
-
   useEffect(() => {
     return () => {
       clearTimeout(timeoutId);
     };
   }, [timeoutId]);
+
+  const roundedDecade = Math.floor(year / 10) * 10;
+  const { data } = useVinylById(id);
+  const { cover_image } = data || {};
+  const handleClickOnImg = (e) => {
+    e.stopPropagation();
+    onImageClick(id);
+  };
   return (
     <>
       {position && (
@@ -99,7 +92,7 @@ function VinylCard({
           </picture>
 
           <FavoriteButton
-            elementRef={elementRef}
+            ref={ref}
             onPointerEnter={handlePointerEnter}
             onPointerLeave={handlePointerLeave}
             inFavorites={inFavorites}
