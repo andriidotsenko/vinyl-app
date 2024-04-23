@@ -1,7 +1,7 @@
 export const animateVinylEnable = async (
   controlsVinyl,
   playAudio,
-  // pauseAudio,
+
   playOpenSound,
   pauseOpenSound
 ) => {
@@ -24,8 +24,8 @@ export const animateVinylEnable = async (
 
   await controlsVinyl.start({
     transition: { duration: 0.5 },
-    scale: 1.1,
-    x: 200,
+    scale: 0.9,
+    x: 30,
   });
   await playOpenSound();
   await playAudio();
@@ -53,14 +53,14 @@ export const animateVinylDisable = async (
   await controlsVinyl.start({
     scale: 0.9,
     transition: { duration: 0.5 },
-    zIndex: -100,
+
     x: 250,
   });
 
   await controlsVinyl.start({
     scale: 0.8,
     transition: { duration: 0.5 },
-
+    zIndex: -100,
     x: 0,
   });
 

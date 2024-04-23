@@ -20,9 +20,13 @@ function FavoriteButton({
       onClick={onClick}
       initial={{
         fill: isFill ? "red" : "black",
+        scale: 1,
       }}
-      animate={{
-        scale: isFill ? [1.2, 1, 0.6, 1, 0.8, 1] : [0.8, 1, 0.6, 1, 1.2, 1],
+      whileTap={{
+        scale: 1,
+      }}
+      whileHover={{
+        scale: 1.1,
       }}
     >
       <FavoriteIcon isActive={isFill} />

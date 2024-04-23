@@ -9,14 +9,15 @@ a {
 
 .primary {
   position: relative;
-  max-width: 80vw;
+  max-width: 90vw;
   height: 80vh;
   padding: 16px;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
+
   overflow-y: auto;
   scrollbar-width: none;
 }
-ю .close {
+.close {
   display: flex;
   width: 26px;
   height: 26px;

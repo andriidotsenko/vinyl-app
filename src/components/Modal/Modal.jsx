@@ -22,7 +22,7 @@ function Modal({ onClose, children }) {
           scale: 0.1,
           translateX: "-50%",
           translateY: "-50%",
-          transition: { duration: 0.33 },
+          // transition: { duration: 0.33 },
         }}
         animate={{
           opacity: 1,
@@ -30,7 +30,14 @@ function Modal({ onClose, children }) {
           translateX: "-50%",
           translateY: "-50%",
 
-          transition: { duration: 0.33 },
+          // transition: { duration: 0.33 },
+        }}
+        exit={{
+          opacity: 0,
+          scale: 0.1,
+          translateX: "-50%",
+          translateY: "-50%",
+          // transition: { duration: 0.33 },
         }}
         className={styles.modal}
       >

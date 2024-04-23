@@ -4,33 +4,38 @@ import { motion, useAnimation } from "framer-motion";
 import PropTypes from "prop-types";
 import clsx from "clsx";
 import { Link } from "react-router-dom";
+
 import styles from "./ModalVinyl.module.css";
+
 import { useVinylById } from "../../hooks/useVinylById";
 import { useCountryListAsync } from "../../hooks/useCountryListAsync";
 import usePlayDialog from "../../hooks/usePlayDialog";
+import useKeyDown from "../../hooks/useKeyDown";
+
 import TrackList from "./TrackList/TrackList.jsx";
 import ShopItem from "./ShopItem/ShopItem.jsx";
 import VinylInfo from "./VinylInfo/VinylInfo.jsx";
+import { CloseIcon } from "../Icon/CloseIcon";
+import PlayButton from "./PlayButton/PlayButton.jsx";
+import FavoriteButton from "../FavoriteButton/FavoriteButton";
+import CollectionButton from "../CollectionButton/CollectionButton";
+import { VinylNote } from "./VinylNote/VinylNote.jsx";
+import { Loader } from "../Loader/Loader";
+
+import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
+
 import {
   playAudio,
   pauseAudio,
   playOpenSound,
   pauseOpenSound,
 } from "../../utils/audioUtils.js";
-import { CloseIcon } from "../Icon/CloseIcon";
-import PlayButton from "./PlayButton/PlayButton.jsx";
-import FavoriteButton from "../FavoriteButton/FavoriteButton";
-import CollectionButton from "../CollectionButton/CollectionButton";
-import { Loader } from "../Loader/Loader";
-import { VinylNote } from "./VinylNote/VinylNote.jsx";
-import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 import {
   animateVinylEnable,
   animateVinylDisable,
   animateCoverEnable,
   animateCoverDisable,
 } from "../../utils/animations";
-import useKeyDown from "../../hooks/useKeyDown";
 
 function ModalVinyl({
   id,
@@ -51,12 +56,12 @@ function ModalVinyl({
     country,
     thumb_image,
     cover_image,
-    tracklist: trackList,
+    tracklist,
     styles: releaseStyles,
   } = dataVinyl || {};
 
   const [isPlay, setIsPlay] = useState(false);
-  const { data: countries } = useCountryListAsync();
+  const { data: countries } = useCountryListAsync() || [];
   function getCountryName(countryId) {
     if (!Array.isArray(countries)) return "";
     return countries.find((c) => c.id === countryId)?.title;
@@ -67,14 +72,12 @@ function ModalVinyl({
   const trackRef = useRef(null);
   const actionSoundRef = useRef(null);
 
-  const handlePlay = () => {
-    isPlay ? handleAnimateVinylDisable() : handleAnimateVinylEnable();
-    isPlay
-      ? animateCoverDisable(controlsCover)
-      : animateCoverEnable(controlsCover);
-  };
-  usePlayDialog(isPlay, handlePlay);
-  useKeyDown(onClose, ["Escape", "Esc"]);
+  const defaultAudio = "/content/noizVinyl.mp3";
+  const audio = defaultAudio;
+  const color =
+    GENRE_COLORS_BY_GENRE_ID[Math.floor(Math.random() * 13) + 1]
+      .linearGradientValue;
+
   const handleAnimateVinylEnable = async () => {
     if (!isPlay) setIsPlay((prevIsPlay) => !prevIsPlay);
 
@@ -88,7 +91,6 @@ function ModalVinyl({
   };
   const handleAnimateVinylDisable = async () => {
     if (isPlay) setIsPlay((prevIsPlay) => !prevIsPlay);
-
     await animateVinylDisable(
       controlsVinyl,
       () => pauseAudio(trackRef),
@@ -97,16 +99,17 @@ function ModalVinyl({
       () => pauseOpenSound(actionSoundRef)
     );
   };
-  const defaultAudio = "/content/noizVinyl.mp3";
+  const handlePlay = () => {
+    isPlay ? handleAnimateVinylDisable() : handleAnimateVinylEnable();
+    isPlay
+      ? animateCoverDisable(controlsCover)
+      : animateCoverEnable(controlsCover);
+  };
+  usePlayDialog(isPlay, handlePlay);
+  useKeyDown(onClose, ["Escape", "Esc"]);
   if (loadingVinyl) {
     return <Loader />;
   }
-
-  const audio = defaultAudio;
-  const color =
-    GENRE_COLORS_BY_GENRE_ID[Math.floor(Math.random() * 13) + 1]
-      .linearGradientValue;
-
   return (
     <>
       <motion.div
@@ -204,7 +207,7 @@ function ModalVinyl({
             />
           </div>
           <h3 className={styles.title}>Track list</h3>
-          <TrackList trackList={trackList} />
+          <TrackList trackList={tracklist} />
           <VinylNote
             variant={variant}
             id={id}
