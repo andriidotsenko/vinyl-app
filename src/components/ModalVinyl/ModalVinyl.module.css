@@ -1,7 +1,19 @@
 a {
   color: var(--dark-blue);
 }
-
+.favoriteButtonWrapper {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 2rem;
+  height: 2rem;
+}
+.playButtonWrapper {
+  position: absolute;
+  z-index: 1000;
+  bottom: 10px;
+  left: 10px;
+}
 .secondary {
   max-width: 100vw;
   max-height: 100vh;

@@ -36,6 +36,7 @@ import {
   animateCoverEnable,
   animateCoverDisable,
 } from "../../utils/animations";
+import { WithTooltip } from "../WithTooltip/WithTooltip.jsx";
 
 function ModalVinyl({
   id,
@@ -186,11 +187,24 @@ function ModalVinyl({
                 <img src={thumb_image} alt="" />
               </div>
             </motion.div>
-            <FavoriteButton
-              isFill={inFavorites}
-              onClick={() => onFavoritesToggle(dataVinyl)}
-            />
-            <PlayButton onClick={handlePlay} isFill={isPlay} />
+            <div className={styles.favoriteButtonWrapper}>
+              <WithTooltip
+                tooltipText={`${
+                  inFavorites ? "Remove from favorites" : "Add to favorites"
+                } ${title} - ${artist}`}
+              >
+                <FavoriteButton
+                  isFill={inFavorites}
+                  onClick={() => onFavoritesToggle(dataVinyl)}
+                />
+              </WithTooltip>
+            </div>
+
+            <div className={styles.playButtonWrapper}>
+              <WithTooltip tooltipText={isPlay ? "Pause" : "Play"}>
+                <PlayButton onClick={handlePlay} isFill={isPlay} />
+              </WithTooltip>
+            </div>
             <audio ref={trackRef}>
               <source src={audio} type="audio/mpeg" />
             </audio>

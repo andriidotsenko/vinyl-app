@@ -1,7 +1,4 @@
 .fav {
-  position: absolute;
-  top: 10px;
-  left: 10px;
   display: flex;
   width: 2rem;
   height: 2rem;

@@ -1,4 +1,3 @@
-import { useRef, useState, useEffect } from "react";
 import PropTypes from "prop-types";
 
 import { Link } from "react-router-dom";
@@ -12,7 +11,7 @@ import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 
 import { useVinylById } from "../../hooks/useVinylById";
 import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
-import { Portal } from "react-portal";
+import { WithTooltip } from "../WithTooltip/WithTooltip.jsx";
 
 function VinylCard({
   card,
@@ -24,30 +23,6 @@ function VinylCard({
 }) {
   const { id, title, artist, year, country, genre, image } = card;
 
-  const ref = useRef(null);
-  const [position, setPosition] = useState(null);
-  const handlePointerEnter = () => {
-    const { top, left } = ref.current.getBoundingClientRect();
-    setPosition({
-      top: top - 50 - 8,
-      left: left - 150 + 16,
-    });
-  };
-  const handlePointerLeave = () => {
-    clearTimeout(timeoutId);
-    setTimeoutId(
-      setTimeout(() => {
-        setPosition(null);
-      }, 1000)
-    );
-  };
-  const [timeoutId, setTimeoutId] = useState(null);
-  useEffect(() => {
-    return () => {
-      clearTimeout(timeoutId);
-    };
-  }, [timeoutId]);
-
   const roundedDecade = Math.floor(year / 10) * 10;
   const { data } = useVinylById(id);
   const { cover_image } = data || {};
@@ -57,14 +32,6 @@ function VinylCard({
   };
   return (
     <>
-      {position && (
-        <Portal>
-          <div className={styles.tooltip} style={position}>
-            {inFavorites ? "Remove from favorites" : "Add to favorites"}
-            {title}- {artist}
-          </div>
-        </Portal>
-      )}
       <motion.div
         key={id}
         className={styles.block}
@@ -90,17 +57,20 @@ function VinylCard({
               />
             </div>
           </picture>
-
-          <FavoriteButton
-            ref={ref}
-            onPointerEnter={handlePointerEnter}
-            onPointerLeave={handlePointerLeave}
-            inFavorites={inFavorites}
-            isFill={inFavorites}
-            onClick={() => {
-              onClickInFavorites(card);
-            }}
-          />
+          <div className={styles.favoriteButtonWrapper}>
+            <WithTooltip
+              tooltipText={`${
+                inFavorites ? "Remove from favorites" : "Add to favorites"
+              } ${title} - ${artist}`}
+            >
+              <FavoriteButton
+                isFill={inFavorites}
+                onClick={() => {
+                  onClickInFavorites(card);
+                }}
+              />
+            </WithTooltip>
+          </div>
         </div>
         <Link to={`/vinyls/${id}`}>
           <h2 className={styles.name}>{title}</h2>
@@ -139,13 +109,19 @@ function VinylCard({
             </Link>
           </p>
         </div>
-        <CollectionButton
-          className={styles.root}
-          isActive={inCollection}
-          onClick={() => {
-            onClickInCollection(card);
-          }}
-        />
+        <WithTooltip
+          tooltipText={`${
+            inCollection ? "Remove from collection" : "Add to collection"
+          } ${title} - ${artist}`}
+        >
+          <CollectionButton
+            className={styles.root}
+            isActive={inCollection}
+            onClick={() => {
+              onClickInCollection(card);
+            }}
+          />
+        </WithTooltip>
       </motion.div>
     </>
   );

@@ -1,0 +1,21 @@
+.tooltip {
+  position: fixed;
+  z-index: 3000;
+  display: flex;
+  overflow: auto;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #dacece;
+  font-size: 12px;
+  text-align: center;
+  transform: translate(-50%, -100%);
+}
+
+.withTooltip {
+  top: inherit;
+  left: inherit;
+  height: inherit;
+}
