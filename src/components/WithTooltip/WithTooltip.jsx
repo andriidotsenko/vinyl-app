@@ -46,8 +46,14 @@ export function WithTooltip({ children, tooltipText = "tooltipText" }) {
           <motion.div
             className={styles.tooltip}
             style={position}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
+            initial={{
+              opacity: 0,
+              transform: "translateX(0% 0%)",
+            }}
+            animate={{
+              opacity: 1,
+              transform: "translateX(-50% -50%)",
+            }}
           >
             {tooltipText}
           </motion.div>
