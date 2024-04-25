@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import PropTypes from "prop-types";
 import clsx from "clsx";
 import styles from "./VinylNote.module.css";
-import PenIcon from "../Icon/PenIcon";
+import PenIcon from "../../Icon/PenIcon";
 
 export function VinylNote({ variant, id, title, artist, addNote, noteList }) {
   return (
@@ -50,7 +50,7 @@ export function VinylNote({ variant, id, title, artist, addNote, noteList }) {
 
 VinylNote.propTypes = {
   variant: PropTypes.oneOf(["primary", "secondary"]).isRequired,
-  id: PropTypes.string.isRequired,
+  id: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
   title: PropTypes.string.isRequired,
   artist: PropTypes.string.isRequired,
   addNote: PropTypes.func.isRequired,

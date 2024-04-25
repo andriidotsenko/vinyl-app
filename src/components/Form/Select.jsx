@@ -1,10 +1,11 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import PropTypes from "prop-types";
 import clsx from "clsx";
 import styles from "./Selects.module.css";
 import ArrowDownIcon from "../Icon/ArrowDownIcon.jsx";
 import ArrowUpIcon from "../Icon/ArrowUpIcon.jsx";
 import { CSSTransition } from "react-transition-group";
+import useClickOutside from "../../hooks/useClickOutside";
 
 const Select = ({
   options,
@@ -15,6 +16,7 @@ const Select = ({
   placeholder = "Placeholder",
 }) => {
   const [isOpen, setIsOpen] = useState(false);
+  const ref = useRef(null);
 
   const handleOptionChange = (optionId) => {
     setIsOpen(false);
@@ -26,8 +28,12 @@ const Select = ({
     setIsOpen((prevIsOpen) => !prevIsOpen);
   };
 
+  useClickOutside(ref, () => {
+    setIsOpen(false);
+  });
+
   return (
-    <>
+    <div ref={ref}>
       <input type="hidden" name={name} value={value || ""} />
       <div className={clsx(styles.root)}>
         <button
@@ -38,7 +44,11 @@ const Select = ({
           {value
             ? options.find((option) => option.value === value)?.label || ""
             : placeholder}
-          {isOpen ? <ArrowUpIcon /> : <ArrowDownIcon />}
+          {isOpen ? (
+            <ArrowUpIcon styles={{ PointerEvents: "none" }} />
+          ) : (
+            <ArrowDownIcon />
+          )}
         </button>
 
         <CSSTransition
@@ -65,7 +75,7 @@ const Select = ({
         </CSSTransition>
       </div>
       {error && <div style={{ color: "red", fontSize: "11px" }}>{error}</div>}
-    </>
+    </div>
   );
 };
 

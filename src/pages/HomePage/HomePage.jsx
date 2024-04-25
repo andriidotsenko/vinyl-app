@@ -43,7 +43,7 @@ export function HomePage() {
     setOpenedVinylId(null);
   };
 
-  useBodyScrollDisabled();
+  useBodyScrollDisabled(openedVinylId);
 
   return (
     <>
@@ -60,6 +60,7 @@ export function HomePage() {
             onClickInCollection={handleCollectionToggle}
             onClickInFavorites={handleFavoritesToggle}
             onVinylImageClick={setOpenedVinylId}
+            isHasTitle={false}
           />
           <Pagination
             totalPages={Math.ceil(total / pageSize)}

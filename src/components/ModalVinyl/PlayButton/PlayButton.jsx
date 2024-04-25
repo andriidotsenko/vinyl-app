@@ -1,18 +1,24 @@
 import PropTypes from "prop-types";
 import styles from "./PlayButton.module.css";
-import PlayIcon from "../Icon/PlayIcon.jsx";
-import PauseButton from "../Icon/PauseIcon.jsx";
+import PlayIcon from "../../Icon/PlayIcon.jsx";
+import PauseButton from "../../Icon/PauseIcon.jsx";
+import { motion } from "framer-motion";
 
 const PlayButton = ({ isFill, onClick }) => {
   return (
-    <button
+    <motion.button
+      initial={{
+        scale: 1,
+      }}
+      animate={{
+        scale: isFill ? [1.2, 1] : [1.1, 1],
+      }}
       type="button"
-      // disabled={isFill}
       className={styles.play}
       onClick={onClick}
     >
       {isFill ? <PauseButton /> : <PlayIcon />}
-    </button>
+    </motion.button>
   );
 };
 

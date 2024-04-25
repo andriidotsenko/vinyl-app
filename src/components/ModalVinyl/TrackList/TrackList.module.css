@@ -1,0 +1,16 @@
+.track {
+  display: flex;
+  justify-content: space-between;
+  padding: 4px 8px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+  background: var(--grey-border);
+}
+
+.left {
+  display: flex;
+  gap: 6px;
+}
+.position {
+  min-width: 30px;
+}

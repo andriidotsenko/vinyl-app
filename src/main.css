@@ -9,7 +9,7 @@
   --grey-light: #738286;
   --grey-border: #edeef0;
   --grey: #6c7072;
-  --error: #f00;
+  --error: rgb(255, 0, 34);
   --blue: #106081;
   --blue-hover: #0e5370;
   --blue-tap: #0b3f55;

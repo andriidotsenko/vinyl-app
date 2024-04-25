@@ -1,3 +1,10 @@
+.favoriteButtonWrapper {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 2rem;
+  height: 2rem;
+}
 .block {
   display: flex;
   min-width: 30%;
