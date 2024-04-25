@@ -1,0 +1,21 @@
+.text {
+  color: var(--grey);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.value {
+  margin-left: 4px;
+  color: var(--dark-blue);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.wrapper {
+  display: flex;
+  margin-bottom: 6px;
+}
+
+.styleRelease {
+  display: inline-flex;
+}

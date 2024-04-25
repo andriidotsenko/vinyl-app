@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useRef, useState } from "react";
 import PropTypes from "prop-types";
 import clsx from "clsx";
 import styles from "./Selects.module.css";
@@ -7,6 +7,7 @@ import UncheckIcon from "../Icon/UncheckIcon.jsx";
 import ArrowUpIcon from "../Icon/ArrowUpIcon.jsx";
 import ArrowDownIcon from "../Icon/ArrowDownIcon.jsx";
 import { CSSTransition } from "react-transition-group";
+import useClickOutside from "../../hooks/useClickOutside";
 
 const Checkbox = ({ value, checked, onChange, name }) => {
   return (
@@ -41,6 +42,7 @@ const MultiSelect = ({
 }) => {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
 
+  const ref = useRef(null);
   const toggleOption = (optionId) => {
     const updatedOptions = value.includes(optionId)
       ? value.filter((id) => id !== optionId)
@@ -66,9 +68,12 @@ const MultiSelect = ({
       value.length === options.length ? [] : options.map((option) => option.id);
     onChange(newSelectedOptions);
   };
+  useClickOutside(ref, () => {
+    setIsDropdownOpen(false);
+  });
 
   return (
-    <>
+    <div ref={ref}>
       <input type="hidden" name={`${name}-all`} value={value.join(",")} />
       <div className={clsx(styles.root, { [styles.error]: error })}>
         <button
@@ -120,7 +125,7 @@ const MultiSelect = ({
         </CSSTransition>
       </div>
       {error && <div style={{ color: "red", fontSize: "11px" }}>{error}</div>}
-    </>
+    </div>
   );
 };
 

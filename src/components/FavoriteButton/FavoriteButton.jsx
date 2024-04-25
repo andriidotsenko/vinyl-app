@@ -1,19 +1,39 @@
 import PropTypes from "prop-types";
+import { forwardRef } from "react";
 import styles from "./FavoriteButton.module.css";
-import ActiveFavoriteIcon from "../Icon/ActiveFavoriteIcon.jsx";
-import InactiveFavoriteIcon from "../Icon/InactiveFavoriteIcon.jsx";
+import { motion } from "framer-motion";
+import FavoriteIcon from "../Icon/FavoriteIcon.jsx";
 
-function FavoriteButton({ isFill, onClick }) {
+const FavoriteButton = forwardRef(({ isFill, onClick, ...props }, ref) => {
   return (
-    <button className={styles.fav} onClick={onClick}>
-      {isFill ? <ActiveFavoriteIcon /> : <InactiveFavoriteIcon />}
-    </button>
+    <motion.button
+      ref={ref}
+      {...props}
+      className={styles.fav}
+      onClick={onClick}
+      initial={{
+        fill: isFill ? "red" : "black",
+        scale: 1,
+      }}
+      whileTap={{
+        scale: 1,
+      }}
+      whileHover={{
+        scale: 1.1,
+      }}
+    >
+      <FavoriteIcon isActive={isFill} />
+    </motion.button>
   );
-}
+});
 
 FavoriteButton.propTypes = {
   isFill: PropTypes.bool.isRequired,
   onClick: PropTypes.func.isRequired,
+  onPointerEnter: PropTypes.func,
+  onPointerLeave: PropTypes.func,
 };
+
+FavoriteButton.displayName = "FavoriteButton";
 
 export default FavoriteButton;

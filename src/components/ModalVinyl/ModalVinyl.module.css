@@ -1,3 +1,19 @@
+a {
+  color: var(--dark-blue);
+}
+.favoriteButtonWrapper {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 2rem;
+  height: 2rem;
+}
+.playButtonWrapper {
+  position: absolute;
+  z-index: 1000;
+  bottom: 10px;
+  left: 10px;
+}
 .secondary {
   max-width: 100vw;
   max-height: 100vh;
@@ -5,14 +21,15 @@
 
 .primary {
   position: relative;
-  max-width: 80vw;
+  max-width: 90vw;
   height: 80vh;
   padding: 16px;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
+
   overflow-y: auto;
   scrollbar-width: none;
 }
-ю .close {
+.close {
   display: flex;
   width: 26px;
   height: 26px;
@@ -143,23 +160,6 @@ img {
   user-select: none;
 }
 
-.text {
-  color: var(--grey);
-  font-size: 16px;
-  font-weight: 400;
-}
-
-.value {
-  margin-left: 4px;
-  color: var(--dark-blue);
-  font-size: 16px;
-  font-weight: 400;
-}
-
-.styleRelease {
-  display: inline-flex;
-}
-
 .info {
   margin-bottom: 16px;
 }
@@ -175,48 +175,6 @@ h3.title {
   flex-direction: column;
   margin-bottom: 16px;
   gap: 12px;
-}
-.shop {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: start;
-  gap: 12px;
-}
-
-.shopImg {
-  overflow: hidden;
-  width: 3rem;
-  height: 3rem;
-  border-radius: 50%;
-}
-
-.shopLink {
-  color: var(--blue);
-  font-size: 16px;
-  font-weight: 400;
-  text-decoration-line: underline;
-}
-
-a {
-  color: var(--blue);
-}
-
-.track {
-  display: flex;
-  justify-content: space-between;
-  padding: 4px 8px;
-  border-radius: 4px;
-  margin-bottom: 12px;
-  background: var(--grey-border);
-}
-
-.left {
-  display: flex;
-  gap: 6px;
-}
-.position {
-  min-width: 30px;
 }
 
 .button {
@@ -252,4 +210,9 @@ a {
   align-items: flex-end;
   padding: 16px;
   background: linear-gradient(180deg, transparent 0%, var(--white) 45%);
+}
+
+.root {
+  display: flex;
+  width: 100%;
 }
