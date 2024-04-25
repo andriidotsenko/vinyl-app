@@ -1,9 +1,9 @@
 import { useEffect } from "react";
 
-const usePlayDialog = (isPlay, handlePlay) => {
+const usePlayEnd = (onPlayEnd, handlePlay) => {
   useEffect(() => {
     let playTimeout;
-    if (isPlay) {
+    if (onPlayEnd) {
       playTimeout = setTimeout(() => {
         handlePlay();
       }, 30000);
@@ -12,7 +12,7 @@ const usePlayDialog = (isPlay, handlePlay) => {
     return () => {
       clearTimeout(playTimeout);
     };
-  }, [isPlay, handlePlay]);
+  }, [onPlayEnd, handlePlay]);
 };
 
-export default usePlayDialog;
+export default usePlayEnd;

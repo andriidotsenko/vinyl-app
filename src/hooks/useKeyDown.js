@@ -1,20 +1,19 @@
 import PropTypes from "prop-types";
 import { useEffect } from "react";
 
-function useKeyDown(callback, eventCodes, hasCallbackPermission) {
+function useKeyDown(callback, eventCodes) {
   useEffect(() => {
     const handleKeyPress = (event) => {
       if (eventCodes.includes(event.code)) {
         if (
-          (event.code === "Space" && event.target.tagName === "TEXTAREA") ||
+          event.target.tagName === "TEXTAREA" ||
           event.target.tagName === "INPUT"
         ) {
           return;
         }
         event.preventDefault();
-        if (hasCallbackPermission) {
-          callback();
-        }
+
+        callback();
       }
     };
 
@@ -23,7 +22,7 @@ function useKeyDown(callback, eventCodes, hasCallbackPermission) {
     return () => {
       window.removeEventListener("keydown", handleKeyPress);
     };
-  }, [callback, eventCodes, hasCallbackPermission]);
+  }, [callback, eventCodes]);
 }
 
 useKeyDown.propTypes = {

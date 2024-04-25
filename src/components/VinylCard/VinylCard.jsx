@@ -59,7 +59,7 @@ function VinylCard({
           </picture>
           <div className={styles.favoriteButtonWrapper}>
             <WithTooltip
-              tooltipText={`${
+              text={`${
                 inFavorites ? "Remove from favorites" : "Add to favorites"
               } ${title} - ${artist}`}
             >
@@ -110,7 +110,7 @@ function VinylCard({
           </p>
         </div>
         <WithTooltip
-          tooltipText={`${
+          text={`${
             inCollection ? "Remove from collection" : "Add to collection"
           } ${title} - ${artist}`}
         >

@@ -4,7 +4,7 @@ import styles from "./WithTooltip.module.css";
 import PropTypes from "prop-types";
 import { motion } from "framer-motion";
 
-export function WithTooltip({ children, tooltipText = "tooltipText" }) {
+export function WithTooltip({ children, text, ...props }) {
   const elementRef = useRef(null);
   const [position, setPosition] = useState(null);
 
@@ -34,6 +34,7 @@ export function WithTooltip({ children, tooltipText = "tooltipText" }) {
   return (
     <>
       <div
+        {...props}
         className={styles.withTooltip}
         ref={elementRef}
         onPointerEnter={handlePointerEnter}
@@ -55,7 +56,7 @@ export function WithTooltip({ children, tooltipText = "tooltipText" }) {
               transform: "translateX(-50% -50%)",
             }}
           >
-            {tooltipText}
+            {text}
           </motion.div>
         </Portal>
       )}
@@ -65,5 +66,5 @@ export function WithTooltip({ children, tooltipText = "tooltipText" }) {
 
 WithTooltip.propTypes = {
   children: PropTypes.node.isRequired,
-  tooltipText: PropTypes.string,
+  text: PropTypes.string.isRequired,
 };

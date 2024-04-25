@@ -18,5 +18,6 @@
 .withTooltip {
   top: inherit;
   left: inherit;
+  width: inherit;
   height: inherit;
 }

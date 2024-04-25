@@ -4,31 +4,28 @@ import styles from "./FavoriteButton.module.css";
 import { motion } from "framer-motion";
 import FavoriteIcon from "../Icon/FavoriteIcon.jsx";
 
-const FavoriteButton = forwardRef(
-  ({ isFill, onClick, onPointerEnter, onPointerLeave }, ref) => {
-    return (
-      <motion.button
-        ref={ref}
-        onPointerEnter={onPointerEnter}
-        onPointerLeave={onPointerLeave}
-        className={styles.fav}
-        onClick={onClick}
-        initial={{
-          fill: isFill ? "red" : "black",
-          scale: 1,
-        }}
-        whileTap={{
-          scale: 1,
-        }}
-        whileHover={{
-          scale: 1.1,
-        }}
-      >
-        <FavoriteIcon isActive={isFill} />
-      </motion.button>
-    );
-  }
-);
+const FavoriteButton = forwardRef(({ isFill, onClick, ...props }, ref) => {
+  return (
+    <motion.button
+      ref={ref}
+      {...props}
+      className={styles.fav}
+      onClick={onClick}
+      initial={{
+        fill: isFill ? "red" : "black",
+        scale: 1,
+      }}
+      whileTap={{
+        scale: 1,
+      }}
+      whileHover={{
+        scale: 1.1,
+      }}
+    >
+      <FavoriteIcon isActive={isFill} />
+    </motion.button>
+  );
+});
 
 FavoriteButton.propTypes = {
   isFill: PropTypes.bool.isRequired,

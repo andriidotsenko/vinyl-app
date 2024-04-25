@@ -211,3 +211,8 @@ h3.title {
   padding: 16px;
   background: linear-gradient(180deg, transparent 0%, var(--white) 45%);
 }
+
+.root {
+  display: flex;
+  width: 100%;
+}
