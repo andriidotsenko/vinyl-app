@@ -39,7 +39,6 @@ function VinylCard({
         initial={{
           opacity: 1,
           scale: 0.9,
-
           rotate: 0.5,
         }}
         whileInView={{
