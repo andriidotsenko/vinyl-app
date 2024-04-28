@@ -9,6 +9,7 @@ export const CollectionButton = ({ isActive, onClick }) => {
       variant={isActive ? "secondary" : "primary"}
       isFullWidth
       onClick={onClick}
+      data-testid="add-to-collection-button"
       icon={isActive ? <CollectionIcon /> : <AddIcon />}
     >
       {isActive ? "In collection" : "Add"}

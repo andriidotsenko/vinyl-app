@@ -12,6 +12,7 @@ import FavoriteButton from "../FavoriteButton/FavoriteButton.jsx";
 import { useVinylById } from "../../hooks/useVinylById";
 import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 import { WithTooltip } from "../WithTooltip/WithTooltip.jsx";
+import { ObjectSchema } from "yup";
 
 function VinylCard({
   card,
@@ -30,6 +31,9 @@ function VinylCard({
     e.stopPropagation();
     onImageClick(id);
   };
+
+  const allEventCodes = window;
+  console.log(allEventCodes);
   return (
     <>
       <motion.div

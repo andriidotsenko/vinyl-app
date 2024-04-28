@@ -9,6 +9,7 @@ const FavoriteButton = forwardRef(({ isFill, onClick, ...props }, ref) => {
     <motion.button
       ref={ref}
       {...props}
+      data-testid="add-to-favorites-button"
       className={styles.fav}
       onClick={onClick}
       initial={{
