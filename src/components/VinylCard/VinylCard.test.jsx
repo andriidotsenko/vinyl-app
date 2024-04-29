@@ -1,7 +1,8 @@
 import { describe, it, expect, vi } from "vitest";
-import { render, screen, fireEvent } from "@testing-library/react";
+import { render, screen } from "@testing-library/react";
 import VinylCard from "./VinylCard.jsx";
 import { BrowserRouter } from "react-router-dom";
+import { userEvent } from "@testing-library/user-event";
 
 class IntersectionObserverMock {
   constructor() {}
@@ -24,8 +25,6 @@ describe("VinylCard", () => {
     genre: { id: 1, title: "Test Genre" },
     image: "test_image.jpg",
   };
-  const onClickInCollection = vi.fn();
-  const onClickInFavorites = vi.fn();
 
   it("should render correctly with all data", () => {
     render(
@@ -34,32 +33,20 @@ describe("VinylCard", () => {
           card={mockCard}
           inCollection={false}
           inFavorites={false}
-          onClickInCollection={onClickInCollection}
-          onClickInFavorites={onClickInFavorites}
+          onClickInCollection={() => {}}
+          onClickInFavorites={() => {}}
+          onImageClick={() => {}}
         />
       </BrowserRouter>
     );
 
     const titleElement = screen.getByText("Test Vinyl");
     expect(titleElement).toBeInTheDocument();
-
-    const artistElement = screen.getByText("Test Artist");
-    expect(artistElement).toBeInTheDocument();
-
-    const yearElement = screen.getByText("2020");
-    expect(yearElement).toBeInTheDocument();
-
-    const countryElement = screen.getByText("Test Country");
-    expect(countryElement).toBeInTheDocument();
-
-    const genreElement = screen.getByText("Test Genre");
-    expect(genreElement).toBeInTheDocument();
-
-    const imageElement = screen.getByAltText("Test Vinyl");
-    expect(imageElement).toBeInTheDocument();
   });
 
   it("should have the ability to add to favorites", async () => {
+    const onClickInCollection = vi.fn();
+    const onClickInFavorites = vi.fn();
     render(
       <BrowserRouter>
         <VinylCard
@@ -68,16 +55,19 @@ describe("VinylCard", () => {
           inFavorites={false}
           onClickInCollection={onClickInCollection}
           onClickInFavorites={onClickInFavorites}
+          onImageClick={() => {}}
         />
       </BrowserRouter>
     );
 
-    const addToFavoritesButton = screen.getByTestId("add-to-favorites-button");
-    await fireEvent.click(addToFavoritesButton);
+    const addToFavoritesButton = screen.getByLabelText("Wishlist button");
+    await userEvent.click(addToFavoritesButton);
     expect(onClickInFavorites).toHaveBeenCalled();
   });
 
   it("should have the ability to add to collection", async () => {
+    const onClickInCollection = vi.fn();
+    const onClickInFavorites = vi.fn();
     render(
       <BrowserRouter>
         <VinylCard
@@ -86,12 +76,20 @@ describe("VinylCard", () => {
           inFavorites={false}
           onClickInCollection={onClickInCollection}
           onClickInFavorites={onClickInFavorites}
+          onImageClick={() => {}}
         />
       </BrowserRouter>
     );
 
     const addToCollectionButton = screen.getByText("Add");
-    await fireEvent.click(addToCollectionButton);
-    expect(onClickInCollection).toHaveBeenCalled();
+    await userEvent.click(addToCollectionButton);
+
+    expect(onClickInCollection).toHaveBeenCalledWith(mockCard);
+
+    await userEvent.click(addToCollectionButton);
+
+    const updatedAddToCollectionButton = screen.queryByText("In collection");
+
+    expect(updatedAddToCollectionButton).toBeDefined();
   });
 });

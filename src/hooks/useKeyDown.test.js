@@ -1,31 +1,30 @@
 import { describe, it, expect, vi } from "vitest";
 import { renderHook } from "@testing-library/react";
 import useKeyDown from "./useKeyDown";
+import { userEvent } from "@testing-library/user-event";
 
 describe("useKeyDown", () => {
-  it("calls callback on key press with valid event code", () => {
+  it("calls callback on key press with valid event code", async () => {
     const callback = vi.fn();
     const eventCodes = ["Enter"];
     renderHook(() => useKeyDown(callback, eventCodes));
 
-    const event = new KeyboardEvent("keydown", { code: "Enter" });
-    window.dispatchEvent(event);
+    await userEvent.keyboard("[Enter]");
 
     expect(callback).toHaveBeenCalledTimes(1);
   });
 
-  it("does not call callback on key press with invalid event code", () => {
+  it("does not call callback on key press with invalid event code", async () => {
     const callback = vi.fn();
     const eventCodes = ["Enter"];
     renderHook(() => useKeyDown(callback, eventCodes));
 
-    const event = new KeyboardEvent("keydown", { code: "Escape" });
-    window.dispatchEvent(event);
+    await userEvent.keyboard("[Escape]");
 
     expect(callback).not.toHaveBeenCalled();
   });
 
-  it("ndoes not call callback on key press with other event codes", () => {
+  it("does not call callback on key press with other event codes", async () => {
     const callback = vi.fn();
     const eventCodes = ["Enter"];
     renderHook(() => useKeyDown(callback, eventCodes));
@@ -78,20 +77,17 @@ describe("useKeyDown", () => {
     allKeyCodes.push(...specialKeys);
 
     for (const code of allKeyCodes) {
-      const event = new KeyboardEvent("keydown", { code });
-      window.dispatchEvent(event);
-      expect(callback).not.toHaveBeenCalled();
+      await userEvent.keyboard(code);
     }
+
+    expect(callback).not.toHaveBeenCalled();
   });
 
-  it("throws an error with invalid callback or key code", () => {
+  it("throws an error if callback is not a function", () => {
     const invalidCallback = "not a function";
-    let error = null;
-    try {
-      renderHook(() => useKeyDown(invalidCallback, []));
-    } catch (err) {
-      error = err;
-    }
-    expect(error).toBeDefined();
+
+    expect(() =>
+      renderHook(() => useKeyDown(invalidCallback, []))
+    ).toThrowError("useKeyDown: Callback must be a function.");
   });
 });

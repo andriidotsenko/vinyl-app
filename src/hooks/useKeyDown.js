@@ -2,6 +2,10 @@ import PropTypes from "prop-types";
 import { useEffect } from "react";
 
 function useKeyDown(callback, eventCodes) {
+  if (typeof callback !== "function") {
+    throw new Error("useKeyDown: Callback must be a function.");
+  }
+
   useEffect(() => {
     const handleKeyPress = (event) => {
       if (eventCodes.includes(event.code)) {
