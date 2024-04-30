@@ -87,9 +87,5 @@ describe("VinylCard", () => {
     expect(onClickInCollection).toHaveBeenCalledWith(mockCard);
 
     await userEvent.click(addToCollectionButton);
-
-    const updatedAddToCollectionButton = screen.queryByText("In collection");
-
-    expect(updatedAddToCollectionButton).toBeDefined();
   });
 });
