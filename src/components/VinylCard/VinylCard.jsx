@@ -30,6 +30,7 @@ function VinylCard({
     e.stopPropagation();
     onImageClick(id);
   };
+
   return (
     <>
       <motion.div
