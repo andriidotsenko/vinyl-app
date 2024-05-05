@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 
 export const useNote = () => {
-  // Загрузка заметок из localStorage при первоначальном рендеринге
   const initialNoteList = JSON.parse(localStorage.getItem("noteList")) || {};
   const [noteList, setNoteList] = useState(initialNoteList);
 
