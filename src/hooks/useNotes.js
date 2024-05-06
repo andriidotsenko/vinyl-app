@@ -11,9 +11,17 @@ export const useNote = () => {
     }));
   };
 
+  const removeNote = (id) => {
+    setNoteList((prevNoteList) => {
+      const newNoteList = { ...prevNoteList };
+      delete newNoteList[id];
+      return newNoteList;
+    });
+  };
+
   useEffect(() => {
     localStorage.setItem("noteList", JSON.stringify(noteList));
   }, [noteList]);
 
-  return { noteList, addNote };
+  return { noteList, addNote, removeNote };
 };

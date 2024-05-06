@@ -226,14 +226,16 @@ function ModalVinyl({
           </div>
           <h3 className={styles.title}>Track list</h3>
           <TrackList trackList={tracklist} />
-          <VinylNote
-            variant={variant}
-            id={id}
-            title={title}
-            artist={artist}
-            addNote={addNote}
-            noteList={noteList}
-          />
+          {inCollection && (
+            <VinylNote
+              variant={variant}
+              id={id}
+              title={title}
+              artist={artist}
+              addNote={addNote}
+              noteList={noteList}
+            />
+          )}
         </div>
         {variant === "primary" ? (
           <div className={styles.footer}>
