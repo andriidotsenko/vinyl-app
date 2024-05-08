@@ -11,7 +11,8 @@ export function VinylPage() {
   const {
     collectionList,
     favoritesList,
-    handleCollectionToggle,
+    handleAddedToCollection,
+    handleRemovedFromCollection,
     handleFavoritesToggle,
     noteList,
     addNote,
@@ -46,10 +47,14 @@ export function VinylPage() {
         <div className="container">
           <ModalVinyl
             id={id}
-            inCollection={collectionList.includes(id)}
-            inFavorites={favoritesList.includes(id)}
+            inCollection={collectionList.includes(data.id)}
+            inFavorites={favoritesList.includes(data)}
             onFavoritesToggle={() => handleFavoritesToggle(data)}
-            onCollectionToggle={() => handleCollectionToggle(data)}
+            onCollectionToggle={
+              collectionList.includes(data.id)
+                ? () => handleRemovedFromCollection(data, id)
+                : () => handleAddedToCollection(data, id)
+            }
             onClose={handleGoBack}
             variant={"secondary"}
             noteList={noteList}

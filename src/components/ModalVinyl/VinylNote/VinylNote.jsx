@@ -5,6 +5,10 @@ import styles from "./VinylNote.module.css";
 import PenIcon from "../../Icon/PenIcon";
 
 export function VinylNote({ variant, id, title, artist, addNote, noteList }) {
+  const handleChange = (e) => {
+    addNote(id, e.target.value);
+  };
+
   return (
     <div
       className={clsx(
@@ -40,7 +44,7 @@ export function VinylNote({ variant, id, title, artist, addNote, noteList }) {
           scrollbarWidth: "none",
         }}
         className={styles.placeholder}
-        onChange={(e) => addNote(id, e.target.value)}
+        onChange={handleChange}
         value={noteList[id] || ""}
         placeholder={`Add note to ${title} by ${artist}`}
       ></motion.textarea>
