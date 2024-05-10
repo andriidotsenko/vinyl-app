@@ -4,9 +4,18 @@ import clsx from "clsx";
 import styles from "./VinylNote.module.css";
 import PenIcon from "../../Icon/PenIcon";
 
-export function VinylNote({ variant, id, title, artist, addNote, noteList }) {
+export function VinylNote({
+  variant,
+  id,
+  title,
+  artist,
+  changeNote,
+  noteList,
+}) {
   const handleChange = (e) => {
-    addNote(id, e.target.value);
+    changeNote(id, e.target.value);
+    console.log("Value:", e.target.value);
+    console.log("ID:", id);
   };
 
   return (
@@ -57,6 +66,6 @@ VinylNote.propTypes = {
   id: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
   title: PropTypes.string.isRequired,
   artist: PropTypes.string.isRequired,
-  addNote: PropTypes.func.isRequired,
+  changeNote: PropTypes.func.isRequired,
   noteList: PropTypes.object.isRequired,
 };

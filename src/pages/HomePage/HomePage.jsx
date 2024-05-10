@@ -22,10 +22,10 @@ export function HomePage() {
   const {
     collectionList,
     favoritesList,
-    handleCollectionToggle,
+    toggleCollection,
     handleFavoritesToggle,
     noteList,
-    addNote,
+    changeNote,
   } = useOutletContext();
 
   const [openedVinylId, setOpenedVinylId] = useState(null);
@@ -57,7 +57,7 @@ export function HomePage() {
             cardList={results}
             collectionList={collectionList}
             favoritesList={favoritesList}
-            onClickInCollection={handleCollectionToggle}
+            onClickInCollection={toggleCollection}
             onClickInFavorites={handleFavoritesToggle}
             onVinylImageClick={setOpenedVinylId}
             isHasTitle={false}
@@ -78,11 +78,11 @@ export function HomePage() {
                 inCollection={collectionList.includes(openedVinylId)}
                 inFavorites={favoritesList.includes(openedVinylId)}
                 onFavoritesToggle={handleFavoritesToggle}
-                onCollectionToggle={handleCollectionToggle}
+                onCollectionToggle={toggleCollection}
                 onClose={closeModal}
                 variant={"primary"}
                 noteList={noteList}
-                addNote={addNote}
+                changeNote={changeNote}
               />
             </div>
           </Modal>

@@ -47,7 +47,7 @@ function ModalVinyl({
   onClose,
   variant,
   noteList,
-  addNote,
+  changeNote,
 }) {
   const { data: dataVinyl, isLoading: loadingVinyl } = useVinylById(id);
   const {
@@ -232,7 +232,7 @@ function ModalVinyl({
               id={id}
               title={title}
               artist={artist}
-              addNote={addNote}
+              changeNote={changeNote}
               noteList={noteList}
             />
           )}
@@ -251,7 +251,9 @@ function ModalVinyl({
                   <div className={styles.root}>
                     <CollectionButton
                       isActive={inCollection}
-                      onClick={() => onCollectionToggle(dataVinyl)}
+                      onClick={() =>
+                        onCollectionToggle(dataVinyl, inCollection)
+                      }
                     />
                   </div>
                 </WithTooltip>
@@ -269,7 +271,7 @@ function ModalVinyl({
                 <div className={styles.root}>
                   <CollectionButton
                     isActive={inCollection}
-                    onClick={() => onCollectionToggle(dataVinyl)}
+                    onClick={() => onCollectionToggle(dataVinyl, inCollection)}
                   />
                 </div>
               </WithTooltip>

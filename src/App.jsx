@@ -11,13 +11,8 @@ import { useNotifications } from "./hooks/useNotifications.js";
 export function App() {
   const [addNotification, notifications] = useNotifications();
 
-  const {
-    collectionList,
-    handleAddedToCollection,
-    handleRemovedFromCollection,
-    addNote,
-    noteList,
-  } = useCollectionNotes(addNotification);
+  const { collectionList, toggleCollection, changeNote, noteList } =
+    useCollectionNotes(addNotification);
 
   const { favoritesList, handleFavoritesToggle } =
     useFavorites(addNotification);
@@ -33,11 +28,10 @@ export function App() {
           context={{
             collectionList,
             favoritesList,
-            handleAddedToCollection,
-            handleRemovedFromCollection,
+            toggleCollection,
             handleFavoritesToggle,
             noteList,
-            addNote,
+            changeNote,
           }}
         />
         <Notifications notifications={notifications} />

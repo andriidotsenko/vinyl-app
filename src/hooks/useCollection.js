@@ -1,41 +1,42 @@
 import { useEffect, useReducer } from "react";
 
+const RESET_NOTE = "";
+
 const collectionNoteReducer = (state, action) => {
-  let newNoteList;
   switch (action.type) {
     case "ADDED_TO_COLLECTION":
       return {
         ...state,
         collectionList: [...state.collectionList, action.payload.vinyl.id],
+        noteList: {
+          ...state.noteList,
+          [action.payload.vinyl.id]: RESET_NOTE,
+        },
       };
+
     case "REMOVED_FROM_COLLECTION":
+      const { [action.payload.vinyl.id]: removedNote, ...remainingNotes } =
+        state.noteList;
       return {
         ...state,
         collectionList: state.collectionList.filter(
           (id) => id !== action.payload.vinyl.id
         ),
+        noteList: remainingNotes,
       };
-    case "ADDED_NOTE":
+    case "CHANGED_NOTE":
       return {
         ...state,
         noteList: {
           ...state.noteList,
-          [action.payload.id]: action.payload.note,
+          [action.payload.id]: action.payload.newNote,
         },
-      };
-    case "REMOVED_NOTE":
-      newNoteList = { ...state.noteList };
-      delete newNoteList[action.payload.id];
-      return {
-        ...state,
-        noteList: newNoteList,
       };
     default:
       return state;
   }
 };
 
-const resetNote = "";
 export const useCollectionNotes = (addNotification) => {
   const initialState = {
     collectionList: localStorage.getItem("collectionList")
@@ -43,42 +44,39 @@ export const useCollectionNotes = (addNotification) => {
       : [],
     noteList: JSON.parse(localStorage.getItem("noteList")) || {},
   };
+
   const [state, dispatch] = useReducer(collectionNoteReducer, initialState);
-
-  const handleAddedToCollection = (vinyl, id) => {
-    dispatch({ type: "ADDED_NOTE", payload: { id, note: resetNote } });
-    dispatch({ type: "ADDED_TO_COLLECTION", payload: { vinyl } });
-    addNotification(`"${vinyl.title}" added to collection`);
+  const toggleCollection = (vinyl) => {
+    const isInCollection = state.collectionList.includes(vinyl.id);
+    const actionType = isInCollection
+      ? "REMOVED_FROM_COLLECTION"
+      : "ADDED_TO_COLLECTION";
+    const notificationMessage = isInCollection
+      ? `"${vinyl.title}" removed from collection`
+      : `"${vinyl.title}" added to collection`;
+    dispatch({ type: actionType, payload: { vinyl } });
+    addNotification(notificationMessage);
   };
 
-  const handleRemovedFromCollection = (vinyl, id) => {
-    dispatch({ type: "REMOVED_FROM_COLLECTION", payload: { vinyl } });
-    dispatch({ type: "REMOVED_NOTE", payload: { id } });
-    addNotification(`"${vinyl.title}" removed from collection`);
+  const changeNote = (id, newNote) => {
+    dispatch({ type: "CHANGED_NOTE", payload: { id, newNote } });
   };
 
-  const addNote = (id, note) => {
-    dispatch({ type: "ADDED_NOTE", payload: { id, note } });
-  };
-
-  const removeNote = (id) => {
-    dispatch({ type: "REMOVED_NOTE", payload: { id } });
-  };
+  useEffect(() => {
+    localStorage.setItem("noteList", JSON.stringify(state.noteList));
+  }, [state.noteList]);
 
   useEffect(() => {
     localStorage.setItem(
       "collectionList",
       JSON.stringify(state.collectionList)
     );
-    localStorage.setItem("noteList", JSON.stringify(state.noteList));
-  }, [state.collectionList, state.noteList]);
+  }, [state.collectionList]);
 
   return {
     collectionList: state.collectionList,
     noteList: state.noteList,
-    handleAddedToCollection,
-    handleRemovedFromCollection,
-    addNote,
-    removeNote,
+    toggleCollection,
+    changeNote,
   };
 };

@@ -11,11 +11,10 @@ export function VinylPage() {
   const {
     collectionList,
     favoritesList,
-    handleAddedToCollection,
-    handleRemovedFromCollection,
+    toggleCollection,
     handleFavoritesToggle,
     noteList,
-    addNote,
+    changeNote,
   } = useOutletContext();
 
   const navigate = useNavigate();
@@ -50,15 +49,11 @@ export function VinylPage() {
             inCollection={collectionList.includes(data.id)}
             inFavorites={favoritesList.includes(data)}
             onFavoritesToggle={() => handleFavoritesToggle(data)}
-            onCollectionToggle={
-              collectionList.includes(data.id)
-                ? () => handleRemovedFromCollection(data, id)
-                : () => handleAddedToCollection(data, id)
-            }
+            onCollectionToggle={toggleCollection}
             onClose={handleGoBack}
             variant={"secondary"}
             noteList={noteList}
-            addNote={addNote}
+            changeNote={changeNote}
           ></ModalVinyl>
         </div>
       </main>

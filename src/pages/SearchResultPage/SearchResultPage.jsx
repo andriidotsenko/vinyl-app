@@ -33,10 +33,10 @@ export const SearchResultsPage = () => {
   const {
     collectionList,
     favoritesList,
-    handleCollectionToggle,
+    toggleCollection,
     handleFavoritesToggle,
     noteList,
-    addNote,
+    changeNote,
   } = useOutletContext();
   const [openedVinylId, setOpenedVinylId] = useState(null);
 
@@ -122,7 +122,7 @@ export const SearchResultsPage = () => {
                 cardList={vinylListQuery.results}
                 collectionList={collectionList}
                 favoritesList={favoritesList}
-                onClickInCollection={handleCollectionToggle}
+                onClickInCollection={toggleCollection}
                 onClickInFavorites={handleFavoritesToggle}
                 onVinylImageClick={setOpenedVinylId}
               />
@@ -144,11 +144,11 @@ export const SearchResultsPage = () => {
                 inCollection={collectionList.includes(openedVinylId)}
                 inFavorites={favoritesList.includes(openedVinylId)}
                 onFavoritesToggle={handleFavoritesToggle}
-                onCollectionToggle={handleCollectionToggle}
+                onCollectionToggle={toggleCollection}
                 onClose={closeModal}
                 variant={"primary"}
                 noteList={noteList}
-                addNote={addNote}
+                changeNote={changeNote}
               />
             </div>
           </Modal>
