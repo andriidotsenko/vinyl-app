@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useOutletContext } from "react-router-dom";
+import { useAppContext } from "../../AppContext.jsx";
 import { Portal } from "react-portal";
 import { Helmet } from "react-helmet-async";
 
@@ -26,7 +26,7 @@ export function HomePage() {
     handleFavoritesToggle,
     noteList,
     changeNote,
-  } = useOutletContext();
+  } = useAppContext();
 
   const [openedVinylId, setOpenedVinylId] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);

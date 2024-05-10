@@ -271,7 +271,7 @@ function ModalVinyl({
                 <div className={styles.root}>
                   <CollectionButton
                     isActive={inCollection}
-                    onClick={() => onCollectionToggle(dataVinyl, inCollection)}
+                    onClick={() => onCollectionToggle(dataVinyl)}
                   />
                 </div>
               </WithTooltip>

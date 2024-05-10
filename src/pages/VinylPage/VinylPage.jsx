@@ -1,5 +1,6 @@
-import { useParams, useOutletContext, useNavigate } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
+import { useAppContext } from "../../AppContext.jsx";
 
 import { Loader } from "../../components/Loader/Loader.jsx";
 import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
@@ -15,7 +16,7 @@ export function VinylPage() {
     handleFavoritesToggle,
     noteList,
     changeNote,
-  } = useOutletContext();
+  } = useAppContext();
 
   const navigate = useNavigate();
   const handleGoBack = () => {

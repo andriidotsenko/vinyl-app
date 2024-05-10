@@ -1,7 +1,8 @@
 import { useState } from "react";
-import { Navigate, useOutletContext, useSearchParams } from "react-router-dom";
+import { Navigate, useSearchParams } from "react-router-dom";
 import { Portal } from "react-portal";
 import { Helmet } from "react-helmet-async";
+import { useAppContext } from "../../AppContext.jsx";
 
 import styles from "./SearchResultPage.module.css";
 
@@ -37,7 +38,7 @@ export const SearchResultsPage = () => {
     handleFavoritesToggle,
     noteList,
     changeNote,
-  } = useOutletContext();
+  } = useAppContext();
   const [openedVinylId, setOpenedVinylId] = useState(null);
 
   useBodyScrollDisabled(Boolean(openedVinylId));
