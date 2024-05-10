@@ -291,7 +291,7 @@ ModalVinyl.propTypes = {
   onCollectionToggle: PropTypes.func.isRequired,
   onClose: PropTypes.func.isRequired,
   variant: PropTypes.oneOf(["primary", "secondary"]).isRequired,
-  addNote: PropTypes.func.isRequired,
+  changeNote: PropTypes.func.isRequired,
   noteList: PropTypes.object.isRequired,
 };
 

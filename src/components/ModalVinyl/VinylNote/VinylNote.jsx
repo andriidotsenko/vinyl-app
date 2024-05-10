@@ -14,8 +14,6 @@ export function VinylNote({
 }) {
   const handleChange = (e) => {
     changeNote(id, e.target.value);
-    console.log("Value:", e.target.value);
-    console.log("ID:", id);
   };
 
   return (
