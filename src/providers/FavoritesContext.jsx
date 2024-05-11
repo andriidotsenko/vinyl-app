@@ -1,7 +1,8 @@
 import { createContext, useContext } from "react";
 import PropTypes from "prop-types";
+
 import { useNotifications } from "./hooks/useNotifications.js";
-import { useCollectionNotes } from "./hooks/useCollectionNotes.js";
+
 import { useFavorites } from "./hooks/useFavorites.js";
 
 export const AppContext = createContext();

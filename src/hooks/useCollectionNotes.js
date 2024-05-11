@@ -15,7 +15,6 @@ const collectionNoteReducer = (state, action) => {
       };
 
     case "REMOVED_FROM_COLLECTION":
-      // eslint-disable-next-line no-case-declarations, no-unused-vars
       const { [action.payload.vinyl.id]: removedNote, ...remainingNotes } =
         state.noteList;
       return {
