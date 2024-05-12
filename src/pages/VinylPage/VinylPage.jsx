@@ -1,22 +1,18 @@
 import { useParams, useNavigate } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
-import { useAppContext } from "../../AppContext.jsx";
 
 import { Loader } from "../../components/Loader/Loader.jsx";
 import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
 
 import { useVinylById } from "../../hooks/useVinylById";
+import { useFavoritesContext } from "../../FavoritesContext.jsx";
+import { useCollectionNotesContext } from "../../CollectionNotesContext.jsx";
 
 export function VinylPage() {
   const { vinylId } = useParams();
-  const {
-    collectionList,
-    favoritesList,
-    toggleCollection,
-    handleFavoritesToggle,
-    noteList,
-    changeNote,
-  } = useAppContext();
+  const { collectionList, favoritesList } = useFavoritesContext();
+  const { toggleCollection, handleFavoritesToggle, noteList, changeNote } =
+    useCollectionNotesContext();
 
   const navigate = useNavigate();
   const handleGoBack = () => {

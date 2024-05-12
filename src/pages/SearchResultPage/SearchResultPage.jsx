@@ -2,7 +2,6 @@ import { useState } from "react";
 import { Navigate, useSearchParams } from "react-router-dom";
 import { Portal } from "react-portal";
 import { Helmet } from "react-helmet-async";
-import { useAppContext } from "../../AppContext.jsx";
 
 import styles from "./SearchResultPage.module.css";
 
@@ -25,20 +24,17 @@ import {
   getFiltersFromParams,
   getSearchParamsFromFilters,
 } from "../../utils/filters.js";
+import { useCollectionNotesContext } from "../../CollectionNotesContext.jsx";
+import { useFavoritesContext } from "../../FavoritesContext.jsx";
 
 const screenWidth = window.innerWidth;
 const pageSize = getPageSizeByScreenWidth(screenWidth);
 
 export const SearchResultsPage = () => {
   const [params, setParams] = useSearchParams(emptyFilters);
-  const {
-    collectionList,
-    favoritesList,
-    toggleCollection,
-    handleFavoritesToggle,
-    noteList,
-    changeNote,
-  } = useAppContext();
+  const { collectionList, favoritesList } = useFavoritesContext();
+  const { toggleCollection, handleFavoritesToggle, noteList, changeNote } =
+    useCollectionNotesContext();
   const [openedVinylId, setOpenedVinylId] = useState(null);
 
   useBodyScrollDisabled(Boolean(openedVinylId));

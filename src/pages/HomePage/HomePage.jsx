@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useAppContext } from "../../AppContext.jsx";
+
 import { Portal } from "react-portal";
 import { Helmet } from "react-helmet-async";
 
@@ -14,19 +14,16 @@ import Modal from "../../components/Modal/Modal.jsx";
 import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
 
 import { getPageSizeByScreenWidth } from "../../utils/getPageSizeByScreenWidth";
+import { useFavoritesContext } from "../../FavoritesContext.jsx";
+import { useCollectionNotesContext } from "../../CollectionNotesContext.jsx";
 
 const screenWidth = window.innerWidth;
 const pageSize = getPageSizeByScreenWidth(screenWidth);
 
 export function HomePage() {
-  const {
-    collectionList,
-    favoritesList,
-    toggleCollection,
-    handleFavoritesToggle,
-    noteList,
-    changeNote,
-  } = useAppContext();
+  const { collectionList, favoritesList } = useFavoritesContext();
+  const { toggleCollection, handleFavoritesToggle, noteList, changeNote } =
+    useCollectionNotesContext();
 
   const [openedVinylId, setOpenedVinylId] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
