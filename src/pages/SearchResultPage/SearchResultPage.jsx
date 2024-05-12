@@ -32,8 +32,9 @@ const pageSize = getPageSizeByScreenWidth(screenWidth);
 
 export const SearchResultsPage = () => {
   const [params, setParams] = useSearchParams(emptyFilters);
-  const { collectionList, favoritesList } = useFavoritesContext();
-  const { toggleCollection, handleFavoritesToggle, noteList, changeNote } =
+  const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
+
+  const { collectionList, toggleCollection, noteList, changeNote } =
     useCollectionNotesContext();
   const [openedVinylId, setOpenedVinylId] = useState(null);
 

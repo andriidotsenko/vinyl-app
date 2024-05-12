@@ -10,8 +10,9 @@ import { useCollectionNotesContext } from "../../CollectionNotesContext.jsx";
 
 export function VinylPage() {
   const { vinylId } = useParams();
-  const { collectionList, favoritesList } = useFavoritesContext();
-  const { toggleCollection, handleFavoritesToggle, noteList, changeNote } =
+  const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
+
+  const { collectionList, toggleCollection, noteList, changeNote } =
     useCollectionNotesContext();
 
   const navigate = useNavigate();

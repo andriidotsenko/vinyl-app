@@ -21,8 +21,9 @@ const screenWidth = window.innerWidth;
 const pageSize = getPageSizeByScreenWidth(screenWidth);
 
 export function HomePage() {
-  const { collectionList, favoritesList } = useFavoritesContext();
-  const { toggleCollection, handleFavoritesToggle, noteList, changeNote } =
+  const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
+
+  const { collectionList, toggleCollection, noteList, changeNote } =
     useCollectionNotesContext();
 
   const [openedVinylId, setOpenedVinylId] = useState(null);

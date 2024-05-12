@@ -1,12 +1,12 @@
 import { createContext, useContext } from "react";
 import PropTypes from "prop-types";
 import { useCollectionNotes } from "./hooks/useCollectionNotes.js";
-import { NotificationsProvider } from "./NotificationsContext.jsx";
+import { NotificationsContext } from "./NotificationsContext.jsx";
 
 export const CollectionNotesContext = createContext();
 
 export function CollectionNotesProvider({ children }) {
-  const { addNotification } = useContext(NotificationsProvider);
+  const { addNotification } = useContext(NotificationsContext);
   const { collectionList, toggleCollection, changeNote, noteList } =
     useCollectionNotes(addNotification);
 

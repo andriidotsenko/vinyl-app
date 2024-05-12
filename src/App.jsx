@@ -12,13 +12,11 @@ export function App() {
     <NotificationsProvider>
       <FavoritesProvider>
         <CollectionNotesProvider>
-          <>
-            <Header />
-            <Suspense fallback={<Loader />}>
-              <Outlet />
-              <Notifications />
-            </Suspense>
-          </>
+          <Header />
+          <Suspense fallback={<Loader />}>
+            <Outlet />
+            <Notifications />
+          </Suspense>
         </CollectionNotesProvider>
       </FavoritesProvider>
     </NotificationsProvider>
