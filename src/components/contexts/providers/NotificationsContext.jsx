@@ -1,5 +1,5 @@
 import { createContext } from "react";
-import { useNotifications } from "./hooks/useNotifications.js";
+import { useNotifications } from "../../../hooks/useNotifications.js";
 import PropTypes from "prop-types";
 
 export const NotificationsContext = createContext();

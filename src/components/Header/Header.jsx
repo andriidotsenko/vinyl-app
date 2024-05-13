@@ -5,13 +5,14 @@ import InactiveFavoriteIcon from "../Icon/InactiveFavoriteIcon.jsx";
 import CollectionIcon from "../Icon/CollectionIcon.jsx";
 
 import { Link } from "react-router-dom";
-import { useFavoritesContext } from "../../FavoritesContext.jsx";
-import { useCollectionNotesContext } from "../../CollectionNotesContext.jsx";
+import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
+import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
 
 function Header() {
   const { favoritesList } = useFavoritesContext();
   const favoriteCount = favoritesList.length;
-  const { collectionList } = useCollectionNotesContext();
+  const { collectionList } = useCollectionContext();
+
   const collectionCount = collectionList.length;
 
   return (

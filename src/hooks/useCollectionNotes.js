@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import { collectionNoteReducer } from "../reducers/collectionNoteReducer";
+import { collectionNoteReducer } from "../components/contexts/providers/CollectionNotes/collectionNoteReducer";
 
 export const useCollectionNotes = (addNotification) => {
   const initialState = {

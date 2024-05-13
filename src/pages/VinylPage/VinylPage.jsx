@@ -5,15 +5,16 @@ import { Loader } from "../../components/Loader/Loader.jsx";
 import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
 
 import { useVinylById } from "../../hooks/useVinylById";
-import { useFavoritesContext } from "../../FavoritesContext.jsx";
-import { useCollectionNotesContext } from "../../CollectionNotesContext.jsx";
+import { useCollectionNotesContext } from "../../hooks/context/useCollectonNotesContext.js";
+import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
+import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
 
 export function VinylPage() {
   const { vinylId } = useParams();
   const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
 
-  const { collectionList, toggleCollection, noteList, changeNote } =
-    useCollectionNotesContext();
+  const { collectionList, toggleCollection } = useCollectionContext();
+  const { changeNote, noteList } = useCollectionNotesContext();
 
   const navigate = useNavigate();
   const handleGoBack = () => {

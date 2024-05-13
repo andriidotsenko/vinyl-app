@@ -24,8 +24,9 @@ import {
   getFiltersFromParams,
   getSearchParamsFromFilters,
 } from "../../utils/filters.js";
-import { useCollectionNotesContext } from "../../CollectionNotesContext.jsx";
-import { useFavoritesContext } from "../../FavoritesContext.jsx";
+import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
+import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
+import { useCollectionNotesContext } from "../../hooks/context/useCollectonNotesContext.js";
 
 const screenWidth = window.innerWidth;
 const pageSize = getPageSizeByScreenWidth(screenWidth);
@@ -34,8 +35,8 @@ export const SearchResultsPage = () => {
   const [params, setParams] = useSearchParams(emptyFilters);
   const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
 
-  const { collectionList, toggleCollection, noteList, changeNote } =
-    useCollectionNotesContext();
+  const { collectionList, toggleCollection } = useCollectionContext();
+  const { changeNote, noteList } = useCollectionNotesContext();
   const [openedVinylId, setOpenedVinylId] = useState(null);
 
   useBodyScrollDisabled(Boolean(openedVinylId));

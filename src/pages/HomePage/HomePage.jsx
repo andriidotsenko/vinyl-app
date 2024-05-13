@@ -14,8 +14,10 @@ import Modal from "../../components/Modal/Modal.jsx";
 import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
 
 import { getPageSizeByScreenWidth } from "../../utils/getPageSizeByScreenWidth";
-import { useFavoritesContext } from "../../FavoritesContext.jsx";
-import { useCollectionNotesContext } from "../../CollectionNotesContext.jsx";
+
+import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
+import { useCollectionNotesContext } from "../../hooks/context/useCollectonNotesContext.js";
+import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
 
 const screenWidth = window.innerWidth;
 const pageSize = getPageSizeByScreenWidth(screenWidth);
@@ -23,8 +25,8 @@ const pageSize = getPageSizeByScreenWidth(screenWidth);
 export function HomePage() {
   const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
 
-  const { collectionList, toggleCollection, noteList, changeNote } =
-    useCollectionNotesContext();
+  const { collectionList, toggleCollection } = useCollectionContext();
+  const { changeNote, noteList } = useCollectionNotesContext();
 
   const [openedVinylId, setOpenedVinylId] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);

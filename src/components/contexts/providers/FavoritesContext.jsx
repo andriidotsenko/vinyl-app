@@ -1,12 +1,12 @@
-import { createContext, useContext } from "react";
+import { createContext } from "react";
 import PropTypes from "prop-types";
-import { useFavorites } from "./hooks/useFavorites.js";
-import { NotificationsContext } from "./NotificationsContext.jsx";
+import { useFavorites } from "../../../hooks/useFavorites.js";
+import { useNotificationsContext } from "../../../hooks/context/useNotificationsContext.js";
 
 export const FavoritesContext = createContext();
 
 export function FavoritesProvider({ children }) {
-  const { addNotification } = useContext(NotificationsContext);
+  const { addNotification } = useNotificationsContext();
 
   const { favoritesList, handleFavoritesToggle } =
     useFavorites(addNotification);
@@ -21,7 +21,3 @@ export function FavoritesProvider({ children }) {
 FavoritesProvider.propTypes = {
   children: PropTypes.node.isRequired,
 };
-
-export function useFavoritesContext() {
-  return useContext(FavoritesContext);
-}

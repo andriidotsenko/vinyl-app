@@ -4,17 +4,10 @@ import clsx from "clsx";
 import styles from "./VinylNote.module.css";
 import PenIcon from "../../Icon/PenIcon";
 
-export function VinylNote({
-  variant,
-  id,
-  title,
-  artist,
-  changeNote,
-  noteList,
-}) {
-  const handleChange = (e) => {
-    changeNote(id, e.target.value);
-  };
+import { useNoteById } from "../../../hooks/useNoteById";
+
+export function VinylNote({ variant, id, title, artist }) {
+  const { note, changeNoteById } = useNoteById(id);
 
   return (
     <div
@@ -51,8 +44,10 @@ export function VinylNote({
           scrollbarWidth: "none",
         }}
         className={styles.placeholder}
-        onChange={handleChange}
-        value={noteList[id] || ""}
+        onChange={(e) => {
+          changeNoteById(e.target.value);
+        }}
+        value={note || ""}
         placeholder={`Add note to ${title} by ${artist}`}
       ></motion.textarea>
     </div>
@@ -64,6 +59,4 @@ VinylNote.propTypes = {
   id: PropTypes.oneOfType([PropTypes.number, PropTypes.string]).isRequired,
   title: PropTypes.string.isRequired,
   artist: PropTypes.string.isRequired,
-  changeNote: PropTypes.func.isRequired,
-  noteList: PropTypes.object.isRequired,
 };
