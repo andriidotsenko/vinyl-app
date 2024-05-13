@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Navigate, useOutletContext, useSearchParams } from "react-router-dom";
+import { Navigate, useSearchParams } from "react-router-dom";
 import { Portal } from "react-portal";
 import { Helmet } from "react-helmet-async";
 
@@ -24,20 +24,19 @@ import {
   getFiltersFromParams,
   getSearchParamsFromFilters,
 } from "../../utils/filters.js";
+import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
+import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
+import { useCollectionNotesContext } from "../../hooks/context/useCollectonNotesContext.js";
 
 const screenWidth = window.innerWidth;
 const pageSize = getPageSizeByScreenWidth(screenWidth);
 
 export const SearchResultsPage = () => {
   const [params, setParams] = useSearchParams(emptyFilters);
-  const {
-    collectionList,
-    favoritesList,
-    handleCollectionToggle,
-    handleFavoritesToggle,
-    noteList,
-    addNote,
-  } = useOutletContext();
+  const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
+
+  const { collectionList, toggleCollection } = useCollectionContext();
+  const { changeNote, noteList } = useCollectionNotesContext();
   const [openedVinylId, setOpenedVinylId] = useState(null);
 
   useBodyScrollDisabled(Boolean(openedVinylId));
@@ -122,7 +121,7 @@ export const SearchResultsPage = () => {
                 cardList={vinylListQuery.results}
                 collectionList={collectionList}
                 favoritesList={favoritesList}
-                onClickInCollection={handleCollectionToggle}
+                onClickInCollection={toggleCollection}
                 onClickInFavorites={handleFavoritesToggle}
                 onVinylImageClick={setOpenedVinylId}
               />
@@ -144,11 +143,11 @@ export const SearchResultsPage = () => {
                 inCollection={collectionList.includes(openedVinylId)}
                 inFavorites={favoritesList.includes(openedVinylId)}
                 onFavoritesToggle={handleFavoritesToggle}
-                onCollectionToggle={handleCollectionToggle}
+                onCollectionToggle={toggleCollection}
                 onClose={closeModal}
                 variant={"primary"}
                 noteList={noteList}
-                addNote={addNote}
+                changeNote={changeNote}
               />
             </div>
           </Modal>

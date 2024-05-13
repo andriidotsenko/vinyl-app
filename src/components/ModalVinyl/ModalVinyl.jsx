@@ -47,7 +47,7 @@ function ModalVinyl({
   onClose,
   variant,
   noteList,
-  addNote,
+  changeNote,
 }) {
   const { data: dataVinyl, isLoading: loadingVinyl } = useVinylById(id);
   const {
@@ -61,7 +61,7 @@ function ModalVinyl({
     styles: releaseStyles,
   } = dataVinyl || {};
 
-  const [onPlayEnd, setonPlayEnd] = useState(false);
+  const [isPlayEnded, setonPlayEnd] = useState(false);
   const { data: countries } = useCountryListAsync() || [];
   function getCountryName(countryId) {
     if (!Array.isArray(countries)) return "";
@@ -80,7 +80,7 @@ function ModalVinyl({
       .linearGradientValue;
 
   const handleAnimateVinylEnable = async () => {
-    if (!onPlayEnd) setonPlayEnd((prevonPlayEnd) => !prevonPlayEnd);
+    if (!isPlayEnded) setonPlayEnd((prevIsPlayEnded) => !prevIsPlayEnded);
 
     await animateVinylEnable(
       controlsVinyl,
@@ -91,7 +91,7 @@ function ModalVinyl({
     );
   };
   const handleAnimateVinylDisable = async () => {
-    if (onPlayEnd) setonPlayEnd((prevonPlayEnd) => !prevonPlayEnd);
+    if (isPlayEnded) setonPlayEnd((prevIsPlayEnded) => !prevIsPlayEnded);
     await animateVinylDisable(
       controlsVinyl,
       () => pauseAudio(trackRef),
@@ -101,13 +101,13 @@ function ModalVinyl({
     );
   };
   const handlePlay = () => {
-    onPlayEnd ? handleAnimateVinylDisable() : handleAnimateVinylEnable();
-    onPlayEnd
+    isPlayEnded ? handleAnimateVinylDisable() : handleAnimateVinylEnable();
+    isPlayEnded
       ? animateCoverDisable(controlsCover)
       : animateCoverEnable(controlsCover);
   };
 
-  usePlayEnd(onPlayEnd, handlePlay);
+  usePlayEnd(isPlayEnded, handlePlay);
 
   useKeyDown(handlePlay, ["Space", "Play"]);
   useKeyDown(onClose, ["Escape", "Esc"]);
@@ -192,8 +192,8 @@ function ModalVinyl({
             </div>
 
             <div className={styles.playButtonWrapper}>
-              <WithTooltip text={onPlayEnd ? "Pause" : "Play"}>
-                <PlayButton onClick={handlePlay} isFill={onPlayEnd} />
+              <WithTooltip text={isPlayEnded ? "Pause" : "Play"}>
+                <PlayButton onClick={handlePlay} isFill={isPlayEnded} />
               </WithTooltip>
             </div>
             <audio ref={trackRef}>
@@ -226,14 +226,16 @@ function ModalVinyl({
           </div>
           <h3 className={styles.title}>Track list</h3>
           <TrackList trackList={tracklist} />
-          <VinylNote
-            variant={variant}
-            id={id}
-            title={title}
-            artist={artist}
-            addNote={addNote}
-            noteList={noteList}
-          />
+          {inCollection && (
+            <VinylNote
+              variant={variant}
+              id={id}
+              title={title}
+              artist={artist}
+              changeNote={changeNote}
+              noteList={noteList}
+            />
+          )}
         </div>
         {variant === "primary" ? (
           <div className={styles.footer}>
@@ -249,7 +251,9 @@ function ModalVinyl({
                   <div className={styles.root}>
                     <CollectionButton
                       isActive={inCollection}
-                      onClick={() => onCollectionToggle(dataVinyl)}
+                      onClick={() =>
+                        onCollectionToggle(dataVinyl, inCollection)
+                      }
                     />
                   </div>
                 </WithTooltip>
@@ -287,7 +291,7 @@ ModalVinyl.propTypes = {
   onCollectionToggle: PropTypes.func.isRequired,
   onClose: PropTypes.func.isRequired,
   variant: PropTypes.oneOf(["primary", "secondary"]).isRequired,
-  addNote: PropTypes.func.isRequired,
+  changeNote: PropTypes.func.isRequired,
   noteList: PropTypes.object.isRequired,
 };
 

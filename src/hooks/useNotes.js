@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 
 export const useNote = () => {
-  // Загрузка заметок из localStorage при первоначальном рендеринге
   const initialNoteList = JSON.parse(localStorage.getItem("noteList")) || {};
   const [noteList, setNoteList] = useState(initialNoteList);
 
@@ -12,9 +11,17 @@ export const useNote = () => {
     }));
   };
 
+  const removeNote = (id) => {
+    setNoteList((prevNoteList) => {
+      const newNoteList = { ...prevNoteList };
+      delete newNoteList[id];
+      return newNoteList;
+    });
+  };
+
   useEffect(() => {
     localStorage.setItem("noteList", JSON.stringify(noteList));
   }, [noteList]);
 
-  return { noteList, addNote };
+  return { noteList, addNote, removeNote };
 };

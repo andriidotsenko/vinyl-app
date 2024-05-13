@@ -1,4 +1,3 @@
-import PropTypes from "prop-types";
 import styles from "./Header.module.css";
 import HeaderCountingButton from "../HeaderCountingButton/HeaderCountingButton.jsx";
 import BackButton from "../BackButton/BackButton.jsx";
@@ -6,8 +5,16 @@ import InactiveFavoriteIcon from "../Icon/InactiveFavoriteIcon.jsx";
 import CollectionIcon from "../Icon/CollectionIcon.jsx";
 
 import { Link } from "react-router-dom";
+import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
+import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
 
-function Header({ favoriteCount, collectionCount }) {
+function Header() {
+  const { favoritesList } = useFavoritesContext();
+  const favoriteCount = favoritesList.length;
+  const { collectionList } = useCollectionContext();
+
+  const collectionCount = collectionList.length;
+
   return (
     <header className={styles.header}>
       <div className="container">
@@ -33,10 +40,5 @@ function Header({ favoriteCount, collectionCount }) {
     </header>
   );
 }
-
-Header.propTypes = {
-  favoriteCount: PropTypes.number.isRequired,
-  collectionCount: PropTypes.number.isRequired,
-};
 
 export default Header;

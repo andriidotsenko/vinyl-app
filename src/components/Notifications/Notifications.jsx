@@ -1,8 +1,11 @@
 import PropTypes from "prop-types";
 import styles from "./Notifications.module.css";
 import { AnimatePresence, motion } from "framer-motion";
+import { useContext } from "react";
+import { NotificationsContext } from "../contexts/providers/NotificationsContext";
 
-export function Notifications({ notifications = [] }) {
+export function Notifications() {
+  const { notifications } = useContext(NotificationsContext);
   return (
     <div className={styles.root}>
       <AnimatePresence>

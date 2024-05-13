@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useOutletContext } from "react-router-dom";
+
 import { Portal } from "react-portal";
 import { Helmet } from "react-helmet-async";
 
@@ -15,18 +15,18 @@ import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
 
 import { getPageSizeByScreenWidth } from "../../utils/getPageSizeByScreenWidth";
 
+import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
+import { useCollectionNotesContext } from "../../hooks/context/useCollectonNotesContext.js";
+import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
+
 const screenWidth = window.innerWidth;
 const pageSize = getPageSizeByScreenWidth(screenWidth);
 
 export function HomePage() {
-  const {
-    collectionList,
-    favoritesList,
-    handleCollectionToggle,
-    handleFavoritesToggle,
-    noteList,
-    addNote,
-  } = useOutletContext();
+  const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
+
+  const { collectionList, toggleCollection } = useCollectionContext();
+  const { changeNote, noteList } = useCollectionNotesContext();
 
   const [openedVinylId, setOpenedVinylId] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
@@ -57,7 +57,7 @@ export function HomePage() {
             cardList={results}
             collectionList={collectionList}
             favoritesList={favoritesList}
-            onClickInCollection={handleCollectionToggle}
+            onClickInCollection={toggleCollection}
             onClickInFavorites={handleFavoritesToggle}
             onVinylImageClick={setOpenedVinylId}
             isHasTitle={false}
@@ -78,11 +78,11 @@ export function HomePage() {
                 inCollection={collectionList.includes(openedVinylId)}
                 inFavorites={favoritesList.includes(openedVinylId)}
                 onFavoritesToggle={handleFavoritesToggle}
-                onCollectionToggle={handleCollectionToggle}
+                onCollectionToggle={toggleCollection}
                 onClose={closeModal}
                 variant={"primary"}
                 noteList={noteList}
-                addNote={addNote}
+                changeNote={changeNote}
               />
             </div>
           </Modal>
