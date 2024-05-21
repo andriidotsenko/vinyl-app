@@ -36,7 +36,7 @@ export const handlers = [
       const { default: countries } = await import("./api/countries.json");
 
       return res(
-        ctx.delay(1000),
+        ctx.delay(300),
         ctx.status(200),
         ctx.json({
           countries,
@@ -54,7 +54,7 @@ export const handlers = [
       const { default: genres } = await import("./api/genres.json");
 
       return res(
-        ctx.delay(1000),
+        ctx.delay(300),
         ctx.status(200),
         ctx.json({
           genres,
@@ -76,7 +76,7 @@ export const handlers = [
 
       if (!query) {
         return res(
-          ctx.delay(1000),
+          ctx.delay(300),
           ctx.status(400),
           ctx.json({
             error: "Missing query parameter",
@@ -85,7 +85,7 @@ export const handlers = [
       }
 
       return res(
-        ctx.delay(1000),
+        ctx.delay(300),
         ctx.status(200),
         ctx.json({
           artists: artists
@@ -113,7 +113,7 @@ export const handlers = [
 
       if (!isNumber(offset) || offset < 0) {
         return res(
-          ctx.delay(1000),
+          ctx.delay(300),
           ctx.status(400),
           ctx.json({
             error: "Incorrect offset parameter",
@@ -127,7 +127,7 @@ export const handlers = [
 
       if (!isNumber(limit) || limit <= 0) {
         return res(
-          ctx.delay(1000),
+          ctx.delay(300),
           ctx.status(400),
           ctx.json({
             error: "Incorrect limit parameter",
@@ -151,7 +151,7 @@ export const handlers = [
 
       if (!genres.every((genre) => isNumber(genre))) {
         return res(
-          ctx.delay(1000),
+          ctx.delay(300),
           ctx.status(400),
           ctx.json({
             error: "Incorrect genre parameter",
@@ -161,7 +161,7 @@ export const handlers = [
 
       if (yearFrom && !isNumber(yearFrom)) {
         return res(
-          ctx.delay(1000),
+          ctx.delay(300),
           ctx.status(400),
           ctx.json({
             error: "Incorrect year_from parameter",
@@ -171,7 +171,7 @@ export const handlers = [
 
       if (yearTo && !isNumber(yearTo)) {
         return res(
-          ctx.delay(1000),
+          ctx.delay(300),
           ctx.status(400),
           ctx.json({
             error: "Incorrect year_to parameter",
@@ -200,7 +200,7 @@ export const handlers = [
       );
 
       return res(
-        ctx.delay(1000),
+        ctx.delay(300),
         ctx.status(200),
         ctx.json({
           results: filteredList.slice(offset, offset + limit),
@@ -220,7 +220,7 @@ export const handlers = [
       const { default: release } = await import(`./api/releases/${id}.json`);
 
       return res(
-        ctx.delay(1000),
+        ctx.delay(300),
         ctx.status(200),
         ctx.json({
           release,

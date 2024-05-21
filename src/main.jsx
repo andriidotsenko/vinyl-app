@@ -13,10 +13,10 @@ const appElement = document.getElementById("app");
 const root = createRoot(appElement);
 
 async function bootstrap() {
-  if (import.meta.env.DEV) {
-    const { worker } = await import("./mocks/browser.js");
-    worker.start();
-  }
+  // if (import.meta.env.DEV) {
+  const { worker } = await import("./mocks/browser.js");
+  worker.start();
+  // }
 }
 
 const router = createBrowserRouter([
