@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import { forwardRef } from "react";
+import { forwardRef, memo } from "react";
 import styles from "./FavoriteButton.module.css";
 import { motion } from "framer-motion";
 import FavoriteIcon from "../Icon/FavoriteIcon.jsx";
@@ -37,4 +37,4 @@ FavoriteButton.propTypes = {
 
 FavoriteButton.displayName = "FavoriteButton";
 
-export default FavoriteButton;
+export default memo(FavoriteButton);

@@ -1,9 +1,10 @@
+import { memo } from "react";
 import { Button } from "../Button/Button";
 import PropTypes from "prop-types";
 import CollectionIcon from "../Icon/CollectionIcon.jsx";
 import AddIcon from "../Icon/AddIcon.jsx";
 
-export const CollectionButton = ({ isActive, onClick }) => {
+const CollectionButton = ({ isActive, onClick }) => {
   return (
     <Button
       variant={isActive ? "secondary" : "primary"}
@@ -21,4 +22,4 @@ CollectionButton.propTypes = {
   onClick: PropTypes.func.isRequired,
 };
 
-export default CollectionButton;
+export default memo(CollectionButton);

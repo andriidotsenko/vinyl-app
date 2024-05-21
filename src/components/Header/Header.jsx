@@ -7,6 +7,7 @@ import CollectionIcon from "../Icon/CollectionIcon.jsx";
 import { Link } from "react-router-dom";
 import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
 import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
+import { memo } from "react";
 
 function Header() {
   const { favoritesList } = useFavoritesContext();
@@ -41,4 +42,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default memo(Header);

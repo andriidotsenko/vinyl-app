@@ -2,6 +2,7 @@ import clsx from "clsx";
 import PropTypes from "prop-types";
 import styles from "./Button.module.css";
 import { motion } from "framer-motion";
+import { memo } from "react";
 
 export const Button = ({
   variant = "primary",
@@ -50,4 +51,4 @@ Button.propTypes = {
   className: PropTypes.string,
 };
 
-export default Button;
+export default memo(Button);

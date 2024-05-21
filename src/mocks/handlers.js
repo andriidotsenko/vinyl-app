@@ -220,7 +220,7 @@ export const handlers = [
       const { default: release } = await import(`./api/releases/${id}.json`);
 
       return res(
-        ctx.delay(300),
+        ctx.delay(100),
         ctx.status(200),
         ctx.json({
           release,
