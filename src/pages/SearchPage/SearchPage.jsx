@@ -8,7 +8,7 @@ import { Suspense } from "react";
 import { Loader } from "../../components/Loader/Loader.jsx";
 import styles from "./SearchPage.module.css";
 
-export function SearchPage() {
+export default function SearchPage() {
   const navigate = useNavigate();
 
   const handleFormSubmit = (filters) => {

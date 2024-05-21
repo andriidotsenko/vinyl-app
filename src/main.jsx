@@ -1,13 +1,9 @@
 import { createRoot } from "react-dom/client";
-import { StrictMode } from "react";
+import { StrictMode, Suspense, lazy } from "react";
 import { App } from "./App";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import { HomePage } from "./pages/HomePage/HomePage";
-import { SearchPage } from "./pages/SearchPage/SearchPage";
-import NotFoundPage from "./pages/NotFoundPage/NotFoundPage";
-import { SearchResultsPage } from "./pages/SearchResultPage/SearchResultPage";
-import { VinylPage } from "./pages/VinylPage/VinylPage";
 import { HelmetProvider } from "react-helmet-async";
+import { Loader } from "./components/Loader/Loader.jsx";
 
 const appElement = document.getElementById("app");
 const root = createRoot(appElement);
@@ -19,6 +15,14 @@ async function bootstrap() {
   // }
 }
 
+const HomePage = lazy(() => import("./pages/HomePage/HomePage"));
+const SearchPage = lazy(() => import("./pages/SearchPage/SearchPage"));
+const SearchResultPage = lazy(() =>
+  import("./pages/SearchResultPage/SearchResultPage")
+);
+const VinylPage = lazy(() => import("./pages/VinylPage/VinylPage"));
+const NotFoundPage = lazy(() => import("./pages/NotFoundPage/NotFoundPage"));
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -26,25 +30,43 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        element: <HomePage />,
+        element: (
+          <Suspense fallback={<Loader />}>
+            <HomePage />
+          </Suspense>
+        ),
       },
       {
         path: "search",
-        element: <SearchPage />,
+        element: (
+          <Suspense fallback={<Loader />}>
+            <SearchPage />
+          </Suspense>
+        ),
       },
-
       {
         path: "results",
-
-        element: <SearchResultsPage />,
+        element: (
+          <Suspense fallback={<Loader />}>
+            <SearchResultPage />
+          </Suspense>
+        ),
       },
       {
         path: "vinyls/:vinylId",
-        element: <VinylPage />,
+        element: (
+          <Suspense fallback={<Loader />}>
+            <VinylPage />
+          </Suspense>
+        ),
       },
       {
         path: "*",
-        element: <NotFoundPage />,
+        element: (
+          <Suspense fallback={<Loader />}>
+            <NotFoundPage />
+          </Suspense>
+        ),
       },
     ],
   },

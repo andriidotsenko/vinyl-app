@@ -22,7 +22,7 @@ import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
 const screenWidth = window.innerWidth;
 const pageSize = getPageSizeByScreenWidth(screenWidth);
 
-export function HomePage() {
+export default function HomePage() {
   const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
 
   const { collectionList, toggleCollection } = useCollectionContext();

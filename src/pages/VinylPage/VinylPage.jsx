@@ -9,7 +9,7 @@ import { useCollectionNotesContext } from "../../hooks/context/useCollectonNotes
 import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
 import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
 
-export function VinylPage() {
+export default function VinylPage() {
   const { vinylId } = useParams();
   const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
 
