@@ -1,21 +1,20 @@
-import { useParams, useOutletContext, useNavigate } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import { Helmet } from "react-helmet-async";
 
 import { Loader } from "../../components/Loader/Loader.jsx";
 import ModalVinyl from "../../components/ModalVinyl/ModalVinyl.jsx";
 
 import { useVinylById } from "../../hooks/useVinylById";
+import { useCollectionNotesContext } from "../../hooks/context/useCollectonNotesContext.js";
+import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
+import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
 
 export function VinylPage() {
   const { vinylId } = useParams();
-  const {
-    collectionList,
-    favoritesList,
-    handleCollectionToggle,
-    handleFavoritesToggle,
-    noteList,
-    addNote,
-  } = useOutletContext();
+  const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
+
+  const { collectionList, toggleCollection } = useCollectionContext();
+  const { changeNote, noteList } = useCollectionNotesContext();
 
   const navigate = useNavigate();
   const handleGoBack = () => {
@@ -46,14 +45,14 @@ export function VinylPage() {
         <div className="container">
           <ModalVinyl
             id={id}
-            inCollection={collectionList.includes(id)}
-            inFavorites={favoritesList.includes(id)}
+            inCollection={collectionList.includes(data.id)}
+            inFavorites={favoritesList.includes(data)}
             onFavoritesToggle={() => handleFavoritesToggle(data)}
-            onCollectionToggle={() => handleCollectionToggle(data)}
+            onCollectionToggle={toggleCollection}
             onClose={handleGoBack}
             variant={"secondary"}
             noteList={noteList}
-            addNote={addNote}
+            changeNote={changeNote}
           ></ModalVinyl>
         </div>
       </main>
