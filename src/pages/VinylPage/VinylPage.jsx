@@ -8,12 +8,15 @@ import { useVinylById } from "../../hooks/useVinylById";
 import { useCollectionNotesContext } from "../../hooks/context/useCollectonNotesContext.js";
 import { useCollectionContext } from "../../hooks/context/useCollectionContext.js";
 import { useFavoritesContext } from "../../hooks/context/useFavoriteContext.js";
+import { memo } from "react";
 
-export function VinylPage() {
+function VinylPage() {
   const { vinylId } = useParams();
+
   const { favoritesList, handleFavoritesToggle } = useFavoritesContext();
 
   const { collectionList, toggleCollection } = useCollectionContext();
+
   const { changeNote, noteList } = useCollectionNotesContext();
 
   const navigate = useNavigate();
@@ -22,12 +25,15 @@ export function VinylPage() {
   };
 
   const { data, isLoading } = useVinylById(vinylId);
+
   if (isLoading) {
     return <Loader />;
   }
+
   const { id, title, artist, year, country, thumb_image } = data;
 
   const ogTitle = `${title} - ${artist}`;
+
   const ogDescription = `Vinyl release by ${artist} (${year}, ${country})`;
   const ogImageUrl = thumb_image;
 
@@ -46,7 +52,7 @@ export function VinylPage() {
           <ModalVinyl
             id={id}
             inCollection={collectionList.includes(data.id)}
-            inFavorites={favoritesList.includes(data)}
+            inFavorites={favoritesList.includes(data.id)}
             onFavoritesToggle={() => handleFavoritesToggle(data)}
             onCollectionToggle={toggleCollection}
             onClose={handleGoBack}
@@ -59,3 +65,6 @@ export function VinylPage() {
     </>
   );
 }
+
+const MemoizedVinylPage = memo(VinylPage);
+export default MemoizedVinylPage;

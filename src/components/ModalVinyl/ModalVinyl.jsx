@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/media-has-caption */
-import { useRef, useState } from "react";
+import { memo, useRef, useState } from "react";
 import { motion, useAnimation } from "framer-motion";
 import PropTypes from "prop-types";
 import clsx from "clsx";
@@ -62,7 +62,9 @@ function ModalVinyl({
   } = dataVinyl || {};
 
   const [isPlayEnded, setonPlayEnd] = useState(false);
+
   const { data: countries } = useCountryListAsync() || [];
+
   function getCountryName(countryId) {
     if (!Array.isArray(countries)) return "";
     return countries.find((c) => c.id === countryId)?.title;
@@ -75,6 +77,7 @@ function ModalVinyl({
 
   const defaultAudio = "/content/noizVinyl.mp3";
   const audio = defaultAudio;
+
   const color =
     GENRE_COLORS_BY_GENRE_ID[Math.floor(Math.random() * 13) + 1]
       .linearGradientValue;
@@ -90,6 +93,7 @@ function ModalVinyl({
       () => pauseOpenSound(actionSoundRef)
     );
   };
+
   const handleAnimateVinylDisable = async () => {
     if (isPlayEnded) setonPlayEnd((prevIsPlayEnded) => !prevIsPlayEnded);
     await animateVinylDisable(
@@ -295,4 +299,5 @@ ModalVinyl.propTypes = {
   noteList: PropTypes.object.isRequired,
 };
 
-export default ModalVinyl;
+const MemoizedModalVinyl = memo(ModalVinyl);
+export default MemoizedModalVinyl;

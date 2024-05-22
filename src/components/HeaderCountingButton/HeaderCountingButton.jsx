@@ -2,6 +2,7 @@ import PropTypes from "prop-types";
 import styles from "./HeaderCountingButton.module.css";
 import { Link } from "react-router-dom";
 import { CSSTransition, SwitchTransition } from "react-transition-group";
+import { memo } from "react";
 
 function HeaderCountingButton({ count, icon }) {
   const formatNumber = (number) =>
@@ -39,4 +40,5 @@ HeaderCountingButton.propTypes = {
   icon: PropTypes.node.isRequired,
 };
 
-export default HeaderCountingButton;
+const MemoizedHeaderCountingButton = memo(HeaderCountingButton);
+export default MemoizedHeaderCountingButton;

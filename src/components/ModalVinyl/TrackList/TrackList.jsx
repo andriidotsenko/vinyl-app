@@ -1,8 +1,9 @@
 import PropTypes from "prop-types";
 import clsx from "clsx";
 import styles from "./TrackList.module.css";
+import { memo } from "react";
 
-function TrackList({ trackList }) {
+const TrackList = memo(({ trackList }) => {
   return (
     <ul className={styles.list}>
       {trackList?.map((track, index) => (
@@ -18,7 +19,7 @@ function TrackList({ trackList }) {
       ))}
     </ul>
   );
-}
+});
 
 TrackList.propTypes = {
   trackList: PropTypes.arrayOf(
@@ -29,5 +30,7 @@ TrackList.propTypes = {
     })
   ).isRequired,
 };
+
+TrackList.displayName = "TrackList"; // Adding display name
 
 export default TrackList;

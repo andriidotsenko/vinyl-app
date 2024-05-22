@@ -1,16 +1,14 @@
 import useSWR from "swr";
+import { useCallback } from "react";
 
 export const useVinylById = (id) => {
-  const vinyl = useSWR(
-    `/api/releases/${id}`,
+  const fetcher = useCallback(
     () =>
       fetch(`/api/releases/${id}`)
         .then((response) => response.json())
-        .then((data) => data.release)
-    // {
-    //   suspense: true,
-    // }
+        .then((data) => data.release),
+    [id]
   );
 
-  return vinyl;
+  return useSWR(`/api/releases/${id}`, fetcher, {});
 };

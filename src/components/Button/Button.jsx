@@ -2,8 +2,8 @@ import clsx from "clsx";
 import PropTypes from "prop-types";
 import styles from "./Button.module.css";
 import { motion } from "framer-motion";
-
-export const Button = ({
+import { memo } from "react";
+const Button = ({
   variant = "primary",
   isFullWidth = false,
   children,
@@ -50,4 +50,5 @@ Button.propTypes = {
   className: PropTypes.string,
 };
 
-export default Button;
+const MemoizedButton = memo(Button);
+export { MemoizedButton as Button };

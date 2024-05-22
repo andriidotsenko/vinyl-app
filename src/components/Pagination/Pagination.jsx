@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import styles from "./Pagination.module.css";
 import ArrowUpIcon from "../Icon/ArrowUpIcon";
 import EllipsisIcon from "../Icon/EllipsisIcon";
+import { memo } from "react";
 
 function PaginationButton({ onClick, children, className, disabled }) {
   return (
@@ -136,4 +137,5 @@ Pagination.propTypes = {
   onPageChange: PropTypes.func.isRequired,
 };
 
-export default Pagination;
+const MemoizedPagination = memo(Pagination);
+export default MemoizedPagination;

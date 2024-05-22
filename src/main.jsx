@@ -1,23 +1,29 @@
+import "./wdyr.js";
 import { createRoot } from "react-dom/client";
-import { StrictMode } from "react";
+import { StrictMode, Suspense, lazy } from "react";
 import { App } from "./App";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import { HomePage } from "./pages/HomePage/HomePage";
-import { SearchPage } from "./pages/SearchPage/SearchPage";
-import NotFoundPage from "./pages/NotFoundPage/NotFoundPage";
-import { SearchResultsPage } from "./pages/SearchResultPage/SearchResultPage";
-import { VinylPage } from "./pages/VinylPage/VinylPage";
 import { HelmetProvider } from "react-helmet-async";
+import { Loader } from "./components/Loader/Loader.jsx";
+import ErrorBoundary from "./components/ErrorBoundary/ErrorBoundary.jsx"; // Import ErrorBoundary
 
 const appElement = document.getElementById("app");
 const root = createRoot(appElement);
 
 async function bootstrap() {
-  if (import.meta.env.DEV) {
-    const { worker } = await import("./mocks/browser.js");
-    worker.start();
-  }
+  const { worker } = await import("./mocks/browser.js");
+  worker.start();
 }
+
+const HomePage = lazy(() => import("./pages/HomePage/HomePage.jsx"));
+const SearchPage = lazy(() => import("./pages/SearchPage/SearchPage.jsx"));
+const SearchResultPage = lazy(() =>
+  import("./pages/SearchResultPage/SearchResultPage.jsx")
+);
+const VinylPage = lazy(() => import("./pages/VinylPage/VinylPage.jsx"));
+const NotFoundPage = lazy(() =>
+  import("./pages/NotFoundPage/NotFoundPage.jsx")
+);
 
 const router = createBrowserRouter([
   {
@@ -32,11 +38,9 @@ const router = createBrowserRouter([
         path: "search",
         element: <SearchPage />,
       },
-
       {
         path: "results",
-
-        element: <SearchResultsPage />,
+        element: <SearchResultPage />,
       },
       {
         path: "vinyls/:vinylId",
@@ -54,7 +58,9 @@ bootstrap().then(() => {
   root.render(
     <StrictMode>
       <HelmetProvider>
-        <RouterProvider router={router} />
+        <ErrorBoundary>
+          <RouterProvider router={router} />
+        </ErrorBoundary>
       </HelmetProvider>
     </StrictMode>
   );
