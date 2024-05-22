@@ -1,15 +1,14 @@
 import useSWR from "swr";
-import { useMemo } from "react";
+import { useCallback } from "react";
 
 export const useVinylById = (id) => {
-  const fetcher = useMemo(() => {
-    return () =>
+  const fetcher = useCallback(
+    () =>
       fetch(`/api/releases/${id}`)
         .then((response) => response.json())
-        .then((data) => data.release);
-  }, [id]);
+        .then((data) => data.release),
+    [id]
+  );
 
-  const { data, error, isLoading } = useSWR(`/api/releases/${id}`, fetcher, {});
-
-  return { data, error, isLoading };
+  return useSWR(`/api/releases/${id}`, fetcher, {});
 };

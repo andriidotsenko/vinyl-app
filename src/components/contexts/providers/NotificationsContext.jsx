@@ -1,5 +1,5 @@
-import { createContext } from "react";
-import { useNotifications } from "../../../hooks/useNotifications.js";
+import { createContext, useMemo } from "react";
+import { useNotifications } from "../../../hooks/useNotifications";
 import PropTypes from "prop-types";
 
 export const NotificationsContext = createContext();
@@ -7,8 +7,13 @@ export const NotificationsContext = createContext();
 export const NotificationsProvider = ({ children }) => {
   const [addNotification, notifications] = useNotifications();
 
+  const memoizedValue = useMemo(
+    () => ({ addNotification, notifications }),
+    [addNotification, notifications]
+  );
+
   return (
-    <NotificationsContext.Provider value={{ addNotification, notifications }}>
+    <NotificationsContext.Provider value={memoizedValue}>
       {children}
     </NotificationsContext.Provider>
   );

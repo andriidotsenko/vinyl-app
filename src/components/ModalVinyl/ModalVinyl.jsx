@@ -299,4 +299,5 @@ ModalVinyl.propTypes = {
   noteList: PropTypes.object.isRequired,
 };
 
-export default memo(ModalVinyl);
+const MemoizedModalVinyl = memo(ModalVinyl);
+export default MemoizedModalVinyl;

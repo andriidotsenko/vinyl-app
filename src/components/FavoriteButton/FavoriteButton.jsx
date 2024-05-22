@@ -37,4 +37,5 @@ FavoriteButton.propTypes = {
 
 FavoriteButton.displayName = "FavoriteButton";
 
-export default memo(FavoriteButton);
+const MemoizedFavoriteButton = memo(FavoriteButton);
+export default MemoizedFavoriteButton;

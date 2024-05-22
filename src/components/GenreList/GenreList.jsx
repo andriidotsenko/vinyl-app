@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import { useGenreListAsync } from "../../hooks/useGenreListAsync.js";
 import { Loader } from "../Loader/Loader.jsx";
 import { motion } from "framer-motion";
+import { memo } from "react";
 
 const GenreList = () => {
   const { data, isLoading } = useGenreListAsync();
@@ -53,4 +54,5 @@ const GenreList = () => {
   );
 };
 
-export default GenreList;
+const MemoizedGenreList = memo(GenreList);
+export default MemoizedGenreList;

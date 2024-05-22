@@ -1,13 +1,12 @@
 import { createContext, useMemo } from "react";
 import PropTypes from "prop-types";
-import { useFavorites } from "../../../hooks/useFavorites.js";
-import { useNotificationsContext } from "../../../hooks/context/useNotificationsContext.js";
+import { useFavorites } from "../../../hooks/useFavorites";
+import { useNotificationsContext } from "../../../hooks/context/useNotificationsContext";
 
 export const FavoritesContext = createContext();
 
 export function FavoritesProvider({ children }) {
   const { addNotification } = useNotificationsContext();
-
   const { favoritesList, handleFavoritesToggle } =
     useFavorites(addNotification);
 

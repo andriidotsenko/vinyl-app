@@ -2,6 +2,7 @@ import PropTypes from "prop-types";
 import styles from "./GenreCard.module.css";
 import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 import { motion } from "framer-motion";
+import { memo } from "react";
 
 const GenreCard = ({ genre }) => {
   const getRandomOffset = (min, max) =>
@@ -60,5 +61,5 @@ GenreCard.propTypes = {
     title: PropTypes.string.isRequired,
   }).isRequired,
 };
-
-export default GenreCard;
+const MemoizedGenreCard = memo(GenreCard);
+export default MemoizedGenreCard;

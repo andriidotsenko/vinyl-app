@@ -66,4 +66,5 @@ function VinylPage() {
   );
 }
 
-export default memo(VinylPage);
+const MemoizedVinylPage = memo(VinylPage);
+export default MemoizedVinylPage;

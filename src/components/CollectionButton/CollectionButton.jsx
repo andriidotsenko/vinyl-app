@@ -21,5 +21,5 @@ CollectionButton.propTypes = {
   isActive: PropTypes.bool,
   onClick: PropTypes.func.isRequired,
 };
-
-export default memo(CollectionButton);
+const MemoizedCollectionButton = memo(CollectionButton);
+export default MemoizedCollectionButton;

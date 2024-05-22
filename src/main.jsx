@@ -1,27 +1,29 @@
+import "./wdyr.js";
 import { createRoot } from "react-dom/client";
 import { StrictMode, Suspense, lazy } from "react";
 import { App } from "./App";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import { HelmetProvider } from "react-helmet-async";
 import { Loader } from "./components/Loader/Loader.jsx";
+import ErrorBoundary from "./components/ErrorBoundary/ErrorBoundary.jsx"; // Import ErrorBoundary
 
 const appElement = document.getElementById("app");
 const root = createRoot(appElement);
 
 async function bootstrap() {
-  // if (import.meta.env.DEV) {
   const { worker } = await import("./mocks/browser.js");
   worker.start();
-  // }
 }
 
-const HomePage = lazy(() => import("./pages/HomePage/HomePage"));
-const SearchPage = lazy(() => import("./pages/SearchPage/SearchPage"));
+const HomePage = lazy(() => import("./pages/HomePage/HomePage.jsx"));
+const SearchPage = lazy(() => import("./pages/SearchPage/SearchPage.jsx"));
 const SearchResultPage = lazy(() =>
-  import("./pages/SearchResultPage/SearchResultPage")
+  import("./pages/SearchResultPage/SearchResultPage.jsx")
 );
-const VinylPage = lazy(() => import("./pages/VinylPage/VinylPage"));
-const NotFoundPage = lazy(() => import("./pages/NotFoundPage/NotFoundPage"));
+const VinylPage = lazy(() => import("./pages/VinylPage/VinylPage.jsx"));
+const NotFoundPage = lazy(() =>
+  import("./pages/NotFoundPage/NotFoundPage.jsx")
+);
 
 const router = createBrowserRouter([
   {
@@ -30,43 +32,23 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        element: (
-          <Suspense fallback={<Loader />}>
-            <HomePage />
-          </Suspense>
-        ),
+        element: <HomePage />,
       },
       {
         path: "search",
-        element: (
-          <Suspense fallback={<Loader />}>
-            <SearchPage />
-          </Suspense>
-        ),
+        element: <SearchPage />,
       },
       {
         path: "results",
-        element: (
-          <Suspense fallback={<Loader />}>
-            <SearchResultPage />
-          </Suspense>
-        ),
+        element: <SearchResultPage />,
       },
       {
         path: "vinyls/:vinylId",
-        element: (
-          <Suspense fallback={<Loader />}>
-            <VinylPage />
-          </Suspense>
-        ),
+        element: <VinylPage />,
       },
       {
         path: "*",
-        element: (
-          <Suspense fallback={<Loader />}>
-            <NotFoundPage />
-          </Suspense>
-        ),
+        element: <NotFoundPage />,
       },
     ],
   },
@@ -76,7 +58,9 @@ bootstrap().then(() => {
   root.render(
     <StrictMode>
       <HelmetProvider>
-        <RouterProvider router={router} />
+        <ErrorBoundary>
+          <RouterProvider router={router} />
+        </ErrorBoundary>
       </HelmetProvider>
     </StrictMode>
   );
