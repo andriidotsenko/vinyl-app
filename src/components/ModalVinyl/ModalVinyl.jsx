@@ -22,6 +22,12 @@ import CollectionButton from "../CollectionButton/CollectionButton";
 import { VinylNote } from "./VinylNote/VinylNote.jsx";
 import { Loader } from "../Loader/Loader";
 
+import defaultAudio from "../../assets/content/noizVinyl.mp3";
+import actionSound from "../../assets/content/open.mp3";
+import imageVinyl from "../../assets/content/image.png";
+import playvinyl from "../../assets/content/playvinyl.png";
+import vinyla from "../../assets/content/vinyla.jpg";
+
 import { GENRE_COLORS_BY_GENRE_ID } from "../../constants/genres";
 
 import {
@@ -75,7 +81,6 @@ function ModalVinyl({
   const trackRef = useRef(null);
   const actionSoundRef = useRef(null);
 
-  const defaultAudio = "./../../assets/content/noizVinyl.mp3";
   const audio = defaultAudio;
 
   const color =
@@ -173,7 +178,7 @@ function ModalVinyl({
               >
                 <img
                   className={styles.vinylImgFile}
-                  src="./../../assets/content/image.png"
+                  src={imageVinyl}
                   alt="vinyl"
                   style={{ opacity: 0.8 }}
                 ></img>
@@ -204,7 +209,7 @@ function ModalVinyl({
               <source src={audio} type="audio/mpeg" />
             </audio>
             <audio ref={actionSoundRef}>
-              <source src="./../../assets/content/open.mp3" type="audio/mpeg" />
+              <source src={actionSound} type="audio/mpeg" />
             </audio>
           </div>
           <VinylInfo
@@ -216,13 +221,13 @@ function ModalVinyl({
           <h3 className={styles.title}>Where to buy</h3>
           <div className={styles.wrapperShop}>
             <ShopItem
-              imageSrc="./../../assets/content/playvinyl.png"
+              imageSrc={playvinyl}
               linkUrl="/"
               name="Vinyla"
               price={1500}
             />
             <ShopItem
-              imageSrc="./../../assets/content/vinyla.jpg"
+              imageSrc={vinyla}
               linkUrl="/"
               name="Playsound"
               price={1250}
