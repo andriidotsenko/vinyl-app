@@ -13,9 +13,6 @@ This is a React-based application designed for vinyl enthusiasts to manage and o
 
 ## Technologies Used
 
-- React Dev Tools: For debugging and inspecting React components.
-- Storybook: For developing and testing UI components in isolation.
-- PropTypes: For type-checking component props.
 - URL API and URLSearchParams API: For managing URL parameters.
 - React Router: For client-side routing.
 - React Helmet: For managing document head elements.
@@ -28,7 +25,10 @@ This is a React-based application designed for vinyl enthusiasts to manage and o
 - React Transition Group and Framer Motion: For animations in the app.
 - React Testing Library: For unit and integration testing of React components.
 - Profiler API: For performance profiling and optimization.
-
+- React Dev Tools: For debugging and inspecting React components.
+- Storybook: For developing and testing UI components in isolation.
+- PropTypes: For type-checking component props.
+  
 ## Installation
 
 1. Clone the repository:
