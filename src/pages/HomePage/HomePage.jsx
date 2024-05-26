@@ -39,6 +39,7 @@ export default function HomePage() {
   function handlePageChange(page) {
     setCurrentPage(page);
   }
+
   const closeModal = () => {
     setOpenedVinylId(null);
   };
