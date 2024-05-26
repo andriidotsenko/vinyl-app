@@ -31,41 +31,24 @@ This is a React-based application designed for vinyl enthusiasts to manage and o
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/andriidotsenko/vinyl-app.git`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
+1. Clone the repository:
+```sh
+git clone https://github.com/andriidotsenko/vinyl-app.git
+```
+
+2. Install dependencies:
+```sh
+npm install
+```
+
+3. Start the development server:
+```sh
+npm start
+```
+
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 Feel free to add more sections or details as needed for your specific project requirements!
-
-
-## Setup
-
-```sh
-npm install
-```
-
-## Run
-
-```sh
-npm run dev
-```
-
-## Format & Lint
-
-```sh
-npm run format
-```
-
-```sh
-npm run lint:scripts
-npm run lint:styles
-```
-
-```sh
-npm run fix:scripts
-npm run fix:styles
-```
