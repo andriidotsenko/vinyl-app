@@ -2,7 +2,7 @@
   "name": "@prjctr-react/vite-starter",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://andriidotsenko.io/vinyl-app/",
+  "homepage": "https://andriidotsenko.github.io/vinyl-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
