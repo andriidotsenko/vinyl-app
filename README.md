@@ -13,21 +13,23 @@ This is a React-based application designed for vinyl enthusiasts to manage and o
 
 ## Technologies Used
 
-- URL API and URLSearchParams API: For managing URL parameters.
+
 - React Router: For client-side routing.
-- React Helmet: For managing document head elements.
-- DOM components API: For interacting with DOM elements.
 - React Router Form: For form handling with React Router.
 - React Hook Form: For building forms with React hooks.
 - yup: For form schema validation.
 - Fetch API and SWR: For data fetching and managing remote data.
-- react-error-boundary: For error handling in React components.
+- Storybook: For developing and testing UI components in isolation.
 - React Transition Group and Framer Motion: For animations in the app.
+- DOM components API: For interacting with DOM elements, useRef.
+- URL API and URLSearchParams API: For managing URL parameters.
+- React Helmet: For managing document head elements.
 - React Testing Library: For unit and integration testing of React components.
+- react-error-boundary: For error handling in React components.
 - Profiler API: For performance profiling and optimization.
 - React Dev Tools: For debugging and inspecting React components.
-- Storybook: For developing and testing UI components in isolation.
 - PropTypes: For type-checking component props.
+
   
 ## Installation
 
