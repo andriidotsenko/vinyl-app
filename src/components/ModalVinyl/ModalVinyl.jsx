@@ -75,7 +75,7 @@ function ModalVinyl({
   const trackRef = useRef(null);
   const actionSoundRef = useRef(null);
 
-  const defaultAudio = "/content/noizVinyl.mp3";
+  const defaultAudio = "./../../assets/content/noizVinyl.mp3";
   const audio = defaultAudio;
 
   const color =
@@ -173,7 +173,7 @@ function ModalVinyl({
               >
                 <img
                   className={styles.vinylImgFile}
-                  src="/content/image.png"
+                  src="./../../assets/content/image.png"
                   alt="vinyl"
                   style={{ opacity: 0.8 }}
                 ></img>
@@ -204,7 +204,7 @@ function ModalVinyl({
               <source src={audio} type="audio/mpeg" />
             </audio>
             <audio ref={actionSoundRef}>
-              <source src="/content/open.mp3" type="audio/mpeg" />
+              <source src="./../../assets/content/open.mp3" type="audio/mpeg" />
             </audio>
           </div>
           <VinylInfo
@@ -216,13 +216,13 @@ function ModalVinyl({
           <h3 className={styles.title}>Where to buy</h3>
           <div className={styles.wrapperShop}>
             <ShopItem
-              imageSrc="/content/playvinyl.png"
+              imageSrc="./../../assets/content/playvinyl.png"
               linkUrl="/"
               name="Vinyla"
               price={1500}
             />
             <ShopItem
-              imageSrc="/content/vinyla.jpg"
+              imageSrc="./../../assets/content/vinyla.jpg"
               linkUrl="/"
               name="Playsound"
               price={1250}
